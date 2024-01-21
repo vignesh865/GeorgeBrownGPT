@@ -1,0 +1,30 @@
+
+George Brown College students impressed industry professionals at a recent hackathon where they created automated solutions that can save significant time for medical administrators and patients.  
+The results of the virtual event were announced on March 9. George Brown teams won the Top Overall Solution and Most Innovative Solution honours. (See the full list of student winners below.) 
+The hackathon started with a real-life industry problem statement provided by the University Health Network (UHN) that highlighted the issue of long wait times for patients in clinics and the amount of time spent by staff processing appointments and patient information. Students from the Schools of Computer Science and Health Services Management collaborated in teams to create solutions using robotic process automation (RPA) technology — tech that uses software bots to carry out repetitive tasks. 
+George Brown uses RPA technology in the Information Systems Business Analysis program and offers an RPA micro-certificate program through Continuing Education. 
+"As an academic institution focused on applied, hands-on learning, George Brown College partnered with UiPath to allow learners to pursue this critically in-demand skill-set that bridges process automation and analysis and RPA development," said Tyler Krimmel, Professor, School of Computer Technology. 
+Sagar Varia (pictured top), a student in the Information Systems Business Analyst program, led a team of four during the hackathon. His team earned the Most Innovative Solution title with its automated appointment system. 
+“We looked at this problem from the current situation with COVID-19 and the shift to digital,” Sagar said.  
+The team developed a system where bots deliver and manage patient referral and intake information via email. The bot scans referral documents sent to the clinic to check for missing details or incorrect information. When forms are completed, the bot saves the details to UHN’s patient information system. The bot then schedules an appointment for the patient and provides an estimated waiting time — an important detail amid COVID-19 indoor gathering limits and paperless transactions. And once the patient enters the clinic, they can check their status using a unique code (also provided by the bot) that protects patient privacy. 
+“If everyone knows exactly when they are supposed to arrive, it makes everyone’s life easier,” Sagar said. “Clinical staff spend less time performing redundant tasks and are free to do important work like helping patients, speaking with the physicians or sanitizing examination rooms.” 
+Sagar’s teammate Rebecca Crawford knows first-hand how this technology will improve workflow and save time. She’s a student in the Health Informatics program and is also a registered nurse who has experience working in a clinic. 
+“Hours can be spent every day completing paperwork,” she said. “This solution could help speed up patient flow because clinic staff wouldn’t be spending so much time on administrative tasks.” 
+Creating a tech solution to a significant real-world problem while carrying a full course load was challenging, but Rebecca said being able to collaborate online was convenient. Sagar demonstrated incredible determination and grit—he led the team first from India and continued his responsibilities as he travelled to Toronto. 
+“Winning is great but the experience I’ve gained from this, I believe it will stay with me for the rest of my career,” he said. 
+The hackathon was hosted by Greenlight Consulting, a robotic process automation and IT firm, and sponsored by UiPath, an enterprise automation software company 
+Top UHN Solution and Top Overall Solution 
+6ix Health (All students from the Health Informatics program) 
+Most Innovative Solution  
+JARS (3 of 4 members George Brown students) 
+Learn more about our land acknowledgment
+Be kept in the loop about application deadlines, college news, upcoming events, tours and more.
+Sign Up Now
+
+
+416-415-2000
+TTY: 1-877-515-5559
+ask.george@georgebrown.ca
+Visit Our Social Media Hub
+Visit Our Social Media Hub
+The information contained in this website is subject to change without notice. It should not be viewed as a representation, offer or warranty. Students are responsible for verifying George Brown College fee requirements.

@@ -1,0 +1,150 @@
+
+ Brightspace
+ Brightspace
+We know online learning is going to be something new and different for many students. Taking online courses is very different than going to classes on campus. That's why in this microsite, we will be giving you the tools and resources you'll need to be a successful online learner.
+But before you start, take a few minutes and take this self assessment from Ontario Learn to get a better understanding of your readiness for online learning. You will likely be studying more than a few hours a week, but it's a useful tool to get you started.
+Below we have a quick list of the things you need in order to be successful in your online classes. But don't worry if you are not able to check everything off right now. Throughout this microsite, we will give you the tools and resources to be able to check off every single item on the list below before your classes start!
+To be a successful online learner, you will need to:
+At George Brown there are a number of official online platforms that you will use throughout your semester. You will access these by using your GBC credentials which are your student ID number and your password. We recommend that you save/bookmark these pages in preparation for your first day of classes.
+To access your GBC accounts, you will need to set up Multi-Factor Authentication (MFA). MFA is a cybersecurity best practice and is widely used by organizations around the world to protect systems and users.
+Simply put, in addition to logging in to any app in which you use your GBC account, you'll be asked to authenticate on your mobile phone through the Microsoft Authenticator app as an extra layer of security.
+The Microsoft Authenticator app is free and available for download from the Apple App Store and Google Play Store. If your phone can access one of these stores, you should have no issues downloading and setting up the Microsoft Authenticator app.
+How to Set Up Microsoft Authenticator
+If you have issues with setting up authentication in the app, you can contact the Help Desk at 416-415-5000 x4357 and select option 1 for MFA support. You can also get help from the Library Learning Commons by calling 416-415-5000 x8255, sending them a message or visiting a Library Help Desk during open hours.
+We recommend setting up MFA as soon as possible to avoid any disruptions going into the semester. If you are interested in learning more about MFA and the crucial role it plays, here are some resources that might be helpful:
+What is MFA?
+Secure your accounts and devices with MFA
+MFA Fact Sheet
+You should be pretty familiar with Stu-View by now because that's where you went to register for your courses. But Stu-View is also the online platform where you can:
+Brightspace is the online learning environment and Learning Management System (LMS) that George Brown College uses. This means that most of your course content, assignments, resources, discussions and more are housed in one place! Where other platforms apply, you will be notified by your faculty.
+In the next module, we will give you an in-depth overview of Brightspace and all the different tools available through the system. You can also download the Pulse app (on Apple App Store or Google Play Store) to access your class and course info on the go!
+Through Office 365 you can collaborate for free with online versions of Microsoft Word, PowerPoint, Excel, Teams and OneNote. Use this service to store documents and access materials from multiple devices. Office 365 will come in handy if you're working in a group and want to share documents for editing.
+Did you know that as a full-time student you have access 1 TB of cloud storage in Office 365?
+The service can be used on your PC or Mac and on your Android, iOS or Windows device. With your account, you can install the Office 365 application on up to five devices.
+To sign in use your George Brown College login credentials:
+Username: studentID@georgebrown.ca 
+Password: George Brown password
+Our IT service for students, GBC Assist, can help you with everything from how to set up your George Brown email on your phone to resetting your password.
+If you experience technical difficulties, you can live chat with an agent or check out the frequently asked questions (FAQs).
+You can also email helpdesk@georgebrown.ca or visit the Help Desk at your Library.
+The MyGBC Student Portal is your exclusive virtual GBC homebase, packed with everything you need for your student life! There you will find: 
+We highly recommend you make a habit of checking the portal, you won’t want to miss out on any helpful updates!
+ 
+Being successful in an online learning environment requires dedication on your part, but it also requires some basic technical requirements on your systems.
+Below are the basic system and browser requirements for George Brown services and platforms.
+Depending on your program, computer and software requirements may vary. Be sure to check with your academic area.
+Individual courses may have additional software requirements for playing audio or video or other applications. Many of these applications can be found within your free access to the on-demand software program AppsAnywhere for Windows laptops and tablets.
+To maintain a culture of academic integrity, all members of the George Brown College community are expected to promote the college's values:
+Academic integrity is a commitment to these fundamental values. As a student, you are responsible for academic integrity in all of your academic work including learning, scholarship and field placement. This means that you are responsible for honesty and integrity in all your academic work — including when it’s online. You are expected to behave responsibly, and with respect in all online spaces when interacting with your peers, your instructors and other members of the college community. So take some time to review the resources below that will help you to maintain academic integrity and community standards:
+Also known as digital citizenship, online etiquette refers to the norms and principles in which we're expected to follow when interacting online. It is important to recognize that an online classroom is in fact a classroom, and certain behaviours are expected when you communicate with both your peers and your instructors.
+By raising your awareness of digital citizenship, you will be able to adopt proper online behaviours and demonstrate accountability for your online actions. As our world moves increasingly online, these will be some of the most important lessons you can learn not only for your courses but also for your career.
+Here are our top tips on how to be a good digital citizen and to create a positive digital footprint in your online classes:
+The Digital Citizenship Hub is a great resource that has invaluable information about privacy, online harassment and defamation, digital health and hygiene, and responsible use of social media.
+More essential Online Etiquette Tips to help you be successful!
+Remember that your passwords are there to protect YOU! So remember to:
+Cybercriminals use misinformation and fear as a way to elicit an emotional and fearful response to entice users to click on links, open attachments or divulge credentials. Please pause before opening/clicking on any emails that seem unfamiliar or suspicious.
+Examine hyperlinks: Hover over a link on a desktop or hold it for several seconds on a mobile device to preview the true destination of a link. 
+Attachments: Ask yourself – am I expecting this file?
+Think twice: Stay calm and look closely at the email content before responding.
+If you receive one of these impersonation emails to your George Brown email or are suspicious and unsure if an e-mail is legitimate, please forward it to phishing@georgebrown.ca
+When you send an email to your instructor, teaching assistant, or classmates, you should:
+As you spend more time in an online environment, you should be aware of what your digital footprint looks like. Information is collected about you when you access websites, software, perform searches in your browsers and when you use all of those handy apps on your mobile device.
+Learn more about your Privacy Rights in Ontario, and George Brown College's Privacy Policy.
+Below are some examples of situations that relate to academic integrity so you can develop a deeper understanding of what academic integrity means for you at George Brown College, both on and off-campus. Keep in mind that the examples below do not cover all of the possible scenarios.
+Academic Integrity T​utorial by the University of Waterloo Library​ CC BY-NC
+These scenarios highlight things you may face in your academic work.
+When taking an exam where independent work is required, a student who copies another student's work is guilty of academic misconduct.
+In an online exam, students who look at materials and resources that are not approved, or do it with a peer are not following academic integrity guidelines.
+Graphic by Sara LeBlanc
+Transcript:
+Male. Oh man. This exam is harder than I thought. I probably should’ve studied harder last night! Catherine seems to know what she’s doing. Maybe I could just take a peek. No. I should do this myself! Besides If I got caught, we’d both be in trouble.
+If you are taking an exam where independent work is required and you allow another student to copy your work, you are guilty of academic misconduct. This includes sharing your work online through online and chat tools.
+This is a violation of the fairness principle, because aiding the unfair advantage of one student over any other student interferes with a culture of academic integrity.
+Graphic by Sara LeBlanc
+Transcript:
+Student sitting writing an exam. Female. This is perfect. I studied all this stuff, I’m gonna ace this exam! Awesome. What is he doing? He’s totally trying to see my answers. Well, he did help me out last year with studying. Maybe… No way! I studied super hard for this! And if he cheats off me, I’m just as guilty as he is. Besides, I’ll be earning my mark.
+If you witness situations of academic misconduct, such as copying exam answers, you should communicate your observations to the instructor. This promotes a culture of academic integrity.
+In an online exam, this includes you knowing that peers are sharing answers through online and chat tools.
+Reporting someone's academic misconduct isn't always easy, but it is the right thing to do.
+Graphic by Sara LeBlanc
+Transcript:
+Students writing an exam. Male. Did I just see that!?! That girl just pulled a cheat sheet out of her sleeve! Am I the only one that sees this? That makes me so mad. She’s gonna get an awesome grade because she cheats! I really want to tell the prof, but I’m not a snitch. I have to tell him. It really is the right thing to do.
+Fabricating is the invention or alteration of information or data, with the intention to mislead.
+Lying, by using a false note or excuse to postpone writing an exam or quiz, is a form of fabrication and is a violation of the honesty and trust values inherent in academic integrity.
+Graphic by Sara LeBlanc
+Transcript:
+Male student talking with female student sitting on couch while she reads a magazine.
+Male. I don’t know what I’m going to do – there’s no way I’m ready for this exam! Female. That sucks. Maybe you shouldn’t have gone out last night. Male. I have to get out of it…I know! I’ll tell the prof that my grandma died! Then I’ll get some extra study time! Genius!!! Female. That is so wrong! On so many levels… you can’t lie to get out of an exam! Male. You’re right…. I’ll just have to write it today.
+Graphic by Sara LeBlanc
+Transcript:
+Two students talking on a bench. Female 1. Hey! Grab your take home exam and let’s get workin’! Female 2. oh, we’re allowed to work on it together? Female 1. Who’s gonna know? It’s a take home! Female 2. Well, The prof told us we had to work on it alone. If we work together we’d be cheating. Sorry, you’re on your own! Female 1. No worries, see you later!
+Your professor hands back marked exams and tells the class to carefully check the grading, in case an exam has been graded unfairly. You realize you have answered a question wrong, even though you knew the correct answer. You scribble in the correct answer and resubmit the paper. This includes online exams and assignments. This is an example of academic misconduct.
+Tests submitted for re-grading may not be altered in any way, even if you did know the correct answer at the time of the exam.
+Graphic by Sara LeBlanc
+Transcript:
+Ok everybody, remember to check the grading and come see me if TA’s missed anything! Student. Oh no I didn’t finish answering a question and lost marks! If I add it now and say it was the TA’s mistake no one will know! No I can’t do that it’s not the TA’s mistake and I’ll just have to live with it!
+Any assignment you submit (essays, papers, lab assignments) must be your own work. Representing someone else's work as your own is plagiarism.
+If you submit someone else's work as your own, even with permission, you are not only violating the principles of academic integrity, but you are also implicating that person in academic misconduct. Allowing someone to represent your work as their own is also academic misconduct.
+It is a serious offence to take credit for a paper that you did not write yourself, for example: a paper prepared by an essay-writing service. Such an offence may result in suspension or expulsion from the college.
+Graphic by Sara LeBlanc
+Transcript:
+Two females driving in a car.
+Female 1. I’ve got 3 papers due in less than a month. I don’t know if I can do it?! Female 2. Oh don’t worry. I’ve heard of these websites that sell papers. They’re pretty cheap too. Female 1. I don’t know, it doesn’t sound right. Besides turning someone elses’ paper in seems pretty dishonest. It would be like saying I wrote it. Female 2. Well yeah. It’s plagiarism, but whatever! You’ll pass your course and get on with it. No big.
+Later day that. Female. So, have you heard of buying a paper off the net. You know, when you’re in a pinch? Male. Yeah, I’ve heard. But those things are bad news. Its plagiarism and you could get expelled. Besides, you’re here to learn. Writing a paper yourself is the whole point! Why don’t you talk to your prof, I’m sure she’ll calm you down a bit. Female. Yeah, I think I will talk to her. They wont be easy to write, but at least they’ll be mine.
+To avoid committing plagiarism, you must acknowledge the source* of anything included in your submitted assignment that is not your own work.
+Your assignment can include a passage of text, an audio or visual object, computer code, data set, or someone's original idea. Your source may be a book, journal article, the Internet, even a conversation or email message. You must acknowledge the origin of the work.
+Your instructor needs to know what parts of the work are your original thoughts, ideas and research.
+Citing sources is an important part of the academic process. Your readers need to know where to locate the source in order to pursue further work on the subject.
+Graphic by Sara LeBlanc
+*Adequate acknowledgement is typically achieved through citing your source and including it in a reference list formatted according to one of the standard style guides. See cite your sources for more information.
+Transcript:
+Female student and male student looking at papers. Female. Whoa!! What an awesome diagram! It’s so clear and to the point. Male. I know right?! Total luckout surfing the web. Female. I completely thought you did it yourself. Male. Yeah! It was pretty cool site. Some grad student put up his results. Female. You should credit the guy. Your prof may want to check it out. Male. Most likely… besides, I wouldn’t want my prof to think I came up with this on my own.
+Not only should you cite your source for quoted text, you must cite your source for ideas that are not originally yours1 and are not common knowledge2.
+Graphic by Sara LeBlanc
+1 As a rule, error on the side of caution and provide a citation if you have any doubt. When to provide credit can be a matter of judgment. Your sense of when a citation is needed will develop with experience.
+2 "Common knowledge" is information that is widely known and easily verified in a standard reference work.
+Transcript:
+Two female students sitting on the couch with a cat in between them. Female 1. So… while researching my paper, I came across this brilliant idea! I never would have thought of, but it’ll totally make my paper! Female 2. Awesome!!! Where did you find it? Female 1. Well…I don’t really remember. I was doing so much reading and scanning! Female 2. I know what you mean…but you can’t use the idea without saying whose it is! Female 1. I’ll try to track it down…I don’t want to mislead anybody into thinking that it was my own original work… that’d be pretty dishonest!
+One method of keeping track of sources is to use index cards. Enter a source's publication information on an index card. Format the entry in the citation style you will be using in your paper.
+Indicate whether you are summarizing, paraphrasing, or quoting and be sure to include a connection with your source. Use note card (a larger index card), and try to restrict content to one main idea. 
+Your citations must be consistently formatted in a particular style. Citation and style guides links to online guides and support for style guides. Your choice of style depends on your area of research. Ask your instructor or a librarian for advice.
+Contact your instructor before submitting a paper that was previously submitted for a different assignment or purpose. If you would like to use the same paper, or papers with significant overlap, for different courses, explicit permission from the instructor of each course is necessary.
+Reusing a paper is not always wrong. A paper you have already written may be very appropriate and speak to the topic assigned. The consideration is to avoid misleading the instructor. A student of academic integrity will communicate with the instructor to explain why a previously written paper is appropriate for the current assignment, and request permission to use it again. The student should be honest.
+ Graphic by Sara LeBlanc
+Transcript:
+Male and female student talking.
+Male. Boy! Did I luck out! The paper I wrote last term is perfect for an assignment I have for this term. Female. What are you thinking, that you can hand in the exact same paper twice? Male. Well, I did put a lot of work into that paper. And it is the exact same subject. Female. Why not see what your prof says? As long as she knows what you’re doing and approves, I say do it!
+You pay a tutor for editing assistance, and they drastically re-write your original paper. Can you submit this new, edited version to your professor?
+No, this is called collusion, which involves receiving unauthorized help from tutors and friends in writing your essay. It is important to clarify with your professor or teaching assistant what type of help (if any) is acceptable for a specific assignment.
+If you use your friend's work without crediting them, your friend is also guilty of academic misconduct. Even if your friend is not aware that you are plagiarising their work, your friend will still be subject to penalties.
+Graphic by Sara LeBlanc
+Transcript:
+Two students walking. Male. Hey! Wait up! You got a sec? I need help with an assignment. Female. Sure! What kind of help? Male. Just some editing and rewriting parts. My tutor can’t help me in time. Female. Oh, did your prof say you could get this kind of help? Cause if she hasn’t , technically we’d be cheating. Male. It’s cool. You’re completely right. The prof told us to work alone. I should just do the rewrites myself. Female. Sorry man.
+One of your courses has a series of online quizzes, which students have to master before moving on to the next stage. Several people in your residence are in the same class and you normally do the modules together.
+The college would consider this to be unauthorized cooperation or collaboration, and is an example of academic misconduct.
+ 
+Graphic by Sara LeBlanc
+Transcript:
+A group of students talking.
+Male. Oh perfect. You guys are working on that UWACE quiz!? Awesome! We can work on it together. Female. Well, actually, you missed class yesterday. We were told we couldn’t do the quizzes together. It’s called collusion. Male. But, we always work on stuff together! What does that even mean…collusion? Female. It means cheating. And we can only work together on stuff if we have permission. And for this, we don’t. Male. Oh, I get it.
+Sharing code for a computer program is only appropriate when your instructor has explicitly permitted collaborative work. If you are required to write code for a project, the code must be your own work. Do not borrow code or the solution from another student or source.
+Graphic by Sara LeBlanc
+Transcript:
+Male. Yes!!! Finally! I got it!”. Female. Hey!!! I’m getting nowhere on the code for this project! Have you made any progress at all? Male. You know… I’d really like to help, but we’re supposed to work on our own for this. Female. Can’t you just help me with one little part!?! It’s the only piece I’m stuck on! Male. I really can’t help you with any of it…sorry. Female. I know I’ll get it on my own, I just need to give it another go! I’ll come back when I’m done and we can both celebrate!
+If your instructor has indicated that independent work is required, you cannot work together or share answers.
+Graphic by Sara LeBlanc
+Transcript:
+Students talking. Male. Hey! Do you two want to work on this assignment with me? Of we each take a section, we’ll get it done 3 times as fast! Female 1. Sure, why not. Female 2. Well, we were told we have to do all the work ourselves. That means we cant share answers or work together at all! Male. Yeah, but if we don’t all use the same words, who’s gonna know!?! Female 2. We’ll know! And I’m not gonna cheat just to save a little time.
+Academic Integrity T​utorial by the University of Waterloo Library​ CC BY-NC
+Brightspace
+Learn more about our land acknowledgment
+Be kept in the loop about application deadlines, college news, upcoming events, tours and more.
+Sign Up Now
+
+
+416-415-2000
+TTY: 1-877-515-5559
+ask.george@georgebrown.ca
+Visit Our Social Media Hub
+Visit Our Social Media Hub
+The information contained in this website is subject to change without notice. It should not be viewed as a representation, offer or warranty. Students are responsible for verifying George Brown College fee requirements.

@@ -1,0 +1,65 @@
+
+ Academic Success Strategies
+ Academic Success Strategies
+Brightspace is the virtual learning environment and Learning Management System (LMS) the College uses.
+This means that all your course content, assignments, resources, discussions and so much more will be there!
+To get into Brightspace, you must use your George Brown College credentials:
+Username: studentIDnumber@georgebrown.caPassword: Your GBC password
+These are the same login credentials you use to access Stu-View and your GBC email. If you have login issues, it might be easily solved with resetting your password at https://service.georgebrown.ca.
+We suggest you use the latest version of Chrome or Firefox. You can also test your device's compatibility on the login pages.
+Brightspace has an app called Pulse that you can download in the Apple App store or Google Play.
+If you need login or account help, please get in touch with our Help Desk at 416-415-5000 ext. 4357.
+Once you log into your Brightspace page, you will find your dashboard. You will see your navigation options, courses and customizable features. Here are key items on your dashboard to help get you started:
+Once you have opened your Course panel select the class you are joining.
+Once selected, the course information and options will open for that course on your screen.
+In Brightspace, you will see the Zoom link in the top banner. Click on that link to view the online classroom links.
+Your college Zoom account is separate to any personal account and will use your GBC credentials as your log in.
+Once the Zoom portal is open, you will see a list of Upcoming Meetings. This is a list of your Zoom classes. Select the right link and click "Start" to join your online class. You can view recordings of your online Zoom classes by selecting "Cloud Recordings".
+If you haven't set up your GBC Zoom account, it's easy. Visit the GBC Zoom site and log in with your student ID and password to activate your account. If you are joining events hosted on Zoom, like orientation or student workshops outside of the class, you may be required to authenticate to join the Zoom session. If you’re stuck, visit our Student Zoom Support page for more information.
+Some faculty may host classes and discussions through Microsoft Teams. This is another collaborative tool to engage students with each other and the class content, while keeping materials organized in one spot.   
+Faculty hosting classes through MS Teams will advise that this will occur in class, and through announcements in your Brightspace class shell. They will set up a recurring meeting, or add the MS Teams invite to your Brightspace.  
+You can use the browser version to join the class, but you will have more functionality if you download the Teams app which is free to you as a GBC student. Visit the online Microsoft login page and log in with your studentID@georgebrown.ca and password to access this and other software. You can download the apps on up to five devices.
+ 
+The learning management system allows you to set your preferences to make sure that you never miss any communication from your courses, instructors or even your classmates.
+Check out these sections for some quick tutorials on making the most of these functions in Brightspace!
+You can choose the types of notifications you receive and how they're delivered to you. This video shows you how to customize your notification preferences in Brightspace.
+Your instructor provides all the information and files you need to complete an assignment. The process for submitting your work on an assignment is easy.
+In Brightspace, you can message classmates and other users. If you receive a message from someone you will see a red dot on the Message Alerts icon in the course minibar. When using the pager tool, think 'short' messages. As in any electronic communication, review your message carefully before you send it. 
+Juggling competing responsibilities isn't easy. Use the calendar Brightspace to keep track of upcoming assignments, events and other due dates.
+ 
+Your instructors can add different types of content to your courses, such as files, text, assignments, images, multimedia and links. They can organize content in folders, learning modules and lesson plans.
+You can access course content from the links on the course menu. Links that hold content are called content areas. For example, an instructor may add a content area that contains a week's worth of course material. So, week 1 could include content such as readings, assignments, a discussion and a link to a website. You have to select each item individually to open it.
+“The course menu is the panel in the centre of your screen in Brightspace which contains links to all course areas. Instructors control the content and tools available on the course menu. Instructors can even customize the style of the course menu. They can change the colour, add sub-headers and dividers, and choose buttons or text for the links. These customizations create variations in the look and organization of your courses.”Brightspace
+Remember that instructors can limit which content items you see based on date, time, individual users, course groups and your performance on graded items. Ask your instructor about content that you think may not appear for you but should.
+The college uses a classroom streaming tool that is familiar to most students, Zoom. Visit our Student Zoom Support page for information on how to use Zoom.
+Your faculty will create a virtual classroom to share presentation material and communicate with you and your classmates through audio, video and chat tools. These direct links will appear in your course shells in Brightspace and they will direct you to the Zoom link your class is being held on. This is where you'll have your online lectures, live discussions and presentations when studying online.
+Webinar rooms include a collaborative whiteboard tool that allows you to interact with your classmates and your instructor in real time. Desktop applications and web resources such as multimedia can be displayed directly within the web conference room.
+An interactive recording can be created for each session allowing you the opportunity to review material following the live online webinar. Check with your instructor to see if they provide this option in your course.
+Platforms require certain permissions to function as desired. For example, you need to grant permission to access your camera and microphone so you can use audio and video. Give Zoom or Teams permission when asked, and/or set up permissions in your browser preferences.
+There are a few browsers that support these tools, so make sure you are working within those browsers when you use this system:
+As you progress through your course, you'll complete different types of assignments: problems to solve, chapter questions to answer, research papers, presentations, creative writing and so on.
+You can easily upload your files and receive files back, along with your grade and feedback. Your instructor controls the date when assignments are ready for you to access and when they are due. Make sure you read your course outline thoroughly and make note of all important dates so you don't miss anything. Adding them to your calendar will help you stay on track.
+Your instructors may also use tests to assess your mastery over course content and objectives. You can only access a test when it has been deployed by your instructor in a course. When the instructor lets you know that test is available, and where to find it, enter that area of the course and click on the test link to start it.
+ 
+You may see your score immediately after you complete the test if all questions are auto-graded and your instructor releases this information. Your instructor may choose a date in the future to release test scores while your classmates take the test. To access feedback and grade information, select the test in the content area and follow the instructions below.
+In Brightspace, click on each individual course, and then select "Grades" from the top banner.
+Every grade associated with projects and assignments for that class will be housed within the course page. Faculty will also include feedback in this section.
+Your official final grade for the class will be posted to your Stu-View at the end of the semester.
+Brightspace is a fully accessible learning management system and includes many tools for you to make the most of your experience.
+Some of the customizations includes adjusting the text size and contrast, screen reader compatibility, and enabling assistive technologies to provide a better learning experience.
+To get started, log into your Brightspace and click on your name at the top right. Then select "Account Settings" to get started.
+Brightspace has easy-to-use tech support within the platform called Get Help, which you can find in the bottom right of your browser.
+Get Help can give simple instructions to fix your issues, connect you with an agent or create a support ticket.
+Further GBC account help can be found via the Help Desk at 416-415-5000 ext. 4357 or the Ask George chatbot in the MyGBC Student Portal.
+Academic Success Strategies
+Learn more about our land acknowledgment
+Be kept in the loop about application deadlines, college news, upcoming events, tours and more.
+Sign Up Now
+
+
+416-415-2000
+TTY: 1-877-515-5559
+ask.george@georgebrown.ca
+Visit Our Social Media Hub
+Visit Our Social Media Hub
+The information contained in this website is subject to change without notice. It should not be viewed as a representation, offer or warranty. Students are responsible for verifying George Brown College fee requirements.

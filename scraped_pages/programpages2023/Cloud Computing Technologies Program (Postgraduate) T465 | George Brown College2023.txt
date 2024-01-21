@@ -1,0 +1,258 @@
+Cloud Computing Technologies Program (Postgraduate) (T465)
+Apply Now:
+Domestic Students
+International Students
+Program Details
+View information for:
+2023-2024
+2024-2025
+Program Name:
+Cloud Computing Technologies
+Code:
+T465
+Credential:
+Ontario College Graduate Certificate
+Method of Study:
+Full-time
+Duration:
+3 Semesters
+Starting Months:
+January, September
+Domestic Tuition:
+$4,316.00 * ‡
+International Tuition:
+$18,019.00 * ‡
+Centre:
+Arts, Design & Information Technology
+School:
+Computer Technology
+Location:
+Casa Loma Campus
+Experiential Learning:
+Mandatory Co-op or Work Integrated Project
+Fall 2023 Delivery:
+Semester 1: On Campus
+Winter 2024 Delivery:
+Semester 1: On Campus
+Program Availability
+Semester
+Domestic
+International
+Fall
+2023
+Closed
+Closed
+Winter
+2024
+Closed
+Closed
+Spring
+2024
+Open
+Open
+Add to Comparison
++
+Compare Programs
+Program Menu
+Program Description
+Courses
+Tuition & Fees
+Admission Requirements
+Program Outcomes
+Contact Us
+Program Description
+Program Overview
+The one-year Cloud Computing Technologies program will provide students with a broad and in-depth technical base through courses in system and network administration, cloud productivity tools, cloud computing design and implementation, and cloud computing security from the most popular and fastest growing cloud providers. Upon completion of this program, you will have gained experience in Microsoft 365, Microsoft Azure and Amazon AWS. Experience in these cloud provider platforms ensures you will be workplace ready.
+Full Description
+As a student in the Cloud Computing Technologies one-year graduate certificate program, you will gain a comprehensive and in-depth technical base through courses in the high-demand areas of system and network administration, cloud productivity tools, cloud computing design and implementation, and cloud computing security from the most popular and fastest-growing cloud providers. Upon completion of this program, you will have gained experience in Microsoft 365, Microsoft Azure and Amazon AWS. Experience in these cloud provider platforms ensures you will be workplace ready.
+As a graduate of this program, you will possess the cloud computing design, administration and troubleshooting skills necessary to support any business and attract employers from all over the world. Through lab activities and projects, each course allows you to gain hands-on experience using technologies in real-world cloud computing scenarios. An optional work-integrated learning field placement is available for those who are not currently employed in IT and are looking to apply these new skills in the field.
+As the cloud computing sector in the information technology (IT) industry continues to grow globally, and our industry partners report technical skills shortages, George Brown College is helping to meet the market demand by educating IT professionals who understand all aspects of computer systems from on-premises to cloud computing.
+Technology Requirements
+This program requires students to have access to a personal computer with the following specifications:
+16GB minimum (32 GB RAM recommended)
+512 GB SSD Hard Drive
+Quad-core i7 2.4GHz or better
+Webcam
+Your Field Education Options
+In semester 3, students complete a Work Integrated Project, or qualified students are eligible for co-op. Learn more about how to qualify, apply, and important dates for co-op on the
+Centre for Arts, Design & Information Technology Experiential Learning page
+.
+Career & Postgraduate Study Opportunities
+Career Options
+Cloud Computing Technologies training will be valued in organizations across industries. Entry-level positions for graduates include:
+junior cloud computing engineer
+data engineer, data scientist
+cloud solutions engineer
+cloud security developer
+Educational Pathways
+Potential educational pathways include:
+Computer System Technicians (T141)
+Computer Systems Technology (T147)
+Computer Programming and Analysis (T177)
+Cyber Security (T433)
+Wireless networking (T411)
+Individuals from industry who are currently working and are looking to advance their career.
+Graduates of this program may wish to directly enter the workforce or pursue additional programs and third-party certificates. The program covers different hierarchies of Microsoft and Amazon. Students can decide on hierarchy as their specialty and continue education in their selected field. Opportunity to pursue additional third-party certifications from Amazon and Microsoft are available.
+Potential pathways for further education include:
+computer science degrees
+computer engineering degrees
+Courses
+Required Courses
+PRINTABLE CURRICULUM PLANNER 2023-2024
+Semester 1
+Course Code
+Courses
+Prerequisite
+CLCT 4000
+Desktop Operating Systems
+CLCT 4001
+Advanced Linux
+CLCT 4002
+Network Fundamentals
+CLCT 4003
+Windows Server Infrastructure Services
+CLCT 4004
+Microsoft 365 Identity and Services I: Enterprise Administration
+CLCT 4005
+Microsoft 365 Identity and Services II: Enterprise Mobility and Security
+CLCT 4004
+Semester 2
+Course Code
+Courses
+Prerequisite
+CLCT 4006
+Microsoft Azure I: Azure Administrator
+CLCT 4007
+Microsoft Azure II: Azure Architect
+CLCT 4006
+CLCT 4008
+Microsoft Azure Security
+CLCT 4007
+CLCT 4009
+AWS I: Cloud Practitioner
+CLCT 4010
+AWS II: Solutions Architect
+CLCT 4009
+CLCT 4011
+AWS Security
+CLCT 4010
+COMP 4064
+Career Planning and Portfolio Development
+Semester 3
+Course Code
+Course
+CLCT 4020
+Work-Integrated Project
+or
+TCOP 4011
+Co-op
+Program Learning Outcomes
+Create secure solutions that support highly available micro-services that meet client needs.
+Implement enterprise level applications in hosted cloud environments that respond to client needs and business practices.
+Architect and deploy fault tolerant solutions within cloud computing platforms to solve identified business requirements.
+Automate security and resources for applications by using cloud computing tools to mitigate risk for organizations and protect assets.
+Design and test code-based solutions to cloud computing problems that ensure security in depth.
+Assess the viability of developing, deploying, maintaining and securing cloud computing solutions using a variety of resiliency testing tools.
+Create and defend cloud-computing strategies used to solve identified business needs on behalf of a client.
+Install and monitor a database management system on the cloud in response to specified requirements.
+Design, develop, configure, troubleshoot, maintain, and upgrade computing systems and network infrastructures for the cloud.
+Tuition & Fees
+Domestic Tuition
+$4,316.00 * ‡
+International Tuition
+$18,019.00 * ‡
+Additional Costs
+* Amounts listed are the total tuition, materials, student service and ancillary fees for the first two semesters of the program starting in Fall
+2022
+. Fees are subject to change for programs starting in Fall 2023 and at later dates.
+** Amounts listed are the
+estimated
+total of tuition, materials, student service and ancillary fees for the first two semesters of programs starting in Fall
+2023
+. Tuition fees are subject to board approval. Material, student service and ancillary fees are estimated based on prior years. All fees are subject to change without notice.
+‡ Semester 3 fees will consist of a flat fee of $500 for co-op placement or for the work-integrated project. These fees are to be paid separately and are not included in the total above.
+International Students
+Visit the
+International Fees and Related Costs page
+for more information.
+Financial Assistance
+This program is approved for OSAP funding, provided the applicant meets OSAP eligibility criteria.
+Disclaimer: The information contained in this website is subject to change without notice. It should not be viewed as a representation, offer or warranty. Students are responsible for verifying George Brown College fee requirements.
+Admission Requirements
+Bachelor's degree or Advanced Diploma (3-year) in mathematics, business, computer science, economics, engineering, or science.
+Proof of English language proficiency required where International transcripts are submitted.*
+*Please note that domestic applicants who are submitting international transcripts require a Canadian equivalency evaluation. This can be obtained through ICAS (International Credential Assessment Service) at
+icascanada.ca
+or WES (World Education Services) at
+wes.org/ca.
+ENGLISH LANGUAGE PROFICIENCY
+Applicants with international transcripts who do not provide English proficiency test results must test at the College level in the George Brown College English assessment to be considered for admission.
+Please visit
+English Proficiency
+for more details.
+COURSE EXEMPTIONS
+College or university credits may qualify you for course exemptions. Please visit
+Transfer Guide
+for more information.
+International Students
+Visit the
+International Admissions page
+for more information regarding country specific admission requirements.
+How to Apply
+Domestic students should apply through
+Ontario Colleges.
+INTERNATIONAL STUDENTS
+Visit the
+How to Apply page
+for more information on how and when to apply.
+International students should apply through the
+George Brown College Online Application System
+.
+International Students
+Visit the
+How to Apply page
+for more information on how and when to apply.
+International students should apply through the
+George Brown College Online Application System
+.
+Contact Us
+School of Computer Technology
+Phone: 416-415-5000, ext. 4287
+Email:
+computertechnology@georgebrown.ca
+The office hours are:
+Monday - Friday : 9am - 4pm
+Program Co-ordinator: Ali Ziyaei
+Ali.Ziyaei@georgebrown.ca
+For more information about George Brown College, you may also call the Contact Centre at 416-415-2000 (TTY 1-877-515-5559) or long distance 1-800-265-2002.
+Contact one of our international recruitment representatives specializing by country of origin by either booking a virtual meeting or submitting an inquiry. For more information visit the
+International Contact Us page
+Visit Our Campus
+Visit Our Campus
+The Cloud Computing Technologies program is offered through our
+School of Computer Technology
+from our
+Casa Loma Campus
+at
+146 Kendal Avenue
+, Toronto. Sign up for an
+information session
+or
+campus tour
+to learn more about George Brown College and the program. You can also explore our
+virtual tour.
+Visit and discover life in our campus
+Book campus tour
+Get answers to your questions
+Book info session
+Sign up to receive tailored resources to make your application, your way.
+Sign up now
+Close
+Sign up and learn more about your options, our programs, and life at George Brown.
+You must have JavaScript enabled to use this form.
+First Name
+Last Name
+Email
+Domestic or International
+Country
+I agree to be sent email communications from George Brown College. I understand I can unsubscribe at any time.

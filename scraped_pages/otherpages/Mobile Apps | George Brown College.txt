@@ -1,0 +1,31 @@
+
+Connect with George Brown on the go. Students can easily access college information, including class schedules and locations, news and events, important dates and more using the official George Brown College app.
+Available on the App Store Get it on Google play
+The app provides a secure login so students can access their grades, course schedules and class locations. You can also access the George Brown website, georgebrown.ca.
+The app provides important phone numbers and other information. Find student services contacts and access the staff and faculty directory.
+Experiencing technical difficulties? Submit a ticket and access our list of frequently asked questions (FAQs) for help and tech support for the Library Learning Commons (LLC), college login information, password resets and wireless access.
+You can connect to the Library Learning Commons (LLC) website through the app.
+Lost? Get quick access to campus maps and directions.
+The app can help you stay on top of what’s happening around the college. Students can browse the latest college news, read the MyGBC newsletter and save college events to their personal calendars.
+Full-Time and Continuing Education students can safely access their grades and course schedules.
+From your iPhone
+From your iPad
+From your Android phone
+The app works on Apple and Android devices. The app is not configured for Brightspace devices.
+Yes, the app is free.
+This is generally caused by the lack of an internet connection. Please ensure that your phone is not in “Airplane” mode and that you either have a Wi-Fi or cellular data connection. If you were connected to the internet and received this error, then it is likely that the configuration server is not available. Please wait awhile, and then try again.Once you get this error, you must do the following in order to have the app download the configuration:iPhone - Double Click the Home button and find the George Brown app in the bottom list of running apps. Touch and hold the app icon. Once the icons start to shake and the delete symbol appears on the icon, click the delete symbol on the icon. Once deleted, click the Home button once again, then launch the George Brown app.Android – Click the “App Switch” button, then press and hold the George Brown App. Once a menu is displayed, select the “App info” menu item. On the App Info screen, select the “Clear data” button, then click OK to clear the data. Now you can return to the Apps screen and re-launch the George Brown App.
+You must “sign in” to access the “Student Section”, which consists of “Courses”, “Grades”, and “Account Alerts”. If you don’t “sign in” you still have access to “College Info”, “Social Media” and “Actions.”
+Use the same ‘User Name’ and ‘Password’ that you use for StuView.
+Contact Library Services at 416-415-5000 ext. 2173 or visit the Library Reception Desk. Or call the Contact Centre at 416-415-2000 or 1-800-265-2002 (TTY).
+Contact the Registrar’s Office to inquire about the reason for “Account Alerts” at 416-415-5000 ext. 4497.
+Learn more about our land acknowledgment
+Be kept in the loop about application deadlines, college news, upcoming events, tours and more.
+Sign Up Now
+
+
+416-415-2000
+TTY: 1-877-515-5559
+ask.george@georgebrown.ca
+Visit Our Social Media Hub
+Visit Our Social Media Hub
+The information contained in this website is subject to change without notice. It should not be viewed as a representation, offer or warranty. Students are responsible for verifying George Brown College fee requirements.

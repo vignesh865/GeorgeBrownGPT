@@ -1,0 +1,326 @@
+Analytics for Business Decision Making Program (Postgraduate) (B412)
+Apply Now:
+Domestic Students
+International Students
+Program Details
+View information for:
+2023-2024
+2024-2025
+Program Name:
+Analytics for Business Decision Making
+Code:
+B412
+Credential:
+Ontario College Graduate Certificate
+Method of Study:
+Full-time
+Duration:
+8 months (2 semesters)
+Starting Months:
+January, May, September
+Domestic Tuition:
+$4,379.00 *
+International Tuition:
+$17,774.00 **
+Centre:
+Business
+School:
+Management
+Location:
+St. James Campus
+Experiential Learning:
+Simulated Learning Environment
+Fall 2023 Delivery:
+Semester 1, 2: On Campus
+Winter 2024 Delivery:
+Semester 1, 2: On Campus
+Program Availability
+Semester
+Domestic
+International
+Fall
+2023
+Closed
+Closed
+Winter
+2024
+Closed
+Closed
+Spring
+2024
+Open
+Closed
+Add to Comparison
++
+Compare Programs
+Explore related programs:
+Information Systems Business Analysis (with experiential learning capstone) (Postgraduate) (T405)
+International Business Management (Postgraduate) (B411)
+Project Management (Postgraduate) (B415)
+Program Menu
+Program Description
+Courses
+Tuition & Fees
+Admission Requirements
+Program Outcomes
+Contact Us
+Program Description
+Program Overview
+Harnessing the power of big data analytics, the
+Analytics for Business Decision-Making
+eight-month graduate certificate program in Toronto prepares students to do data analysis specific to multifaceted business decision-making needs. This big data analytics program is about developing information into knowledge and converting that intelligence into action. This program is delivered in a blended hybrid format, combining face-to-face sessions with online delivery. Graduates will be prepared for careers in this high-demand area and learn the knowledge and skills needed to support real-world business decision-making and planning through data insights, data management, and data science.
+Full Description
+The need for graduates with skills in the area of
+business analytics
+is growing rapidly across all industry sectors. Harnessing the power of big data analytics, the
+Analytics for Business Decision-Making
+graduate certificate program prepares students to do data analysis specific to multifaceted business decision-making needs. It is about developing information into knowledge and converting that intelligence into action. The goal is to prepare the student to engage and to be competitive across various business divisions with the ability to “tell stories” about data, which assist decision-makers in their own activities. Through in-depth data analytics courses and business analytics courses, graduates will be prepared to work in the high-demand area of business intelligence in Toronto, in Canada and beyond and learn the knowledge and skills needed to support real-world business decision-making and planning through data insights, data management and data science.
+In this
+business analytics program
+, the focus will be on skills development, technical and otherwise, including analytic understanding and dissemination for various business uses. A bold mix of skills, including some programming, applied statistical comprehension and database understanding, will be explored in the context of organizational Big Data (Operational) requirements.
+Delivery
+You will generally meet in the evenings and Saturdays, with weekday sessions for some semesters. The delivery format attempts to accommodate those who may have daytime commitments while taking this program.
+Program Requirements
+The Analytics for Business Decision-Making program is offered in a hybrid modality.
+This
+Centre for Business
+program is part of our
+School of Management
+.
+Minimum computing requirements
+a PC running Windows 8 or higher with 8MB RAM and an i5 processor
+Microsoft Windows® 10 or Server 2016 +
+64-bit versions of Windows
+web camera and microphone
+PC Version Microsoft Office including Access (as provided by George Brown via limited Student Office 365 versions)
+For students who prefer Apple/Mac environments, it is necessary to ALSO have the following:
+Bootcamp/Parallels
+a copy of Windows 10
+Microsoft Office including Access (students should have a PC version from
+GBC Apps Anywhere
+as Mac versions sometimes do not have the same depth in capability.)
+Watch our past recording of the online info session for the Analytics for Business Decision-Making program.
+Your Field Education Options
+The BUS 4045 Data Project Capstone Project is a self-directed, faculty-guided research and analytics project where you will support an important business decision. You will demonstrate your ability to analyze real-world data and make meaningful business recommendations based on client feedback and interaction. This valuable work experience can, in turn, be added to your resumé.
+The Analytics Hub
+brings students, faculty, and industry together to derive actionable insights and tell stories about data from both private and public sources.
+Career & Postgraduate Study Opportunities
+Career Options
+Graduates of this program will be prepared for careers in a variety of organizations such as marketing research firms, polling firms, branding/design firms, insurance and finance firms, loyalty programs (marketing), health care, public sector, manufacturing and supply chain.
+Potential positions may include:
+business analyst
+data analyst
+market risk analytics officer
+web analytics manager
+decision support specialist
+web analyst
+data-reporting analyst
+Educational Pathways
+For information on future study options, see our
+Transfer guide
+.
+Courses
+Required Courses
+Printable Curriculum Planner 2023-2024
+In order to graduate, you need to complete the following
+14
+mandatory courses.
+SEMESTER 1
+Weeks 1–7
+Code
+Course Name (Mandatory)
+Pre-requisite
+BUS 4046
+Introduction to Business Analytics
+NONE
+Weeks 8–14
+Code
+Course Name (Mandatory)
+Pre-requisite
+BUS 4047
+Applied Business Communication
+NONE
+Weeks 1–14
+Code
+Course Name (Mandatory)
+Pre-requisite
+COMP 4007
+Computer Applications Involving Analytics
+NONE
+MGMT 4030
+Business Research
+NONE
+MGMT 4084
+Digital Media Analysis
+NONE
+STAT 4001
+Statistics I for Analytics
+NONE
+BUS 4022
+Programming Fundamentals for Analytics
+NONE
+SEMESTER 2
+Code
+Course Name (Mandatory)
+Pre-requisite
+MARK 4018
+Data Mining & Modelling
+STAT 4001
+COMP 4008
+Advanced Computer Applications involving Analytics
+COMP 4007
+BUS 4023
+Business, Web and Social Media Metrics and Analysis
+STAT 4001
+BUS 4024
+Business Decision-Making Through Advanced Analytics
+BUS 4022
+MGMT 4083
+Business Metrics
+MGMT 4030
+STAT 4003
+Statistics II for Analytics
+STAT 4001
+BUS 4045
+Data Project Capstone Project
+Completion of Semester 1
+Detailed course outlines
+Program Learning Outcomes
+The graduate demonstrates the ability to:
+Extract, transform and load data to more efficiently support problem-solving and decision-making.
+Warehouse and mine data for the purpose of business decision-making.
+Develop classification and/or predictive models using operational and marketing data in support of business decision-making.
+Determine, using a variety of business intelligence tools, the most appropriate for each business decision-making scenario.
+Effectively communicate analytics results and conclusions orally, in written reports and in formal presentations to various levels of staff and management.
+Apply descriptive and differential statistical techniques to Big Data.
+Analyze and interpret digital information as it relates to all aspects of an organization.
+Apply the principles of business ethics and corporate social responsibility to the application and use of data to support business decision-making.
+Tuition & Fees
+Domestic Tuition
+$4,379.00 *
+International Tuition
+$17,774.00 **
+Additional Costs
+* Amounts listed are the total of tuition, materials, student service and ancillary fees for the first two semesters of programs starting in Fall
+2022
+. Fees are subject to change for programs starting in Fall 2023 and at later dates.
+** Amounts listed are the total of tuition, materials, student service and ancillary fees for the first two semesters of programs starting in Fall
+2023
+. Fees are subject to change for programs starting in Fall 2024 and at later dates.
+International Students
+Visit the
+International Fees and Related Costs page
+for more information.
+Financial Assistance
+This program is approved for OSAP funding, provided the applicant meets OSAP eligibility criteria.
+Disclaimer: The information contained in this website is subject to change without notice. It should not be viewed as a representation, offer or warranty. Students are responsible for verifying George Brown College fee requirements.
+Admission Requirements
+College advanced diploma (three-year) or bachelor's degree or demonstrated, relevant work experience (resumé and references required).
+English Language Proficiency
+Applicants with international transcripts who do not provide English language proficiency test results must test at the college level in the George Brown College English assessment to be considered. In addition, applicants who are considered for admission to the program based solely on their work experience will be required to provide proof of English proficiency at the college level, and may be required to write the English admission assessment.
+Please review our
+English proficiency requirements
+for more details.
+Course Exemptions
+Some college and university credits may qualify you for exemptions. Please see our
+Transfer guide
+for more information.
+International Students
+Visit the
+International Admissions page
+for more information regarding country specific admission requirements.
+How to Apply
+Domestic students should apply through
+Ontario Colleges.
+International Students
+Visit the
+How to Apply page
+for more information on how and when to apply.
+International students should apply through the
+George Brown College Online Application System
+.
+Contact Us
+Information Sessions
+On-campus information sessions
+are held on a regular basis. Come and have your questions answered. Learn about the program content and career options, meet your friendly professors and staff, and experience what it is like to be in a George Brown College classroom.
+Sign up for an upcoming session
+.
+Domestic Student Admissions
+For inquiries about domestic admission requirements, admission deadlines, or the admissions process, please contact the Admissions Office at
+admissions@georgebrown.ca
+or visit the
+Admissions section
+.
+International Student Admissions
+Contact one of our international recruitment representatives specializing by country of origin by either booking a virtual meeting or submitting an inquiry. For more information visit the
+International Contact Us page
+.
+Fees and Financial Information
+For inquiries about OSAP, Bursaries, Scholarships and other financial inquiries, please contact the Financial Aid Office at
+FinAid@georgebrown.ca
+or visit the
+Financial Aid section
+.
+Entry Advising
+For advice on the various program options and which program might be best suited for you,
+make an appointment
+to see an Entry Advisor. Please review these
+frequently asked questions
+.
+Centre for Business
+For questions regarding programs at the Centre for Business or if you require more information, please do not hesitate to contact us. Our knowledgeable staff are available to assist you.
+For general inquiries, please contact the Centre for Business:
+Email:
+business@georgebrown.ca
+Phone: (416) 415-5000 ext. 2160
+Analytics for Business Decision-Making (Postgraduate) (B412)
+For inquiries related to this program (for example, course-specific information) please contact the co-ordinators:
+Robin Yap
+Email:
+ryap@georgebrown.ca
+Social Channels:
+Follow the Centre for Business on
+Instagram
+and
+LinkedIn
+Contact one of our international recruitment representatives specializing by country of origin by either booking a virtual meeting or submitting an inquiry. For more information visit the
+International Contact Us page
+Visit Our Campus
+This program is offered out of our
+School of Management
+and classes usually take place at our
+St. James Campus
+, mainly at
+200 King St. E.
+, and
+290 Adelaide St. E.
+, Toronto, Ontario, Canada.
+Campus tours
+are offered on a regular basis.
+Sign up
+today! You can also check out our
+virtual tour
+.
+Explore related programs:
+Information Systems Business Analysis (with experiential learning capstone) (Postgraduate) (T405)
+International Business Management (Postgraduate) (B411)
+Project Management (Postgraduate) (B415)
+This program is a foundation for success in the data analytics field. The teachers are personable, and really push you to your limits. In semester two of this program, a Capstone project is offered, which is a real-life job experience using data analytics. My partner Xavier and I took the most out of this experience. Our project was the only one in Canada to make it to the 2018 SAS Global Forum’s Student Symposium and won first place.
+Read more about
+Annissa and Xavier’s success at SAS Global Forum 2018
+.
+Annissa Rodriguez
+Ontario College Graduate Certificate
+Visit and discover life in our campus
+Book campus tour
+Sign up to receive tailored resources to make your application, your way.
+Sign up now
+Close
+Sign up and learn more about your options, our programs, and life at George Brown.
+You must have JavaScript enabled to use this form.
+First Name
+Last Name
+Email
+Domestic or International
+Country
+I agree to be sent email communications from George Brown College. I understand I can unsubscribe at any time.

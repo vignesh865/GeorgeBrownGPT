@@ -1,0 +1,320 @@
+Computer Programming and Analysis Program (T177)
+Apply Now:
+Domestic Students
+International Students
+Program Details
+View information for:
+2023-2024
+2024-2025
+Program Name:
+Computer Programming and Analysis
+Code:
+T177
+Credential:
+Ontario College Advanced Diploma
+Method of Study:
+Full-time
+Duration:
+3 years (6 semesters)
+Starting Months:
+January, September
+Domestic Tuition:
+$4,266.00 *
+International Tuition:
+$17,913.00 **
+Centre:
+Arts, Design & Information Technology
+School:
+Computer Technology
+Location:
+Casa Loma Campus
+Fall 2023 Delivery:
+Semester 1: Hybrid; Semester 3, 5: On Campus
+Winter 2024 Delivery:
+Semester 1, 2, 4, 6: Hybrid
+Program Availability
+Semester
+Domestic
+International
+Fall
+2023
+Closed
+Closed
+Winter
+2024
+Closed
+Closed
+Spring
+2024
+Not Available
+Not Available
+Add to Comparison
++
+Compare Programs
+Explore related programs:
+Computer Systems Technology (T147)
+Computer Systems Technician (T141)
+Program Menu
+Program Description
+Courses
+Tuition & Fees
+Admission Requirements
+Program Outcomes
+Contact Us
+Program Description
+Program Overview
+In today's business landscape, having a sound grasp of Information Technology (IT) is crucial for making informed decisions. This is why IT professionals have become an integral part of the decision-making process in organizations. To meet this demand, George Brown College has developed the Computer Programmer Analyst program, which offers comprehensive training in programming and IT analysis. By enrolling in this program, you can establish a solid foundation for career advancement in the dynamic and constantly evolving world of IT.
+PLEASE NOTE: This program is also offered in a fully online format. Please see
+Computer Programming and Analysis Online program (T197)
+for more details.
+Full Description
+In today's business landscape, it's rare for organizations to make important decisions without considering the implications of Information Technology (IT). That's why IT professionals are such a crucial part of any successful team. George Brown College recognizes this need and offers a comprehensive three-year (six-semester) Computer Programmer Analyst program. This program provides a strong foundation in programming and IT analysis, which can help you achieve career growth in the fast-paced and constantly evolving world of information technology.
+According to the industry's requirements, they are seeking computer programmer analysts who possess a combination of hard and soft skills. The program's initial two years will focus on equipping graduates with the necessary skills and techniques for software application development and testing. The final year will concentrate on developing advanced technical abilities as well as communication, teamwork, and other client service skills.
+In this program, you will be exposed to:
+Project-based and experiential learning.
+Understanding the fast-growing AI and machine-learning strategies and development.
+Mobile application development using the latest mobile devices.
+*If you enrol in January, you must complete semester 2 in the summer, May to August, in the same year.
+Note:
+In this rapidly changing industry, program improvements are being made on an ongoing basis, which may result in course changes. Changes are made in consultation with our Program Advisory Committee, which is composed of academic staff and industry representatives from small, medium-size and large corporations.
+Technology Requirements
+This program requires students to have access to a personal computer with the following specifications:
+16 GB RAM minimum
+256 GB SSD Hard Drive (500+ GB is optimal)
+Quad-core i7 2.4GHz or better
+Video card (2GB RAM minimum/4GB RAM recommended)
+Webcam
+Visual Paradigm
+supports George Brown College with the use of
+UML tools
+,
+BPMN tools
+and
+agile story mapping tools
+, under the
+Academic Partnership
+.
+Career & Postgraduate Study Opportunities
+Career Options
+Graduates may find career opportunities in areas such as:
+database administration
+systems analysis and design
+consulting
+application design and development
+web application design and development
+data architect (AI/ Machine Learning)
+full-stack developer
+mobile application developer
+and many others
+Opportunities exist for systems development for both corporate clients and smaller contract companies.
+As programmer analysts, graduates will work in project teams responsible for developing new applications and maintaining existing business systems.
+Educational Pathways
+Opportunities to receive transfer credits toward further study to attain a degree are available.
+Courses
+Required Courses
+Printable Curriculum Planner 2023-2024
+SEMESTER 1
+Code
+Course name
+COMP 1151
+IT Essentials
+COMP 1236
+Fundamentals of Computing Logic
+COMP 1234
+Introduction To Web Development
+GSSC 1027
+Personal Finance
+MATH 1162
+Mathematics for Computer Technology I
+COMM 2000
+Communicating Across Contexts**
+SEMESTER 2
+Code
+Course name
+COMP 1168
+Database Management
+COMP 1202
+Object-Oriented Programming
+COMP 1235
+Introduction To Full-Stack Development
+COMP 3044
+Linux Essentials
+MATH 1172
+Mathematics for Computer Technology II
+GNED
+General Education Elective
+COMM 2000
+Communicating Across Contexts
+SEMESTER 3
+Code
+Course name
+COMP 1230
+Advanced Web Programming
+COMP 2129
+Advanced Object-Oriented Programming
+COMP 2130
+Application Development using Java
+COMP 2138
+Advanced Database Development
+COMP 2147
+System Analysis, Design And Testing
+GNED
+General Education Elective
+SEMESTER 4
+Code
+Course name
+COMP 2080
+Data Structures and Algorithms
+COMP 2139
+Web Application Development
+COMP 2148
+Professional Workplace Competencies
+COMP 2151
+Agile Software Development
+COMP 2152
+Open Source Development
+SEMESTER 5
+Code
+Course name
+COMP 3059
+Capstone Project I
+COMP 3074
+Mobile Application Development I
+COMP 3095
+Web Application Development Using Java
+COMP 3104
+DevOps
+COMP 3122
+Applied Data Science
+COMP 3123
+Full Stack Development I
+SEMESTER 6
+Code
+Course name
+COMP 3078
+Capstone Project II
+COMP 3134
+Introduction to Cyber Security
+COMP 3097
+Mobile Application Development II
+COMP 3132
+Applied Machine Learning
+COMP 3133
+Full Stack Development II
+**Based on the results of your placement test, you may be required to take COMM 1000 (Introduction to College Communication) before progressing to COMM 2000. COMM 1000 does not count as a course required for graduation, and you will be charged for this extra course. Please visit
+Assessment Centre
+for more information.
+General Education Electives
+Detailed course outlines
+Program Learning Outcomes
+The graduate has reliably demonstrated the ability to:
+Identify, analyze, design, develop, implement, verify and document the requirements for a computing environment.
+Diagnose, troubleshoot, document and monitor technical problems using appropriate methodologies and tools.
+Analyze, design, implement and maintain secure computing environments.
+Analyze, develop and maintain robust computing system solutions through validation testing and industry best practices.
+Communicate and collaborate with team members and stakeholders to ensure effective working relationships.
+Select and apply strategies for personal and professional development to enhance work performance.
+Apply project management principles and tools when responding to requirements and monitoring projects within a computing environment.
+Adhere to ethical, social media, legal, regulatory and economic requirements and/or principles in developing and managing computing solutions and systems.
+Investigate emerging trends to respond to technical challenges.
+Gather, analyze and define software system specifications based on functional and non-functional requirements.
+Design, develop, document, implement, maintain and test software systems by using industry-standard software development methodologies based on defined specifications and existing technologies/frameworks.
+Select and apply object-oriented and other design concepts and principles, as well as business requirements, to the software development process.
+Gather requirements and model, design, implement, optimize and maintain data storage solutions.
+Integrate network communications into software solutions by adhering to protocol standards.
+Tuition & Fees
+Domestic Tuition
+$4,266.00 *
+International Tuition
+$17,913.00 **
+Additional Costs
+* Amounts listed are the total of tuition, materials, student service and ancillary fees for the first
+two
+semesters of programs starting in Fall
+2022
+. Fees are subject to change for programs starting in Fall 2023 and at later dates.
+** Amounts listed are the total of tuition, materials, student service and ancillary fees for the first two semesters of programs starting in Fall 2023. Fees are subject to change for programs starting in Fall 2024 and at later dates.
+International Students
+Visit the
+International Fees and Related Costs page
+for more information.
+Financial Assistance
+This program is approved for OSAP funding, provided the applicant meets OSAP eligibility criteria.
+Disclaimer: The information contained in this website is subject to change without notice. It should not be viewed as a representation, offer or warranty. Students are responsible for verifying George Brown College fee requirements.
+Admission Requirements
+Applicants are selected on the basis of their academic achievement, including the required courses, and any other selection criteria outlined below.
+Ontario Secondary School Diploma or equivalent**
+grade 12 English (C or U)
+grade 11 Math (M or U) or grade 12 (C or U)
+** Mature student status (19 years of age or older and no OSSD)
+Mature students may take the
+Admissions Assessment
+for English and math, OR may consider upgrading to achieve the credit(s) needed in
+English
+and
+math
+.
+Please note that George Brown is committed to ensuring that applicants will succeed in their program of choice and meeting the minimum requirements does not guarantee admission to the program. Applicants may be required to have grades higher than the minimum requirements stated.
+Course exemptions
+College or university credits may qualify you for course exemptions. Please visit
+Transfer Guide
+for more information.
+International Students
+Visit the
+International Admissions page
+for more information regarding country specific admission requirements.
+How to Apply
+Domestic students should apply through
+Ontario Colleges.
+International Students
+Visit the
+How to Apply page
+for more information on how and when to apply.
+International students should apply through the
+George Brown College Online Application System
+.
+Contact Us
+School of Computer Technology
+Phone: 416-415-5000, ext. 4287
+Email:
+computertechnology@georgebrown.ca
+The office hours are:
+Monday – Friday: 9 a.m. – 4 p.m.
+Program Co-ordinator: Maziar Masoudi
+Phone: 416-415-5000, ext. 3345
+Email:
+mmasoudi@georgebrown.ca
+For more information about George Brown College, you may also call the Contact Centre at 416-415-2000 (TTY 1-877-515-5559) or long distance 1-800-265-2002.
+Contact one of our international recruitment representatives specializing by country of origin by either booking a virtual meeting or submitting an inquiry. For more information visit the
+International Contact Us page
+Visit Our Campus
+The Computer Programmer Analyst program is offered through our
+School of Computer Technology
+from our
+Casa Loma Campus
+at
+146 Kendal Avenue
+. Sign up for an
+information session
+or
+campus tour
+to learn more about George Brown College and the program. You can also explore our
+virtual tour.
+Explore related programs:
+Computer Systems Technology (T147)
+Computer Systems Technician (T141)
+Visit and discover life in our campus
+Book campus tour
+Get answers to your questions
+Book info session
+Sign up to receive tailored resources to make your application, your way.
+Sign up now
+Close
+Sign up and learn more about your options, our programs, and life at George Brown.
+You must have JavaScript enabled to use this form.
+First Name
+Last Name
+Email
+Domestic or International
+Country
+I agree to be sent email communications from George Brown College. I understand I can unsubscribe at any time.

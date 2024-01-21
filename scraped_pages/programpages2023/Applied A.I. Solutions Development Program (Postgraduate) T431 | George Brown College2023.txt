@@ -1,0 +1,257 @@
+Applied A.I. Solutions Development Program (Postgraduate) (T431)
+Apply Now:
+Domestic Students
+International Students
+Program Details
+View information for:
+2023-2024
+2024-2025
+Program Name:
+Applied A.I. Solutions Development
+Code:
+T431
+Credential:
+Ontario College Graduate Certificate
+Method of Study:
+Full-time
+Duration:
+1 year (3 semesters)
+Starting Months:
+January, May, September
+Domestic Tuition:
+$8,617.00 * ‡
+International Tuition:
+$17964.00 ** ‡
+Centre:
+Arts, Design & Information Technology
+School:
+Computer Technology
+Location:
+Casa Loma Campus
+Experiential Learning:
+Mandatory Co-op or Work Integrated Project
+Fall 2023 Delivery:
+Semester 1: On Campus; Semester 3: Co-op
+Winter 2024 Delivery:
+Semester 1, 2: Hybrid
+Program Availability
+Semester
+Domestic
+International
+Fall
+2023
+Closed
+Closed
+Winter
+2024
+Closed
+Closed
+Spring
+2024
+Open
+Open
+Add to Comparison
++
+Compare Programs
+Program Menu
+Program Description
+Courses
+Tuition & Fees
+Admission Requirements
+Program Outcomes
+Contact Us
+Program Description
+Leadership Claims
+The Applied A.I. Solutions Development program is one of the first of its kind to be offered by a Canadian college. Developed by George Brown College's School of Computer Technology, it recognizes the industry demand for full stack data scientists who are qualified to fill the roles of data scientist, data analyst, data engineer or machine learning engineer as needed, and also apply business analysis skills to effectively communicate how artificial intelligence/machine learning/deep learning can be used in business models.
+Program Overview
+This exciting new program instills you with knowledge that spans the fields of computer science, mathematics and business to prepare you to deliver innovative artificial intelligence (A.I.), machine learning, deep learning and data science/data analytics solutions for an ever-expanding range of industry applications.
+The program will focus on combining the three disciplines (computer science, math, business) with a design-thinking approach to produce machine-learning/deep-learning models and intuitive dashboards to communicate results and findings. As a student in this program, you are also given preparatory training and simulated experiences in tailoring their presentations to various target audiences including technical, business and investors.
+Full Description
+As we advance further into this increasingly digital world, artificial intelligence and data science will revolutionize most industries by optimizing business processes and automating decision-making in many white-collar jobs. As a student in the Applied A.I. Solutions Development program, you will gain the skills needed to provide existing businesses and emerging startups with the tools required to thrive in the digital revolution.
+This three-semester graduate certificate program uses a hands-on, applied approach to the field of A.I., giving you the broad range of skills needed to excel in this rapidly growing industry.
+It teaches the development and application of machine-learning/deep-learning models and provides a fundamental understanding of the underlying mathematical algorithms that power them. This combination of knowledge and skills will allow you to identify and select appropriate algorithms for a given use, build and fine-tune models and visualize and effectively communicate the resulting data, thereby bridging the traditional roles of data scientist, machine-learning engineer and business translator.
+Technology Requirements
+This program requires students to have access to a personal computer with the following specifications:
+8 GB minimum (16 GB RAM recommended0
+256 GB SSD Hard Drive (500+ GB is optimal)
+Quad-core i5/i7 2.4GHz or better
+Webcam
+Your Field Education Options
+In semester 3, students complete a Work Integrated Project, or qualified students are eligible for co-op. Learn more about how to qualify, apply, and important dates for co-op on the
+Centre for Arts, Design & Information Technology Experiential Learning
+page.
+Career & Postgraduate Study Opportunities
+Career Options
+Graduates of this program may apply for positions that include:
+data scientist
+data analyst
+data management specialist
+machine-learning engineer
+machine-learning technologist
+artificial intelligence practitioner
+full-stack data scientist (who is qualified to fill all of the above roles)
+Educational Pathways
+Pathways for incoming students may be developed with programs that expose students to code development, algebra, statistics, probability and calculus, including:
+G102 Graphic Design
+G113 Interaction Design
+G301 Honours Bachelor of Digital Experience Design
+T147 Computer Systems Technology
+T163 Game – Programming
+T175 Blockchain Development
+T177 Computer Programming and Analysis
+T405 Information Systems Business Analysis Program (with Experiential Learning Capstone)
+T430 Mobile Application Development and Strategy
+T445 Cloud Computing Technologies Program (Postgraduate)
+computer science (university level)
+computer engineering (university level)
+Courses
+Required Courses
+PRINTABLE CURRICULUM PLANNER 2023-2024
+SEMESTER 1
+Code
+Course name
+AASD 4000
+Machine Learning I
+AASD 4001
+Applied Mathematical Concepts for Machine Learning
+AASD 4002
+Foundations of Data Management
+AASD 4003
+Ethics and Law for Data Science
+AASD 4004
+Machine Learning II
+AASD 4008
+Big Data Tools and Techniques I
+AASD 4006
+Data Visualization Techniques
+AASD 4007
+Design Thinking for AI Solutions
+SEMESTER 2
+Code
+Course name
+AASD 4010
+Deep Learning I
+AASD 4011
+Applied Mathematical Concepts for Deep Learning
+AASD 4009
+Big Data Tools and Techniques II
+AASD 4013
+Agile Project Management Methodologies
+AASD 4014
+Deep Learning II
+AASD 4015
+Advanced Applied Mathematical Concepts for Deep Learning
+AASD 4016
+Full Stack Data Science Systems
+AASD 4017
+Presenting Data Science-driven Solutions
+COMP 4064
+Career Planning and Portfolio Development
+SEMESTER 3
+Code
+Course name
+TCOP 4020
+Co-op
+OR
+AASD 4020
+Work-Integrated Project
+Detailed course outlines
+Program Learning Outcomes
+The graduate demonstrates the ability to:
+Identify, evaluate and manage relevant data sources to support data analytics and to meet organizational needs.
+Recommend different systems, architectures and data storage technologies to support data-driven solutions.
+Develop and deploy complete machine learning/deep learning production systems for a variety of industry use cases that meet the needs of a specific operational/business process.
+Assess and apply appropriate mathematical models, algorithms, tools and frameworks to develop A.I.-enabled, industry-specific solutions.
+Design and present A.I. solutions effectively to stakeholders through the use of data visualizations.
+Apply legal, ethical, privacy and security-related standards and considerations in data science projects in a manner that protects privacy and confidentiality, addresses data bias and transparency and ensures data integrity.
+Implement artificial intelligence systems on time and budget using best practices and strategies in design thinking, project management and lifecycle management.
+Design artificial intelligence (A.I.) systems through the application of systematic approaches and methodologies to meet growing organizational needs.
+Tuition & Fees
+Domestic Tuition
+$8,617.00 * ‡
+International Tuition
+$17964.00 ** ‡
+Additional Costs
+* Amounts listed are the total of tuition, materials, student service and ancillary fees for the first
+two
+semesters of the program starting in Fall
+2022
+. Fees are subject to change for programs starting in Fall 2023 and at later dates.
+**
+Amounts listed are the total of tuition, materials, student service and ancillary fees for the first two semesters of programs starting in Fall 2023. Fees are subject to change for programs starting in Fall 2024 and at later dates.
+‡ Semester 3, fees will consist of either a $500 fee for co-op placement or a variable fee for the work-integrated project, neither of which are included in the total listed above.
+International Students
+Visit the
+International Fees and Related Costs page
+for more information.
+Financial Assistance
+This program is approved for OSAP funding, provided the applicant meets OSAP eligibility criteria.
+Disclaimer: The information contained in this website is subject to change without notice. It should not be viewed as a representation, offer or warranty. Students are responsible for verifying George Brown College fee requirements.
+Admission Requirements
+Diploma or bachelor's degree in Information Technology, Computer Science or a related field.
+•Applicants with a diploma or bachelor’s degree in an unrelated field will be required to provide additional information as requested from the Academic Department (questionnaire).
+Note: This will be determined through a review of transcripts, resumé and an online interview (if applicable).
+English Language Proficiency
+Applicants with international transcripts who do not provide
+English language proficiency test results
+must test at the college level in the George Brown College English assessment to be considered for admission.
+Please visit
+English Proficiency
+for more details.
+International Students
+Visit the
+International Admissions page
+for more information regarding country specific admission requirements.
+How to Apply
+Domestic students should apply through
+Ontario Colleges
+.
+International Students
+Visit the
+How to Apply page
+for more information on how and when to apply.
+International students should apply through the
+George Brown College Online Application System
+.
+Contact Us
+School of Computer Technology
+Phone: 416-415-5000, ext. 4287
+Email:
+computertechnology@georgebrown.ca
+The office hours are:
+Monday – Friday: 9 a.m. – 4 p.m.
+Program Co-ordinator: Moe Fadaee
+Email:
+Moe.Fadaee@georgebrown.ca
+Phone: 416-415-5000, ext. 3229
+For more information about George Brown College, you may also call the Contact Centre at 416-415-2000 (TTY 1-877-515-5559) or long distance 1-800-265-2002.
+Contact one of our international recruitment representatives specializing by country of origin by either booking a virtual meeting or submitting an inquiry. For more information visit the
+International Contact Us page
+Visit Our Campus
+The Applied A.I. Solutions Development program is offered through our
+School of Computer Technology
+from our
+Casa Loma Campus
+at
+146 Kendal Avenue
+. Sign up for an
+information session
+or
+campus tour
+to learn more about George Brown College and the program. You can also explore our
+virtual tour.
+Visit and discover life in our campus
+Book campus tour
+Get answers to your questions
+Book info session
+Sign up to receive tailored resources to make your application, your way.
+Sign up now
+Close
+Sign up and learn more about your options, our programs, and life at George Brown.
+You must have JavaScript enabled to use this form.
+First Name
+Last Name
+Email
+Domestic or International
+Country
+I agree to be sent email communications from George Brown College. I understand I can unsubscribe at any time.

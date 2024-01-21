@@ -1,0 +1,299 @@
+Information Systems Business Analysis Program (with experiential learning capstone) (Postgraduate) (T405)
+Apply Now:
+Domestic Students
+International Students
+Program Details
+View information for:
+2023-2024
+2024-2025
+Program Name:
+Information Systems Business Analysis
+Code:
+T405
+Credential:
+Ontario College Graduate Certificate
+Method of Study:
+Full-time
+Duration:
+1 year (3 semesters)
+Starting Months:
+January, September
+Domestic Tuition:
+$8,658.00 * ‡
+International Tuition:
+$18,174.00 ** ‡
+Centre:
+Arts, Design & Information Technology
+School:
+Computer Technology
+Location:
+Casa Loma Campus
+Experiential Learning:
+Mandatory Co-op or Work Integrated Project
+Fall 2023 Delivery:
+Semester 1: On Campus; Semester 3: Co-op
+Winter 2024 Delivery:
+Semester 1, 2: Hybrid
+Program Availability
+Semester
+Domestic
+International
+Fall
+2023
+Closed
+Closed
+Winter
+2024
+Closed
+Closed
+Spring
+2024
+Not Available
+Not Available
+Add to Comparison
++
+Compare Programs
+Explore related programs:
+Cyber Security (Postgraduate) (T433)
+Computer Programming and Analysis (T177)
+Computer Systems Technology (T147)
+Program Menu
+Program Description
+Courses
+Tuition & Fees
+Admission Requirements
+Program Outcomes
+Contact Us
+Program Description
+Program Overview
+The rapid growth in the deployment of and enhancements to information technology solutions in business settings over the past 10 years has thrust the business analyst/information technology (IT) consultant into an increasingly prominent role throughout many sectors, including government, finance, health care and telecommunications. A crucial role in the software/system development life cycle, the business analyst gathers business requirements from various areas in the organization, and translates them into functional system design specifications that can be successfully executed by IT development teams. The role of the business analyst or information technology consultant is often critical to increasing project success rates.
+Full Description
+The Information Systems Business Analysis graduate certificate program at George Brown College is designed to meet the urgent need for professionals who can be the key liaison between business and information technology functions within an organization. Further, George Brown is recognized by the International Institute of Business Analysis as an Academic Member, and is proud to prepare graduates to write the Entry Certificate in Business Analysis™.
+This intensive program is designed for IT or business professionals who aspire to enter into a business analyst role, or practitioners who wish to enhance their experience with formal education. A deeper level of understanding of the business analyst role will be developed through unique learning techniques and invaluable practical experience. Participants will be engaged and supported by a team of business analyst consultants and faculty in developing critical skills and competencies in the areas of:
+problem identification
+documenting and analyzing user requirements
+process and workflow modelling
+communication and facilitation
+project management
+technical writing
+leadership and management
+decision-making
+A key characteristic of this program is the applied nature of the curriculum. As a student in this program, you will be immersed in the process of business analysis through case histories of real-world business issues, and are responsible for developing solutions. The uniqueness of this program is in creating a practising business analyst rather than creating someone who knows how to do it. This program creates work-ready graduates who can do, and have done, the business analysis process through applied, hands-on experience.
+Delivery
+This full-time program is delivered in a blended format, combining face-to-face sessions with online delivery.
+You will generally meet late afternoons, evenings and weekends. This delivery format accommodates those who wish to work while taking this program.
+IIBA Academic Membership
+Academic Membership in the International Institute of Business Analysis (IIBA) offers colleges and universities that have Business Analyst curriculums and care about advancing the BA profession within their student population the opportunity to participate in IIBA membership and benefit from IIBA’s other products and services. The Academic recognition programs offer the students of business-analyst-related programs the opportunity to receive recognition from the IIBA.
+New – Graduates Prepared to Write the IIBA Entry Certification in Business Analysis (TM) Designation (ECBA)
+Students who successfully graduate from the program will be prepared to write the IIBA Entry Certification of Business Analysis designation from the International Institute of Business Analysis. This professional designation recognizes the student’s theoretical understanding of the Business Analyst Body of Knowledge (BABOK), as well as the context of business analysis applied across industries.
+Learn more about the
+Entry Certification in Business Analysis
+(www.iiba.org).
+NEW – UI Path Academic Membership
+T405 – Information Systems Business Analysis introduces our students to the latest technologies, including Robotics Process Automation (RPA) technologies. To support students, we are proud to announce our membership as part of the UI Path Academic Alliance, providing excellent resources and materials that will enable our learners to succeed with RPA!
+Technology Requirements
+This program requires students to have access to a personal computer with the following specifications:
+8 GB minimum (16 GB RAM recommended0
+256 GB SSD Hard Drive (500+ GB is optimal)
+Quad-core i5/i7 2.4GHz or better
+Webcam
+Your Field Education Options
+In semester 3, students complete a Work Integrated Project, or qualified students are eligible for co-op. Learn more about how to qualify, apply, and important dates for co-op on the
+Centre for Arts, Design & Information Technology Experiential Learning
+page.
+Career & Postgraduate Study Opportunities
+Career Options
+According to the Information and Communications Technology Council (2011), “the most rapidly growing information and communication technology (ICT) occupations are those which combine ICT skills with an understanding of business needs.”
+There are approximately 150,000 business analysts and related professionals in Canada.
+BA roles have been the fastest-growing ICT employment occupation in Canada from 2000 to 2010, growing approximately 120 per cent in that time.
+ICTC recognizes “pervasive shortages” for information systems analysts and consultant professionals through and beyond 2016.
+Common job titles include:
+business analyst
+business systems analyst
+computer systems analyst
+informatics consultant
+information systems business analyst
+information systems quality assurance analyst
+Management Information Systems (MIS) analyst
+Industry
+Industry Feedback
+“I wanted to thank you for sending such great candidates to our attention. The top two people interviewed for our IT analyst position were from George Brown.”
+Catherine Commins
+, General Manager, Advanced Chemistry Development, Inc. (ACD/Labs)
+“Porter Airlines has utilized George Brown College’s business analyst students within our IT Division for over two years with great success. The Information Systems Business Analysis program’s flexibility in allowing its students to work with industry partners, like Porter Airlines, while learning is invaluable for learners, and for industry. The business analysts come to us well trained, are keen to add value to projects, and blend well in our business environment. This year, we even hired one full-time before he graduated! Thank you!”
+Lynda Neil
+, PMP Manager, Project Management Office, Porter Airlines Inc.
+“By having students from the Information Systems Business Analysis program work with us, we were able to ensure quality work was accomplished on a very important project. These students were able to gain significant experience working in the field with a large team, dealing with various employees and stakeholders. Everyone involved was able to walk away having gained important experience and achieved positive results, and we look forward to continuing a relationship with George Brown College.”
+Amos Adler
+, President, MEMOTEXT Inc.
+Courses
+Required Courses
+PRINTABLE CURRICULUM PLANNER 2023-2024
+This is a three-semester program comprising case studies during which students will be engaged on an increasingly intense and independent basis with material of escalating complexity. Course-oriented delivery supports this learning process.
+SEMESTER 1
+Code
+Course Name
+BUS 4051
+Foundations of Business Analysis
+BUS 4053
+Business Analysis Competencies and Techniques 1
+BUS 4054
+IT Project Management
+BUS 4055
+Quantitative Research/Qualitative Research
+BUS 4061
+Business Analyst Case Study 1
+BUS 4065
+Advanced Communications
+COMP 4017
+Introduction to Information Systems
+SEMESTER 2
+Code
+Course Name
+BUS 4062
+Business Analyst Case Study 2
+BUS 4063
+Business Analysis Competencies and Techniques 2
+BUS 4064
+Business Analyst Software Tools
+BUS 4064
+Career Planning and Portfolio Development
+BUS 4078
+Trends and Perspectives in Business Analysis
+Analysis and Analytics Specialization
+Code
+Course Name
+BUS 4066
+Introduction to Analytics Systems
+BUS 4067
+User Interface Design/ User Experience
+Finance Specialization
+Code
+Course Name
+FIN 1003
+Financial Systems in Canada
+FIN 4015
+Canadian Securities I
+Cyber Security
+Specialization
+Code
+Course Name
+BUS 4110
+Introduction to Cyber Security
+BUS 4111
+Cyber Security Analysis
+SEMESTER 3
+Code
+Course Name
+TCOP 4002
+Co-op Work Placement
+OR
+BUS 4081
+Work-Integrated Project
+Detailed course outlines
+Program Learning Outcomes
+The graduate has reliably demonstrated the ability to:
+Document business processes using effective and established research and documentation methods and business improvement procedures.
+Manage the requirements elicitation and analysis activities throughout the requirements process for changes to a business system.
+Analyze the information collected during the requirements elicitation to identify gaps and define the capabilities of an acceptable solution using appropriate methods, tools, techniques and documentation.
+Document business requirements in accordance with standard business practices.
+Communicate the results of business requirements analysis and documentation to a broad and diverse audience using appropriate communication tools and styles.
+Develop test strategies to ensure that business requirements and stakeholder objectives for changes to a business system are met.
+Apply negotiation and problem-solving skills to build effective stakeholder alignment.
+Tuition & Fees
+Domestic Tuition
+$8,658.00 * ‡
+International Tuition
+$18,174.00 ** ‡
+Additional Costs
+* Amounts listed are the total of tuition, materials, student service and ancillary fees for the first
+two
+semesters of program starting in Fall
+2022
+. Fees are subject to change for programs starting in Fall 2023 and at later dates.
+** Amounts listed are the total of tuition, materials, student service and ancillary fees for the first two semesters of programs starting in Fall 2023. Fees are subject to change for programs starting in Fall 2024 and at later dates.
+‡ Semester 3 fees will consist of a flat fee of $500 for co-op placement or for the work-integrated project, fees are to be paid separately, both of which are not included in the total above.
+International Students
+Visit the
+International Fees and Related Costs page
+for more information.
+Financial Assistance
+This program is approved for OSAP funding, provided the applicant meets OSAP eligibility criteria.
+Disclaimer: The information contained in this website is subject to change without notice. It should not be viewed as a representation, offer or warranty. Students are responsible for verifying George Brown College fee requirements.
+Admission Requirements
+Two-year or three-year college diploma or bachelor's degree in Computer Science, Commerce, Engineering or related field from an accredited institution*.
+Minimum one year of relevant work experience (resumé required).
+Candidates will be accepted based on the combination of relevant education and work experience.
+* Please note that domestic applicants who are submitting international transcripts require a Canadian equivalency evaluation. This can be obtained through ICAS (International Credential Assessment Service) at
+icascanada.ca
+or WES (World Education Services) at
+wes.org/ca.
+English Language Proficiency
+Applicants with international transcripts who do not provide English proficiency test results must test at the college level in the George Brown College English assessment to be considered for admission.
+Please visit
+English Proficiency
+for more information.
+Course exemptions
+College or university credits may qualify you for course exemptions. Please visit
+Transfer Guide
+for more information.
+International Students
+Visit the
+International Admissions page
+for more information regarding country specific admission requirements.
+How to Apply
+Domestic students should apply through
+Ontario Colleges.
+International Students
+Visit the
+How to Apply page
+for more information on how and when to apply.
+International students should apply through the
+George Brown College Online Application System
+.
+Contact Us
+School of Computer Technology
+Phone: 416-415-5000, ext. 4287
+Email:
+computertechnology@georgebrown.ca
+The office hours are:
+Monday – Friday: 9 a.m. – 4 p.m.
+Program Co-ordinator: Tyler Krimmel
+Phone: 416-415-5000, ext. 4013
+Email:
+tkrimmel@georgebrown.ca
+For more information about George Brown College, you may also call the Contact Centre at 416-415-2000 (TTY 1-877-515-5559) or long distance 1-800-265-2002.
+Contact one of our international recruitment representatives specializing by country of origin by either booking a virtual meeting or submitting an inquiry. For more information visit the
+International Contact Us page
+Visit Our Campus
+The Information Systems Business Analysis program is offered through our
+School of Computer Technology
+from our
+Casa Loma Campus
+at
+146 Kendal Avenue
+. Sign up for an
+information session
+or
+campus tour
+to learn more about George Brown College and the program. You can also explore our
+virtual tour.
+Explore related programs:
+Cyber Security (Postgraduate) (T433)
+Computer Programming and Analysis (T177)
+Computer Systems Technology (T147)
+Visit and discover life in our campus
+Book campus tour
+Get answers to your questions
+Book info session
+Sign up to receive tailored resources to make your application, your way.
+Sign up now
+Close
+Sign up and learn more about your options, our programs, and life at George Brown.
+You must have JavaScript enabled to use this form.
+First Name
+Last Name
+Email
+Domestic or International
+Country
+I agree to be sent email communications from George Brown College. I understand I can unsubscribe at any time.

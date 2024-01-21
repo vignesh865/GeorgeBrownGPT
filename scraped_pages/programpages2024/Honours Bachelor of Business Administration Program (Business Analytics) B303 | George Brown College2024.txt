@@ -1,0 +1,416 @@
+Honours Bachelor of Business Administration (Business Analytics) Program (B303)
+Apply Now:
+Domestic Students
+International Students
+Program Details
+View information for:
+2023-2024
+2024-2025
+Program Name:
+Honours Bachelor of Business Administration (Business Analytics)
+Code:
+B303
+Credential:
+Honours Bachelor's Degree
+Method of Study:
+Full-time
+Duration:
+4 years (8 semesters) plus 1 Co-op Work Term
+Starting Months:
+January, September
+Domestic Tuition:
+$7,483.00 * †
+International Tuition:
+$20,916.00 ** †
+Centre:
+Business
+School:
+Management
+Location:
+St. James Campus
+Experiential Learning:
+Capstone projects, Industry or community partners, Interactive simulations, On-campus work labs, Performance-based learning
+Program Availability
+Semester
+Domestic
+International
+Fall
+2024
+Open
+Open
+Winter
+2025
+Open
+Opens Apr 8, 2024
+Spring
+2025
+Not Available
+Not Available
+Add to Comparison
++
+Compare Programs
+Program Menu
+Program Description
+Courses
+Tuition & Fees
+Admission Requirements
+Program Outcomes
+Contact Us
+Program Description
+Program Overview
+This program is eligible for
+a $1000 entrance scholarship.
+Are you looking to learn how to turn complex data into actionable insights? Our
+Honours Bachelor of Business Administration (Business Analytics)
+four-year degree program will prepare you to meet data-related challenges that modern businesses face across the globe. This interdisciplinary program combines courses in business, leadership, liberal sciences, dashboarding technologies, and analytical techniques to help you improve your critical thinking and management skills. Business Analytics graduates can secure roles as data scientists, business analysts, customer insights managers, and more.
+Full Description
+Are you interested in working with data and making informed decisions? Our
+Honours Bachelor of Business Administration (Business Analytics)
+four-year degree program prepares you to work in high-demand sectors such as banking, government, pharmaceutical, finance, healthcare, and telecommunications. You'll learn how to interpret data from multiple sources, what type of data you need to collect to make important business decisions, and how to use that data to tell an interesting story.
+As a student in this program, you’ll also benefit from an exciting work-integrated learning experience, where you’ll work directly with industry employers.
+Here are some skills you’ll be able to show off after completion of the Honours Bachelor of Business Administration (Business Analytics) program:
+Using business intelligence models, data management, data insights and frameworks, data-science-based decisions, and value-creation opportunities to help with decision-making
+Using the latest software and data science methods to analyze and disseminate data for various business uses
+Conducting qualitative and quantitative research to aid in strategic planning
+Communicating accurately and professionally through written, oral, digital, and visual media, adapting to context as needed
+Delivery
+This full-time degree program is delivered in an online format for the first two years and in person for the latter two years.
+International students can study the first two years remotely from their home country and no study permit is required. However, students would have to apply for a study permit well in advance of coming to Canada to begin year three (5th semester). If students are successful in securing a study permit for years three and four of the program, they will also be eligible to apply for a post-graduation work permit.
+Your Field Education Options
+The program includes:
+Work-integrated learning experiences that amount to no less than 14 weeks of full-time equivalent work (420 hours), either in one block or in multiple cumulative blocks appropriate to achieving the program learning outcomes.
+Students will engage with employers on projects that include:
+development of reporting dashboards with drill-down analytical capabilities
+predictive model development
+marketing research
+customer segmentation development
+customer relationship management campaign design and implementation
+Career & Postgraduate Study Opportunities
+Career Options
+Common job titles for Business Analytics graduates include:
+analyst – data science / data mining
+business analyst I & II
+data scientist
+data scientist (applied analytics, finance, banking, telecommunications)
+expert – data and analytics
+manager, customer insights & analytics
+marketing insights & analytic specialist
+marketing specialist
+performance analyst I & II
+senior analyst, data insights and analytics
+senior HR analyst data & insights
+senior manager/director – data science/data mining
+Industry
+Advances in analytics technologies and their applications in high-demand sectors like pharmaceutical, banking, health, manufacturing, natural resources, financial and government services have created strong demand for highly skilled workers capable of applying business and analytical skills. This demand has culminated in a direct hiring requirement of more than 182,000 ICT workers in Canada by 2019, with an additional 36,000 workers by 2020. With Statistics Canada projecting a 14 per cent industry growth by 2024, graduates of the Bachelor in Business Administration (Business Analytics) degree can play a key role in furthering Canada's prominence in the global data analytics market.
+Courses
+Required Courses
+The following is a guide for the courses in the Honours Bachelor of Business Administration (Business Analytics) (B303) degree program for semesters 1 to 8. Students must successfully complete
+44
+courses and
+1 integrated experience
+in order to complete their degree. This includes
+36
+mandatory courses and
+8
+liberal arts courses of your choice, from the arts and humanities, social science, or science and technology.
+SEMESTER 1
+Code
+Course Name
+Pre-requisite
+BCOM 1001
+Applied Business Communication
+NONE
+BMTH 1004
+Business Calculus and Algebra
+NONE
+BBUS 1004
+Programming Fundamentals for Analytics
+NONE
+BCMP 1002
+Computer Applications Involving Analytics
+NONE
+Select One Liberal Studies Elective
+SEMESTER 2
+Code
+Course Name
+Pre-requisite
+BMTH 1102
+Statistics I for Analytics
+NONE
+BBUS 2102
+Data Preparation and Visualization for Analytics
+BBUS 1004
+BBUS 1106
+Organizational Behaviour
+NONE
+BCMP 1012
+Advanced Computer Applications Involving Analytics
+BCMP 1002
+Select One Liberal Studies Elective
+SEMESTER 3
+Code
+Course Name
+Pre-requisite
+BBUS 2000
+Fundamentals of Descriptive, Predictive and Prescriptive Analytics
+BBUS 2102
+BBUS 2001
+Research I
+NONE
+BMTH 2002
+Statistics II for Analytics
+BMTH 1102
+BBUS 2003
+Social and Digital Analysis
+NONE
+BCOP 1000
+Work Experience Preparation (28 hours non-credit)
+BCOM 1001
+Select One Liberal Studies Elective
+SEMESTER 4
+Code
+Course Name
+Pre-requisite
+BBUS 2100
+Business Metrics
+NONE
+BBUS 2101
+Research II
+BBUS 2001
+BACC 1012
+Financial Accounting
+NONE
+BBUS 2103
+Business Ethics
+BBUS 1106 & BCOM 1001
+Select One Liberal Studies Elective
+SEMESTER 5
+Code
+Course Name
+Pre-requisite
+BBUS 1006
+Microeconomics: Canada in the Global Environment
+NONE
+BBUS 3000
+Search Analytics
+BMTH 2002
+BBUS 1002
+Marketing Management
+NONE
+BFSM 4101
+Human Resources Management
+BBUS 1106
+Select One Liberal Studies Elective
+SEMESTER 6
+Code
+Course Name
+Pre-requisite
+BBUS 3101
+Management Science Models and Methods
+NONE
+BBUS 3108
+Innovation and Leadership
+BBUS 1106 & BFSM 4101
+BBUS 1007
+Macroeconomics: Canada in the Global Environment
+NONE
+BBUS 3109
+Analytics Practice Colloquia: Topics and Applications in Business Analytics
+(PreReq) BBUS 2000 & BMTH 2002 (CoReq) BBUS 3101
+Select One Liberal Studies Elective
+BCOP 1102 – Work Experience (CO-OP)
+SEMESTER 7
+Code
+Course Name
+Pre-requisite
+BBUS 4002
+Thinking Creatively
+BCOM 1001
+BBUS 4003
+Capstone Project I
+Completion of semester 6
+BBUS 4004
+Sector Specific Analytics
+BBUS 3000 & BBUS 3109
+BBUS 4001
+Operations Management
+BMTH 1102
+BLAW 2005
+Business Law
+NONE
+Select One Liberal Studies Elective
+SEMESTER 8
+Code
+Course Name
+Pre-requisite
+BBUS 4103
+Capstone Project II
+Completion of semester 7
+BBUS 4104
+Speakers Series
+BBUS 2101, BBUS 3000, BBUS 4002 & BBUS 3108
+BBUS 4105
+Presenting Data
+(PreReq) BBUS 4002, BBUS 2101, BBUS 3000
+BBUS 4106
+Storytelling
+BCOM 1001
+Select One Liberal Studies Elective
+Articulation Agreement
+This degree prepares students for future study in relevant graduate program in related fields.
+There are potential pathways for BBA graduates interested in pursuing a Master of Data Analytics or Master of Business Administration degree, including from the following universities:
+York University
+Athabasca University
+Toronto Metropolitan University
+Pace University (New York City)
+Program Learning Outcomes
+Create, evaluate, and interpret insights for business decision-makers based on current theories, concepts, and practices in business intelligence and analytics.
+Analyze external and internal factors to identify impact on the organization’s resources, outputs, and operations.
+Evaluate and use practices from a wide range of business disciplines to support the success of the organization.
+Conduct qualitative and quantitative research and research analysis to aid in decision-making and strategic planning.
+Synthesize data sets of data mining software and data science methods to extract relevant variables for business decision-makers.
+Assess the suitability and support of business data for business decision-making.
+Analyze trends in data to identify directions for business decision making.
+Create accurate and professional written, oral, digital and visual communications that recognize and adapt to contextual factors.
+Innovate through engagement with theories and methods of creative thinking to build relationships and offer progressive solutions.
+Apply socially and professionally responsible practices to promote successful collaboration, behavioural self-monitoring and ethical practices.
+Tuition & Fees
+Domestic Tuition
+$7,483.00 * †
+International Tuition
+$20,916.00 ** †
+Additional Costs
+*Amounts listed are the estimated total of tuition, materials, student service and ancillary fees for the first two semesters of programs starting in Fall
+2023
+. Fees are subject to change for programs starting in Fall 2024 and at later dates. This fee does not include books, which are to be purchased by the student separately.
+** Amounts listed are the estimated total of tuition, materials, student service and ancillary fees for the first two semesters of programs starting in Fall
+2024
+. Tuition fees are subject to board approval. Material, student service and ancillary fees are estimated based on prior years. All fees are subject to change without notice. This fee does not include textbooks, which are to be purchased by the student separately.
+† This program includes one Work Experience semester or equivalent.
+International Students
+Visit the
+International Fees and Related Costs page
+for more information.
+Financial Assistance
+This program is approved for OSAP funding, provided the applicant meets OSAP eligibility criteria.
+Disclaimer: The information contained in this website is subject to change without notice. It should not be viewed as a representation, offer or warranty. Students are responsible for verifying George Brown College fee requirements.
+Admission Requirements
+Applicants are selected on the basis of their academic achievement, including the required courses, and any other selection criteria outlined below.
+Ontario Secondary School Diploma with six grade 12 university (U) or university/college (M) courses
+including
+: grade 12 (U) English
+and
+grade 12 (U) Mathematics.
+A grade of at least 60 per cent in all prerequisite courses (English and math).
+An overall average of 65 per cent in six grade 12 (U) or (M) courses.
+Recommended courses: basic computer software applications and calculus and vectors (MCV4U).
+OR
+Mature Student status (19 years of age or older and no OSSD)**
+grade 12 (U) English
+and
+grade 12 (U) Mathematics are required
+grade of 65 per cent or higher in English and 65 per cent or higher in math
+Post-secondary courses in English and mathematics will be considered (certain courses only)
+** There is no mature student testing in the required grade 12 university (U-level) credits for degree programs. Mature applicants must have the English and math credits required.
+Please note that George Brown is committed to ensuring that applicants will succeed in their program of choice, and meeting the minimum requirements does not guarantee admission to the program. Applicants may be required to have grades higher than the minimum requirements stated.
+English language proficiency:
+George Brown College ESL Level 9; TOEFL 84 overall and 21 in each skill band (online); IELTS 6.5 overall and 6.0 in each skill band; MELAB 85; CAEL overall 70 (writing 60)
+Proficiency in English communications is necessary for success in this program. Please review our
+English proficiency requirements
+. Applicants may be required to complete English testing to demonstrate proficiency.
+Course Exemptions
+Some college and university credits may qualify you for exemptions. Please visit our
+transfer guide
+for more information.
+George Brown has been granted a consent by the Ministry of Colleges and Universities to offer this applied degree for a seven-year term starting starting December 21, 2020. In conformity with the Minister’s criteria and requirements, George Brown will submit an application for the renewal of the consent for this program 12 months prior to the expiration of the consent. George Brown will ensure that all students admitted to this program will have the opportunity to complete the program within a reasonable time frame.
+International Students
+Visit the
+International Admissions page
+for more information regarding country specific admission requirements.
+How to Apply
+Domestic students should apply through
+Ontario Colleges.
+International Students
+Visit the
+How to Apply page
+for more information on how and when to apply.
+International students should apply through the
+George Brown College Online Application System
+.
+Contact Us
+Information Sessions
+On-campus information sessions
+are held on a regular basis. Come and have your questions answered. Learn about the program content and career options, meet your friendly professors and staff, and experience what it is like to be in a George Brown College classroom.
+Sign up for an upcoming session
+.
+Domestic Student Admissions
+For inquiries about domestic admission requirements, admission deadlines, or the admissions process, please contact the Admissions Office at
+admissions@georgebrown.ca
+or visit the
+Admissions section
+.
+International Student Admissions
+Contact one of our international recruitment representatives specializing by country of origin by either booking a virtual meeting or submitting an inquiry. For more information visit the
+International Contact Us page
+.
+Fees and Financial Information
+For inquiries about OSAP, Bursaries, Scholarships and other financial inquiries, please contact the Financial Aid Office at
+FinAid@georgebrown.ca
+or visit the
+Financial Aid section
+.
+Entry Advising
+For advice on the various program options and which program might be best suited for you,
+make an appointment
+to see an Entry Advisor. Please review these
+frequently asked questions
+.
+Centre for Business
+For questions regarding programs at the Centre for Business or if you require more information, please do not hesitate to contact us. Our knowledgeable staff are available to assist you.
+For general inquiries, please contact the Centre for Business:
+Email:
+business@georgebrown.ca
+Phone: (416) 415-5000 ext. 2160
+Honours Bachelor of Business Administration (Business Analytics) (B303)
+For inquiries related to this program (for example, course-specific information) please contact the co-ordinator:
+Robin Yap, B303 Program Co-ordinator
+Email:
+ryap@georgebrown.ca
+SOCIAL CHANNELS:
+Follow the Centre for Business on
+Instagram
+and
+LinkedIn
+Contact one of our international recruitment representatives specializing by country of origin by either booking a virtual meeting or submitting an inquiry. For more information visit the
+International Contact Us page
+Visit Our Campus
+This program is offered out of our
+School of Management
+and classes usually take place at our
+St. James Campus
+, mainly at
+200 King St. E.
+, and
+290 Adelaide St. E.
+, Toronto, ON, Canada.
+Campus tours
+are offered on a regular basis.
+Sign up
+today! You can also check out our
+virtual tour
+.
+Visit and discover life in our campus
+Book campus tour
+Get answers to your questions
+Book info session
+Sign up to receive tailored resources to make your application, your way.
+Sign up now
+Close
+Sign up and learn more about your options, our programs, and life at George Brown.
+You must have JavaScript enabled to use this form.
+First Name
+Last Name
+Email
+Domestic or International
+Country
+I agree to be sent email communications from George Brown College. I understand I can unsubscribe at any time.

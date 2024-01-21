@@ -1,0 +1,237 @@
+Mobile Application Development and Strategy Program (Postgraduate) (T440)
+Apply Now:
+Domestic Students
+International Students
+Program Details
+View information for:
+2023-2024
+2024-2025
+Program Name:
+Mobile Application Development and Strategy
+Code:
+T440
+Credential:
+Ontario College Graduate Certificate
+Method of Study:
+Full-time
+Duration:
+1 year (3 semesters)
+Starting Months:
+January, September
+Domestic Tuition:
+$6,137.00 * ‡
+International Tuition:
+$18,603.00 ** ‡
+Centre:
+Arts, Design & Information Technology
+School:
+Computer Technology
+Location:
+Casa Loma Campus
+Experiential Learning:
+Mandatory Co-op or Work Integrated Project
+Program Availability
+Semester
+Domestic
+International
+Fall
+2024
+Open
+Open
+Winter
+2025
+Open
+Opens Apr 8, 2024
+Spring
+2025
+Not Available
+Not Available
+Add to Comparison
++
+Compare Programs
+Explore related programs:
+Computer Programming and Analysis (T177)
+Information Systems Business Analysis (with experiential learning capstone) (Postgraduate) (T405)
+Computer Systems Technology (T147)
+Program Menu
+Program Description
+Courses
+Tuition & Fees
+Admission Requirements
+Program Outcomes
+Contact Us
+Program Description
+Program Overview
+The
+Mobile Application Development and Strategy
+one-year graduate certificate program will equip you with a wide variety of skills related to developing, testing, and deploying apps for iOS and Android devices.
+Full Description
+The field of mobile application development is rapidly expanding within the IT industry. In our three-semester
+Mobile Application Development and Strategy
+graduate certificate program, you'll gain a diverse skill set as you learn to design, test, and launch apps for tablets and phones.
+We'll highlight the top two mobile platforms––iOS and Android––and teach you Kotlin and Swift programming languages, which will set you up to develop mobile apps. We'll cover client-side development tools like HTML 5, CSS3, and JavaScript, plus aspects of server-side programming to increase your knowledge as an app developer. You'll also take part in either a co-op work term or an applied project, giving you the competitive edge you need to work in the industry.
+In this program, you'll learn how to develop mobile apps from a business perspective, like performing competitive research and exploring revenue-generating ideas. You'll also learn how to submit apps to the App Store and Android Market.
+Technology Requirements
+You'll need to have access to a personal computer with the following specifications:
+16 GB RAM minimum
+256 GB SSD Hard Drive (500+ GB is optimal)
+Quad-core i7 2.4GHz or better
+Video card (2GB RAM minimum/4GB RAM recommended)
+Webcam
+Mac is recommended
+Your Field Education Options
+In semester 3, students complete a Work Integrated Project, or qualified students are eligible for co-op. Learn more about how to qualify, apply, and important dates for co-op on the
+Centre for Arts, Design & Information Technology Experiential Learning
+page.
+Career & Postgraduate Study Opportunities
+Career Options
+As a graduate of this program, you'll be ready to take on roles such as:
+mobile developer
+iOS developer
+Android developer
+mobile engineer
+Courses
+Required Courses
+PRINTABLE CURRICULUM PLANNER 2024-2025
+SEMESTER 1
+Code
+Course name
+MADS 4001
+Introduction to Android Development
+MADS 4006
+Advanced Android Development
+MADS 4007
+Web Development Fundamentals
+MADS 4012
+Full Stack Development
+MADS 4013
+Introduction to Kotlin
+SEMESTER 2
+Code
+Course name
+MADS 4002
+Swift Fundamentals
+MADS 4003
+Introduction to IOS Development
+MADS 4005
+Advanced IOS Development
+MADS 4009
+Mobile Application Strategy
+MADS 4014
+Cross Platform Mobile Development
+COMP 4064
+Career Planning and Portfolio Development
+SEMESTER 3
+Code
+Course name
+TCOP 4010
+Co-op
+OR
+MADS 4010
+Work-Integrated Project
+Detailed course outlines
+Program Learning Outcomes
+Create meaningful design artifacts using modern software engineering methodologies and project management principles.
+Implement native mobile applications for different mobile platforms.
+Develop solution architectures to support mobile applications by applying enterprise architecture principles and best practices.
+Develop creative concepts for mobile applications that meet innovation, entrepreneurship and social enterprise objectives.
+Develop secure mobile applications by implementing the security principles, standards and best practices of mobile application development.
+Develop usable, friendly, fast and reliable mobile applications by applying the principles and best practices of User Interface design and experience (UI/UX).
+Work independently and as a team member to develop mobile application solutions for a business.
+Use industry-standard testing methodologies to ensure software quality and improve software performance.
+Apply various strategies for developing competitive mobile applications.
+Tuition & Fees
+Domestic Tuition
+$6,137.00 * ‡
+International Tuition
+$18,603.00 ** ‡
+Additional Costs
+* Amounts listed are the estimated total of tuition, materials, student service and ancillary fees for the
+first
+two semesters of the program starting in Fall
+2023
+. Fees are subject to change for programs starting in Fall 2024 and at later dates. This fee does not include books, which are to be purchased by the student separately.
+** Amounts listed are the estimated total of tuition, materials, student service and ancillary fees for the first two semesters of programs starting in Fall
+2024
+. Tuition fees are subject to board approval. Material, student service and ancillary fees are estimated based on prior years. All fees are subject to change without notice. This fee does not include books, which are to be purchased by the student separately.
+‡ Semester 3 fees will consist of a flat fee of $500 for co-op placement or for the work-integrated project, fees are to be paid separately, both of which is not included in the total above.
+International Students
+Visit the
+International Fees and Related Costs page
+for more information.
+Financial Assistance
+This program is approved for OSAP funding, provided the applicant meets OSAP eligibility criteria.
+Disclaimer: The information contained in this website is subject to change without notice. It should not be viewed as a representation, offer or warranty. Students are responsible for verifying George Brown College fee requirements.
+Admission Requirements
+Two- or three-year college diploma or bachelor's degree in Information Technology, Computer Science, or a related field.
+ENGLISH LANGUAGE PROFICIENCY
+English language proficiency is essential. Applicants with international transcripts who do not provide English proficiency test results must test at the college level in the George Brown College English assessment to be considered for admission.
+Please visit
+English Proficiency
+for more details.
+COURSE EXEMPTIONS
+College or university credits may qualify you for course exemptions. Please visit the
+Transfer Guide
+for more information.
+Apply to
+Domestic students should apply through
+Ontario Colleges.
+International Students
+Visit the
+International Admissions page
+for more information regarding country specific admission requirements.
+How to Apply
+Domestic students should apply through
+Ontario Colleges.
+International Students
+Visit the
+How to Apply page
+for more information on how and when to apply.
+International students should apply through the
+George Brown College Online Application System
+.
+Contact Us
+School of Computer Technology
+Phone: 416-415-5000, ext. 4287
+Email:
+computertechnology@georgebrown.ca
+The office hours are: Monday – Friday: 9 a.m. – 4 p.m.
+Program Co-ordinator: Maziar Masoudi
+Phone: 416-415-5000, ext. 3345
+Email:
+mmasoudi@georgebrown.ca
+For more information about George Brown College, you may also call the Contact Centre at 416-415-2000 (TTY 1-877-515-5559) or long distance 1-800-265-2002.
+Visit Our Campus
+The Mobile Application Development and Strategy is offered through our
+School of Computer Technology
+from our
+Casa Loma Campus
+at
+146 Kendal Avenue
+. Sign up for an
+information session
+or
+campus tour
+to learn more about George Brown College and the program. You can also explore our
+virtual tour.
+Contact one of our international recruitment representatives specializing by country of origin by either booking a virtual meeting or submitting an inquiry. For more information visit the
+International Contact Us page
+Explore related programs:
+Computer Programming and Analysis (T177)
+Information Systems Business Analysis (with experiential learning capstone) (Postgraduate) (T405)
+Computer Systems Technology (T147)
+Visit and discover life in our campus
+Book campus tour
+Get answers to your questions
+Book info session
+Sign up to receive tailored resources to make your application, your way.
+Sign up now
+Close
+Sign up and learn more about your options, our programs, and life at George Brown.
+You must have JavaScript enabled to use this form.
+First Name
+Last Name
+Email
+Domestic or International
+Country
+I agree to be sent email communications from George Brown College. I understand I can unsubscribe at any time.

@@ -1,0 +1,291 @@
+Health Informatics Program (Postgraduate) (T402)
+Apply Now:
+Domestic Students
+International Students
+Program Details
+View information for:
+2023-2024
+2024-2025
+Program Name:
+Health Informatics
+Code:
+T402
+Credential:
+Ontario College Graduate Certificate
+Method of Study:
+Full-time
+Duration:
+1 year (3 semesters)
+Starting Months:
+January, September
+Domestic Tuition:
+$7,583.00 * ‡
+International Tuition:
+$18,913.00 ** ‡
+Centre:
+Arts, Design & Information Technology
+School:
+Computer Technology
+Location:
+Casa Loma Campus
+Experiential Learning:
+Mandatory Co-op or Work Integrated Project
+Program Availability
+Semester
+Domestic
+International
+Fall
+2024
+Open
+Open
+Winter
+2025
+Open
+Opens Apr 8, 2024
+Spring
+2025
+Not Available
+Not Available
+Add to Comparison
++
+Compare Programs
+Explore related programs:
+Health Information Management (C139)
+Information Systems Business Analysis (with experiential learning capstone) (Postgraduate) (T405)
+Office Administration – Health Services (S135)
+Program Menu
+Program Description
+Courses
+Tuition & Fees
+Admission Requirements
+Program Outcomes
+Contact Us
+Program Description
+Program Overview
+Health Informatics
+is a one-year graduate certificate program for healthcare and information systems professionals currently employed or with experience in healthcare or technology, or who have an interest in the advancement of IT in healthcare.
+We aim to accommodate busy schedules with evening and weekend classes; however, some courses are scheduled during daytime hours. See the Full Description section for more details.
+Full Description
+The landscape of healthcare is undergoing a remarkable transformation thanks to the evolution of information and communication technologies. This shift is revolutionizing the way we access and share information, all aimed at enhancing patient care.
+Our
+Health Informatics
+one-year graduate certificate program brings together professionals from both health-related and IT sectors to shape you into a health informatics specialist, ready to tackle the challenges of current and future healthcare systems. If you're a professional in IT, healthcare, or related areas, and dream of being a health informatician/analyst, or if you're a practitioner wanting to level up your game with formal education, this intensive program is for you.
+Throughout the program, our team of health informatics/business system analyst pros and faculty will guide you through developing critical skills and competencies in these areas:
+healthcare systems, technologies, and trends
+electronic medical records (EMRs)
+ethical, professional, legal, and policy implications of health information systems technologies and health information standards
+problem identification and analysis
+documenting and analyzing healthcare organization, health user, and solution requirements
+process, workflow, and system/solution modelling
+project management
+technical writing
+leadership and management
+business and system analysis techniques and core professional competencies such as analytical thinking and problem solving, communication and facilitation, and collaborative skills
+The Health Informatics program is all about diving deep into the world of health informatics. What makes this graduate certificate program stand out? It's all about hands-on experience and application. You'll immerse yourself in health informatics and analysis through case studies, industry projects, and practical work experience. As you develop innovative solutions, you'll emerge from this program with skills that prepare you for the real-life demands of your career.
+Upon graduation, you'll have the essential skills and competencies needed for professional certification programs in Health Informatics and Project Management.
+Here are some skills you'll be able to show off after completing this program:
+Formulate change strategies to implement health information systems technologies (HIST) within the healthcare setting.
+Apply business and system analysis techniques to evaluate the effectiveness of health information systems technologies within a health-related setting.
+Design and protoype web and mobile health apps.
+Integrate relevant standards and professional, ethical, and legislative requirements with health information system technologies.
+Design training and education for the effective use of HIST.
+Configure all aspects of an EMR used by physicians in outpatient settings and multidisciplinary clinics.
+Hands-On Experience With A Commercial EMR
+We've partnered with Arya Health, the maker of AryaEHR, a commercially available EMR, to give you hands-on practical experience with an EMR that physicians use across Canada. This means you'll graduate with EMR experience on your resume, giving you a competitive edge in the marketplace.
+George Brown College is the only College that offers this valuable experience.
+Find out more on
+AryaEHR's website
+.
+IIBA ACADEMIC MEMBERSHIP
+Academic Membership in the International Institute of Business Analysis (IIBA) offers colleges and universities that have Business Analyst curriculums and care about advancing the BA profession within their student population the opportunity to participate in IIBA membership and benefit from IIBA’s other products and services. The Academic recognition programs offer the students of Business Analyst-related programs the opportunity to receive recognition from the IIBA.
+NEW – GRADUATES PREPARED TO WRITE THE IIBA ENTRY CERTIFICATION IN BUSINESS ANALYSIS (TM) DESIGNATION (ECBA).
+Students who successfully graduate from this program will be prepared to write the IIBA Entry Certification of Business Analysis designation from the International Institute of Business Analysis. This professional designation recognizes the student’s theoretical understanding of the Business Analyst Body of Knowledge (BABOK), as well as the context of business analysis applied across industries.
+Learn more about the
+Entry Certification in Business Analysis
+(
+www.iiba.org
+).
+Technology Requirements
+This program requires you to have access to a personal laptop with the following specifications:
+Screen 13-inch minimum
+Webcam + mic
+8 GB RAM
+256 GB SSD Hard Drive (512 GB SSD is better)
+Quad-core i7 2.4GHz or better
+2 TB (minimum) external hard drive
+Consistent access to a reliable high-speed internet connection (minimum 10 Mbs download speed recommended)
+Program Delivery
+Note on program delivery: Most courses take place in the evening and on weekends; however, some courses may take place from 2 PM - 6 PM on weekdays.
+Your Field Education Options
+In semester 3, students complete a Work Integrated Project, or qualified students are eligible for co-op. Learn more about how to qualify, apply, and important dates for co-op on the
+Centre for Arts, Design & Information Technology Experiential Learning
+page.
+Career & Postgraduate Study Opportunities
+Career Options
+Upon completion of the program, you'll have the skills needed for positions such as:
+project/program coordinator
+service desk analyst
+product analyst
+apps analyst
+testing analyst
+privacy co-ordinator
+training co-ordinator
+clinical informatics co-ordinator
+data co-ordinator
+junior business analyst
+Courses
+Required Courses
+PRINTABLE CURRICULUM PLANNER 2024-2025
+SEMESTER 1
+Code
+Course Name
+BUS 4051
+Foundations of Business Analysis
+BUS 4053
+Business Analysis Competencies and Techniques I
+BUS 4054
+IT Project Management
+COMP 4050
+Health Informatics and Clinical Practice I
+COMP 4014
+Health Care System
+COMP 4015
+Health Care Information Technology
+COMP 4080
+Knowledge Management and Clinical Decision-Making
+SEMESTER 2
+Code
+Course Name
+COMP 4064
+Career Planning and Portfolio Development
+COMP 4024
+Health Data Standards
+COMP 4033
+Health Information Systems Analysis and Evaluation
+COMP 4084
+Health Business and Systems Analysis Case I
+COMP 4051
+Health Informatics and Clinical Practice II
+COMP 4083
+Health Information Legislation, Privacy and Security
+SEMESTER 3
+Code
+Course Name
+TCOP 4012
+Co-op Work Placement
+OR
+COMP 4090
+Work-Integrated Project
+Detailed course outlines
+Program Learning Outcomes
+The graduate has reliably demonstrated the ability to:
+Assess organizational requirements for health information system technologies (HIST).
+Formulate strategies for the selection and implementation of HIST.
+Design and deliver educational/training strategies for end-users.
+Evaluate the impact of HIST on business/clinical processes, and on health services delivery.
+Tuition & Fees
+Domestic Tuition
+$7,583.00 * ‡
+International Tuition
+$18,913.00 ** ‡
+Additional Costs
+* Amounts listed are the estimated total of tuition, materials, student service and ancillary fees for the first
+two
+semesters of programs starting in Fall
+2023
+. Fees are subject to change for programs starting in Fall 2024 and at later dates. This fee does not include books, which are to be purchased by the student separately.
+** Amounts listed are the estimated total of tuition, materials, student service and ancillary fees for the first two semesters of programs starting in Fall
+2024
+. Tuition fees are subject to board approval. Material, student service and ancillary fees are estimated based on prior years. All fees are subject to change without notice. This fee does not include books, which are to be purchased by the student separately.
+‡ Semester 3 fees will consist of a flat fee of $500 for co-op placement or for the work-integrated project, fees are to be paid separately, both of which are not included in the total above.
+International Students
+Visit the
+International Fees and Related Costs page
+for more information.
+Financial Assistance
+This program is approved for OSAP funding, provided the applicant meets OSAP eligibility criteria.
+Disclaimer: The information contained in this website is subject to change without notice. It should not be viewed as a representation, offer or warranty. Students are responsible for verifying George Brown College fee requirements.
+Admission Requirements
+Minimum two-year diploma or bachelor's degree* in Health Sciences or related field from an accredited institution.
+OR
+Minimum three-year diploma in Information Technology* or related field from an accredited institution.
+PLUS:
+Minimum one year of work experience as a health-care professional or an IT professional, or equivalent (resumé required).
+Candidates will be accepted based on the combination of relevant education and work experience.
+* Please note that domestic applicants who are submitting international transcripts require a Canadian equivalency evaluation. This can be obtained through ICAS (International Credential Assessment Service) at
+icascanada.ca
+or WES (World Education Services) at
+wes.org/ca
+.
+English Language Proficiency
+Applicants with international transcripts who do not provide
+English language proficiency test results
+must test at the college level in the George Brown College English assessment to be considered for admission.
+Please visit
+English Proficiency
+for more details.
+Course exemptions
+College or university credits may qualify you for course exemptions. Please visit
+Transfer Guide
+for more information.
+International Students
+Visit the
+International Admissions page
+for more information regarding country specific admission requirements.
+How to Apply
+Domestic students should apply through
+Ontario Colleges.
+International Students
+Visit the
+How to Apply page
+for more information on how and when to apply.
+International students should apply through the
+George Brown College Online Application System
+.
+Contact Us
+School of Computer Technology
+Phone: 416-415-5000, ext. 4287
+Email:
+computertechnology@georgebrown.ca
+The office hours are:
+Monday – Friday: 9 a.m. – 4 p.m.
+Program Co-ordinator: Dr. Thérèse Bernier
+Email:
+Therese.Bernier@georgebrown.ca
+Phone: 416-415-5000 x 3744
+Office hours: Monday, 2-5 P.M.
+For more information about George Brown College, you may also call the Contact Centre at 416-415-2000 (TTY 1-877-515-5559) or long distance 1-800-265-2002.
+Contact one of our international recruitment representatives specializing by country of origin by either booking a virtual meeting or submitting an inquiry. For more information visit the
+International Contact Us page
+Visit Our Campus
+The Health Informatics program is offered through our
+School of Computer Technology
+from our
+Casa Loma Campus
+at
+146 Kendal Avenue
+. Sign up for an
+information session
+or
+campus tour
+to learn more about George Brown College and the program. You can also explore our
+virtual tour.
+Explore related programs:
+Health Information Management (C139)
+Information Systems Business Analysis (with experiential learning capstone) (Postgraduate) (T405)
+Office Administration – Health Services (S135)
+Visit and discover life in our campus
+Book campus tour
+Get answers to your questions
+Book info session
+Sign up to receive tailored resources to make your application, your way.
+Sign up now
+Close
+Sign up and learn more about your options, our programs, and life at George Brown.
+You must have JavaScript enabled to use this form.
+First Name
+Last Name
+Email
+Domestic or International
+Country
+I agree to be sent email communications from George Brown College. I understand I can unsubscribe at any time.

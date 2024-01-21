@@ -1,0 +1,193 @@
+Automation Technician Program (Distance Education) (T950)
+Apply Now:
+Domestic Students
+International Students
+Program Details
+View information for:
+2023-2024
+2024-2025
+Program Name:
+Automation Technician
+Code:
+T950
+Credential:
+George Brown College Certificate
+Method of Study:
+Part-time
+Duration:
+32 weeks (approximately)
+Starting Months:
+Open enrolment
+Domestic Tuition:
+$1,780.00*
+Centre:
+Construction & Engineering Technologies
+School:
+Mechanical Engineering Technologies
+Location:
+Online
+Program Availability
+Semester
+Domestic
+International
+Fall
+2024
+Not Available
+Open: Not Study Permit Eligible
+Winter
+2025
+Not Available
+Open: Not Study Permit Eligible
+Spring
+2025
+Not Available
+Open: Not Study Permit Eligible
+Add to Comparison
++
+Compare Programs
+Explore related programs:
+Electromechanical Engineering Technician (T146)
+Mechanical Engineering Technology – Design (T121)
+Electromechanical Engineering Technology – Building Automation (T171)
+Program Menu
+Program Description
+Courses
+Tuition & Fees
+Admission Requirements
+Contact Us
+Program Description
+Program Overview
+INTERNATIONAL STUDENTS
+This online distance program is only available to study while remaining in your home country and
+does not qualify for study/work permit eligibility in Canada.
+We developed the 32-week
+Automation Technician
+certificate program to meet the industry's growing demand for workers with a broad set of skills and knowledge in industrial automation, including digital electronics, process control, SCADA systems, and programming of Programmable Logic Controllers and robotics. This program examines applications and examples of automated manufacturing systems, including both the theory and function of digital and industrial electronics, hydraulics and pneumatics, robotics systems, programming languages, and alarm management. You'll learn through a combination of theory and laboratory simulations using LogixSim, a simulation software suite that includes electronics, PLC, and robotics simulation.
+Full Description
+INTERNATIONAL STUDENTS
+This online distance program is only available to study while remaining in your home country and
+does not qualify for study/work permit eligibility in Canada.
+The 32-week
+Automation Technician
+certificate program provides an introduction to industrial automation, including digital electronics, process control, SCADA systems and programming of PLCs, and robotics. The program examines applications and examples of automated manufacturing systems, including both the theory and function of digital and industrial electronics, hydraulics and pneumatics, robotics systems, programming languages, and alarm management.
+The learning materials, provided in a web-based downloadable file format, include 18 modules of interactive curriculum using text, 2D and 3D animations, photos, audio clips, and interactive lab simulations. Interactive exercises, practice exams, and online support will prepare you for computer-based final exams. We designed these flexible computer-based modules to fit into your schedule––not ours––so you can work at your own pace while you complete the program. The average completion time of the 18 training modules is 32 weeks, but there are no time limits.
+One of the key features of our Automation Technician program is the integration of theory with lab projects. You'll receive a licensed copy of LogixSim, which includes both 2D and 3D simulation software and features CircuitLogix Pro, RoboLogix, PLCLogix 5000, and 3DLab simulation products. This software allows for the design, testing, and debugging of control devices and automated equipment, as well as circuit schematics and systems. From the simplest control circuits to the most complex, LogixSim has the versatility to suit almost any requirement for real-world simulation.
+Program Specific Computer Requirements
+Minimum Computer Requirements
+Intel Core i3, i5, i7, AMD Ryzen 3, 5, 7 or equivalent processor
+4GB RAM
+500 MB of available disk space
+Windows 7/ Windows 8/Windows 8.1/Windows 10/Windows 11
+32 and 64 bit compatible
+Internet Access
+Email Account
+Note: Our program software is strictly made for Windows Operating Systems and will therefore only run on Windows-based computers. It will
+NOT
+work on Apple computers running Mac Operating Systems such as Macbook, Chromebook computers running Chrome Operating Systems such as Google Pixelbook or any device running Linux Operating Systems.
+Career & Postgraduate Study Opportunities
+Career Options
+This program prepares you for career opportunities in industrial automation and control. Automation Technicians design, install, and maintain equipment and work on a wide range of systems, including simple fuses, motor drives, PLCs, solid-state devices, and robotics.
+Educational Pathways
+Upon completion of the Automation Technician Certificate program, you may continue your studies and pursue a Certificate in Electromechanics (
+www.emcourse.com
+), PLCs (
+www.plctechnician.com
+) or Robotics (
+www.onlinerobotics.com
+).
+Courses
+Required Courses
+The modules should be taken in the following order:
+COMPULSORY (18)
+Code
+Course Name
+ELNC 9116
+Introduction to Automation
+ELNC 9053
+Industrial Control Devices
+ELNC 9117
+Motors & Control Circuits
+ELNC 9035
+Digital Electronics
+ELCL 9060
+Analog & Digital Transducers
+ELNC 9055
+Industrial Process Control
+ELNC 9118
+Distributed Control Systems
+ELNC 9119
+SCADA Systems
+ELNC 9071
+Overview of PLCs
+ELNC 9095
+Ladder Logic Programming
+ELNC 9078
+Timers
+ELNC 9079
+Counters
+ELNC 9097
+Data Handling
+ELNC 9098
+Math Instructions
+ELNC 9101
+Introduction to Robotics
+ELNC 9108
+Manipulators & End Effectors
+ELNC 9112
+Vision, Touch & Sound
+ELNC 9113
+Robot Programming
+Detailed course outline
+Tuition & Fees
+Domestic Tuition
+$1,780.00*
+Additional Costs
+INTERNATIONAL STUDENTS
+This online distance program is only available to study while remaining in your home country and
+does not qualify for study/work permit eligibility in Canada.
+There is no additional cost. Students can pay tuition in full or pay-as-you-learn option as below.
+Initial registration is $560 (includes all learning materials, laboratory simulation software, user guides and Module 1) and registration for each of the remaining 17 can be purchased singly or in groups at a later date. International applicants are charged the same fees but in U.S. dollars (US$560); the posted exchange rate in effect at the time of your registration will be used to determine the final fee in Canadian dollars. There is no refund on learning material.
+*Amounts listed are the estimated total of tuition and material for the program starting the Fall
+2023
+. Fees are subject to change for the program starting in Fall 2024 and at later dates.
+Financial Assistance
+This program is not eligible for OSAP funding.
+Disclaimer: The information contained in this website is subject to change without notice. It should not be viewed as a representation, offer or warranty. Students are responsible for verifying George Brown College fee requirements.
+Admission Requirements
+The academic prerequisites for students entering into the Automation Technician program is a high school diploma, with credits at or above the general level or equivalent mature student status.
+If you are 19 years or older and do not have a high school diploma, you may enroll as a mature student.
+Special Requirements
+International Students
+This online distance program is only available to study while remaining in your home country and
+does not qualify for study/work permit eligibility in Canada.
+How to Apply
+Call 416-415-4726 or visit
+automationprogram.com
+.
+Contact Us
+INTERNATIONAL STUDENTS
+This online distance program is only available to study while remaining in your home country and
+does not qualify for study/work permit eligibility in Canada.
+Call us at 416-415-4726 or toll-free at 1-888-553-5333.
+E-mail:
+info@gbctechtraining.com.
+Check out the course details along with our interactive video tour at
+automationprogram.com
+.
+Explore related programs:
+Electromechanical Engineering Technician (T146)
+Mechanical Engineering Technology – Design (T121)
+Electromechanical Engineering Technology – Building Automation (T171)
+Visit and discover life in our campus
+Book campus tour
+Sign up to receive tailored resources to make your application, your way.
+Sign up now
+Close
+Sign up and learn more about your options, our programs, and life at George Brown.
+You must have JavaScript enabled to use this form.
+First Name
+Last Name
+Email
+Domestic or International
+Country
+I agree to be sent email communications from George Brown College. I understand I can unsubscribe at any time.

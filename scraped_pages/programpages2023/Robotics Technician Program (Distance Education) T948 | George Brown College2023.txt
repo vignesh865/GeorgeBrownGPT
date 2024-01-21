@@ -1,0 +1,189 @@
+Robotics Technician Program (Distance Education) (T948)
+Apply Now:
+Domestic Students
+International Students
+Program Details
+View information for:
+2023-2024
+2024-2025
+Program Name:
+Robotics Technician
+Code:
+T948
+Credential:
+George Brown College Certificate
+Method of Study:
+Part-time
+Duration:
+28 weeks (approximately)
+Starting Months:
+Open enrolment
+Domestic Tuition:
+$1,660.00*
+Centre:
+Construction & Engineering Technologies
+School:
+Mechanical Engineering Technologies
+Location:
+Online
+Fall 2023 Delivery:
+Online
+Program Availability
+Semester
+Domestic
+International
+Fall
+2023
+Continuous Open Enrollment
+Open: Not Study Permit Eligible
+Winter
+2024
+Continuous Open Enrollment
+Open: Not Study Permit Eligible
+Spring
+2024
+Continuous Open Enrollment
+Open: Not Study Permit Eligible
+Add to Comparison
++
+Compare Programs
+Explore related programs:
+Electromechanical Engineering Technician (T146)
+Mechanical Engineering Technology – Design (T121)
+Electromechanical Engineering Technology – Building Automation (T171)
+Program Menu
+Program Description
+Courses
+Tuition & Fees
+Admission Requirements
+Contact Us
+Program Description
+Program Overview
+INTERNATIONAL STUDENTS
+This online distance program
+does not qualify for study/work permit (including PGWP) eligibility in Canada.
+Complete this comprehensive Robotics Technician training program using an interactive learning package. This certificate program introduces the concepts of industrial robots and explains how they are used in a plant or manufacturing system. The primary focus of the program is on automated manufacturing processes, as well as the role of robots and their support equipment. Receive instruction in both theoretical concepts and laboratory exercises using a combination of multimedia learning resources and a robotics simulation software package.
+Full Description
+INTERNATIONAL STUDENTS
+This online distance program
+does not qualify for study/work permit (including PGWP) eligibility in Canada.
+The primary focus of the program is on automated manufacturing processes, as well as the role of robots and their support equipment. Learn to program, test and debug robot programs.
+Areas of study include:
+motion programming
+palletizing
+conveyor systems
+computer networking
+automated sorting systems
+vision and tactile sensors
+computer integration
+This Distance Education program provides you with an easy-to-use, home-study approach that requires only a personal computer and an Internet connection; you do not need expensive books or lab equipment. The robotics simulation software essentially converts your computer into a virtual industrial robot, complete with a three-dimensional learning environment that includes manufacturing plants and control systems.
+The learning materials, provided in a web-based downloadable file format, with 14 courses (modules) contain text, audio, 2D and 3D animations, computer-based testing and RoboLogix simulation software.
+You may enrol in the program at any time (open enrolment). Complete each module (course) in your own time. The typical completion time is 28 weeks, but there are no time limits (and previous electronics and/or robotics/automation experience and education may reduce that time significantly).
+PREREQUISITES
+Ontario Secondary School Diploma (with credits at or above the general level) or equivalent or mature student status. An electronics background is helpful but not essential.
+Career & Postgraduate Study Opportunities
+Career Options
+This program prepares you to install, service, maintain, troubleshoot and repair robots and automated production systems (mechanical and electrical). The skills acquired through this program enable you to work closely with designers, engineers and technologists, and to be involved in the developing, testing, programming and on-site installation of new robots. The training and knowledge you gain from this program will allow you to work as a robotics trainer and to train others to install, use and maintain robots.
+Courses
+Required Courses
+The modules should be taken in the following order:
+COMPULSORY (14)
+CODE
+Course Name
+ELNC 9101
+Introduction to Robotics
+ELNC 9103
+Robot Classifications
+ELNC 9108
+Manipulators and End Effectors
+ELNC 9102
+Robot Drive Systems
+ELNC 9106
+Servo Systems
+ELNC 9105
+Payload, Repeatability and Accuracy
+ELNC 9107
+Object Detection
+ELNC 9112
+Vision, Touch and Sound
+ELNC 9113
+Robot Programming
+ELNC 9111
+Robot Safety
+ELNC 9110
+Communications
+ELNC 9109
+Applications
+ELNC 9104
+Artificial Intelligence
+ELNC 9121
+Autonomous Robots
+Detailed course outline
+Tuition & Fees
+Domestic Tuition
+$1,660.00*
+Additional Costs
+INTERNATIONAL STUDENTS
+This online distance program is only available to study while remaining in your home country and
+does not qualify for study/work permit eligibility in Canada.
+There is no additional cost. Students can pay tuition in full or pay-as-you-learn option as below.
+Initial registration is $490 (includes all learning materials, laboratory simulation software, user guide and Module 1) and registration for each of the remaining 13 modules is $90/module. Students may register for one or more modules at any time. International applicants are charged the same fees but in U.S. dollars (US$490); the posted exchange rate in effect at the time of your registration will be used to determine the final fee in Canadian dollars. There is no refund on learning material.
+* Amounts listed are the total of tuition for programs starting in
+Fall 2022
+. Fees are subject to change for programs starting in Fall 2023 and at later dates.
+Financial Assistance
+This program is not eligible for OSAP funding.
+Disclaimer: The information contained in this website is subject to change without notice. It should not be viewed as a representation, offer or warranty. Students are responsible for verifying George Brown College fee requirements.
+Admission Requirements
+Applicants are selected on the basis of their academic achievement, including the required courses, and any other selection criteria outlined below.
+Ontario Secondary School Diploma or equivalent**
+grade 12 English (C or U)
+grade 11 math (M or U) or grade 12 (C or U)
+** Mature student status (19 years of age or older)
+Special Requirements
+INTERNATIONAL STUDENTS
+This online distance program is only available to study while remaining in your home country and
+does not qualify for study/work permit eligibility in Canada.
+Minimum system requirements
+Pentium-based PC or equivalent
+minimum 512MB RAM (1GB recommended)
+minimum 250MB available hard disk space
+Windows 7/8/8.1/10/11
+email account
+Internet access
+32- and 64-bit compatible
+Note: Our program software is strictly made for Windows Operating Systems and will therefore only run on Windows-based computers. It will
+NOT
+work on Apple computers running Mac Operating Systems such as Macbook, Chromebook computers running Chrome Operating Systems such as Google Pixelbook or any device running Linux Operating Systems.
+How to Apply
+Call 416-415-4726 or see
+www.onlinerobotics.com
+.
+Contact Us
+INTERNATIONAL STUDENTS
+This online distance program is only available to study while remaining in your home country and
+does not qualify for study/work permit eligibility in Canada.
+Call us at 416-415-4726, or toll-free 1-888-553-5333.
+E-mail:
+info@gbctechtraining.com
+.
+Check out the course details along with our interactive video tour at
+onlinerobotics.com
+.
+Explore related programs:
+Electromechanical Engineering Technician (T146)
+Mechanical Engineering Technology – Design (T121)
+Electromechanical Engineering Technology – Building Automation (T171)
+Visit and discover life in our campus
+Book campus tour
+Sign up to receive tailored resources to make your application, your way.
+Sign up now
+Close
+Sign up and learn more about your options, our programs, and life at George Brown.
+You must have JavaScript enabled to use this form.
+First Name
+Last Name
+Email
+Domestic or International
+Country
+I agree to be sent email communications from George Brown College. I understand I can unsubscribe at any time.

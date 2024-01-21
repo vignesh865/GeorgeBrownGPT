@@ -1,0 +1,195 @@
+Programmable Logic Controllers (PLC) Technician II Program (Distance Education) (T949)
+Apply Now:
+Domestic Students
+International Students
+Program Details
+View information for:
+2023-2024
+2024-2025
+Program Name:
+Programmable Logic Controllers (PLC) Technician II
+Code:
+T949
+Credential:
+George Brown College Certificate
+Method of Study:
+Part-time
+Duration:
+32 weeks (approximately)
+Starting Months:
+Open enrolment
+Domestic Tuition:
+$1,700.00*
+Centre:
+Construction & Engineering Technologies
+School:
+Mechanical Engineering Technologies
+Location:
+Online
+Fall 2023 Delivery:
+Online
+Program Availability
+Semester
+Domestic
+International
+Fall
+2023
+Continuous Open Enrollment
+Open: Not Study Permit Eligible
+Winter
+2024
+Continuous Open Enrollment
+Open: Not Study Permit Eligible
+Spring
+2024
+Continuous Open Enrollment
+Open: Not Study Permit Eligible
+Add to Comparison
++
+Compare Programs
+Explore related programs:
+Programmable Logic Controllers (PLC) Technician (Distance Education) (T903)
+Electromechanical Engineering Technician (T146)
+Robotics Technician (Distance Education) (T948)
+Program Menu
+Program Description
+Courses
+Tuition & Fees
+Admission Requirements
+Contact Us
+Program Description
+Program Overview
+INTERNATIONAL STUDENTS
+This online distance program
+does not qualify for study/work permit (including PGWP) eligibility in Canada.
+The PLC Technician II Certificate program introduces the theory behind Programmable Logic Controllers, while maintaining an emphasis on the application of PLCs in plant and manufacturing systems. The PLC Technician II provides a more advanced study of PLCs in manufacturing including DCS & SCADA systems. The PLCLogix 5000 simulator integrated within the program emulates the Studio 5000/RSLogix 5000 programming applications and features 3D simulation and advanced programming.
+ADVANCED STANDING
+If you have finished the PLC Technician program, you are exempted from 7 modules of the PLC Technician II program.
+Full Description
+INTERNATIONAL STUDENTS
+This online distance program
+does not qualify for study/work permit (including PGWP) eligibility in Canada.
+The program material and PLC simulation software (PLCLogix 5000) used in this program are based on the Rockwell Logix 5000 PLC. PLCLogix 5000 is a Programmable Logic Controller simulator that emulates the operation of a ControlLogix controller and the Studio 5000/RSLogix 5000 programming applications. It is an ideal tool for learning the fundamentals of ladder logic programming with tag-based addressing.
+This distance education certificate program meets the needs of both employers who require a highly skilled technical workforce and students who require cost-effective, high-quality and accredited technical training.
+You complete all the required modules (including lab projects, review exercises and practice exams) from the comfort of your own home using an interactive learning package.
+The learning materials, provided in a web-based downloadable file format, with 19 courses (modules) contain text, audio, 2D and 3D animations, computer-based testing and PLCLogix 5000 simulation software.
+A final exam is taken online (computer-based testing) for each module. You may enrol in this distance education certificate program at any time (open-enrolment) and complete each module at your own pace. The typical completion time for this program is 32 weeks, but there are no time limits.
+PREREQUISITES
+Ontario Secondary School Diploma (with credits at or above general level) or equivalent or mature student status.
+Career & Postgraduate Study Opportunities
+Career Options
+This certificate program prepares you to work in the rapidly expanding field of industrial automation and control. PLC technicians install and repair industrial electronic equipment, including I/O networks, data highways, variable speed drives and process control equipment, and write PLC programs for a wide variety of automated control systems, ranging from simple on-off control systems to robotics.
+PLC technicians also find employment in the industrial engineering field, where they are actively involved in the design and implementation of PLC control systems. This distance education program meets the needs of both employers who require a highly skilled technical workforce and students who require cost-effective, high-quality and fully accredited technical training.
+Courses
+Required Courses
+The modules should be taken in the following order:
+COMPULSORY (19)
+Code
+Course Name
+ELNC 9127
+Introduction to Advanced PLCs
+ELNC 9094
+PLC Processors
+ELNC 9073
+I/O System
+ELNC 9074
+Programming Terminals and Peripherals
+ELNC 9075
+Installation and Maintenance of PLCs
+ELNC 9124
+Tag-Based PLCs
+ELNC 9095
+Ladder Logic Programming
+ELNC 9078
+Timers
+ELNC 9079
+Counters
+ELNC 9096
+Branch and Loop Control
+ELNC 9081
+Sequencers
+ELNC 9097
+Data Handling
+ELNC 9098
+Math Instructions
+ELNC 9084
+Process Control
+ELNC 9099
+PLC Communication
+ELNC 9118
+Distributed Control System (DCS)
+ELNC 9119
+SCADA System
+ELNC 9093
+Advanced Programming Languages
+ELNC 9092
+Robotics
+Detailed course outline
+Tuition & Fees
+Domestic Tuition
+$1,700.00*
+Additional Costs
+INTERNATIONAL STUDENTS
+This online distance program is only available to study while remaining in your home country and
+does not qualify for study/work permit eligibility in Canada.
+There is no additional cost. Students can pay tuition in full or pay-as-you-learn option as below
+Initial registration is $440 (includes all learning materials, laboratory simulation software and access to the Module 1 exam) and registration for each of the remaining 18 modules is $70/module. Students may register for one or more modules at any time. International applicants are charged the same fees but in U.S. dollars (US$440); the posted exchange rate in effect at the time of your registration will be used to determine the final fee in Canadian dollars. There is no refund on learning material.
+* Amounts listed are the total of tuition for programs starting in
+Fall 2022
+. Fees are subject to change for programs starting in Fall 2023 and at later dates.
+Financial Assistance
+This program is not eligible for OSAP funding.
+Disclaimer: The information contained in this website is subject to change without notice. It should not be viewed as a representation, offer or warranty. Students are responsible for verifying George Brown College fee requirements.
+Admission Requirements
+Applicants are selected on the basis of their academic achievement, including the required courses, and any other selection criteria outlined below.
+Ontario Secondary School Diploma or equivalent**
+grade 12 English (C or U)
+grade 11 math (M or U) or grade 12 (C or U)
+** Mature student status (19 years of age or older)
+Special Requirements
+INTERNATIONAL STUDENTS
+This online distance program is only available to study while remaining in your home country and
+does not qualify for study/work permit eligibility in Canada.
+Minimum system requirements
+Pentium-based PC or equivalent
+minimum 512MB RAM (1GB recommended)
+minimum 250MB available hard disk space
+Windows 7/8/8.1/10/11
+email account
+Internet access
+32- and 64-bit compatible
+Note: Our program software is strictly made for Windows Operating Systems and will therefore only run on Windows-based computers. It will
+NOT
+work on Apple computers running Mac Operating Systems such as Macbook, Chromebook computers running Chrome Operating Systems such as Google Pixelbook or any device running Linux Operating Systems.
+How to Apply
+Call 416-415-4726 or see
+www.plctechnician.com
+.
+Contact Us
+INTERNATIONAL STUDENTS
+This online distance program is only available to study while remaining in your home country and
+does not qualify for study/work permit eligibility in Canada.
+Call us at 416-415-4726, or toll-free at 1-888-553-5333.
+E-mail:
+info@gbctechtraining.com
+.
+Check out the course details along with our interactive video tour at
+plctechnician.com
+.
+Explore related programs:
+Programmable Logic Controllers (PLC) Technician (Distance Education) (T903)
+Electromechanical Engineering Technician (T146)
+Robotics Technician (Distance Education) (T948)
+Visit and discover life in our campus
+Book campus tour
+Sign up to receive tailored resources to make your application, your way.
+Sign up now
+Close
+Sign up and learn more about your options, our programs, and life at George Brown.
+You must have JavaScript enabled to use this form.
+First Name
+Last Name
+Email
+Domestic or International
+Country
+I agree to be sent email communications from George Brown College. I understand I can unsubscribe at any time.

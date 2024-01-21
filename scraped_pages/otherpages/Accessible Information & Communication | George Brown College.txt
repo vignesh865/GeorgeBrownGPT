@@ -1,0 +1,39 @@
+
+George Brown College is committed to creating an accessible and inclusive environment for all employees, students and community members. In order to do so, we must ensure our content is accessible to those who are Deaf, Deafblind, deafened or hard-of-hearing, as well as individuals with diverse learning abilities, and those whose primary language is not English.
+Refer to the information below for details on how to ensure that your content complies with the college’s Accessible Media Policy, in accordance with the Accessibility for Ontarians with Disabilities Act (AODA).
+Closed captioning: Audio-visual content that has the option to display on-screen the verbatim, synchronized text of the dialogue and other auditory information (ie: music). Typically, the option to view closed captioning is indicated by the “CC” symbol within a video player.
+Described video: Narrated voice-over description of key visual elements necessary to provide context for people who are blind or visually impaired, such as setting, body language and costumes.
+Live captioning: When remote caption writers, or captioners, provide real-time captioning during a live event, meeting, etc.
+Screen readers: Software that renders text displayed on a computer screen into a form that people who are blind or visually impaired can process, such as speech or braille output.
+Transcription: This service is for content with an audio-only component (ie: podcasts, audio recordings). A verbatim transcript of the dialogue must accompany the recording when it is shared.
+All video content, including recorded lectures, demos, webinars, etc. must be captioned*. This includes content found online via platforms such as YouTube or Vimeo.
+Auto-generated captions, like those available on YouTube and Microsoft Stream, should be avoided since these captions are often inaccurate and are not accessible to people who use screen readers.
+Audio content, such as podcasts, require a transcript in order to be accessible.
+To have content captioned, transcribed or reviewed for accessibility, contact Anne Villahermosa, Accessible Media Coordinator at avillahe@georgebrown.ca.
+Described video for people who are blind or visually impaired is also available upon request. If you need described video for your video content, please contact Anne Villahermosa. When requesting described video, you should provide a few weeks’ notice.
+For ready-to-use video content that is already captioned, please refer to the Library’s collection of streamed media. Collections include Kanopy, LinkedIn Learning, and subject-specific content for nursing, construction, dental hygiene, business, hospitality, art and design. Contact your Liaison Librarian for assistance.
+All George Brown events – whether in person or virtual – should be planned with accessibility in mind. Accommodation needs should be considered as part of the planning process, in order to ensure that your event is accessible to everyone. Here’s how to create an accessible event for everyone to enjoy:
+When posting videos or podcasts to social media they must be accessible, per the information above. Video content on social media includes stories, live videos and user-generated videos (Instagram, Facebook, YouTube, Twitter, LinkedIn, TikTok), IGTV (Instagram) and paid ads.
+Here’s how to ensure your social media content is accessible:
+Please consult with Anne Villahermosa at avillahe@georgebrown.ca if you have questions about how to make your social media content accessible.
+Accessible Learning Services provides academic supports and services for George Brown students with disabilities.
+Please refer to the Faculty Guide to Accommodations page for more information.
+It is the shared responsibility of all members of the GBC community to ensure that all materials (course outlines, reading lists, assignments, articles, tests, examinations, notes, marketing materials and any handouts) are available in accessible formats. In addition, all documents sent to the Web Publishing Team for inclusion on any George Brown web page must be accessible. Please review the resources and tutorials below to ensure you are familiar with how to meet these standards.
+Adobe Acrobat Pro comes bundled with two useful accessibility features; the Accessibility Checker and the Make Accessible Wizard. Play the video above to see how these two features work, using a sample PDF, by running an accessibility check first, followed by the Make Accessible wizard.
+For a PDF to be fully accessible, you need to fill in the following document Properties fields: Title, Description, Author, and Keywords. Making manual changes to the document properties in a PDF is a simple process, demonstrated in the video above.
+PDF ‘Tags’ determine the content that will be read back to users of assistive technologies, such as screen readers. The video above demonstrates how to manually tag a PDF using the ‘Touch Up Reading Order’ tool.
+As shown in the previous video, ‘Tags’ provide the document structure on which accessibility is based. Without tags, screen readers are unable to narrate content, so a certain amount of manual checking, and fixing, may need to occur in order to ensure that content will be read back in a logical manner, as demonstrated in the video above.
+Alternate (or Alt) text should be added to images in PDFs, especially if the Alt text was omitted from the image in the original source file before it was converted to PDF. Screen readers use Alt text to describe an image or photo, to persons with visual impairments, so that they understand what type of mood, or information, the image is trying to convey. The video above displays how to add Alt text to images.
+Decorative images that contain no relevant information, including lines or other graphics separating sections of a page, can be backgrounded using the ‘Artifact’ tag. Backgrounding elements means that they’ll be ignored by screen readers. View the video above to see how to ‘background’ graphics.
+When using tables to present data, we need to make sure that the header cells in the top row are tagged so that the logical relationships among rows and columns are preserved and recognized by assistive technologies, such as screen readers. The above video demonstrates how to properly tag header rows in tables.
+Learn more about our land acknowledgment
+Be kept in the loop about application deadlines, college news, upcoming events, tours and more.
+Sign Up Now
+
+
+416-415-2000
+TTY: 1-877-515-5559
+ask.george@georgebrown.ca
+Visit Our Social Media Hub
+Visit Our Social Media Hub
+The information contained in this website is subject to change without notice. It should not be viewed as a representation, offer or warranty. Students are responsible for verifying George Brown College fee requirements.

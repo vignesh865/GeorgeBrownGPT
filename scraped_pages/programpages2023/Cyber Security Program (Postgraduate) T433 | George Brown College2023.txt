@@ -1,0 +1,258 @@
+Cyber Security Program (Postgraduate) (T433)
+Apply Now:
+Domestic Students
+International Students
+Program Details
+View information for:
+2023-2024
+2024-2025
+Program Name:
+Cyber Security
+Code:
+T433
+Credential:
+Ontario College Graduate Certificate
+Method of Study:
+Full-time
+Duration:
+1 year (3 semesters)
+Starting Months:
+January, September
+Domestic Tuition:
+$12,561.00 *
+International Tuition:
+$26,330.00 **
+Centre:
+Arts, Design & Information Technology
+School:
+Computer Technology
+Location:
+Casa Loma Campus
+Fall 2023 Delivery:
+Semester 1, 3: On Campus
+Winter 2024 Delivery:
+Semester 1, 2: On Campus
+Program Availability
+Semester
+Domestic
+International
+Fall
+2023
+Closed
+Closed
+Winter
+2024
+Closed
+Closed
+Spring
+2024
+Not Available
+Not Available
+Add to Comparison
++
+Compare Programs
+Explore related programs:
+Cyber Security (Postgraduate) (T433)
+Information Systems Business Analysis (with experiential learning capstone) (Postgraduate) (T405)
+Wireless Networking (Postgraduate) (T411)
+Program Menu
+Program Description
+Courses
+Tuition & Fees
+Admission Requirements
+Program Outcomes
+Contact Us
+Program Description
+Program Overview
+With more and more businesses putting their data into the cloud, the ability to ensure confidentiality, integrity and availability of digital assets has become paramount to their success and survival. The cyber security professional plays a vital role in the protection of business assets in all areas of our economy. In order to keep pace with the rapid advancement in technology and trends, the cyber security professional of today must be proficient in traditional networking and cloud-based technologies. In addition, they must have a strong familiarity with security trends and practices, the legal landscape and ethical hacking. Strong communication skills round out the skills of today's cyber security professional.
+Full Description
+The Cyber Security graduate certificate program at George Brown College is designed to meet the high demand for cyber security professionals and related IT security professionals across multiple sectors – including consulting services, finance and health care.
+As a student in this program, you will begin with learning the theory and practical skills required to become a cyber security professional. This includes the differences and similarities between cyber security and hacking. You will learn about the primary attack surfaces (physical, social, electronic), methods for compromising the attack surfaces, and how to mitigate vulnerabilities.
+In the third semester, you will learn advanced techniques in ethical hacking incident response. A capstone group project will provide you with an opportunity to showcase your skills and talents for potential employers. These skills include:
+digital forensics and incident response management
+ethical hacking and analyzing malware
+delivering security training
+applying cryptography
+In addition to traditional technical skills, the cyber security professionals of today require many non-technical skills and talents, such as:
+analytical skills
+written and verbal communication
+project and time management skills
+interpersonal and conflict management skills
+Students graduating from this program are prepared to help defend organizations from the many current and emerging cyber threats, including malware, network attacks and data compromise. They will have the capabilities to monitor, assess and evaluate security risks and threats to physical and digital infrastructure, develop and implement security contingency planning, and lead the development of policies and procedures to ensure the mitigation of security risks.
+Delivery
+This full-time program is delivered in a blended format, combining face-to-face sessions with online delivery, designed to accommodate those who wish to work while taking the program.
+This schedule will require that learners attend classes that generally take place in the late afternoons and evenings through the week, plus all day Saturday.
+Technology Requirements
+This program requires students to have access to a personal laptop with the following specifications:
+8 GB RAM (16 GB recommended)
+Support for virtualization
+256 GB SSD Hard Drive (500+ GB is optimal)
+2 TB (minimum) external hard drive
+Webcam + mic
+Consistent access to a reliable high-speed internet connection
+Career & Postgraduate Study Opportunities
+Career Options
+As a result of the increase in cyber security–related attacks, employer demand for cyber security professionals is increasing, and growth is projected to continue. According to World Economic Forum (WEF), Global Risks Report 2022, "There is an undersupply of cyber professionals—a gap of more than three million worldwide—who can provide cyber leadership, test and secure systems, and train people in digital hygiene."
+Educational Pathways
+Students who successfully complete this program may qualify for entry into Ontario college graduate certificate and university degree programs.
+For further information, see
+Transfer Guide
+.
+Courses
+Required Courses
+PRINTABLE CURRICULUM PLANNER 2023-2024
+SEMESTER 1
+Code
+Course Name
+COMP 4039
+Network Foundations
+COMP 4041
+Operating Systems
+COMP 4043
+Legality and Compliance in Security
+COMP 4044
+Introduction to Cyberspace Security
+COMP 4040
+Introduction to SOC
+COMP 4047
+ICT Competencies
+SEMESTER 2
+Code
+Course Name
+COMP 4065
+Intermediate SOC
+COMP 4066
+SETA Development and Delivery
+COMP 4055
+Cryptography and Network Security
+COMP 4056
+Secure Network Architecture
+COMP 4057
+Ethical Hacking
+COMP 4058
+Security Trends and Issues
+SEMESTER 3
+Code
+Course Name
+COMP 4074
+Wireless Network Security
+COMP 4060
+Risk Analysis
+COMP 4063
+Capstone Project
+COMP 4071
+Digital Forensics and Incident Response
+COMP 4077
+Advanced Ethical Hacking
+COMP 4078
+Advanced SOC
+Detailed course outlines
+Program Learning Outcomes
+The graduate has reliably demonstrated the ability to:
+Develop and implement cyber security solutions considering the affordances and limitations of the computer operating systems, networks, application software and packages available.
+Develop best practices to protect business resources through the application of knowledge of vulnerabilities and exploits.
+Develop cyber security strategies for the deployment of security procedures and protective devices.
+Integrate cyber security strategies that support business functions by employing knowledge of best practices of business processes and systems.
+Develop cyber security strategies and processes for business communications that respond to the needs of all the internal stakeholders.
+Develop cyber security solutions and strategies that ensure the integrity of information in compliance with best practices, relevant policies, standards and regulations.
+Plan, implement and evaluate cyber security policies and strategies using project management principles to effectively respond to the needs of the organization's information security requirements.
+Perform security audits to ensure risk mitigation and compliance with security plans, policies, standards, regulations and best practices.
+Develop and deliver a corporate training program to communicate both orally and in writing the cybersecurity requirements for compliance with security policies.
+Communicate cyber security protocols, policies and audit results and related documentation to any level of the organization.
+Tuition & Fees
+Domestic Tuition
+$12,561.00 *
+International Tuition
+$26,330.00 **
+Additional Costs
+* Amounts listed are the total of tuition, materials, student service and ancillary fees for the first
+three
+semesters of programs starting in Fall
+2022
+Fees are subject to change for programs starting in Fall 2023 and at later dates.
+** Amounts listed are the total of tuition, materials, student service and ancillary fees for the
+three
+semesters of the programs starting in Fall 2023. Fees are subject to change for program starting in Fall 2024 and at later dates.
+International Students
+Visit the
+International Fees and Related Costs page
+for more information.
+Financial Assistance
+This program is approved for OSAP funding, provided the applicant meets OSAP eligibility criteria.
+Disclaimer: The information contained in this website is subject to change without notice. It should not be viewed as a representation, offer or warranty. Students are responsible for verifying George Brown College fee requirements.
+Admission Requirements
+Two-year college diploma or bachelor's degree in Information Technology, Computer Sciences or a related field.
+OR
+Two- or three-year college diploma or bachelor's degree in any field.
+PLUS one year of related work experience, as evidenced by a resumé. Resumé should be submitted through
+ontariocolleges.ca
+with your application or via the GBC Online Application System (OAS) for international applicants.
+English Language Proficiency
+English language proficiency is essential. Applicants with international transcripts who do not provide English proficiency test results must test at the college level in the George Brown College English assessment to be considered for admission.
+Please visit
+English Proficiency
+for more details
+Course Exemptions
+College or university credits may qualify you for course exemptions. Please visit
+Transfer Guide
+for more information.
+International Students
+Visit the
+International Admissions page
+for more information regarding country specific admission requirements.
+How to Apply
+Domestic students should apply through
+Ontario Colleges.
+International Students
+Visit the
+How to Apply page
+for more information on how and when to apply.
+International students should apply through the
+George Brown College Online Application System
+.
+Contact Us
+School of Computer Technology
+Phone: 416-415-5000, ext. 4287
+Email:
+computertechnology@georgebrown.ca
+The office hours are:
+Monday – Friday: 9 a.m. – 4 p.m.
+Program coordinator: Jacky Min
+Phone: 416-415-5000, ext. 6691
+Email:
+jmin@georgebrown.ca
+For more information about George Brown College, you may also call the Contact Centre at 416-415-2000 (TTY 1-877-515-5559) or long distance 1-800-265-2002.
+Contact one of our international recruitment representatives specializing by country of origin by either booking a virtual meeting or submitting an inquiry. For more information visit the
+International Contact Us page
+Visit Our Campus
+The Cyber Security program is offered through our
+School of Computer Technology
+from our
+Casa Loma Campus
+at
+146 Kendal Avenue
+in Toronto. Sign up for an
+information session
+or
+campus tour
+to learn more about George Brown College and the program. You can also explore our
+virtual tour.
+Explore related programs:
+Cyber Security (Postgraduate) (T433)
+Information Systems Business Analysis (with experiential learning capstone) (Postgraduate) (T405)
+Wireless Networking (Postgraduate) (T411)
+Visit and discover life in our campus
+Book campus tour
+Get answers to your questions
+Book info session
+Sign up to receive tailored resources to make your application, your way.
+Sign up now
+Close
+Sign up and learn more about your options, our programs, and life at George Brown.
+You must have JavaScript enabled to use this form.
+First Name
+Last Name
+Email
+Domestic or International
+Country
+I agree to be sent email communications from George Brown College. I understand I can unsubscribe at any time.

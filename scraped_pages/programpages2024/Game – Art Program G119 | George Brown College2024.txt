@@ -1,0 +1,436 @@
+Game – Art Program (G119)
+Apply Now:
+Domestic Students
+International Students
+Program Details
+View information for:
+2023-2024
+2024-2025
+Program Name:
+Game – Art
+Code:
+G119
+Credential:
+Ontario College Advanced Diploma
+Method of Study:
+Full-time
+Duration:
+3 years (6 semesters)
+Starting Months:
+January, September
+Domestic Tuition:
+$8,972.00 *
+International Tuition:
+$22,495.00 **
+Centre:
+Arts, Design & Information Technology
+School:
+Design
+Location:
+Waterfront Campus
+Program Availability
+Semester
+Domestic
+International
+Fall
+2024
+Open
+Open
+Winter
+2025
+Open
+Opens Apr 8, 2024
+Spring
+2025
+Not Available
+Not Available
+Add to Comparison
++
+Compare Programs
+Explore related programs:
+Graphic Design (G102)
+Game – Programming (T163)
+Digital Design – Game Design (Postgraduate) (G405)
+Program Menu
+Program Description
+Courses
+Tuition & Fees
+Admission Requirements
+Program Outcomes
+Contact Us
+Program Description
+Program Overview
+The
+Game – Art
+three-year advanced diploma is a rigorous program of study that focuses on the principles and techniques of video game art creation required to break into the industry. With video games being a leading form of artistic expression, game development requires a combination of talent, hard work, and passion. Taught by faculty with industry experience and mentored by local game industry leaders, you'll develop games for commercial, educational, and other purposes.
+PLEASE NOTE:
+We also offer this program in a fully online format. Please see
+Game - Art (Online) program (G129)
+for more details.
+Full Description
+If you have a love of art and gaming, our
+Game - Art
+three-year advanced diploma program will give you the chance to combine your passions. As a student of this exciting program, you'll develop both two-dimensional and three-dimensional artistic abilities by learning concept art, sprite and pixel art, modelling, texturing, animation, and level design.
+You'll get to develop commercial quality games in a simulated video game studio environment, working with industry partners and game programmers. In your second year, you'll choose whether to specialize in game modelling or game animation.
+Before graduating, you'll assemble a portfolio/demo of your creative work, showing off your skills in game development and highlighting your chosen area of specialization. As a graduate, you'll be ready to find an entry-level role in the game industry.
+Your Field Education Options
+Students with approved portfolios are eligible for non-mandatory external field placements in semester 5 and/or semester 6.
+Career & Postgraduate Study Opportunities
+Career Options
+Graduates of this program can look forward to careers in various game and digital media studios, including:
+character art
+2D environment art
+3D environment art
+3D modelling
+3D animation
+character modelling
+level design
+cinematic animation
+special effects
+texture design
+user interface design
+quality assurance
+Educational Pathways
+Graduates may be eligible for admission into
+George Brown postgraduate programs
+. Students who successfully complete this program with a grade point average of 3.0 or higher may be eligible for direct admission into the
+Game Design program
+.
+Courses
+Required Courses
+YEAR 1
+SEMESTER 1
+Code
+Course name
+Prerequisite
+DESN 1037
+Drawing I
+DESN 1084
+2D Digital Art I
+DESN 1118
+Introduction to Modelling
+DESN 1130
+Interactive Prototyping I
+DESN 1083
+Studio Lab 1
+COMM 2000
+Communicating Across Contexts*
+SEMESTER 2
+Code
+Course name
+Prerequisite
+DESN 1038
+Drawing II
+DESN 1037
+DESN 2015
+2D Digital Art II
+DESN 1084
+DESN 1119
+Introduction to Animation
+DESN 1118
+DESN 1131
+Interactive Prototyping II
+DESN 1130
+DESN 1086
+Studio Lab 2
+DESN 1083
+DESN 1189
+Ludology and Game History
+GAME MODELLING SPECIALIZATION
+YEAR 2
+SEMESTER 3
+Code
+Course name
+Prerequisite
+DESN 2012
+Environment Modelling I
+DESN 1119 and DESN 2015
+DESN 1132
+Game Art and Architecture I
+DESN 1038 and DESN 1119 and DESN 2015
+DESN 2014
+Level Design I
+DESN 1119 and DESN 2015 and DESN 1131
+DESN 2010
+Texturing and Shading I
+DESN 2015 and DESN 1119
+DESN 2013
+Studio Lab 3
+DESN1086
+GNED
+General Education Elective
+SEMESTER 4
+Code
+Course name
+Prerequisite
+DESN 2018
+Environment Modelling II
+DESN 2012
+DESN 1133
+Game Art and Architecture II
+DESN 1132
+DESN 2016
+Level Design II
+DESN 2014
+DESN 2011
+Texturing and Shading II
+DESN 2010
+DESN 2017
+Studio Lab 4
+DESN 2013
+GNED
+General Education Elective
+YEAR 3
+SEMESTER 5
+Code
+Course name
+Prerequisite
+DESN 3014
+3D Sculpting I
+DESN 2011 and DESN 2018
+DESN 3016
+Organic Modelling I
+DESN 2011 and DESN 2018
+DESN 3018
+Technical Art for Game Engines 1
+DESN 2016
+DESN 3020
+Cinematics I
+(DESN 2011 and DESN 2016 and DESN 2018) or (DESN 2022 and DESN 2021 and DESN 1137)
+DESN 3010
+Studio Lab 5
+DESN 2017
+DESN 3022
+Game Portfolio Design
+SEMESTER 6
+Code
+Course name
+Prerequisite
+DESN 3015
+3D Sculpting II
+DESN 3014
+DESN 3017
+Organic Modelling II
+DESN 3016
+DESN 3024
+Technical Art for Game Engines 2
+DESN 3018
+DESN 3021
+Cinematics II
+DESN 3020
+DESN 3012
+Studio Lab 6
+DESN 3010
+GNED
+General Education Elective
+GAME ANIMATION SPECIALIZATION
+YEAR 2
+SEMESTER 3
+Code
+Course name
+Prerequisite
+DESN 2019
+Body Mechanics 1
+DESN 2015 and DESN 1119
+DESN 2020
+Rigging I
+DESN 2015 and DESN 1119 and DESN 1038
+DESN 2014
+Level Design I
+DESN 1119 and DESN 2015 and DESN 1131
+DESN 1136
+Motion Capture 1
+DESN 1038 and DESN 1119 and DESN 2015
+DESN 2013
+Studio Lab 3
+DESN 1086
+GNED
+General Education Elective
+SEMESTER 4
+Code
+Course name
+Prerequisite
+DESN 2022
+Body Mechanics 2
+DESN 2019
+DESN 2021
+Rigging II
+DESN 3020
+DESN 2016
+Level Design II
+DESN 2014
+DESN 1137
+Motion Capture 2
+DESN 1136
+DESN 2017
+Studio Lab 4
+DESN 2013
+GNED
+General Education Elective
+YEAR 3
+SEMESTER 5
+Code
+Course name
+Prerequisite
+DESN 3018
+Technical Art for Game Engines 1
+DESN 2016
+DESN 3029
+Character Animation 1
+DESN 2022 and DESN 2021
+DESN 3027
+Character Acting I
+DESN 2022 and DESN 2021 and DESN 1137
+DESN 3020
+Cinematics I
+(DESN 2011 and DESN 2016 and DESN 2018) or (DESN 2022 and DESN 2021 and DESN 1137)
+DESN 3010
+Studio Lab 5
+DESN 2017
+DESN 3022
+Game Portfolio Design
+SEMESTER 6
+Code
+Course name
+Prerequisite
+DESN 3024
+Technical Art for Game Engines 2
+DESN 2018
+DESN 3030
+Character Animation 2
+DESN 3029
+DESN 3028
+Character Acting II
+DESN 3027
+DESN 3021
+Cinematics II
+DESN 3020
+DESN 3012
+Studio Lab 6
+DESN 3012
+GNED
+General Education Elective
+*Based on the results of your placement test, you may be required to take COMM 1000 (Introduction to College Communication) before progressing to COMM 2000. COMM 1000 does not count as a course required for graduation, and you will be charged for this extra course. Please visit
+Assessment Centre
+for more information.
+General Education Electives
+Detailed course outlines
+Program Learning Outcomes
+The graduate demonstrates the ability to:
+Analyze the differences in game genres in order to develop games that meet the needs of specific markets.
+Analyze the history of video games to compare various approaches to game development.
+Support the development of games by identifying and relating concepts from a range of industry roles – programming, design and art.
+Contribute as an individual and a member of a game development team to the effective completion of a game development project.
+Develop strategies for ongoing personal and professional development to enhance work performance in the games industry.
+Perform all work in compliance with relevant statutes, regulations, legislation, industry standards and codes of ethics.
+Develop pre-production and conceptual art for games and gaming through the selection and application of relevant design tools and drawing techniques
+Create original game assets to meet requirements outlined in game design documents and/or creative briefs
+Engage in original world building and level design within a range of game engines to meet industry and marketplace requirements
+Generate user interface design in alignment with Game Design Documents to optimize both the aesthetics and function of gameplay
+Tuition & Fees
+Domestic Tuition
+$8,972.00 *
+International Tuition
+$22,495.00 **
+Additional Costs
+* Amounts listed are the estimated total of tuition, materials (non-refundable), student service and ancillary fees for the first two semesters of programs starting in Fall
+2023
+. Fees are subject to change for programs starting in Fall 2024 and at later dates. This fee does not include books, which are to be purchased by the student separately.
+** Amounts listed are the estimated total of tuition, materials, student service and ancillary fees for the first two semesters of programs starting in Fall
+2024
+. Tuition fees are subject to board approval. Material, student service and ancillary fees are estimated based on prior years. All fees are subject to change without notice. This fee does not include books, which are to be purchased by the student separately.
+The fees include a subscription to Adobe Creative Cloud, a Wacom Intuos Pro Medium Tablet, Digital Tutors subscription and a membership to IGDA.
+International Students
+Visit the
+International Fees and Related Costs page
+for more information.
+Financial Assistance
+This program is approved for OSAP funding, provided the applicant meets OSAP eligibility criteria.
+Disclaimer: The information contained in this website is subject to change without notice. It should not be viewed as a representation, offer or warranty. Students are responsible for verifying George Brown College fee requirements.
+Admission Requirements
+Applicants are selected on the basis of their academic achievement, including the required courses, and any other selection criteria outlined below.
+Ontario Secondary School Diploma or equivalent**
+grade 12 English (C or U)
+application questionnaire *
+portfolio *
+* Qualified applicants will be invited to complete the application questionnaire and submit a portfolio electronically. Details on the application questionnaire and portfolio requirements will be communicated at a later date to qualified applicants, as part of the review process.
+** Mature Student Status (19 years of age or older and no OSSD)
+Mature students may take the
+Admissions Assessment for English
+OR may consider upgrading to achieve the credit(s) needed in
+English
+.
+Please note that George Brown is committed to ensuring that applicants will succeed in their program of choice and meeting the minimum requirements does not guarantee admission to the program. Applicants may be required to have grades higher than the minimum requirements stated.
+Course Exemptions
+College or university credits may qualify you for course exemptions. Please visit the
+Transfer Guide
+for more information.
+Apply to
+Domestic students should apply through
+Ontario Colleges.
+International Students
+Visit the
+International Admissions page
+for more information regarding country specific admission requirements.
+How to Apply
+Domestic students should apply through
+Ontario Colleges.
+International Students
+Visit the
+How to Apply page
+for more information on how and when to apply.
+International students should apply through the
+George Brown College Online Application System
+.
+Contact Us
+School of Design
+Phone: 416-415-5000, ext. 3129
+Email:
+game@georgebrown.ca
+For more information about George Brown College, you may also call the Contact Centre at 416-415-2000 (TTY 1-877-515-5559) or long distance 1-800-265-2002.
+Contact one of our international recruitment representatives specializing by country of origin by either booking a virtual meeting or submitting an inquiry. For more information visit the
+International Contact Us page
+Visit Our Campus
+This program is part of our
+School of Design
+, located at our
+Waterfront Campus
+, at
+3 Lower Jarvis St.
+, Toronto, Ontario, Canada.
+School of Design Building
+The School of Design resides in a new 103,000-square-foot facility in the Daniels Waterfront – City of the Arts development. This state-of-the-art building supports academic programs and industry projects with features such as:
+virtual and augmented reality lab
+usability and testing lab
+Future Ways of Living lab
+peer tutor lab
+digital sandbox
+incubators
+prototyping and workshop spaces
+design and innovation showcase spaces
+Come and have your questions answered, learn about the program content and career options, meet your friendly professors and staff and experience what it is like to be in a George Brown College classroom at one of our
+information sessions
+. You can also
+book a campus tour
+or explore our
+virtual tour.
+Explore related programs:
+Graphic Design (G102)
+Game – Programming (T163)
+Digital Design – Game Design (Postgraduate) (G405)
+“At George Brown my professors were all people who worked, or are still working, in the industry allowing me to learn about it in its current form. Even now, working in the industry myself, some of the professors I had are now my coworkers. They taught me all the aspects of the development pipeline on top of my specialization helping me work comfortably between departments in the studio. Most importantly, I not only learned the software I need but learned how to learn, enabling me to quickly adapt to all sorts of complex and proprietary software and engines.”
+David Kolodko
+Ontario College Advanced Diploma
+Visit and discover life in our campus
+Book campus tour
+Sign up to receive tailored resources to make your application, your way.
+Sign up now
+Close
+Sign up and learn more about your options, our programs, and life at George Brown.
+You must have JavaScript enabled to use this form.
+First Name
+Last Name
+Email
+Domestic or International
+Country
+I agree to be sent email communications from George Brown College. I understand I can unsubscribe at any time.

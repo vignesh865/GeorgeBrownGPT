@@ -1,0 +1,41 @@
+
+Every George Brown student receives their own college email account. This is where you’ll receive important college notifications, so it’s important that you check your George Brown email frequently.
+Your George Brown College account is the best way to:
+Access to the George Brown student email is available to currently registered students and up to 1 year after your last registered course.
+Your account — offering 100MB of storage capacity — also gives you access to Microsoft Exchange calendar functions. The calendar will allow for coordination with your instructors and key college contacts regarding office hours, advising sessions, consultations and other important dates. You’ll also be able to easily send group emails to other students by program or course.
+You’ve been provided with an email address that consists of your first name and last name, and if necessary, a number. For example, John Doe’s email address would be John.Doe@georgebrown.ca and a second John Doe would be John.Doe1@georgebrown.ca. This address will remain active through your time at George Brown and for one year following completion of your program.
+You can access your new account by going to https://outlook.office.com
+It’s important that you do this as soon as possible because your teachers will be expecting you to use this address when you submit assignments throughout the semester.
+Be sure to back up the information on your mobile device before proceeding. The initialization process may wipe out existing information stored on your device.
+Note: These instructions have been tested using an Android version 4.1 phone; you may find minor differences for your device. The essential parameters, such as Exchange server name, apply regardless of device/Android version. Consult your device manual for further instructions. A wealth of information is also available on the Internet.
+Please note that deleting an email message from your mobile device will now result in the simultaneous removal of the message from the College’s email system.
+Be sure to back up the information on your mobile device before proceeding. The initialization process may wipe out existing information stored on your device.
+Apple has published an ‘Exchange ActiveSync Account Quick Setup Guide’ for its iOS devices, outlining how to synchronize with email providers (e.g. GBC). The URL is: http://support.apple.com/kb/HT2480.
+The pertinent GBC parameters are:
+Please note that deleting an email message from your mobile device will now result in the simultaneous removal of the message from the College’s email system.
+For full-time students, one year after graduation. For other students, including Continuing Education students, one year after the last day of your last class.
+Yes. E-mail accounts will be given to all continuing education students.
+The system is not intended for long-term mail archiving, though you may choose to forward mail to a personal e-mail account should you wish to retain messages longer.
+Yes, attachments up to 10 MB in size can be transmitted along with your e mail message, subject to space availability for your account. Attachments commonly containing viruses (e.g. .exe, .zip) are blocked by the system. You will receive a message from the system if an attachment is blocked.
+Yes, the anti virus and anti spam automation blocks > 95% of mail, helping to reduce the number of junk mail messages you receive. You can still expect to receive the occasional junk mail message, because more stringent filtering would result in false positives, blocking some legitimate mail messages too. You do not need to report junk mail received; simply delete the message.
+Help with OWA is available within the application. The College does not provide technical support for OWA.
+You will find extensive online help for a variety of User ID and password issues at: Technical support page.
+If you are unable to trouble shoot a User ID or password issue yourself, you can obtain support at the following locations and phone numbers: Technical support page.
+Please note that the College cannot provide support for any other technical issues.
+Outlook Web Access (OWA) is a Microsoft product and the full feature set is only available from Microsoft's Internet Explorer (IE) browser. You may encounter errors and/or reduced functionality when accessing OWA from other browsers. A free copy of Internet Explorer may be downloaded directly from Microsoft: https://www.microsoft.com/en-ca/download/internet-explorer.aspx.
+Mac users, users of browsers other than IE, and blind and low vision users should choose OWA Light rather than OWA. OWA Light is compliant with the Accessibility for Ontarians with Disabilities Act.
+Selecting the Use Outlook Web Access Lightcheckbox on the email login page will enable you to use a variety of browsers, but you will not have access to the full OWA feature set. The following link sets out compatible browsers/versions for OWA: http://technet.microsoft.com/en us/library/aa998931.aspx.
+The following link outlines the feature differences between OWA and OWA Light: http://technet.microsoft.com/en us/library/aa997437.aspx.
+The workstations in the Learning Resource Centres run an OWA compatible version of IE, and provides access to the full OWA feature set.
+ 
+Learn more about our land acknowledgment
+Be kept in the loop about application deadlines, college news, upcoming events, tours and more.
+Sign Up Now
+
+
+416-415-2000
+TTY: 1-877-515-5559
+ask.george@georgebrown.ca
+Visit Our Social Media Hub
+Visit Our Social Media Hub
+The information contained in this website is subject to change without notice. It should not be viewed as a representation, offer or warranty. Students are responsible for verifying George Brown College fee requirements.

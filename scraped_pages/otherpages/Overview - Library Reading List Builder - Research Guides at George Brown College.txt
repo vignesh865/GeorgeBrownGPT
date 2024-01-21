@@ -1,0 +1,49 @@
+Introduction
+The Library Reading List Builder is a tool that allows instructors to create lists of library resources in Blackboard. Lists can contain links to digital library resources (such as journal articles, eBooks, or streamed videos), or any web content. Students can then easily access these resources from within the course on Blackboard.
+Accessible / Printable Instructions
+Copyright Notice
+All faculty and staff are expected to comply with Canada’s copyright laws and the terms of the college’s existing licenses and Copyright Policy. For more information please review the Copyright Policy or contact Copyright Help Copyright.Help@georgebrown.ca
+The content of this guide has been adapted with permission from Algonquin College. 
+How to use the Reading List Builder
+Creating a reading list
+Using the Library Reading List Builder, you can create a list of readings directly in a content area or in a folder. This allows you to create collections of readings for each week of the course, or lists of useful resources for an assignment. 
+Adding library resources to your list
+Viewing your list
+Note: The Library Reading List Builder will open in a new browser tab. If your browser has a popup blocker enabled, clicking on your reading list in Blackboard will take you to a page with a button labelled Click for Readings. Click this button to open the Reading List Builder.
+Adding web resources to your list
+
+Tip: You can also use the Add Web Resources function to add Library databases, APA/MLA Guides or Subject Guides to your list. 
+Adding instructions to your list
+
+Adding notes to resources in your list
+
+Changing the sort order of your list
+
+Tip: You may also change the Sort Order number of each item, located in the grey bar at the top of each item, and then click Save Changes.
+Adding folders to your list
+
+Previewing your list as it will appear to students
+Directing students to your list
+Making your list available to other instructors
+The Library Reading List Builder allows you to make your reading lists available for other faculty members to view and to import into their own lists. 
+
+Note: This will make your list available to ALL George Brown College instructors. There is no option to share a list with a particular instructor. However, once the instructor you wish to share your list with has imported it, you may change your list settings back to private. Doing so will not affect the list that your colleague has imported. Any changes you make to your list after your colleague has imported it will not be reflected in their list.
+Importing content from other lists
+Importing other faculty members' lists
+If an instructor has made their list public, you can import some or all of its contents into your own list.
+Importing your own list from another course
+Importing resources from an EBSCO folder
+If you have created a folder of resources in the library’s main search feature (Search for Articles, Books, Videos or More) or another EBSCO collection, you can import these resources all at once into a list in the Library Reading List Builder.
+Note: This function requires an EBSCO account. EBSCO accounts are not maintained by George Brown College. You may create an account by choosing the Sign In option at the top of the Search Results page on the library website, or any EBSCO database.
+Copyright: What you need to know
+Digital library resources
+Web resources (non-library)
+Online videos (i.e. YouTube, Vimeo, etc.)
+Material scanned from a print (hard copy) resource 
+For more information go to http://copyright.georgebrown.ca/ or contact Copyright Help Copyright.Help@georgebrown.ca
+Accessibility: What you need to know
+About accessibility
+Articles from the GBC Library databases 
+Web resources (non-library) 
+Need Help?
+If you are experiencing difficulties with the Library Reading List Builder, please contact your liaison librarian or Blackboard Help (bbfaculty@georgebrown.ca or call 416-415-5000 ext. 4320).

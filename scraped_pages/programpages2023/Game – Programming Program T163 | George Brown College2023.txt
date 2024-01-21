@@ -1,0 +1,319 @@
+Game – Programming Program (T163)
+Apply Now:
+Domestic Students
+International Students
+Program Details
+View information for:
+2023-2024
+2024-2025
+Program Name:
+Game – Programming
+Code:
+T163
+Credential:
+Ontario College Advanced Diploma
+Method of Study:
+Full-time
+Duration:
+3 years (6 semesters)
+Starting Months:
+January, September
+Domestic Tuition:
+$3,931.00 *
+International Tuition:
+$17,565.00 **
+Centre:
+Arts, Design & Information Technology
+School:
+Computer Technology
+Location:
+Waterfront Campus
+Fall 2023 Delivery:
+Semester 1: Hybrid; Semester 3, 5: On Campus
+Winter 2024 Delivery:
+Semester 1, 2, 4: Hybrid; Semester 6: On Campus
+Program Availability
+Semester
+Domestic
+International
+Fall
+2023
+Closed
+Closed
+Winter
+2024
+Closed
+Closed
+Spring
+2024
+Not Available
+Not Available
+Add to Comparison
++
+Compare Programs
+Explore related programs:
+Computer Programming and Analysis (T177)
+Computer Systems Technology (T147)
+Computer Systems Technician (T141)
+Program Menu
+Program Description
+Courses
+Tuition & Fees
+Admission Requirements
+Program Outcomes
+Contact Us
+Program Description
+Program Overview
+Whether it’s online or console, cellphone or PC-based, the game industry in Canada is large and growing rapidly. Game developers and publishers in the Greater Toronto Area range from small specialized units to midsized companies to Microsoft, Nintendo and other industry leaders. Computer programmers are the fundamental resource for companies that develop, produce, distribute and market computer-based games. In fact, our industry advisers tell us it is the technical skills that are most in demand – a demand that this George Brown program is focused on meeting.
+PLEASE NOTE: This program is also offered in a fully online format. Please see
+Game – Programming (Online) program (T193)
+for more details.
+Full Description
+Whether it’s online or console, cellphone or PC-based, the game industry in Canada is large and growing rapidly. Game developers and publishers in the Greater Toronto Area range from small specialized units to mid-sized companies to Microsoft, Nintendo and other industry leaders.
+Computer and game programmers are the fundamental resource for companies that develop, produce, distribute and market computer-based games. In fact, our industry advisors tell us it is the technical skills that are most in demand – a demand that this George Brown program is focused on meeting.
+As a student in this three-year
+Game – Programming
+advanced diploma program, you will learn the technical skills needed to be successful in the job market by learning “the language of gaming” (C and C++), as well as artificial intelligence, 3D graphics and much more.
+The added advantage of this program is that you will also be taught by George Brown’s School of Design faculty throughout the program, working closely with design students to create games, explore all aspects of the game industry and learn to work in teams, just as you would in the industry. Classes take place at George Brown – Waterfront Campus, evening courses may be required.
+Note:
+Students who start the program in January (winter term) will be required to attend classes during the summer months (May to August).
+Technology Requirements
+This program requires students to have access to a personal computer with the following specifications:
+8 GB RAM minimum (16 GB recommended)
+256 GB SSD Hard Drive (500+ GB is optimal)
+Approx. 100 GBs of hard disk space for required software
+Quad-core i7 2.5GHz or better
+Video card (4GB RAM recommended, supports OpenGL 3.2+ and DirectX 11/12)
+Webcam
+Career & Postgraduate Study Opportunities
+Career Options
+Our graduates will be able to work in many areas of the digital game industry, including:
+software or hardware development
+publisher
+ISP and game portal development and maintenance
+website development
+distribution middleware and tool provider
+production servicer
+content/IP owner
+Industry
+"Canada's video game industry is recognized as a global powerhouse for game development and has played a significant role in shifting what was once a 'niche industry' into a blockbuster industry and driver of innovation. In 2015, the industry contributed more than $3 billion to the Canadian economy and provided 20,400 full-time equivalent (FTE) jobs across the country, representing an increase of 31 percent and 24 percent respectively since 2013.
+"Industry growth both globally and in Canada has been explosive and is expected to continue into the future.​ Canada’s video game industry crosses the country with 472 active studios that develop, publish, and distribute video games. The sector is mainly concentrated in the provinces of Quebec (29.4 per cent), British Columbia (27.1 per cent), and Ontario (22.9 per cent)." – Entertainment Software Association of Canada
+Educational Pathways
+Graduates of Game – Programming have the opportunity to apply to the BSc (Honours) Computer Games Design program at the University of Gloucestershire, beginning in level 6. For more information about this program, visit their
+Computer Games Design
+page.
+Courses
+Required Courses
+PRINTABLE CURRICULUM PLANNER 2023-2024
+SEMESTER 1
+Code
+Course name
+GAME 1001
+Introduction to Programming
+GAME 1007
+Game Fundamentals I
+GAME 1005
+Game Production I
+GSSC 1027
+Personal Finance
+MATH 1180
+Math for Game Development
+COMM 2000
+Communicating Across Contexts**
+SEMESTER 2
+Code
+Course name
+GAME 1011
+Advanced Programming
+GAME 1017
+Game Fundamentals II
+GAME 3001
+Artificial Intelligence
+GAME 1014
+Game Production II
+MATH 1107
+Linear Algebra and Geometry
+GNED
+General Education Elective (Select One)
+SEMESTER 3
+Code
+Course name
+GAME 2020
+Game Production III
+GAME 2001
+Data Structures & Algorithms
+GAME 2005
+Game Physics
+GAME 2012
+3D Graphics Programming
+GAME 2013
+Game Engines I
+GNED
+General Education Elective (select one)
+SEMESTER 4
+Code
+Course name
+GAME 2030
+Game Production IV
+GAME 2031
+Advanced Topics in Programming Languages
+GAME 3111
+Advanced Graphics Programming
+GAME 3002
+Physics Engines
+GAME 2023
+Game Engines II
+COMP 2148
+Professional Workplace Competencies
+SEMESTER 5
+Code
+Course name
+GAME 3020
+Game Production V
+GAME 2014
+Mobile Game Development I
+GAME 3003
+Console Game Development I
+GAME 3110
+Multiplayer Systems
+GAME 3023
+Game Engines III
+GAME 3121
+Game Engine Development I
+SEMESTER 6
+Code
+Course name
+GAME 3030
+Game Production VI
+GAME 3004
+Mobile Game Development II
+GAME 3011
+Game Portfolio Development
+GAME 3015
+Game Engine Development II
+GAME 3033
+Game Engines IV
+GAME 3112
+Console Game Development II
+**Based on the results of your placement test, you may be required to take COMM 1000 (Introduction to College Communication) before progressing to COMM 2000. COMM 1000 does not count as a course required for graduation, and you will be charged for this extra course. Please visit
+Assessment Centre
+for more information.
+General Education Electives
+Electives
+ALTERNATIVE STUDY OPTIONS
+Students looking to focus more on the art/asset development aspect of game development may be more interested in our
+Game – Art advanced diploma program (G119)
+, which is centred in the George Brown School of Design. Even though several courses are co-delivered in both programs, we encourage you to consider which program most closely suits your goals prior to making a final decision.
+Detailed course outlines
+Program Learning Outcomes
+The graduate has reliably demonstrated the ability to:
+Analyze the differences in game genres in order to develop games that meet the needs of specific markets.
+Analyze the history of video games to compare various approaches to game development.
+Support the development of games by identifying and relating concepts from a range of industry roles – programming, design and art.
+Contribute as an individual and a member of a game development team to the effective completion of a game development project.
+Develop strategies for ongoing personal and professional development to enhance work performance in the games industry.
+Perform all work in compliance with relevant statutes, regulations, legislation, industry standards and codes of ethics.
+Tuition & Fees
+Domestic Tuition
+$3,931.00 *
+International Tuition
+$17,565.00 **
+Additional Costs
+* Amounts listed are the total of tuition, materials, student service and ancillary fees for the first
+two
+semesters of programs starting in Fall
+2022
+Fees are subject to change for programs starting in Fall 2023 and at later dates.
+** Amounts listed are the total of tuition, materials, student service and ancillary fees for the first two semesters of programs starting in Fall 2023. Fees are subject to change for programs starting in Fall 2024 and at later dates.
+International Students
+Visit the
+International Fees and Related Costs page
+for more information.
+Financial Assistance
+This program is approved for OSAP funding, provided the applicant meets OSAP eligibility criteria.
+Disclaimer: The information contained in this website is subject to change without notice. It should not be viewed as a representation, offer or warranty. Students are responsible for verifying George Brown College fee requirements.
+Admission Requirements
+Applicants are selected on the basis of their academic achievement, including the required courses, and any other selection criteria outlined below.
+Ontario Secondary School Diploma or equivalent**
+grade 12 English (C or U)
+grade 11 math (M or U) or grade 12 (C or U)
+Attending a program information session is highly recommended
+** Mature student status (19 years of age or older and no OSSD)
+Mature students may take the
+Admissions Assessment
+for English and math, OR may consider upgrading to achieve the credit(s) needed in
+English
+and
+math
+.
+Please note that George Brown is committed to ensuring that applicants will succeed in their program of choice and meeting the minimum requirements does not guarantee admission to the program. Applicants may be required to have grades higher than the minimum requirements stated.
+Course exemptions
+College or university credits may qualify you for course exemptions. Please visit
+Transfer Guide
+for more information.
+International Students
+Visit the
+International Admissions page
+for more information regarding country specific admission requirements.
+How to Apply
+Domestic students should apply through
+Ontario Colleges.
+International Students
+Visit the
+How to Apply page
+for more information on how and when to apply.
+International students should apply through the
+George Brown College Online Application System
+.
+Contact Us
+School of Computer Technology
+Location: 3 Lower Jarvis St., Room 260
+Phone: 416-415-5000, ext. 4287 or 3129
+Email:
+computertechnology@georgebrown.ca
+or
+game@georgebrown.ca
+Office hours: Monday – Friday: 9 a.m. – 4 p.m.
+Program Co-ordinator: Alexander Richard
+Phone: 416-415-5000, ext. 4232
+Email:
+arichard6@georgebrown.ca
+For more information about George Brown College, you may also call the Contact Centre at 416-415-2000 (TTY 1-877-515-5559) or long distance 1-800-265-2002.
+Contact one of our international recruitment representatives specializing by country of origin by either booking a virtual meeting or submitting an inquiry. For more information visit the
+International Contact Us page
+Visit Our Campus
+Classes in the Game – Programming program take place at our
+Casa Loma
+and
+St. James
+Campuses. Sign up for an
+information session
+or
+campus tour
+to learn more about George Brown College and the program. You can also explore our
+virtual tour.
+Explore related programs:
+Computer Programming and Analysis (T177)
+Computer Systems Technology (T147)
+Computer Systems Technician (T141)
+It is said that what you put into life is what you get out of it. This is also true of Game – Programming (T163). While some of our graduates have gone on to notable studios like Ubisoft and Rockstar, others form a strong bond and stick together even after graduation. One such case is a group of exceptional T163 students who formed their own entity, called No Sleep, even before graduation.
+The members of No Sleep created the group in their first semester Game Production class. In third year, they produced a game that won several awards, including the Best Student Showcase at Digifest 2018.
+No Sleep member and Chair's Award winner Mark Miller had this advice for current students: "So long as everyone is putting in their share of the work, and is [attending class], no one is left behind."
+Jack Wiebe, a Game – Programming student, was part of a research team working with Vitruvian Sport Systems to revolutionize soccer training. They developed Zone360 – a digital training platform that brings the soccer pitch to players’ smartphones, using virtual reality to deliver immersive drills and plays. Jack says working on the project has given him a broad range of experience, from building 3D environments to collaborating with artists. Best of all, his portfolio now includes a professional project that incorporates mobile technology, virtual reality and the artificial intelligence of IBM’s supercomputer, Watson. “That’s going to be hugely beneficial when I’m looking for jobs,” says Wiebe.
+No Sleep
+Ontario College Advanced Diploma
+Visit and discover life in our campus
+Book campus tour
+Get answers to your questions
+Book info session
+Sign up to receive tailored resources to make your application, your way.
+Sign up now
+Close
+Sign up and learn more about your options, our programs, and life at George Brown.
+You must have JavaScript enabled to use this form.
+First Name
+Last Name
+Email
+Domestic or International
+Country
+I agree to be sent email communications from George Brown College. I understand I can unsubscribe at any time.

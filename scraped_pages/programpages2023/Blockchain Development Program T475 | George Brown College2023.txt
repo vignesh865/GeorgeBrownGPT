@@ -1,0 +1,278 @@
+Blockchain Development Program (T475)
+Apply Now:
+Domestic Students
+International Students
+Program Details
+View information for:
+2023-2024
+2024-2025
+Program Name:
+Blockchain Development
+Code:
+T475
+Credential:
+Ontario College Graduate Certificate
+Method of Study:
+Full-time
+Duration:
+1 year (3 semesters)
+Starting Months:
+January, September
+Domestic Tuition:
+$7,291.00 * ‡
+International Tuition:
+$17964.00 ** ‡
+Centre:
+Arts, Design & Information Technology
+School:
+Computer Technology
+Location:
+Casa Loma Campus
+Experiential Learning:
+Mandatory Co-op or Work Integrated Project
+Fall 2023 Delivery:
+Semester 1: On Campus
+Winter 2024 Delivery:
+Semester 1, 2: On Campus
+Program Availability
+Semester
+Domestic
+International
+Fall
+2023
+Closed
+Closed
+Winter
+2024
+Closed
+Closed
+Spring
+2024
+Not Available
+Not Available
+Add to Comparison
++
+Compare Programs
+Explore related programs:
+Computer Programming and Analysis (T177)
+Information Systems Business Analysis (with experiential learning capstone) (Postgraduate) (T405)
+Computer Systems Technology (T147)
+Program Menu
+Program Description
+Courses
+Tuition & Fees
+Admission Requirements
+Program Outcomes
+Contact Us
+Program Description
+Leadership Claims
+In response to the digital revolution and rapid transformation ignited by blockchain technology, George Brown College's
+School of Computer Technology
+has distinguished itself as a pioneer, becoming the first Canadian institution to offer a certificate in
+Blockchain Development
+.
+Program Overview
+The Blockchain Development program is a comprehensive, two-semester curriculum designed to provide students with an in-depth understanding of blockchain technology and its applications. This program equips students with the necessary knowledge and practical skills to design and deploy dApps (decentralized applications) utilizing blockchain technology.
+Core areas of focus include smart contract development, software and business patterns for blockchain, blockchain system development, full stack development, blockchain architecture, security practices, and relevant laws and regulations.
+In the final semester, students will have the option to undertake a co-operative work placement or work-integrated project. This opportunity will allow them to apply the knowledge and skills they have acquired throughout the program in a practical setting, thereby gaining valuable real-world experience, and fostering networking opportunities with industry professionals. This program has been meticulously developed with the invaluable support of seasoned professionals from the blockchain industry. The program is delivered in a full-time executive format, comprising approximately 20 hours per week of evening classes spread over a 26-week period. This structure ensures that students experience a balanced mix of theoretical knowledge and hands-on, project-based learning, offering students the chance to apply theoretical knowledge in a practical setting.
+Full Description
+Seeking a career pivot or aiming to augment your skill set with advanced knowledge in blockchain development?
+George Brown College in Toronto presents a distinct Blockchain Development program that spans three semesters. The curriculum is centered on the design and deployment of decentralized applications, leveraging blockchain technology, and offers a holistic understanding of the blockchain domain.
+Developed in collaboration with experienced industry professionals, this program unfolds in a full-time executive format, necessitating approximately 20 hours of study each week over a 26-week duration. The third semester offers students the choice of engaging in a Co-op placement or a work-integrated learning experience, providing them with the opportunity to gain valuable hands-on experience in the expansive blockchain space.
+The skills you’ll learn include: smart contracts design patterns for blockchain decentralized system development full stack development & integration blockchain architecture, security practices, laws and regulations and more
+Technology Requirements
+This program requires students to have access to a personal computer with the following specifications:
+8 GB minimum (16 GB RAM recommended0
+256 GB SSD Hard Drive (500+ GB is optimal)
+Quad-core i5/i7 2.4GHz or better
+Ability to run Ubuntu 20.04 (can be on virtual machine)
+Webcam
+Your Field Education Options
+In semester 3, students complete a Work Integrated Project, or qualified students are eligible for co-op. Learn more about how to qualify, apply, and important dates for co-op on the
+Centre for Arts, Design & Information Technology Experiential Learning
+page.
+Career & Postgraduate Study Opportunities
+Career Options
+Graduates of this program may apply for positions that include:
+blockchain engineer
+blockchain developer
+blockchain architect
+smart contract developer
+dApp developer
+blockchain solution analyst
+blockchain consultant
+Industry
+To support Toronto as a leading blockchain hub, George Brown College has partnered with
+ConsenSys
+,
+ChainSafe Systems
+and other leaders in the industry to develop this program.
+Courses
+Required Courses
+This is a three-semester program comprising case studies during which students will be engaged in an increasingly intense and independent basis with material of escalating complexity. Course-oriented delivery supports this learning process.
+Curriculum Planner 2023-2024
+SEMESTER 1
+Course Code
+Course Title
+Pre-Requisites
+BCDV 4001
+Blockchain Foundations
+BCDV 4010
+Smart Contract Development Essentials
+BCDV 4028
+Advanced Smart Contract Development
+BCDV 4010
+BCDV 4029
+Decentralized Governance Framework
+BCDV 4001
+BCDV 4021
+Front-end Web Development
+BCDV 4030
+Blockchain Business Models
+BCDV 4001, 4029
+BCDV 4022
+Back-end Web Development
+BCDV 4021
+BCDV 4023
+Full Stack Blockchain Integration< - I/td>
+BCDV 4021, 4022
+BCDV 4031
+DeFi Fundamentals
+BCDV 4001, 2029, 4030
+Semester 2
+Course Code
+Course Title
+Pre-Requisites
+BCDV 4019
+Advanced Blockchain Topics
+BCDV 4001, 4010, 4029, 4030, 4031
+BCDV 4032
+Building Scalable Blockchain Apps
+BCDV 4023
+BCDV 4025
+Enterprise Blockchain Development
+BCDV 4023
+BCDV 4033
+DevOps and Blockchain Administration
+BCDV 4032
+BCDV 4026
+Blockchain Platforms
+BCDV 4023
+BCDV 4034
+Full Stack Blockchain Integration - II
+BCDV 4027
+Capstone Project
+COMP 4064
+Career Planning and Portfolio Development
+Semester 3
+Course Code
+Course Title
+Pre-Requisites
+TCOP 4007
+Co-op Work Placement
+BCDV 4015
+Work-Integrated Project
+Detailed course outlines
+Program Learning Outcomes
+The graduate has reliably demonstrated the ability to
+:
+Communicate essential concepts related to blockchain technology and its industry applications.
+Implement best security practices for blockchain solutions.
+Design cryptoeconomic models to solve business problems.
+Design the architecture of decentralized applications and systems.
+Develop decentralized applications leveraging blockchain technology.
+Explain the legal implications, regulations and industry standards that are relevant to blockchain technology.
+Apply IT project management principles and best practices.
+Contribute to the field and blockchain community through various open-source projects, partnerships and community involvement.
+Tuition & Fees
+Domestic Tuition
+$7,291.00 * ‡
+International Tuition
+$17964.00 ** ‡
+Additional Costs
+* Amounts listed are the total of tuition, materials, student service and ancillary fees for the first
+two
+semesters of the program starting in Fall
+2022
+. Fees are subject to change for programs starting in Fall 2023 and at later dates.
+**
+Amounts listed are the total of tuition, materials, student service and ancillary fees for the first two semesters of programs starting in Fall 2023. Fees are subject to change for programs starting in Fall 2024 and at later dates.
+‡ Semester 3 fees will consist of a flat fee of $500 for co-op placement or for the work-integrated project; fees are to be paid separately, both of which is not included in the total above.
+International Students
+Visit the
+International Fees and Related Costs page
+for more information.
+Financial Assistance
+This program is eligible for OSAP funding.
+Disclaimer: The information contained in this website is subject to change without notice. It should not be viewed as a representation, offer or warranty. Students are responsible for verifying George Brown College fee requirements.
+Admission Requirements
+Applicants are selected on the basis of their academic achievement, including the required courses, and any other selection criteria outlined below.
+Two- or three-year diploma or bachelor's degree in information technology, computer science or a related field.
+ENGLISH LANGUAGE PROFICIENCY
+English language proficiency is essential. Applicants with international transcripts who do not provide English proficiency test results must test at the College level in the George Brown College English assessment to be considered for admission.
+Please visit
+English Proficiency
+for more details
+COURSE EXEMPTIONS
+College or university credits may qualify you for course exemptions. Please visit the
+Transfer Guide
+for more information.
+International Students
+Visit the
+International Admissions page
+for more information regarding country specific admission requirements.
+How to Apply
+Domestic students should apply through
+Ontario Colleges.
+International Students
+Visit the
+How to Apply page
+for more information on how and when to apply.
+International students should apply through the
+George Brown College Online Application System
+.
+Contact Us
+School of Computer Technology
+Phone: 416-415-5000, ext. 4287
+Email:
+computertechnology@georgebrown.ca
+The office hours are:
+Monday – Friday: 9 a.m. – 4 p.m.
+Program Coordinator: George Petrovic
+Email:
+Djordje.Petrovic@georgebrown.ca
+For more information about George Brown College, you may also call the Contact Centre at 416-415-2000 (TTY 1-877-515-5559) or long distance 1-800-265-2002.
+Contact one of our international recruitment representatives specializing by country of origin by either booking a virtual meeting or submitting an inquiry. For more information visit the
+International Contact Us page
+Visit Our Campus
+The Blockchain Development program is offered through our
+School of Computer Technology
+from our
+Casa Loma Campus
+at
+146 Kendal Avenue
+. Sign up for an
+information session
+or
+campus tour
+to learn more about George Brown College and the program. You can also explore our
+virtual tour.
+Explore related programs:
+Computer Programming and Analysis (T177)
+Information Systems Business Analysis (with experiential learning capstone) (Postgraduate) (T405)
+Computer Systems Technology (T147)
+Visit and discover life in our campus
+Book campus tour
+Get answers to your questions
+Book info session
+Sign up to receive tailored resources to make your application, your way.
+Sign up now
+Close
+Sign up and learn more about your options, our programs, and life at George Brown.
+You must have JavaScript enabled to use this form.
+First Name
+Last Name
+Email
+Domestic or International
+Country
+I agree to be sent email communications from George Brown College. I understand I can unsubscribe at any time.

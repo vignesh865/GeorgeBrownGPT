@@ -1,0 +1,21 @@
+
+Reduce, reuse, recycle and recover is often associated with physical items, but two George Brown College students won a sustainable development solutions competition by applying the four Rs to dark data.  
+Tanvir Singh Ahuja, a student in the Applied AI Solutions Development program, and Melric Rego, a student in the Building Information Modelling program, were on the team of four that won Global Goals Jam Canada 2022, March 18-20. The competition challenges students, entrepreneurs and changemakers to develop solutions based on Sustainable Development Goals (SDGs), also known as Global Goals, as outlined by the United Nations Development Programme (UNDP). 
+“Essentially, our value proposition was to automate dark data management to help conserve energy and in the long run reduce the need to install new data centers and other servers across the world,” Ahuja said. He also participated in the Global Goals Jam 2021 competition and placed third. 
+Dark data is unused data that sits in storage eating up energy. The team reports that dark data constitutes 80 per cent of all data in the world and will result in 5.8 million tonnes of carbon dioxide being released into the atmosphere this year.  
+Ahuja said it’s not only about cutting unused data but optimizing and centralizing existing data using open-source platforms for small to medium-size enterprises, such as game developers. This service would also be helpful for managing data on personal devices. 
+The team developed the idea of a business-to-business-to-consumer (B2B2C) model, targeting both organizations and individual users. 
+“We knew that a lot of big companies like Amazon and Facebook do this (dark data management). Deduplication is being done on a larger scale, but small and medium-sized enterprises don't have access to the technology that larger companies do," Rego said. “Why focus on big conglomerates when we can take it to the entire ecosystem?” 
+Teams were judged on their pitches, whether their ideas were unique and feasible, and the business model scalability, among other criteria. Ahuja and Rego’s team received a $2,000 award for first place. Teams also received guidance from mentors throughout the competition, including from Neal Lilliott, Manager of George Brown’s entrepreneurial hub startGBC. 
+“It makes me happy when I work on these projects," Ahuja said. “I believe that students can bring something to the communities that can benefit both the world and themselves.” 
+Learn more about our land acknowledgment
+Be kept in the loop about application deadlines, college news, upcoming events, tours and more.
+Sign Up Now
+
+
+416-415-2000
+TTY: 1-877-515-5559
+ask.george@georgebrown.ca
+Visit Our Social Media Hub
+Visit Our Social Media Hub
+The information contained in this website is subject to change without notice. It should not be viewed as a representation, offer or warranty. Students are responsible for verifying George Brown College fee requirements.

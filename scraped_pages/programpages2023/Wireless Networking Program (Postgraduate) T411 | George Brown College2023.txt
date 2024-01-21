@@ -1,0 +1,257 @@
+Wireless Networking Program (Postgraduate) (T411)
+Apply Now:
+Domestic Students
+International Students
+Program Details
+View information for:
+2023-2024
+2024-2025
+Program Name:
+Wireless Networking
+Code:
+T411
+Credential:
+Ontario College Graduate Certificate
+Method of Study:
+Full-time
+Duration:
+1 year (3 semesters)
+Starting Months:
+January, September
+Domestic Tuition:
+$5,981.00 *
+International Tuition:
+$26,390.00 **
+Centre:
+Arts, Design & Information Technology
+School:
+Computer Technology
+Location:
+Casa Loma Campus
+Fall 2023 Delivery:
+Semester 1, 3: On Campus
+Winter 2024 Delivery:
+Semester 1, 2: On Campus
+Program Availability
+Semester
+Domestic
+International
+Fall
+2023
+Closed
+Closed
+Winter
+2024
+Closed
+Closed
+Spring
+2024
+Not Available
+Not Available
+Add to Comparison
++
+Compare Programs
+Explore related programs:
+Cyber Security (Postgraduate) (T433)
+Information Systems Business Analysis (with experiential learning capstone) (Postgraduate) (T405)
+Computer Systems Technology (T147)
+Program Menu
+Program Description
+Courses
+Tuition & Fees
+Admission Requirements
+Program Outcomes
+Contact Us
+Program Description
+Program Overview
+Wireless communications are pervasive in our lives. They have grown in recent years to include everything from personal communications networks to governments, hospitals and neighbourhood businesses. And there’s no end in sight to the growth of our wireless world. George Brown’s leading-edge Wireless Networking postgraduate program is designed to put you at the centre of this exciting world by giving you high-demand skills in radio frequency (RF), cellular, broadband and advanced data communications.
+Full Description
+Wireless communications are pervasive in our lives. They have grown in recent years to include everything from personal communications networks to governments, hospitals and neighbourhood businesses. And there’s no end in sight to the growth of our wireless world.
+George Brown College’s leading-edge Wireless Networking postgraduate program is designed to put you at the centre of this exciting world by giving you high-demand skills in radio frequency (RF), cellular, broadband and advanced data communications.
+We offer you a unique choice of career direction. You can specialize in:
+Long Term Evolution (LTE) and Broadband Technologies
+Advanced Network Security
+Voice over Internet Protocol (VoIP) Technologies
+Other program advantages:
+We have departed from the traditional lecture-based course structure. Students learn in labs by practising on the equipment that they will use when they enter the workforce.
+In conjunction with our corporate partners, students may be involved in real-world projects for one or two days per week, making proposals and then working in teams to plan projects, set schedules and achieve goals.
+George Brown has created up-to-date wireless, security, VoIP, RF and LTE labs so that all students gain individual hands-on experience.
+Students will have access to NETLAB, giving them remote access to the Cisco Academy and VMWare labs.
+After finishing the program, students will have bridging options to other postsecondary and postgraduate programs in the School of Computer Technology.
+Note
+: In this rapidly changing industry, program improvements are being made on an ongoing basis, which may result in course changes. Changes are made in consultation with our Program Advisory Committee, which is composed of academic staff and industry representatives from small, medium-sized and large corporations.
+Please note: Students who start the program in January (winter term) will be required to attend classes during the summer months (May to August).
+Technology Requirements
+This program requires students to have access to a personal computer with the following specifications:
+8 GB minimum (16 GB RAM recommended0
+256 GB SSD Hard Drive (500+ GB is optimal)
+Quad-core i5/i7 2.4GHz or better
+Webcam
+Career & Postgraduate Study Opportunities
+Career Options
+The specialized education in this program helps graduates get jobs in a wide variety of positions connected with:
+wireless LAN support
+wireless service providers
+cellular and broadband providers
+data centres
+enterprise system support
+Courses
+Required Courses
+PRINTABLE CURRICULUM PLANNER 2023-2024
+SEMESTER 1
+Code
+Course Name
+COMP 1153
+Introduction to RF/Wireless Communication Principles
+COMP 1154
+Networking Technologies Fundamentals
+COMP 1240
+Operating Systems
+COMP 1241
+WLAN Administration
+COMP 1205
+IT Best Practices
+COMP 4040
+Introduction to SOC
+SEMESTER 2
+Code
+Course Name
+COMP 1159
+Introduction to Voice Network Technology and Techniques
+COMP 1247
+Mobile and IoT Technologies
+COMP 1161
+Security and Advanced Data Network Technologies
+COMP 1207
+Data Centre and Virtualization Technology
+COMP 4074
+Wireless Network Security
+SEMESTER 3
+Code
+Course Name
+COMP 2105
+Advanced Network Analysis
+COMP 4057
+Ethical Hacking
+COMP 4063
+Capstone Project
+COMP 1214
+Advanced Security Infrastructure and Deployment Technologies
+COMP 2145
+4G and 5G Technologies
+Detailed course outlines
+Program Learning Outcomes
+The graduate demonstrates the ability to:
+Test and measure RF (radio frequency) signals, attenuation and antenna systems.
+Assist with the preparation and execution of wireless site surveys.
+Build a wired and/or wireless computer network using system design documentation.
+Measure performance of both wired and wireless network components and applications using a variety of basic and advanced network management tools.
+Produce documentation and reports related to network components and applications performance.
+Troubleshoot and resolve technical problems related to both wired and wireless networks using standardized approaches and methodologies.
+Install and upgrade network hardware (e.g., workstations, servers, wireless access points, routers, switches, firewalls) and related components and software according to best practices in the industry.
+Monitor and evaluate network security issues and perform basic security audits on both wired and wireless networks.
+Assist in the collection and analysis of user requirements related to wired and wireless networks.
+Utilize change control, issue documentation and problem escalation procedures and processes as per industry best practices.
+Generate and maintain “as built” network documentation following industry best practices.
+Compare network performance against service levels and assist in the development of action plans as required against service level agreements.
+Employ concepts and practices as defined in ITIL (IT Infrastructure Library) to manage IT services and operation, including project management tools and techniques.
+Tuition & Fees
+Domestic Tuition
+$5,981.00 *
+International Tuition
+$26,390.00 **
+Additional Costs
+* Amounts listed are the total of tuition, materials, student service and ancillary fees for
+three
+semesters of programs starting in Fall
+2022
+. Fees are subject to change for programs starting in Fall 2023 and at later dates.
+** Amounts listed are the total of tuition, materials, student service and ancillary fees for the
+three
+semesters of the programs starting in
+Fall 2023
+. Fees are subject to change for program starting in Fall 2024 and at later dates.
+International Students
+Visit the
+International Fees and Related Costs page
+for more information.
+Financial Assistance
+This program is approved for OSAP funding, provided the applicant meets OSAP eligibility criteria.
+Disclaimer: The information contained in this website is subject to change without notice. It should not be viewed as a representation, offer or warranty. Students are responsible for verifying George Brown College fee requirements.
+Admission Requirements
+Three-year college diploma or bachelor's degree*
+* Please note that
+domestic
+applicants who are submitting international transcripts require a Canadian equivalency evaluation. This can be obtained through ICAS (International Credential Assessment Service) at
+icascanada.ca
+or WES (World Education Services) at
+wes.org/ca.
+English Language Proficiency
+Applicants with international transcripts who do not provide English proficiency test results must test at the college level in the George Brown College English assessment to be considered for admission.
+Please visit
+English Proficiency
+for more information.
+Course Exemptions
+College or university credits may qualify you for course exemptions. Please visit
+Transfer Guide
+for more information.
+International Students
+Visit the
+International Admissions page
+for more information regarding country specific admission requirements.
+How to Apply
+Domestic students should apply through
+Ontario Colleges.
+International Students
+Visit the
+How to Apply page
+for more information on how and when to apply.
+International students should apply through the
+George Brown College Online Application System
+.
+Contact Us
+School of Computer Technology
+Phone: 416-415-5000, ext. 4287
+Email:
+computertechnology@georgebrown.ca
+The office hours are:
+Monday – Friday: 9 a.m. – 4 p.m.
+Program Co-ordinator: Khalid Danok
+Phone: 416-415-5000, ext. 3675
+Email:
+kdanok@georgebrown.ca
+For more information about George Brown College, you may also call the Contact Centre at 416-415-2000 (TTY 1-877-515-5559) or long distance 1-800-265-2002.
+Contact one of our international recruitment representatives specializing by country of origin by either booking a virtual meeting or submitting an inquiry. For more information visit the
+International Contact Us page
+Visit Our Campus
+The Wireless Networking program is offered through our
+School of Computer Technology
+from our
+Casa Loma Campus
+at
+146 Kendal Avenue
+in Toronto. Sign up for an
+information session
+or
+campus tour
+to learn more about George Brown College and the program. You can also explore our
+virtual tour.
+Explore related programs:
+Cyber Security (Postgraduate) (T433)
+Information Systems Business Analysis (with experiential learning capstone) (Postgraduate) (T405)
+Computer Systems Technology (T147)
+Visit and discover life in our campus
+Book campus tour
+Get answers to your questions
+Book info session
+Sign up to receive tailored resources to make your application, your way.
+Sign up now
+Close
+Sign up and learn more about your options, our programs, and life at George Brown.
+You must have JavaScript enabled to use this form.
+First Name
+Last Name
+Email
+Domestic or International
+Country
+I agree to be sent email communications from George Brown College. I understand I can unsubscribe at any time.

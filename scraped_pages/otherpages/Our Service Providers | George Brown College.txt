@@ -1,0 +1,40 @@
+
+We use the following service providers to process or store information on our behalf.
+Provider
+Nature of service
+Location
+Named providers
+ 
+ 
+Brightspace
+Hosts our learning management system
+Canada
+Microsoft
+Hosts our business productivity suite (MS365)
+Various countries
+OCAS
+The Ontario College Application Service receives and provides us with applications to our programs
+Canada
+Salesforce,  Mailchimp, Trumpia
+We use various services to support outbound e-mail and text campaigns
+United States
+Categories of providers
+ 
+ 
+Law firms and workplace investigation firms
+We receive services from law firms and workplace investigation firms who receive personal information to provide services
+Canada
+Technical service providers
+Software providers and other technical service providers may require access to personal information to provide technical support
+Canada and the United States
+Learn more about our land acknowledgment
+Be kept in the loop about application deadlines, college news, upcoming events, tours and more.
+Sign Up Now
+
+
+416-415-2000
+TTY: 1-877-515-5559
+ask.george@georgebrown.ca
+Visit Our Social Media Hub
+Visit Our Social Media Hub
+The information contained in this website is subject to change without notice. It should not be viewed as a representation, offer or warranty. Students are responsible for verifying George Brown College fee requirements.
