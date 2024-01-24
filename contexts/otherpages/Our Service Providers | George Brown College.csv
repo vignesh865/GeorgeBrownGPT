@@ -1,0 +1,11 @@
+Id,Context,file_path
+1705971359184933000," The college uses various service providers for hosting their learning management system (Brightspace, Canada), business productivity suite (MS365, various countries), and receiving applications to their programs (OCAS, Canada). They also use services for outbound e-mail and text campaigns from Salesforce, Mailchimp, and Trumpia based in the United States. The college receives services from law firms and workplace investigation firms in Canada. Technical service providers such as software providers and other technical service providers may require access to personal information to provide technical support in Canada and the United States. For more information about land acknowledgment, applicants can sign up for updates on application deadlines, college news, upcoming events, tours, and more by providing their contact information or visiting the college's social media hub. The contact information provided is 416-415-2000 (regular), TTY: 1-877-515-5559, ask.george@georgebrown.ca.
+
+Extracted Information:
+- Brightspace: Hosts the college's learning management system, Canada.
+- MS365: Hosts the college's business productivity suite, various countries.
+- OCAS: The Ontario College Application Service receives and provides applications to the college's programs, Canada.
+- Salesforce, Mailchimp, Trumpia: Used for supporting outbound e-mail and text campaigns, United States.
+- Law firms and workplace investigation firms: Receive personal information from the college to provide services, Canada.
+- Technical service providers: Software providers and other technical service providers may require access to personal information to provide technical support, Canada and the United States.
+- Contact information: 416-415-2000 (regular), TTY: 1-877-515-5559, ask.george@georgebrown.ca.",scraped_pages/otherpages/Our Service Providers | George Brown College.txt

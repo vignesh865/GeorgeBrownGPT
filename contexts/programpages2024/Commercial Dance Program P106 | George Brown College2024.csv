@@ -1,0 +1,150 @@
+Id,Context,file_path
+1705971360247937000," Program Name: Commercial Dance (P106)
+Credential: Ontario College Certificate
+Method of Study: Full-time
+Duration: 1 year (3 semesters)
+Starting Months: September
+Domestic Tuition: $8,314.00*
+International Tuition: $28,816.00**
+Centre: Arts, Design & Information Technology
+School: Media & Performing Arts
+Location: Casa Loma Campus
+Program Overview: One-year certificate program to become a triple-threat performer in commercial dance with training in jazz, hip hop, ballet, acting, vocals, and chorus repertoire. Emphasis on business side of commercial dance and career management skills.
+Admission Requirements: Intermediate-level dance training in jazz required. Additional dance forms as asset.
+Related Programs: Dance Performance (P105), Dance Performance Preparation (P101), Acting for Media (P107)",scraped_pages/programpages2024/Commercial Dance Program P106 | George Brown College2024.txt
+1705971360247937000," The text provides information about dance training programs at the college and the various career opportunities for graduates in the dance industry. Here are some key factual information extracted from the text:
+
+1. Jazz dance training is required, with additional dance forms being seen as an asset.
+2. A jazz dance audition and interview are necessary to join the program.
+3. Career opportunities include the commercial dance industry (performing on cruise lines, at resorts and casinos, and in children’s productions), project-based dance industry (applying for funding, choreographing, founding companies, etc.), traditional festivals, dance training studio industry, dance fitness and workshop industry, sports and dance teams industry, and film and television.
+4. Required courses in the first semester include Jazz Dance I, Hip Hop I, Chorus Repertoire I, Acting for Dance I, Vocal for Dance I, Ballet I, and Communicating Across Contexts.
+5. In the second semester, students take Jazz Dance II, Hip Hop II, Chorus Repertoire II, and additional required courses are not mentioned in the text.
+
+Therefore, the extracted information would look like this:
+```vbnet
+{
+  ""program"": ""Dance training"",
+  ""required_training"": [""Jazz dance"", ""additional dance forms""],
+  ""audition_process"": {
+    ""description"": ""A jazz dance audition and interview are necessary to join the program."",
+    ""url"": ""Dance Auditions.""
+  },
+  ""career_opportunities"": [
+    {
+      ""industry"": ""Commercial dance industry"",
+      ""examples"": [""performing on cruise lines"", ""at resorts and casinos"", ""touring with children’s productions""]
+    },
+    {
+      ""industry"": ""Project-based dance industry"",
+      ""activities"": [""applying for funding"", ""choreographing"", ""founding companies"", ""joining/forming groups and producing shows"", ""performing at festivals, cabarets, theatres and resorts""]
+    },
+    {
+      ""industry"": ""Traditional festivals"",
+      ""activities"": [""apprenticing"", ""performing and touring with established festivals""]
+    },
+    {
+      ""industry"": ""Dance training studio industry"",
+      ""activities"": [""teaching"", ""choreographing"", ""coaching and judging"", ""founding and taking ownership of their own studios""]
+    },
+    {
+      ""industry"": ""Dance fitness and workshop industry"",
+      ""activities"": [""teaching and developing the expanding market of dance fitness and specialized workshops"", ""taking this product across Canada and abroad""]
+    },
+    {
+      ""industry"": ""Sports and dance teams industry"",
+      ""examples"": [""cheerleading"", ""forming and joining dance teams""]
+    },
+    {
+      ""industry"": ""Film and television"",
+      ""activities"": [""appearing in productions and music videos"", ""developing dance on film projects""]
+    },
+    {
+      ""continued_education"": [
+        ""arts and master’s degrees in universities"",
+        ""continued professional development in fields such as circus performance, personal fitness, stage management, nutrition, and physical therapies""
+      ]
+    }
+  ],
+  ""required_courses"": {
+    ""semester_1"": [
+      {
+        ""code"": ""DANC 1057"",
+        ""name"": ""Jazz Dance I""
+      },
+      {
+        ""code"": ""DANC 1058"",
+        ""name"": ""Hip Hop I""
+      },
+      {
+        ""code"": ""DANC 1059"",
+        ""name"": ""Chorus Repertoire I""
+      },
+      {
+        ""code"": ""DANC 1060"",
+        ""name"": ""Acting for Dance I""
+      },
+      {
+        ""code"": ""DANC 1061"",
+        ""name"": ""Vocal for Dance I""
+      },
+      {
+        ""code"": ""DANC 1062"",
+        ""name"": ""Ballet I""
+      },
+      {
+        ""code"": ""COMM 2000"",
+        ""name"": ""Communicating Across Contexts""
+      }
+    ],
+    ""semester_2"": [
+      {
+        ""code"": ""DANC 1064"",
+        ""name"": ""Jazz Dance II""
+      },
+      {
+        ""code"": ""DANC 1065"",
+        ""name"": ""Hip Hop II""
+      },
+      {
+        ""code"": ""DANC 1066"",
+        ""name"": ""Chorus Repertoire II""
+      }
+    ]
+  }
+}
+```",scraped_pages/programpages2024/Commercial Dance Program P106 | George Brown College2024.txt
+1705971360247937000," The text provides information about the course offerings and learning outcomes for a dance program at a college. Here are some key facts extracted from the text:
+
+* Course codes: DANC 1065 to DANC 1085, DANC 2012
+* Semester 3
+* Courses: Hip Hop II, Chorus Repertoire II, Acting for Dance II, Vocal for Dance II, Ballet II, Business Skills for Dancers, Performance Preparation (Field Education), Acting for Dance III, Vocal for Dance III, Chorus Repertoire III, Ballet III, Hip Hop III, Jazz Dance III
+* Showcase rehearsal hours will be scheduled in semesters 2 and 3
+* Tuition and fees: Domestic tuition - $8,314.00*; International tuition - $28,816.00**
+* Additional costs (estimated total of tuition, materials, student service and ancillary fees for the three semesters) are subject to change
+* Learning outcomes: Perform jazz and hip hop dance technique to professional standard in chorus productions, perform chorus repertoire technique with vocals to professional standard in commercial ensemble productions, sing at a professional standard, create and perform dramatic characterizations in a dance context, present self professionally, develop self-knowledge and reflective practice, exercise critical thinking skills
+* General Education Electives are mentioned but no details are provided
+
+*Note: The asterisk (*) indicates domestic students and the double asterisks (**) indicate international students.",scraped_pages/programpages2024/Commercial Dance Program P106 | George Brown College2024.txt
+1705971360247937000," The text provides information about fees for programs starting in Fall 2024 at George Brown College. Here are the key factual details:
+
+- Amounts listed are the estimated total of tuition, materials (non-refundable), student service and ancillary fees for the first three semesters of programs.
+- Tuition fees are subject to board approval. Material, student service and ancillary fees are estimated based on prior years. All fees are subject to change without notice.
+- There is a $65 audition fee (payable in cash or cheque only) for P101, P105 or P106 programs.
+- The program is approved for OSAP funding for applicants who meet the eligibility criteria.
+- Applicants are selected based on academic achievement and other selection criteria.
+- Required grades: Ontario Secondary School Diploma or equivalent and Grade 12 English (C or U).
+- Mature students may take the Admissions Assessment for English or upgrade to achieve the required credit(s) in English.
+- International Students should visit the International Fees and Related Costs page for more information.
+- Audition requests can be submitted through video submissions. For program audition requirements, email auditions@balletjorgen.ca or visit Dance Auditions.
+- Applicants need a minimum of five years training in jazz dance; additional dance form training is an asset.
+- Mature students may take the Admissions Assessment for English or consider upgrading to achieve required credits in English.
+- Course exemptions may qualify applicants for course exemptions. For more information, visit Transfer Guide.
+- International Students should visit the International Admissions page for country-specific admission requirements.",scraped_pages/programpages2024/Commercial Dance Program P106 | George Brown College2024.txt
+1705971360247937000," International students should apply through the George Brown College Online Application System. For more information on how and when to apply, visit the How to Apply page. The Dance program is offered through the School of Media and Performing Arts and run in partnership with Ballet Jörgen. Classes take place at the Casa Loma Campus, located at 160 Kendal Ave., Toronto, Ontario, Canada. Contact Kia Kotsanis, Program Co-ordinator, at dance@georgebrown.ca or education@balletjorgen.ca for more information. International students can contact one of the international recruitment representatives by booking a virtual meeting or submitting an inquiry on the International Contact Us page. Campus tours are offered regularly and can be booked online. Programs related to Dance include Dance Performance (P105) and Dance Performance Preparation (P101). Additionally, there is an Acting for Media program (P107). Prospective students can sign up to receive tailored resources and learn more about the college and its programs. International students must agree to be sent email communications from George Brown.",scraped_pages/programpages2024/Commercial Dance Program P106 | George Brown College2024.txt
+1705971360247938000," The text does not contain any specific information about the program offered by George Brown College. The only factual information that can be extracted from the text are:
+
+- The individual has provided their email address.
+- They have indicated whether they are domestic or international students.
+- They have agreed to receive email communications from the college.
+- They understand they can unsubscribe at any time.
+- They have not specified a country.",scraped_pages/programpages2024/Commercial Dance Program P106 | George Brown College2024.txt
