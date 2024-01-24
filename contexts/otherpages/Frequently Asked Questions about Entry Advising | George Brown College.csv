@@ -1,5 +1,5 @@
 Id,Context,file_path
-1706004492979380000," The text provides information about the FAQ section of the George Brown College website, which includes links to full-time program guides, admissions requirements, a guide for mature students, Prior Learning Assessment and Recognition (PLAR), financial aid options including OSAP, services for students with disabilities, child care centers, flexible class schedules, ESL instruction, part-time certificate programs, and career counselling services. The text does not explicitly mention any specific programs offered by the college.
+00f3bee3-3e83-4d48-8378-84328d01fd1c," The text provides information about the FAQ section of the George Brown College website, which includes links to full-time program guides, admissions requirements, a guide for mature students, Prior Learning Assessment and Recognition (PLAR), financial aid options including OSAP, services for students with disabilities, child care centers, flexible class schedules, ESL instruction, part-time certificate programs, and career counselling services. The text does not explicitly mention any specific programs offered by the college.
 
 EXTRACTED INFORMATION:
 - George Brown College FAQ page
@@ -14,7 +14,7 @@ EXTRACTED INFORMATION:
 - ESL instruction
 - Part-time certificate programs
 - Career counselling services.",scraped_pages/otherpages/Frequently Asked Questions about Entry Advising | George Brown College.txt
-1706004492979382000," The text provides information about career planning and job training programs offered by Employment Ontario and Better Jobs Ontario (formerly Second Career), which is an Ontario government program. Here's the extracted information:
+fdb64982-8eb6-4121-bc0e-25690be79453," The text provides information about career planning and job training programs offered by Employment Ontario and Better Jobs Ontario (formerly Second Career), which is an Ontario government program. Here's the extracted information:
 
 - Employment Ontario offers referrals to trained career counsellors.
 - Entry advisors at the college do not track job market data, and it's suggested to do online research about careers of interest and use the college's online career coach.
