@@ -1,0 +1,92 @@
+{
+  "Program Information": {
+    "Program Name": "Bachelor of Business Administration (Trades Management) (Honours) (Pathway Building Renovation Technology)",
+    "Code": "B304",
+    "Credential": "Honours Bachelor's Degree",
+    "Method of Study": "Online",
+    "Duration": "5 semesters (with up to 8 years for completion part-time)",
+    "Starting Months": "January, May, September",
+    "Domestic Tuition": "* This is a flexible degree program and tuition will vary based on the course or courses you enrol in at any given time. Please contact the department for more information using this email: business@georgebrown.ca",
+    "Centre": "Business",
+    "School": "Management",
+    "Location": "St. James Campus"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "Centre for Business",
+    "Contact email": "business@georgebrown.ca",
+    "Phone": "(416) 415-5000 ext. 2160",
+    "Services": [
+      {
+        "Name": "Information Sessions",
+        "Type": "On-campus"
+      },
+      {
+        "Name": "Domestic Student Admissions",
+        "Contact": "Admissions Office",
+        "Email": "admissions@georgebrown.ca",
+        "Section": "Admissions"
+      },
+      {
+        "Name": "International Student Admissions",
+        "Instruction": "Book a virtual meeting or submit an inquiry",
+        "Contact": "International Contact Us page"
+      },
+      {
+        "Name": "Fees and Financial Information",
+        "Contact": "Financial Aid Office",
+        "Email": "FinAid@georgebrown.ca",
+        "Section": "Financial Aid"
+      },
+      {
+        "Name": "Entry Advising",
+        "Instruction": "Make an appointment to see an Entry Advisor",
+        "Faqs": "frequently asked questions"
+      }
+    ],
+    "Programs": [
+      {
+        "Name": "HONOURS BACHELOR OF BUSINESS ADMINISTRATION (Trades Management)",
+        "Contact": "Joyce Manu",
+        "Email": "jmanu@georgebrown.ca"
+      }
+    ]
+  }
+}

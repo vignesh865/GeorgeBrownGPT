@@ -1,0 +1,62 @@
+{
+  "Program Information": {
+    "Program Name": "Advanced Wine and Beverage Business Management",
+    "Code": "H414",
+    "Credential": "Ontario College Graduate Certificate",
+    "Method of Study": "Full-time",
+    "Duration": "3 semesters",
+    "Starting Months": "September",
+    "Domestic Tuition": "$7,919.00 *",
+    "International Tuition": "$29,395.00 **",
+    "Centre": "Hospitality & Culinary Arts",
+    "School": "Hospitality & Tourism Management",
+    "Location": "St. James Campus",
+    "Experiential Learning": "We believe in learning by doing, and that is why we have incorporated work-integrated learning opportunities into all CHCA programs."
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact 1": "DOMESTIC STUDENT ADMISSIONS",
+    "Contact email 1": "admissions@georgebrown.ca",
+    "Contact 2": "Financial Aid Office",
+    "Contact email 2": "FinAid@georgebrown.ca",
+    "Contact 3": "School of Hospitality and Tourism Management Student Support",
+    "Contact email 3": "chcastudentsupport@georgebrown.ca"
+  }
+}

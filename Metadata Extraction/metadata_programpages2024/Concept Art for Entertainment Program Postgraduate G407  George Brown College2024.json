@@ -1,0 +1,77 @@
+{
+  "Program Information": {
+    "Program Name": "Concept Art for Entertainment",
+    "Code": "G407",
+    "Credential": "Ontario College Graduate Certificate",
+    "Method of Study": "Full-time",
+    "Duration": "1 year (3 semesters)",
+    "Starting Months": "September",
+    "Domestic Tuition": "$11,781.00 *",
+    "International Tuition": "$30,245.00 **",
+    "Centre": "Arts, Design & Information Technology",
+    "School": "Design",
+    "Location": "Waterfront Campus"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "School of Design",
+    "Phone": "416-415-5000, ext. 3129",
+    "Email": "game@georgebrown.ca",
+    "Program Co-ordinator": "Jean-Paul Amore",
+    "Co-ordinator phone": "ext. 3427",
+    "Co-ordinator email": "jamore@georgebrown.ca",
+    "Locations": [
+      {
+        "Address": [
+          "230 Richmond St. E.",
+          "Toronto, Ontario, Canada, M5A 1L1"
+        ],
+        "City": "Toronto"
+      },
+      {
+        "Address": [
+          "341 King St. E.",
+          "Toronto, Ontario, Canada, M5A 1L1"
+        ],
+        "City": "Toronto"
+      }
+    ]
+  }
+}

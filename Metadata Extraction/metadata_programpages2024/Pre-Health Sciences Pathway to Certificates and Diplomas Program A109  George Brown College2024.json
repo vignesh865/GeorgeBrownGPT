@@ -1,0 +1,68 @@
+{
+  "Program Information": {
+    "Program Name": "Pre-Health Sciences Pathway to Certificates and Diplomas",
+    "Code": "A109",
+    "Credential": "Ontario College Certificate",
+    "Method of Study": "Full-time",
+    "Duration": "1 year (2 semesters)",
+    "Starting Months": "January, May, September",
+    "Domestic Tuition": "$3,848.00 *",
+    "International Tuition": "$17,974.00 **",
+    "Centre": "Preparatory & Liberal Studies",
+    "School": "Work & College Preparation",
+    "Location": "St. James Campus"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "opens apr 8, 2024"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "opens aug 6, 2024"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "Pathway Advisor",
+    "Contact email": "preparation@georgebrown.ca",
+    "Phone": "416-415-5000 x2874",
+    "Former student contact": {
+      "Contact": "Program Assistant",
+      "Contact email": "Christine.Kissoore@georgebrown.ca"
+    },
+    "ProgramsInfo": {
+      "Type": [
+        "college preparation programs",
+        "work preparation programs"
+      ]
+    }
+  }
+}

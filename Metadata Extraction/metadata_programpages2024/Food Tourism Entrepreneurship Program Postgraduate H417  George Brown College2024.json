@@ -1,0 +1,69 @@
+{
+  "Program Information": {
+    "Program Name": "Food Tourism Entrepreneurship",
+    "Code": "H417",
+    "Credential": "Ontario College Graduate Certificate",
+    "Method of Study": "Full-time",
+    "Duration": "1 year (3 semesters)",
+    "Starting Months": "September",
+    "Domestic Tuition": "$9,105.00 *",
+    "International Tuition": "$28,165.00 **",
+    "Centre": "Hospitality & Culinary Arts",
+    "School": "Hospitality & Tourism Management",
+    "Location": "St. James Campus",
+    "Experiential Learning": "Experiential Learning in the format of field trips, guest speakers and industry events are explored in semesters 1 and 2. The third semester is devoted to research and work placement. Collaborations with industry members will be explored to identify opportunities for applied research and work-integrated learning."
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contacts": {
+      "Domestic Admissions": {
+        "Email": "admissions@georgebrown.ca",
+        "Web page": ""
+      },
+      "Financial Aid": {
+        "Email": "FinAid@georgebrown.ca",
+        "Web page": ""
+      },
+      "School of Hospitality and Tourism Management - General Inquiries": {
+        "Email": "chcastudentsupport@georgebrown.ca"
+      }
+    }
+  }
+}

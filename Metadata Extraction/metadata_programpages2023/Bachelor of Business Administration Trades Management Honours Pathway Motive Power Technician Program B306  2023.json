@@ -1,0 +1,86 @@
+{
+  "Program Information": {
+    "Program Name": "Bachelor of Business Administration (Trades Management) (Honours) (Pathway Motive Power Technician)",
+    "Code": "B306",
+    "Credential": "Honours Bachelor's Degree",
+    "Method of Study": "Online",
+    "Duration": "5 semesters (up to 8 years allowed for completion)",
+    "Starting Months": "January, May, September",
+    "Domestic Tuition": "This is a flexible degree program and tuition will vary based on the course or courses you enrol in at any given time. Please contact the department for more information using this email: business@georgebrown.ca",
+    "Centre": "Business",
+    "School": "Management",
+    "Location": "St. James Campus",
+    "Fall 2023 Delivery": "Semester 4: Online",
+    "Winter 2024 Delivery": "Semester 4, 5, 6: Online"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "Centre for Business",
+    "Contact email": "business@georgebrown.ca",
+    "Phone": "(416) 415-5000 ext. 2160",
+    "Entry Advising": {
+      "Make appointment": true,
+      "Frequently asked questions": "https://georgebrown.ca/student-services/entry-advising/#faq"
+    },
+    "Domestic Student Admissions": {
+      "Contact email": "admissions@georgebrown.ca",
+      "Section link": "https://georgebrown.ca/future-students/admissions/"
+    },
+    "International Student Admissions": {
+      "Country specific representatives": true,
+      "Virtual meeting booking": true,
+      "Inquiry submission": true,
+      "Contact Us page link": "https://georgebrown.ca/international/contact-us/"
+    },
+    "Fees and Financial Information": {
+      "Contact email": "FinAid@georgebrown.ca",
+      "Section link": "https://georgebrown.ca/student-services/financial-aid/"
+    },
+    "Programs": [
+      {
+        "Name": "HONOURS BACHELOR OF BUSINESS ADMINISTRATION (Trades Management)",
+        "Contact person": {
+          "Name": "Joyce Manu",
+          "Email": "jmanu@georgebrown.ca"
+        }
+      }
+    ]
+  }
+}

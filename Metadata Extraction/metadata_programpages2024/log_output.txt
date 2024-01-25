@@ -1,0 +1,958 @@
+2024-01-24 22:00:45,378 - INFO - Processing file: Academic Upgrading Program A751  George Brown College2024
+2024-01-24 22:00:59,694 - INFO - Remaining files: 216
+2024-01-24 22:00:59,695 - INFO - *******************************************************
+2024-01-24 22:00:59,695 - INFO - Processing file: Academic Upgrading Program for Deaf and Hard of Hearing Adults Program A752  George Brown College2024
+2024-01-24 22:01:03,667 - ERROR - Error in extract_contact: Invalid json output: {
+"program": "Deaf Academic Upgrading Program",
+"location": {
+"city": "Toronto",
+"address": "341 King Street East, 6th floor (St. James Campus, ‘H’ building)",
+"postal\_code": "M5A 2K8"
+},
+"intake\_staff\_email": "deafupgrading@georgebrown.ca",
+"application\_instructions": [
+{
+"step": "1",
+"description": "Complete your application form"
+}
+]
+}
+2024-01-24 22:01:06,303 - INFO - Remaining files: 215
+2024-01-24 22:01:06,303 - INFO - *******************************************************
+2024-01-24 22:01:06,303 - INFO - Processing file: Acting for Media Program P107  George Brown College2024
+2024-01-24 22:01:08,945 - INFO - Remaining files: 214
+2024-01-24 22:01:08,945 - INFO - *******************************************************
+2024-01-24 22:01:08,945 - INFO - Processing file: Advanced French Patisserie Program Postgraduate H413  George Brown College2024
+2024-01-24 22:01:13,173 - INFO - Remaining files: 213
+2024-01-24 22:01:13,173 - INFO - *******************************************************
+2024-01-24 22:01:13,173 - INFO - Processing file: Advanced Manufacturing Program T414  George Brown College2024
+2024-01-24 22:01:16,096 - INFO - Remaining files: 212
+2024-01-24 22:01:16,096 - INFO - *******************************************************
+2024-01-24 22:01:16,096 - INFO - Processing file: Advanced Wine and Beverage Business Management Program Postgraduate H414  George Brown College2024
+2024-01-24 22:01:19,654 - INFO - Remaining files: 211
+2024-01-24 22:01:19,655 - INFO - *******************************************************
+2024-01-24 22:01:19,655 - INFO - Processing file: American Sign Language and Deaf Studies Program C114  George Brown College2024
+2024-01-24 22:01:22,605 - INFO - Remaining files: 210
+2024-01-24 22:01:22,605 - INFO - *******************************************************
+2024-01-24 22:01:22,605 - INFO - Processing file: Analytics for Business Decision Making Program Postgraduate B412  George Brown College2024
+2024-01-24 22:01:40,547 - INFO - Remaining files: 209
+2024-01-24 22:01:40,547 - INFO - *******************************************************
+2024-01-24 22:01:40,547 - INFO - Processing file: Analytics for Business Decision-Making Program Online Postgraduate B422  George Brown College2024
+2024-01-24 22:01:49,788 - INFO - Remaining files: 208
+2024-01-24 22:01:49,788 - INFO - *******************************************************
+2024-01-24 22:01:49,788 - INFO - Processing file: Apparel Fit Technician Program F116  George Brown College2024
+2024-01-24 22:01:52,848 - INFO - Remaining files: 207
+2024-01-24 22:01:52,848 - INFO - *******************************************************
+2024-01-24 22:01:52,848 - INFO - Processing file: Applied A.I. Solutions Development Program Postgraduate T431  George Brown College2024
+2024-01-24 22:01:57,449 - INFO - Remaining files: 206
+2024-01-24 22:01:57,449 - INFO - *******************************************************
+2024-01-24 22:01:57,450 - INFO - Processing file: Architectural Technician Program T132  George Brown College2024
+2024-01-24 22:02:00,409 - INFO - Remaining files: 205
+2024-01-24 22:02:00,409 - INFO - *******************************************************
+2024-01-24 22:02:00,409 - INFO - Processing file: Architectural Technology Program T109  George Brown College2024
+2024-01-24 22:02:03,062 - INFO - Remaining files: 204
+2024-01-24 22:02:03,062 - INFO - *******************************************************
+2024-01-24 22:02:03,062 - INFO - Processing file: Art and Design Foundation Program G108  George Brown College2024
+2024-01-24 22:02:06,063 - INFO - Remaining files: 203
+2024-01-24 22:02:06,063 - INFO - *******************************************************
+2024-01-24 22:02:06,063 - INFO - Processing file: Autism and Behavioural Science Program Postgraduate C405  George Brown College2024
+2024-01-24 22:02:08,859 - INFO - Remaining files: 202
+2024-01-24 22:02:08,860 - INFO - *******************************************************
+2024-01-24 22:02:08,860 - INFO - Processing file: Automation Technician Program Distance Education T950  George Brown College2024
+2024-01-24 22:02:13,383 - INFO - Remaining files: 201
+2024-01-24 22:02:13,383 - INFO - *******************************************************
+2024-01-24 22:02:13,383 - INFO - Processing file: Bachelor of Business Administration Trades Management Honours Pathway Building Renovation Technology Program B304  George Brown College2024
+2024-01-24 22:02:22,527 - INFO - Remaining files: 200
+2024-01-24 22:02:22,527 - INFO - *******************************************************
+2024-01-24 22:02:22,527 - INFO - Processing file: Bachelor of Business Administration Trades Management Honours Pathway Business Trades Program B305  George Brown College2024
+2024-01-24 22:02:32,724 - INFO - Remaining files: 199
+2024-01-24 22:02:32,724 - INFO - *******************************************************
+2024-01-24 22:02:32,724 - INFO - Processing file: Bachelor of Business Administration Trades Management Honours Pathway Electrician Program B307  George Brown College2024
+2024-01-24 22:02:39,389 - INFO - Remaining files: 198
+2024-01-24 22:02:39,389 - INFO - *******************************************************
+2024-01-24 22:02:39,389 - INFO - Processing file: Bachelor of Business Administration Trades Management Honours Pathway Motive Power Technician Program B306  George Brown College2024
+2024-01-24 22:02:47,274 - INFO - Remaining files: 197
+2024-01-24 22:02:47,274 - INFO - *******************************************************
+2024-01-24 22:02:47,274 - INFO - Processing file: Bachelor of Early Childhood Education  Honours Program Degree Completion C305  George Brown College2024
+2024-01-24 22:02:49,917 - INFO - Remaining files: 196
+2024-01-24 22:02:49,917 - INFO - *******************************************************
+2024-01-24 22:02:49,917 - INFO - Processing file: Bachelor of Science in Nursing Program B.Sc.N. S118  George Brown College2024
+2024-01-24 22:02:53,264 - INFO - Remaining files: 195
+2024-01-24 22:02:53,264 - INFO - *******************************************************
+2024-01-24 22:02:53,265 - INFO - Processing file: Baking and Pastry Arts Management Program H113  George Brown College2024
+2024-01-24 22:02:57,835 - INFO - Remaining files: 194
+2024-01-24 22:02:57,835 - INFO - *******************************************************
+2024-01-24 22:02:57,835 - INFO - Processing file: Baking and Pastry Foundations Program H128  George Brown College2024
+2024-01-24 22:03:01,796 - INFO - Remaining files: 193
+2024-01-24 22:03:01,796 - INFO - *******************************************************
+2024-01-24 22:03:01,797 - INFO - Processing file: Behavioural Science Technician Program Accelerated C156  George Brown College2024
+2024-01-24 22:03:04,501 - INFO - Remaining files: 192
+2024-01-24 22:03:04,501 - INFO - *******************************************************
+2024-01-24 22:03:04,501 - INFO - Processing file: Behavioural Science Technician Program C146  George Brown College2024
+2024-01-24 22:03:07,006 - INFO - Remaining files: 191
+2024-01-24 22:03:07,006 - INFO - *******************************************************
+2024-01-24 22:03:07,006 - INFO - Processing file: Blockchain Development Program T475  George Brown College2024
+2024-01-24 22:03:10,898 - INFO - Remaining files: 190
+2024-01-24 22:03:10,899 - INFO - *******************************************************
+2024-01-24 22:03:10,899 - INFO - Processing file: Building Information Modeling Management Program BIM Postgraduate T412  George Brown College2024
+2024-01-24 22:03:13,818 - INFO - Remaining files: 189
+2024-01-24 22:03:13,818 - INFO - *******************************************************
+2024-01-24 22:03:13,818 - INFO - Processing file: Building Renovation Technology Program T148  George Brown College2024
+2024-01-24 22:03:16,741 - INFO - Remaining files: 188
+2024-01-24 22:03:16,741 - INFO - *******************************************************
+2024-01-24 22:03:16,741 - INFO - Processing file: Business  Accounting Program B103  George Brown College2024
+2024-01-24 22:03:33,770 - INFO - Remaining files: 187
+2024-01-24 22:03:33,770 - INFO - *******************************************************
+2024-01-24 22:03:33,770 - INFO - Processing file: Business  Finance Program B133  George Brown College2024
+2024-01-24 22:03:46,601 - ERROR - Error in extract_contact: Invalid json output: {
+"Contact Us": "",
+"Information Sessions": {
+  "On-campus sessions": "held on a regular basis",
+  "Sign up for session": ""
+},
+"Domestic Student Admissions": {
+  "Inquiries": "admissions@georgebrown.ca, Admissions section",
+},
+"International Student Admissions": {
+  "Contact": "international recruitment representatives",
+  "Methods": ["booking a virtual meeting", "submitting an inquiry"],
+  "Information": "International Contact Us page"
+},
+"Fees and Financial Information": {
+  "Inquiries": "FinAid@georgebrown.ca, Financial Aid section"
+},
+"Entry Advising": {
+  "Appointment": "make an appointment",
+  "Frequently asked questions": ""
+},
+"Centre for Business": {
+  "General inquiries": {
+    "Contact": "business@georgebrown.ca, (416) 415-5000 ext. 2160",
+    "Location": "Business – Finance (B133)"
+  },
+  "Program-related inquiries": [
+    {
+      "Name": "Tracey Britt",
+      "Position": "Program Co-ordinator",
+      "Email": "tbritt1@georgebrown.ca"
+    },
+    {
+      "Name": "Carolyn Fallis",
+      "Position": "Program Co-ordinator",
+      "Email": "cfallis@georgebrown.ca"
+    }
+  ],
+  "International students": {
+    "Contact": "international recruitment representatives",
+    "Methods": ["booking a virtual meeting", "submitting an inquiry"],
+    "Information": "International Contact Us page"
+  }
+}
+}
+2024-01-24 22:03:52,708 - INFO - Remaining files: 186
+2024-01-24 22:03:52,708 - INFO - *******************************************************
+2024-01-24 22:03:52,708 - INFO - Processing file: Business  Human Resources Program B134  George Brown College2024
+2024-01-24 22:04:06,441 - INFO - Remaining files: 185
+2024-01-24 22:04:06,441 - INFO - *******************************************************
+2024-01-24 22:04:06,441 - INFO - Processing file: Business  Marketing Program B120  George Brown College2024
+2024-01-24 22:04:18,559 - INFO - Remaining files: 184
+2024-01-24 22:04:18,559 - INFO - *******************************************************
+2024-01-24 22:04:18,559 - INFO - Processing file: Business Administration  Accounting Program B107  George Brown College2024
+2024-01-24 22:04:32,987 - INFO - Remaining files: 183
+2024-01-24 22:04:32,987 - INFO - *******************************************************
+2024-01-24 22:04:32,987 - INFO - Processing file: Business Administration  Accounting Program with work experience B157  George Brown College2024
+2024-01-24 22:04:44,103 - INFO - Remaining files: 182
+2024-01-24 22:04:44,103 - INFO - *******************************************************
+2024-01-24 22:04:44,104 - INFO - Processing file: Business Administration  Finance Program B130  George Brown College2024
+2024-01-24 22:05:01,032 - INFO - Remaining files: 181
+2024-01-24 22:05:01,033 - INFO - *******************************************************
+2024-01-24 22:05:01,033 - INFO - Processing file: Business Administration  Finance Program with work experience B150  George Brown College2024
+2024-01-24 22:05:12,072 - INFO - Remaining files: 180
+2024-01-24 22:05:12,072 - INFO - *******************************************************
+2024-01-24 22:05:12,072 - INFO - Processing file: Business Administration  Human Resources Program B144  George Brown College2024
+2024-01-24 22:05:24,745 - INFO - Remaining files: 179
+2024-01-24 22:05:24,745 - INFO - *******************************************************
+2024-01-24 22:05:24,745 - INFO - Processing file: Business Administration  Human Resources Program with work experience B154  George Brown College2024
+2024-01-24 22:05:38,954 - INFO - Remaining files: 178
+2024-01-24 22:05:38,954 - INFO - *******************************************************
+2024-01-24 22:05:38,954 - INFO - Processing file: Business Administration  International Business Program B131  George Brown College2024
+2024-01-24 22:05:48,468 - INFO - Remaining files: 177
+2024-01-24 22:05:48,468 - INFO - *******************************************************
+2024-01-24 22:05:48,468 - INFO - Processing file: Business Administration  International Business Program with work experience B161  George Brown College2024
+2024-01-24 22:06:01,124 - INFO - Remaining files: 176
+2024-01-24 22:06:01,125 - INFO - *******************************************************
+2024-01-24 22:06:01,125 - INFO - Processing file: Business Administration  Marketing Program B108  George Brown College2024
+2024-01-24 22:06:17,460 - INFO - Remaining files: 175
+2024-01-24 22:06:17,460 - INFO - *******************************************************
+2024-01-24 22:06:17,460 - INFO - Processing file: Business Administration  Marketing Program with work experience B158  George Brown College2024
+2024-01-24 22:06:25,745 - INFO - Remaining files: 174
+2024-01-24 22:06:25,746 - INFO - *******************************************************
+2024-01-24 22:06:25,746 - INFO - Processing file: Business Administration  Project Management Program B126  George Brown College2024
+2024-01-24 22:06:35,454 - INFO - Remaining files: 173
+2024-01-24 22:06:35,454 - INFO - *******************************************************
+2024-01-24 22:06:35,455 - INFO - Processing file: Business Administration  Project Management Program with work experience B156  George Brown College2024
+2024-01-24 22:06:45,469 - INFO - Remaining files: 172
+2024-01-24 22:06:45,469 - INFO - *******************************************************
+2024-01-24 22:06:45,470 - INFO - Processing file: Business Administration  Supply Chain and Operations Management Program B122  George Brown College2024
+2024-01-24 22:07:07,001 - INFO - Remaining files: 171
+2024-01-24 22:07:07,001 - INFO - *******************************************************
+2024-01-24 22:07:07,001 - INFO - Processing file: Business Administration  Supply Chain and Operations Management Program with work experience B162  George Brown College2024
+2024-01-24 22:07:18,675 - INFO - Remaining files: 170
+2024-01-24 22:07:18,675 - INFO - *******************************************************
+2024-01-24 22:07:18,675 - INFO - Processing file: Business Administration Program B145  George Brown College2024
+2024-01-24 22:07:28,243 - INFO - Remaining files: 169
+2024-01-24 22:07:28,243 - INFO - *******************************************************
+2024-01-24 22:07:28,243 - INFO - Processing file: Business Administration Program with work experience B155  George Brown College2024
+2024-01-24 22:07:38,900 - INFO - Remaining files: 168
+2024-01-24 22:07:38,900 - INFO - *******************************************************
+2024-01-24 22:07:38,900 - INFO - Processing file: Business Program B125  George Brown College2024
+2024-01-24 22:07:50,174 - ERROR - Error in extract_contact: Invalid json output: {
+"Contact Us": "",
+"Information Sessions": {
+"On-campus": "On-campus information sessions are held on a regular basis.",
+"Sign up": "Sign up for an upcoming session."
+},
+"Domestic Student Admissions": {
+"Inquiries": "For inquiries about domestic admission requirements, admission deadlines, or the admissions process, please contact the Admissions Office at admissions@georgebrown.ca or visit the Admissions section.",
+},
+"International Student Admissions": {
+"Contact Us": "Contact one of our international recruitment representatives specializing by country of origin by either booking a virtual meeting or submitting an inquiry. For more information visit the International Contact Us page.",
+},
+"Fees and Financial Information": {
+"Inquiries": "For inquiries about OSAP, Bursaries, Scholarships and other financial inquiries, please contact the Financial Aid Office at FinAid@georgebrown.ca or visit the Financial Aid section.",
+},
+"Entry Advising": {
+"Appointment": "Make an appointment to see an Entry Advisor.",
+"Frequently asked questions": "Please review these frequently asked questions."
+},
+"Centre for Business": {
+"General inquiries": {
+"Email": "business@georgebrown.ca",
+"Phone": "(416) 415-5000 ext. 2160"
+},
+"Program related inquiries": {
+"Contact person": "Charlotte Goldfried",
+"Position": "Program Co-ordinator",
+"Email": "charlotte.goldfried@georgebrown.ca"
+}
+}
+}
+2024-01-24 22:07:56,330 - INFO - Remaining files: 167
+2024-01-24 22:07:56,330 - INFO - *******************************************************
+2024-01-24 22:07:56,330 - INFO - Processing file: Career Development Practitioner Program Postgraduate C406  George Brown College2024
+2024-01-24 22:07:58,425 - INFO - Remaining files: 166
+2024-01-24 22:07:58,425 - INFO - *******************************************************
+2024-01-24 22:07:58,425 - INFO - Processing file: Carpentry and Renovation Technician Program T180  George Brown College2024
+2024-01-24 22:08:00,589 - ERROR - Error in extract_contact: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2024-01-24 22:08:03,027 - INFO - Remaining files: 165
+2024-01-24 22:08:03,027 - INFO - *******************************************************
+2024-01-24 22:08:03,027 - INFO - Processing file: Child and Youth Care Program Accelerated C153  George Brown College2024
+2024-01-24 22:08:08,498 - INFO - Remaining files: 164
+2024-01-24 22:08:08,498 - INFO - *******************************************************
+2024-01-24 22:08:08,498 - INFO - Processing file: Child and Youth Care Program C133  George Brown College2024
+2024-01-24 22:08:14,777 - INFO - Remaining files: 163
+2024-01-24 22:08:14,777 - INFO - *******************************************************
+2024-01-24 22:08:14,777 - INFO - Processing file: Civil Engineering Technology Program T164  George Brown College2024
+2024-01-24 22:08:18,074 - INFO - Remaining files: 162
+2024-01-24 22:08:18,074 - INFO - *******************************************************
+2024-01-24 22:08:18,074 - INFO - Processing file: Cloud Computing Technologies Program Postgraduate T465  George Brown College2024
+2024-01-24 22:08:23,515 - INFO - Remaining files: 161
+2024-01-24 22:08:23,515 - INFO - *******************************************************
+2024-01-24 22:08:23,515 - INFO - Processing file: College Vocational Program A101  George Brown College2024
+2024-01-24 22:08:26,148 - INFO - Remaining files: 160
+2024-01-24 22:08:26,148 - INFO - *******************************************************
+2024-01-24 22:08:26,149 - INFO - Processing file: Commercial Dance Program P106  George Brown College2024
+2024-01-24 22:08:29,576 - INFO - Remaining files: 159
+2024-01-24 22:08:29,576 - INFO - *******************************************************
+2024-01-24 22:08:29,576 - INFO - Processing file: Community Worker Program Accelerated C131  George Brown College2024
+2024-01-24 22:08:34,257 - INFO - Remaining files: 158
+2024-01-24 22:08:34,257 - INFO - *******************************************************
+2024-01-24 22:08:34,257 - INFO - Processing file: Community Worker Program C101  George Brown College2024
+2024-01-24 22:08:43,034 - INFO - Remaining files: 157
+2024-01-24 22:08:43,034 - INFO - *******************************************************
+2024-01-24 22:08:43,034 - INFO - Processing file: Computer Programming and Analysis Program Online T197  George Brown College2024
+2024-01-24 22:08:49,372 - INFO - Remaining files: 156
+2024-01-24 22:08:49,372 - INFO - *******************************************************
+2024-01-24 22:08:49,373 - INFO - Processing file: Computer Programming and Analysis Program T177  George Brown College2024
+2024-01-24 22:08:55,112 - INFO - Remaining files: 155
+2024-01-24 22:08:55,112 - INFO - *******************************************************
+2024-01-24 22:08:55,112 - INFO - Processing file: Computer Systems Technician Program Online T191  George Brown College2024
+2024-01-24 22:09:00,858 - INFO - Remaining files: 154
+2024-01-24 22:09:00,859 - INFO - *******************************************************
+2024-01-24 22:09:00,859 - INFO - Processing file: Computer Systems Technician Program T141  George Brown College2024
+2024-01-24 22:09:05,553 - INFO - Remaining files: 153
+2024-01-24 22:09:05,553 - INFO - *******************************************************
+2024-01-24 22:09:05,554 - INFO - Processing file: Computer Systems Technology Program Online T187  George Brown College2024
+2024-01-24 22:09:10,184 - INFO - Remaining files: 152
+2024-01-24 22:09:10,184 - INFO - *******************************************************
+2024-01-24 22:09:10,184 - INFO - Processing file: Computer Systems Technology Program T147  George Brown College2024
+2024-01-24 22:09:14,694 - INFO - Remaining files: 151
+2024-01-24 22:09:14,694 - INFO - *******************************************************
+2024-01-24 22:09:14,694 - INFO - Processing file: Concept Art for Entertainment Program Postgraduate G407  George Brown College2024
+2024-01-24 22:09:20,338 - INFO - Remaining files: 150
+2024-01-24 22:09:20,338 - INFO - *******************************************************
+2024-01-24 22:09:20,338 - INFO - Processing file: Construction Craft Worker Foundations Program A106  George Brown College2024
+2024-01-24 22:09:23,744 - INFO - Remaining files: 149
+2024-01-24 22:09:23,744 - INFO - *******************************************************
+2024-01-24 22:09:23,744 - INFO - Processing file: Construction Engineering Technician Program T161  George Brown College2024
+2024-01-24 22:09:26,749 - ERROR - Error in extract_contact: Invalid json output: {
+"Contact": "Angelo DelZotto School of Construction Management",
+"Contact email": "construction\_eng@georgebrown.ca",
+"Phone": "416-415-5000, ext. 4398",
+"Office Hours": "8 a.m. – 4 p.m.",
+"Room": "E228"
+}
+2024-01-24 22:09:29,116 - INFO - Remaining files: 148
+2024-01-24 22:09:29,116 - INFO - *******************************************************
+2024-01-24 22:09:29,116 - INFO - Processing file: Construction Engineering Technology Program T105  George Brown College2024
+2024-01-24 22:09:32,838 - ERROR - Error in extract_contact: Invalid json output: {
+"Contact": "Angelo DelZotto School of Construction Management",
+"Contact email": "construction\_eng@georgebrown.ca",
+"Phone": "416-415-5000, ext. 4398",
+"Office Hours": "8 a.m. – 4 p.m.",
+"Location": "room E228"
+}
+2024-01-24 22:09:35,206 - INFO - Remaining files: 147
+2024-01-24 22:09:35,206 - INFO - *******************************************************
+2024-01-24 22:09:35,207 - INFO - Processing file: Construction Management Program for Internationally Educated Professionals Postgraduate T403  George Brown College2024
+2024-01-24 22:09:39,233 - INFO - Remaining files: 146
+2024-01-24 22:09:39,233 - INFO - *******************************************************
+2024-01-24 22:09:39,233 - INFO - Processing file: Construction Techniques Program T176  George Brown College2024
+2024-01-24 22:09:42,331 - INFO - Remaining files: 145
+2024-01-24 22:09:42,331 - INFO - *******************************************************
+2024-01-24 22:09:42,331 - INFO - Processing file: Continuing Education ESL Pathway to George Brown College Certificates and Diplomas Program R903  George Brown College2024
+2024-01-24 22:09:43,066 - ERROR - Error in extract_contact: Invalid json output: {
+"No Specific Information Provided"
+}
+2024-01-24 22:09:45,209 - INFO - Remaining files: 144
+2024-01-24 22:09:45,209 - INFO - *******************************************************
+2024-01-24 22:09:45,209 - INFO - Processing file: Cook Apprentice Program H601  George Brown College2024
+2024-01-24 22:09:46,887 - INFO - Remaining files: 143
+2024-01-24 22:09:46,888 - INFO - *******************************************************
+2024-01-24 22:09:46,888 - INFO - Processing file: Culinary Arts  Italian Program Postgraduate H411  George Brown College2024
+2024-01-24 22:09:51,039 - INFO - Remaining files: 142
+2024-01-24 22:09:51,039 - INFO - *******************************************************
+2024-01-24 22:09:51,040 - INFO - Processing file: Culinary Management  Nutrition Program H119  George Brown College2024
+2024-01-24 22:09:55,811 - INFO - Remaining files: 141
+2024-01-24 22:09:55,811 - INFO - *******************************************************
+2024-01-24 22:09:55,811 - INFO - Processing file: Culinary Management Program H100  George Brown College2024
+2024-01-24 22:10:00,287 - INFO - Remaining files: 140
+2024-01-24 22:10:00,287 - INFO - *******************************************************
+2024-01-24 22:10:00,287 - INFO - Processing file: Culinary Management Program Integrated Learning H116  George Brown College2024
+2024-01-24 22:10:05,717 - INFO - Remaining files: 139
+2024-01-24 22:10:05,718 - INFO - *******************************************************
+2024-01-24 22:10:05,718 - INFO - Processing file: Culinary Skills Program H134  George Brown College2024
+2024-01-24 22:10:10,793 - INFO - Remaining files: 138
+2024-01-24 22:10:10,793 - INFO - *******************************************************
+2024-01-24 22:10:10,793 - INFO - Processing file: Culinary Skills Program Preparatory Training A110  George Brown College2024
+2024-01-24 22:10:15,030 - INFO - Remaining files: 137
+2024-01-24 22:10:15,030 - INFO - *******************************************************
+2024-01-24 22:10:15,031 - INFO - Processing file: Cyber Security Program Postgraduate T433  George Brown College2024
+2024-01-24 22:10:19,496 - INFO - Remaining files: 136
+2024-01-24 22:10:19,497 - INFO - *******************************************************
+2024-01-24 22:10:19,497 - INFO - Processing file: Dance Performance Preparation Program P101  George Brown College2024
+2024-01-24 22:10:22,366 - INFO - Remaining files: 135
+2024-01-24 22:10:22,366 - INFO - *******************************************************
+2024-01-24 22:10:22,367 - INFO - Processing file: Dance Performance Program P105  George Brown College2024
+2024-01-24 22:10:25,277 - INFO - Remaining files: 134
+2024-01-24 22:10:25,277 - INFO - *******************************************************
+2024-01-24 22:10:25,277 - INFO - Processing file: Deafblind  Intervenor Studies Program C158  George Brown College2024
+2024-01-24 22:10:28,222 - INFO - Remaining files: 133
+2024-01-24 22:10:28,222 - INFO - *******************************************************
+2024-01-24 22:10:28,222 - INFO - Processing file: Dental Assisting Levels I and II Program S113  George Brown College2024
+2024-01-24 22:10:30,214 - INFO - Remaining files: 132
+2024-01-24 22:10:30,214 - INFO - *******************************************************
+2024-01-24 22:10:30,214 - INFO - Processing file: Dental Hygiene Program S134  George Brown College2024
+2024-01-24 22:10:31,643 - INFO - Remaining files: 131
+2024-01-24 22:10:31,644 - INFO - *******************************************************
+2024-01-24 22:10:31,644 - INFO - Processing file: Dental Office Administration Program S115  George Brown College2024
+2024-01-24 22:10:33,843 - INFO - Remaining files: 130
+2024-01-24 22:10:33,843 - INFO - *******************************************************
+2024-01-24 22:10:33,843 - INFO - Processing file: Dental Technology Program S100  George Brown College2024
+2024-01-24 22:10:37,324 - INFO - Remaining files: 129
+2024-01-24 22:10:37,325 - INFO - *******************************************************
+2024-01-24 22:10:37,325 - INFO - Processing file: Denturism Program S101  George Brown College2024
+2024-01-24 22:10:38,699 - INFO - Remaining files: 128
+2024-01-24 22:10:38,700 - INFO - *******************************************************
+2024-01-24 22:10:38,700 - INFO - Processing file: Design Management Program Postgraduate G401  George Brown College2024
+2024-01-24 22:10:41,667 - INFO - Remaining files: 127
+2024-01-24 22:10:41,668 - INFO - *******************************************************
+2024-01-24 22:10:41,668 - INFO - Processing file: Digital Design  Game Design Program Postgraduate G405  George Brown College2024
+2024-01-24 22:10:45,436 - INFO - Remaining files: 126
+2024-01-24 22:10:45,436 - INFO - *******************************************************
+2024-01-24 22:10:45,436 - INFO - Processing file: Early Childhood Education Program Accelerated C160  George Brown College2024
+2024-01-24 22:10:48,166 - INFO - Remaining files: 125
+2024-01-24 22:10:48,166 - INFO - *******************************************************
+2024-01-24 22:10:48,166 - INFO - Processing file: Early Childhood Education Program C100  George Brown College2024
+2024-01-24 22:10:50,808 - INFO - Remaining files: 124
+2024-01-24 22:10:50,808 - INFO - *******************************************************
+2024-01-24 22:10:50,808 - INFO - Processing file: Early Childhood Education Program Fast-Track C130  George Brown College2024
+2024-01-24 22:10:53,399 - INFO - Remaining files: 123
+2024-01-24 22:10:53,399 - INFO - *******************************************************
+2024-01-24 22:10:53,399 - INFO - Processing file: Electric Vehicle EV Technician Program T951  George Brown College2024
+2024-01-24 22:10:55,804 - INFO - Remaining files: 122
+2024-01-24 22:10:55,804 - INFO - *******************************************************
+2024-01-24 22:10:55,804 - INFO - Processing file: Electrical Techniques Program T167  George Brown College2024
+2024-01-24 22:10:59,207 - INFO - Remaining files: 121
+2024-01-24 22:10:59,207 - INFO - *******************************************************
+2024-01-24 22:10:59,207 - INFO - Processing file: Electromechanical Engineering Technician Program T146  George Brown College2024
+2024-01-24 22:11:02,223 - INFO - Remaining files: 120
+2024-01-24 22:11:02,223 - INFO - *******************************************************
+2024-01-24 22:11:02,223 - INFO - Processing file: Electromechanical Engineering Technology  Building Automation Program T171  George Brown College2024
+2024-01-24 22:11:04,989 - INFO - Remaining files: 119
+2024-01-24 22:11:04,989 - INFO - *******************************************************
+2024-01-24 22:11:04,990 - INFO - Processing file: Electromechanical Engineering Technology - Power and Control Program T182  George Brown College2024
+2024-01-24 22:11:07,764 - INFO - Remaining files: 118
+2024-01-24 22:11:07,764 - INFO - *******************************************************
+2024-01-24 22:11:07,764 - INFO - Processing file: Electromechanical Technician Program Distance Education T902  George Brown College2024
+2024-01-24 22:11:12,495 - INFO - Remaining files: 117
+2024-01-24 22:11:12,495 - INFO - *******************************************************
+2024-01-24 22:11:12,495 - INFO - Processing file: Electronics Technician Program Distance Education T901  George Brown College2024
+2024-01-24 22:11:17,471 - INFO - Remaining files: 116
+2024-01-24 22:11:17,471 - INFO - *******************************************************
+2024-01-24 22:11:17,471 - INFO - Processing file: English as a Second Language ESL Program R901  George Brown College2024
+2024-01-24 22:11:18,887 - INFO - Remaining files: 115
+2024-01-24 22:11:18,887 - INFO - *******************************************************
+2024-01-24 22:11:18,887 - INFO - Processing file: English for Professional Success EPS Program R902  George Brown College2024
+2024-01-24 22:11:20,955 - INFO - Remaining files: 114
+2024-01-24 22:11:20,955 - INFO - *******************************************************
+2024-01-24 22:11:20,955 - INFO - Processing file: Entrepreneurship Management Program Postgraduate B416  George Brown College2024
+2024-01-24 22:11:35,091 - INFO - Remaining files: 113
+2024-01-24 22:11:35,091 - INFO - *******************************************************
+2024-01-24 22:11:35,091 - INFO - Processing file: Event Planning Program H141  George Brown College2024
+2024-01-24 22:11:38,811 - INFO - Remaining files: 112
+2024-01-24 22:11:38,812 - INFO - *******************************************************
+2024-01-24 22:11:38,812 - INFO - Processing file: Fashion Business Industry Program F112  George Brown College2024
+2024-01-24 22:11:41,235 - INFO - Remaining files: 111
+2024-01-24 22:11:41,235 - INFO - *******************************************************
+2024-01-24 22:11:41,235 - INFO - Processing file: Fashion Management Program F102  George Brown College2024
+2024-01-24 22:11:43,288 - INFO - Remaining files: 110
+2024-01-24 22:11:43,288 - INFO - *******************************************************
+2024-01-24 22:11:43,288 - INFO - Processing file: Fashion TECH Program F117  George Brown College2024
+2024-01-24 22:11:45,856 - INFO - Remaining files: 109
+2024-01-24 22:11:45,857 - INFO - *******************************************************
+2024-01-24 22:11:45,857 - INFO - Processing file: Fashion Techniques and Design Program F113  George Brown College2024
+2024-01-24 22:11:48,187 - INFO - Remaining files: 108
+2024-01-24 22:11:48,187 - INFO - *******************************************************
+2024-01-24 22:11:48,187 - INFO - Processing file: Financial Planning Program Postgraduate B407  George Brown College2024
+2024-01-24 22:12:01,159 - INFO - Remaining files: 107
+2024-01-24 22:12:01,159 - INFO - *******************************************************
+2024-01-24 22:12:01,159 - INFO - Processing file: Food and Beverage Management  Restaurant Management Program H132  George Brown College2024
+2024-01-24 22:12:04,987 - INFO - Remaining files: 106
+2024-01-24 22:12:04,987 - INFO - *******************************************************
+2024-01-24 22:12:04,987 - INFO - Processing file: Food and Nutrition Management Program Postgraduate H402  George Brown College2024
+2024-01-24 22:12:08,725 - INFO - Remaining files: 105
+2024-01-24 22:12:08,725 - INFO - *******************************************************
+2024-01-24 22:12:08,725 - INFO - Processing file: Food Tourism Entrepreneurship Program Postgraduate H417  George Brown College2024
+2024-01-24 22:12:12,472 - INFO - Remaining files: 104
+2024-01-24 22:12:12,472 - INFO - *******************************************************
+2024-01-24 22:12:12,472 - INFO - Processing file: Game  Art Program G119  George Brown College2024
+2024-01-24 22:12:15,661 - INFO - Remaining files: 103
+2024-01-24 22:12:15,661 - INFO - *******************************************************
+2024-01-24 22:12:15,661 - INFO - Processing file: Game  Art Program G129  George Brown College2024
+2024-01-24 22:12:18,482 - INFO - Remaining files: 102
+2024-01-24 22:12:18,482 - INFO - *******************************************************
+2024-01-24 22:12:18,482 - INFO - Processing file: Game  Programming Program Online T193  George Brown College2024
+2024-01-24 22:12:25,224 - INFO - Remaining files: 101
+2024-01-24 22:12:25,224 - INFO - *******************************************************
+2024-01-24 22:12:25,224 - INFO - Processing file: Game  Programming Program T163  George Brown College2024
+2024-01-24 22:12:31,016 - INFO - Remaining files: 100
+2024-01-24 22:12:31,016 - INFO - *******************************************************
+2024-01-24 22:12:31,016 - INFO - Processing file: Gemmology Program F105  George Brown College2024
+2024-01-24 22:12:33,457 - INFO - Remaining files: 99
+2024-01-24 22:12:33,457 - INFO - *******************************************************
+2024-01-24 22:12:33,457 - INFO - Processing file: General Arts and Science  English for Academic Purposes Program for International Students R115  George Brown College2024
+2024-01-24 22:12:35,177 - INFO - Remaining files: 98
+2024-01-24 22:12:35,177 - INFO - *******************************************************
+2024-01-24 22:12:35,177 - INFO - Processing file: General Arts and Science  English for Academic Purposes Program R105  George Brown College2024
+2024-01-24 22:12:37,334 - INFO - Remaining files: 97
+2024-01-24 22:12:37,335 - INFO - *******************************************************
+2024-01-24 22:12:37,335 - INFO - Processing file: General Arts and Science  One-Year Program Certificate R104  George Brown College2024
+2024-01-24 22:12:38,640 - INFO - Remaining files: 96
+2024-01-24 22:12:38,640 - INFO - *******************************************************
+2024-01-24 22:12:38,640 - INFO - Processing file: General Arts and Science Program Diploma R101  George Brown College2024
+2024-01-24 22:12:40,092 - INFO - Remaining files: 95
+2024-01-24 22:12:40,092 - INFO - *******************************************************
+2024-01-24 22:12:40,092 - INFO - Processing file: Graphic Design Program G102  George Brown College2024
+2024-01-24 22:12:42,381 - INFO - Remaining files: 94
+2024-01-24 22:12:42,381 - INFO - *******************************************************
+2024-01-24 22:12:42,382 - INFO - Processing file: Health Informatics Program Postgraduate T402  George Brown College2024
+2024-01-24 22:12:48,764 - INFO - Remaining files: 93
+2024-01-24 22:12:48,764 - INFO - *******************************************************
+2024-01-24 22:12:48,764 - INFO - Processing file: Health Information Management Program C139  George Brown College2024
+2024-01-24 22:12:51,190 - INFO - Remaining files: 92
+2024-01-24 22:12:51,190 - INFO - *******************************************************
+2024-01-24 22:12:51,190 - INFO - Processing file: Hearing Instrument Specialist Program S117  George Brown College2024
+2024-01-24 22:12:54,080 - INFO - Remaining files: 91
+2024-01-24 22:12:54,080 - INFO - *******************************************************
+2024-01-24 22:12:54,080 - INFO - Processing file: Heating Refrigeration and Air Conditioning Technician Program T160  George Brown College2024
+2024-01-24 22:12:57,260 - INFO - Remaining files: 90
+2024-01-24 22:12:57,260 - INFO - *******************************************************
+2024-01-24 22:12:57,260 - INFO - Processing file: Heating Refrigeration and Air Conditioning Technology Program T162  George Brown College2024
+2024-01-24 22:13:00,123 - INFO - Remaining files: 89
+2024-01-24 22:13:00,123 - INFO - *******************************************************
+2024-01-24 22:13:00,123 - INFO - Processing file: Honours Bachelor of Behaviour Analysis Program S302  George Brown College2024
+2024-01-24 22:13:02,918 - INFO - Remaining files: 88
+2024-01-24 22:13:02,918 - INFO - *******************************************************
+2024-01-24 22:13:02,918 - INFO - Processing file: Honours Bachelor of Behaviour Analysis Program Year 3 Bridge S303  George Brown College2024
+2024-01-24 22:13:07,847 - INFO - Remaining files: 87
+2024-01-24 22:13:07,848 - INFO - *******************************************************
+2024-01-24 22:13:07,848 - INFO - Processing file: Honours Bachelor of Behaviour Analysis Program Year 4 Bridge S304  George Brown College2024
+2024-01-24 22:13:10,754 - INFO - Remaining files: 86
+2024-01-24 22:13:10,754 - INFO - *******************************************************
+2024-01-24 22:13:10,755 - INFO - Processing file: Honours Bachelor of Brand Design Bridge Program G305  George Brown College2024
+2024-01-24 22:13:13,746 - INFO - Remaining files: 85
+2024-01-24 22:13:13,746 - INFO - *******************************************************
+2024-01-24 22:13:13,747 - INFO - Processing file: Honours Bachelor of Brand Design Program G304  George Brown College2024
+2024-01-24 22:13:15,587 - INFO - Remaining files: 84
+2024-01-24 22:13:15,587 - INFO - *******************************************************
+2024-01-24 22:13:15,587 - INFO - Processing file: Honours Bachelor of Business Administration Hospitality Program H311  George Brown College2024
+2024-01-24 22:13:20,261 - INFO - Remaining files: 83
+2024-01-24 22:13:20,261 - INFO - *******************************************************
+2024-01-24 22:13:20,262 - INFO - Processing file: Honours Bachelor of Business Administration Program Business Analytics B303  George Brown College2024
+2024-01-24 22:13:31,636 - INFO - Remaining files: 82
+2024-01-24 22:13:31,636 - INFO - *******************************************************
+2024-01-24 22:13:31,636 - INFO - Processing file: Honours Bachelor of Business Administration Program Hospitality Fast-Track H312  George Brown College2024
+2024-01-24 22:13:40,373 - INFO - Remaining files: 81
+2024-01-24 22:13:40,373 - INFO - *******************************************************
+2024-01-24 22:13:40,373 - INFO - Processing file: Honours Bachelor of Commerce Culinary Management Program Bridging H316  George Brown College2024
+2024-01-24 22:13:43,153 - INFO - Remaining files: 80
+2024-01-24 22:13:43,153 - INFO - *******************************************************
+2024-01-24 22:13:43,153 - INFO - Processing file: Honours Bachelor of Commerce Digital Marketing Program B312  George Brown College2024
+2024-01-24 22:13:57,817 - INFO - Remaining files: 79
+2024-01-24 22:13:57,817 - INFO - *******************************************************
+2024-01-24 22:13:57,817 - INFO - Processing file: Honours Bachelor of Commerce Financial Services Program B302  George Brown College2024
+2024-01-24 22:14:13,604 - INFO - Remaining files: 78
+2024-01-24 22:14:13,604 - INFO - *******************************************************
+2024-01-24 22:14:13,604 - INFO - Processing file: Honours Bachelor of Commerce Program Culinary Management H315  George Brown College2024
+2024-01-24 22:14:19,260 - INFO - Remaining files: 77
+2024-01-24 22:14:19,260 - INFO - *******************************************************
+2024-01-24 22:14:19,260 - INFO - Processing file: Honours Bachelor of Digital Experience Design Program G301  George Brown College2024
+2024-01-24 22:14:22,454 - INFO - Remaining files: 76
+2024-01-24 22:14:22,454 - INFO - *******************************************************
+2024-01-24 22:14:22,454 - INFO - Processing file: Honours Bachelor of Digital Experience Design Program Year 3 Bridge G302  George Brown College2024
+2024-01-24 22:14:25,569 - INFO - Remaining files: 75
+2024-01-24 22:14:25,570 - INFO - *******************************************************
+2024-01-24 22:14:25,570 - INFO - Processing file: Honours Bachelor of Food Studies Program Bridging H318  George Brown College2024
+2024-01-24 22:14:30,815 - INFO - Remaining files: 74
+2024-01-24 22:14:30,815 - INFO - *******************************************************
+2024-01-24 22:14:30,815 - INFO - Processing file: Honours Bachelor of Food Studies Program H317  George Brown College2024
+2024-01-24 22:14:34,377 - INFO - Remaining files: 73
+2024-01-24 22:14:34,377 - INFO - *******************************************************
+2024-01-24 22:14:34,377 - INFO - Processing file: Honours Bachelor of Interpretation American Sign Language  English Program C302  George Brown College2024
+2024-01-24 22:14:40,388 - INFO - Remaining files: 72
+2024-01-24 22:14:40,388 - INFO - *******************************************************
+2024-01-24 22:14:40,389 - INFO - Processing file: Honours Bachelor of Science Dental Hygiene Program S305  George Brown College2024
+2024-01-24 22:14:44,762 - INFO - Remaining files: 71
+2024-01-24 22:14:44,762 - INFO - *******************************************************
+2024-01-24 22:14:44,762 - INFO - Processing file: Honours Bachelor of Technology Construction Management Program Bridging T314  George Brown College2024
+2024-01-24 22:14:51,444 - ERROR - Error in extract_contact: Invalid json output: {
+"Contact": "Angelo DelZotto School of Construction Management",
+"Phone": "416-415-5000, ext. 6297",
+"Email": "construction\_degree@georgebrown.ca",
+"Office Hours": "8 a.m. – 4 p.m.",
+"Location": "room E228",
+"Open House": {
+"Type": "Construction and Engineering Open House",
+"Host": "Centre for Construction and Engineering Technologies (CCET) Industry Liaison Office (ILO)",
+"Webpage": "Construction and Engineering Open House page"
+},
+"General Information Contact Centre": {
+"Phone": "416-415-2000",
+"TTY": "1-877-515-5559",
+"Long Distance": "1-800-265-2002"
+}
+}
+2024-01-24 22:14:56,225 - INFO - Remaining files: 70
+2024-01-24 22:14:56,225 - INFO - *******************************************************
+2024-01-24 22:14:56,225 - INFO - Processing file: Honours Bachelor of Technology Construction Management Program Bridging T316  George Brown College2024
+2024-01-24 22:15:03,166 - ERROR - Error in extract_contact: Invalid json output: {
+"Contact": "Angelo DelZotto School of Construction Management",
+"Contact email": "construction\_degree@georgebrown.ca",
+"Phone": "416-415-5000, ext. 6297",
+"Office Hours": "8 a.m. – 4 p.m.",
+"Location": "room E228",
+"Open House": {
+  "Description": "An open house typically in the autumn and spring",
+  "Webpage": "Construction and Engineering Open House page"
+},
+"General Information Contact Centre": {
+  "Phone": "416-415-2000 (TTY 1-877-515-5559)",
+  "Long Distance": "1-800-265-2002"
+}
+}
+2024-01-24 22:15:08,142 - INFO - Remaining files: 69
+2024-01-24 22:15:08,142 - INFO - *******************************************************
+2024-01-24 22:15:08,143 - INFO - Processing file: Honours Bachelor of Technology Construction Management Program Bridging T317  George Brown College2024
+2024-01-24 22:15:15,473 - ERROR - Error in extract_contact: Invalid json output: {
+"Contact": "Angelo DelZotto School of Construction Management",
+"Contact email": "construction\_degree@georgebrown.ca",
+"Phone": "416-415-5000, ext. 6297",
+"Office Hours": "8 a.m. – 4 p.m., room E228",
+"Open House": {
+"Location": "Construction and Engineering Technologies (CCET) Industry Liaison Office (ILO)",
+"Autumn Open House": true,
+"Spring Open House": true,
+"Webpage": "Construction and Engineering Open House page"
+},
+"Contact Centre": {
+"Phone": "416-415-2000 (TTY 1-877-515-5559)",
+"Long Distance": "1-800-265-2002"
+}
+}
+2024-01-24 22:15:20,588 - INFO - Remaining files: 68
+2024-01-24 22:15:20,588 - INFO - *******************************************************
+2024-01-24 22:15:20,589 - INFO - Processing file: Honours Bachelor of Technology Construction Management Program Bridging T318  George Brown College2024
+2024-01-24 22:15:27,432 - ERROR - Error in extract_contact: Invalid json output: {
+"Contact": "Angelo DelZotto School of Construction Management",
+"Contact email": "construction\_degree@georgebrown.ca",
+"Phone": "416-415-5000, ext. 6297",
+"Office Hours": "8 a.m. – 4 p.m., room E228",
+"Open House": {
+"Location": "The Centre for Construction and Engineering Technologies (CCET) Industry Liaison Office (ILO)",
+"Autumn": true,
+"Spring": true
+},
+"Contact Centre": {
+"Phone": "416-415-2000 (TTY 1-877-515-5559)",
+"Long Distance": "1-800-265-2002"
+}
+}
+2024-01-24 22:15:32,298 - INFO - Remaining files: 67
+2024-01-24 22:15:32,298 - INFO - *******************************************************
+2024-01-24 22:15:32,298 - INFO - Processing file: Honours Bachelor of Technology Program Construction Management T312  George Brown College2024
+2024-01-24 22:15:40,297 - ERROR - Error in extract_contact: Invalid json output: {
+"School": "Angelo DelZotto School of Construction Management",
+"Contact email": "construction\_degree@georgebrown.ca",
+"Phone": "416-415-5000, ext. 6297",
+"Office Hours": "8 a.m. – 4 p.m., room E228",
+"Open House": {
+"Description": "The Centre for Construction and Engineering Technologies (CCET) Industry Liaison Office (ILO) hosts an open house typically in the autumn and spring.",
+"Webpage": "Construction and Engineering Open House page"
+},
+"Contact Centre": {
+"Phone": "416-415-2000",
+"TTY": "1-877-515-5559",
+"Long distance": "1-800-265-2002"
+},
+"International Contact Us": {
+"Book a virtual meeting": "",
+"Submitting an inquiry": ""
+}
+}
+2024-01-24 22:15:44,783 - INFO - Remaining files: 66
+2024-01-24 22:15:44,783 - INFO - *******************************************************
+2024-01-24 22:15:44,783 - INFO - Processing file: Hospitality  Hotel Operations Management Program H133  George Brown College2024
+2024-01-24 22:15:50,192 - INFO - Remaining files: 65
+2024-01-24 22:15:50,192 - INFO - *******************************************************
+2024-01-24 22:15:50,192 - INFO - Processing file: Hospitality Services Program H101  George Brown College2024
+2024-01-24 22:15:52,968 - INFO - Remaining files: 64
+2024-01-24 22:15:52,968 - INFO - *******************************************************
+2024-01-24 22:15:52,968 - INFO - Processing file: Human Resources Management Program Online Postgraduate B428  George Brown College2024
+2024-01-24 22:16:05,326 - INFO - Remaining files: 63
+2024-01-24 22:16:05,326 - INFO - *******************************************************
+2024-01-24 22:16:05,326 - INFO - Processing file: Human Resources Management Program Postgraduate B408  George Brown College2024
+2024-01-24 22:16:18,967 - INFO - Remaining files: 62
+2024-01-24 22:16:18,967 - INFO - *******************************************************
+2024-01-24 22:16:18,967 - INFO - Processing file: Human Services Foundations Program A113  George Brown College2024
+2024-01-24 22:16:22,163 - INFO - Remaining files: 61
+2024-01-24 22:16:22,164 - INFO - *******************************************************
+2024-01-24 22:16:22,164 - INFO - Processing file: Industrial Power Sewing Program F115  George Brown College2024
+2024-01-24 22:16:25,380 - INFO - Remaining files: 60
+2024-01-24 22:16:25,380 - INFO - *******************************************************
+2024-01-24 22:16:25,380 - INFO - Processing file: Information Systems Business Analysis Program with experiential learning capstone Postgraduate T405  George Brown College2024
+2024-01-24 22:16:30,067 - INFO - Remaining files: 59
+2024-01-24 22:16:30,067 - INFO - *******************************************************
+2024-01-24 22:16:30,067 - INFO - Processing file: Interaction Design Program G113  George Brown College2024
+2024-01-24 22:16:34,317 - INFO - Remaining files: 58
+2024-01-24 22:16:34,317 - INFO - *******************************************************
+2024-01-24 22:16:34,317 - INFO - Processing file: Interactive Media Management Program Postgraduate G412  George Brown College2024
+2024-01-24 22:16:36,299 - INFO - Remaining files: 57
+2024-01-24 22:16:36,299 - INFO - *******************************************************
+2024-01-24 22:16:36,300 - INFO - Processing file: Interdisciplinary Design Strategy Program Postgraduate at the Brookfield Sustainability Institute G414  George Brown College2024
+2024-01-24 22:16:39,307 - INFO - Remaining files: 56
+2024-01-24 22:16:39,307 - INFO - *******************************************************
+2024-01-24 22:16:39,307 - INFO - Processing file: Interior Design Program T178  George Brown College2024
+2024-01-24 22:16:42,311 - INFO - Remaining files: 55
+2024-01-24 22:16:42,311 - INFO - *******************************************************
+2024-01-24 22:16:42,311 - INFO - Processing file: International Business Management Program Postgraduate B411  George Brown College2024
+2024-01-24 22:16:51,763 - INFO - Remaining files: 54
+2024-01-24 22:16:51,763 - INFO - *******************************************************
+2024-01-24 22:16:51,763 - INFO - Processing file: International Fashion Management Program Postgraduate Certificate F412  George Brown College2024
+2024-01-24 22:16:54,132 - INFO - Remaining files: 53
+2024-01-24 22:16:54,132 - INFO - *******************************************************
+2024-01-24 22:16:54,133 - INFO - Processing file: Interprofessional Complex and Long-Term Care Program Postgraduate S417  George Brown College2024
+2024-01-24 22:16:56,410 - INFO - Remaining files: 52
+2024-01-24 22:16:56,410 - INFO - *******************************************************
+2024-01-24 22:16:56,411 - INFO - Processing file: Jewellery Arts Program F114  George Brown College2024
+2024-01-24 22:16:58,715 - INFO - Remaining files: 51
+2024-01-24 22:16:58,715 - INFO - *******************************************************
+2024-01-24 22:16:58,715 - INFO - Processing file: Jewellery Essentials Program F111  George Brown College2024
+2024-01-24 22:17:00,779 - INFO - Remaining files: 50
+2024-01-24 22:17:00,779 - INFO - *******************************************************
+2024-01-24 22:17:00,780 - INFO - Processing file: Jewellery Methods Program F110  George Brown College2024
+2024-01-24 22:17:02,817 - INFO - Remaining files: 49
+2024-01-24 22:17:02,818 - INFO - *******************************************************
+2024-01-24 22:17:02,819 - INFO - Processing file: Marketing Management  Digital Media Program Online Postgraduate B423  George Brown College2024
+2024-01-24 22:17:18,883 - INFO - Remaining files: 48
+2024-01-24 22:17:18,883 - INFO - *******************************************************
+2024-01-24 22:17:18,883 - INFO - Processing file: Marketing Management  Digital Media Program Postgraduate B433  George Brown College2024
+2024-01-24 22:17:33,357 - INFO - Remaining files: 47
+2024-01-24 22:17:33,357 - INFO - *******************************************************
+2024-01-24 22:17:33,358 - INFO - Processing file: Marketing Management  Financial Services Program Postgraduate B406  George Brown College2024
+2024-01-24 22:17:50,337 - INFO - Remaining files: 46
+2024-01-24 22:17:50,337 - INFO - *******************************************************
+2024-01-24 22:17:50,337 - INFO - Processing file: Mechanical Engineering Technology  Design Program T121  George Brown College2024
+2024-01-24 22:17:53,339 - INFO - Remaining files: 45
+2024-01-24 22:17:53,339 - INFO - *******************************************************
+2024-01-24 22:17:53,339 - INFO - Processing file: Mechanical Technician  CNC and Precision Machining Program T173  George Brown College2024
+2024-01-24 22:17:56,132 - INFO - Remaining files: 44
+2024-01-24 22:17:56,132 - INFO - *******************************************************
+2024-01-24 22:17:56,132 - INFO - Processing file: Mechanical Techniques Program Fast-Track T149  George Brown College2024
+2024-01-24 22:17:58,922 - INFO - Remaining files: 43
+2024-01-24 22:17:58,922 - INFO - *******************************************************
+2024-01-24 22:17:58,922 - INFO - Processing file: Media Acting - Graduate Intensive Program P707  George Brown College2024
+2024-01-24 22:18:02,069 - INFO - Remaining files: 42
+2024-01-24 22:18:02,069 - INFO - *******************************************************
+2024-01-24 22:18:02,069 - INFO - Processing file: Media Foundation Program P111  George Brown College2024
+2024-01-24 22:18:04,204 - INFO - Remaining files: 41
+2024-01-24 22:18:04,204 - INFO - *******************************************************
+2024-01-24 22:18:04,204 - INFO - Processing file: Mobile Application Development and Strategy Program Postgraduate T440  George Brown College2024
+2024-01-24 22:18:08,864 - INFO - Remaining files: 40
+2024-01-24 22:18:08,865 - INFO - *******************************************************
+2024-01-24 22:18:08,865 - INFO - Processing file: Office Administration  Health Services Program S135  George Brown College2024
+2024-01-24 22:18:11,135 - INFO - Remaining files: 39
+2024-01-24 22:18:11,135 - INFO - *******************************************************
+2024-01-24 22:18:11,135 - INFO - Processing file: Personal Support Worker Pathway to Practical Nursing Program S119  George Brown College2024
+2024-01-24 22:18:14,854 - INFO - Remaining files: 38
+2024-01-24 22:18:14,854 - INFO - *******************************************************
+2024-01-24 22:18:14,854 - INFO - Processing file: Personal Support Worker Program PSW C112  George Brown College2024
+2024-01-24 22:18:21,214 - INFO - Remaining files: 37
+2024-01-24 22:18:21,214 - INFO - *******************************************************
+2024-01-24 22:18:21,214 - INFO - Processing file: Plumbing Techniques Program T165  George Brown College2024
+2024-01-24 22:18:24,411 - INFO - Remaining files: 36
+2024-01-24 22:18:24,411 - INFO - *******************************************************
+2024-01-24 22:18:24,411 - INFO - Processing file: Practical Nursing Program PN S121  George Brown College2024
+2024-01-24 22:18:29,008 - INFO - Remaining files: 35
+2024-01-24 22:18:29,008 - INFO - *******************************************************
+2024-01-24 22:18:29,008 - INFO - Processing file: Pre-Business Program A146  George Brown College2024
+2024-01-24 22:18:31,236 - INFO - Remaining files: 34
+2024-01-24 22:18:31,236 - INFO - *******************************************************
+2024-01-24 22:18:31,236 - INFO - Processing file: Pre-Health Sciences Pathway to Advanced Diplomas and Degrees Program A108  George Brown College2024
+2024-01-24 22:18:35,863 - INFO - Remaining files: 33
+2024-01-24 22:18:35,863 - INFO - *******************************************************
+2024-01-24 22:18:35,864 - INFO - Processing file: Pre-Health Sciences Pathway to Certificates and Diplomas Program A109  George Brown College2024
+2024-01-24 22:18:39,617 - INFO - Remaining files: 32
+2024-01-24 22:18:39,617 - INFO - *******************************************************
+2024-01-24 22:18:39,617 - INFO - Processing file: Programmable Logic Controllers PLC Technician II Program Distance Education T949  George Brown College2024
+2024-01-24 22:18:45,005 - INFO - Remaining files: 31
+2024-01-24 22:18:45,005 - INFO - *******************************************************
+2024-01-24 22:18:45,005 - INFO - Processing file: Programmable Logic Controllers PLC Technician Program Distance Education T903  George Brown College2024
+2024-01-24 22:18:49,809 - INFO - Remaining files: 30
+2024-01-24 22:18:49,809 - INFO - *******************************************************
+2024-01-24 22:18:49,809 - INFO - Processing file: Project Management Program Online Postgraduate B425  George Brown College2024
+2024-01-24 22:19:00,702 - INFO - Remaining files: 29
+2024-01-24 22:19:00,702 - INFO - *******************************************************
+2024-01-24 22:19:00,703 - INFO - Processing file: Project Management Program Postgraduate B415  George Brown College2024
+2024-01-24 22:19:12,180 - ERROR - Error in extract_contact: Invalid json output: {
+"Contacts": [
+{"Type": "Domestic Admissions", "Email": "admissions@georgebrown.ca", "Section": "", "Phone": ""},
+{"Type": "Financial Aid", "Email": "FinAid@georgebrown.ca", "Section": "", "Phone": ""},
+{"Type": "Entry Advising", "Email": "", "Section": "Make an appointment to see an Entry Advisor.", "Phone": ""},
+{"Type": "Centre for Business - General Inquiries", "Email": "business@georgebrown.ca", "Phone": "(416) 415-5000 ext. 2160"},
+{"Type": "Centre for Business - Program Coordinator (B415)", "Name": "Saifur Rahman", "Email": "mdsaifur.rahman@georgebrown.ca", "Section": "", "Phone": ""},
+{"Type": "International Admissions", "Instructions": ["Book a virtual meeting", "Submit an inquiry"], "ContactPage": "International Contact Us page"}
+],
+"Information Sessions": {
+"Description": "On-campus information sessions are held on a regular basis.",
+"Sign up for an upcoming session."
+},
+"Admissions Sections": ["Domestic", "Financial Aid"],
+"Contacts with Phone or Email": [{"Email": "business@georgebrown.ca", "Phone": "(416) 415-5000 ext. 2160"}, {"Name": "Saifur Rahman", "Email": "mdsaifur.rahman@georgebrown.ca"}]
+}
+2024-01-24 22:19:18,100 - INFO - Remaining files: 28
+2024-01-24 22:19:18,100 - INFO - *******************************************************
+2024-01-24 22:19:18,100 - INFO - Processing file: Recreation Management in Gerontology Program C152  George Brown College2024
+2024-01-24 22:19:21,568 - INFO - Remaining files: 27
+2024-01-24 22:19:21,568 - INFO - *******************************************************
+2024-01-24 22:19:21,568 - INFO - Processing file: Registered Nurse  Critical Care Nursing Program Postgraduate S402  George Brown College2024
+2024-01-24 22:19:27,125 - INFO - Remaining files: 26
+2024-01-24 22:19:27,125 - INFO - *******************************************************
+2024-01-24 22:19:27,126 - INFO - Processing file: Registered Nurse  Operating Room Perioperative Nursing Program Postgraduate S414  George Brown College2024
+2024-01-24 22:19:39,490 - ERROR - Error in extract_contact: Invalid json output: {
+"Contact Person": "Professor Chelsea Ovsonka",
+"Contact Methods": {
+  "Phone": "416-415-5000, ext. 2349",
+  "Email": "chelsea.ovsonka@georgebrown.ca"
+},
+"College Contact": {
+  "General Information Phone": "416-415-2000 (TTY 1-877-515-5559)",
+  "Long Distance Contact": "1-800-265-2002",
+},
+"Programs": [
+  {
+    "Name": "Practical Nursing (PN)",
+    "Code": "S121"
+  },
+  {
+    "Name": "Bachelor of Science in Nursing (B.Sc.N)",
+    "Code": "S118"
+  },
+  {
+    "Name": "Registered Nurse – Critical Care Nursing (Postgraduate)",
+    "Code": "S402"
+  }
+],
+"Testimonial": {
+  "Student Name": "Mathumesa Muhunthan",
+  "Program": "Ontario College Graduate Certificate",
+  "Review": "The Registered Nurse – Operating Room Perioperative Nursing program provided me with the theory and skills in order to provide safe and effective patient care in a surgical setting. By practicing each new skill in the Simulation Centre, I was able to add on to my skill set and feel confident entering my 8-week clinical placement. We were given the knowledge and hands-on skills required in order to work alongside surgeons, anesthesiologists, RNFAs and other healthcare professionals in a fast-paced environment."
+}
+}
+2024-01-24 22:19:45,480 - INFO - Remaining files: 25
+2024-01-24 22:19:45,480 - INFO - *******************************************************
+2024-01-24 22:19:45,481 - INFO - Processing file: Registered Nurse  Perinatal Intensive Care Nursing Program Postgraduate S404  George Brown College2024
+2024-01-24 22:20:03,550 - INFO - Remaining files: 24
+2024-01-24 22:20:03,550 - INFO - *******************************************************
+2024-01-24 22:20:03,550 - INFO - Processing file: Registered Practical Nursing - Perioperative Program Postgraduate S425  George Brown College2024
+2024-01-24 22:20:08,809 - INFO - Remaining files: 23
+2024-01-24 22:20:08,809 - INFO - *******************************************************
+2024-01-24 22:20:08,809 - INFO - Processing file: Residential Construction Management Program Postgraduate T408  George Brown College2024
+2024-01-24 22:20:11,059 - ERROR - Error in extract_contact: Invalid json output: {
+"Contact": "Angelo DelZotto School of Construction Management",
+"Contact email": "construction\_mgmt@georgebrown.ca",
+"Phone": "416-415-5000, ext. 6297"
+}
+2024-01-24 22:20:13,976 - INFO - Remaining files: 22
+2024-01-24 22:20:13,976 - INFO - *******************************************************
+2024-01-24 22:20:13,976 - INFO - Processing file: Restorative Dental Hygiene Program Postgraduate S400  George Brown College2024
+2024-01-24 22:20:17,088 - INFO - Remaining files: 21
+2024-01-24 22:20:17,088 - INFO - *******************************************************
+2024-01-24 22:20:17,089 - INFO - Processing file: Robotics Technician Program Distance Education T948  George Brown College2024
+2024-01-24 22:20:21,624 - INFO - Remaining files: 20
+2024-01-24 22:20:21,624 - INFO - *******************************************************
+2024-01-24 22:20:21,625 - INFO - Processing file: RPN Bridge to BScN Program Postgraduate S442  George Brown College2024
+2024-01-24 22:20:24,049 - INFO - Remaining files: 19
+2024-01-24 22:20:24,049 - INFO - *******************************************************
+2024-01-24 22:20:24,050 - INFO - Processing file: Screenwriting  Narrative Design Program Online Postgraduate P410  George Brown College2024
+2024-01-24 22:20:29,584 - INFO - Remaining files: 18
+2024-01-24 22:20:29,584 - INFO - *******************************************************
+2024-01-24 22:20:29,584 - INFO - Processing file: Screenwriting  Narrative Design Program Postgraduate P400  George Brown College2024
+2024-01-24 22:20:34,231 - INFO - Remaining files: 17
+2024-01-24 22:20:34,231 - INFO - *******************************************************
+2024-01-24 22:20:34,231 - INFO - Processing file: Social Service Worker Program Accelerated C135  George Brown College2024
+2024-01-24 22:20:46,444 - INFO - Remaining files: 16
+2024-01-24 22:20:46,444 - INFO - *******************************************************
+2024-01-24 22:20:46,444 - INFO - Processing file: Social Service Worker Program C119  George Brown College2024
+2024-01-24 22:20:49,992 - INFO - Remaining files: 15
+2024-01-24 22:20:49,993 - INFO - *******************************************************
+2024-01-24 22:20:49,993 - INFO - Processing file: Sound Design  Production Program Postgraduate P409  George Brown College2024
+2024-01-24 22:20:52,152 - INFO - Remaining files: 14
+2024-01-24 22:20:52,152 - INFO - *******************************************************
+2024-01-24 22:20:52,153 - INFO - Processing file: Sport and Event Marketing Program Online Postgraduate B420  George Brown College2024
+2024-01-24 22:21:01,752 - INFO - Remaining files: 13
+2024-01-24 22:21:01,752 - INFO - *******************************************************
+2024-01-24 22:21:01,753 - INFO - Processing file: Sport and Event Marketing Program Postgraduate B400  George Brown College2024
+2024-01-24 22:21:15,170 - ERROR - Error in extract_contact: Invalid json output: {
+"Contacts": {
+"Domestic Admissions": {
+"Contact": "Admissions Office",
+"Email": "admissions@georgebrown.ca",
+"Section": ""
+},
+"International Admissions": {
+"Contacts": [
+{
+"Name": "international recruitment representatives",
+"Methods": ["Booking a virtual meeting", "Submitting an inquiry"],
+"Contact page": "International Contact Us page"
+}
+],
+"Email": "",
+"Section": ""
+},
+"Financial Aid": {
+"Contact": "Financial Aid Office",
+"Email": "FinAid@georgebrown.ca",
+"Section": ""
+},
+"Entry Advising": {
+"Appointment": {
+"Make an appointment": true,
+"FAQs": "frequently asked questions"
+},
+"Contact": "",
+"Section": ""
+},
+"Centre for Business": {
+"General inquiries": {
+"Email": "business@georgebrown.ca",
+"Phone": "(416) 415-5000 ext. 2160"
+},
+"Sport & Event Marketing (B400)": [
+{
+"Name": "Peter Widdis",
+"Role": "Program Co-ordinator",
+"Email": "pwiddis@georgebrown.ca"
+},
+{
+"Name": "John Peco",
+"Role": "Chair – School of Marketing, Centre for Business",
+"Email": "john.peco@georgebrown.ca"
+}
+],
+"International Admissions (Country-specific)": [
+{
+"Contacts": [
+{
+"Name": "",
+"Methods": ["Booking a virtual meeting", "Submitting an inquiry"]
+},
+...
+],
+"Email": "",
+"Section": ""
+}
+]
+}
+}
+}
+2024-01-24 22:21:23,677 - INFO - Remaining files: 12
+2024-01-24 22:21:23,677 - INFO - *******************************************************
+2024-01-24 22:21:23,677 - INFO - Processing file: Strategic Relationship Marketing Program Postgraduate B409  George Brown College2024
+2024-01-24 22:21:38,953 - INFO - Remaining files: 11
+2024-01-24 22:21:38,953 - INFO - *******************************************************
+2024-01-24 22:21:38,953 - INFO - Processing file: Supply Chain Management Program Postgraduate B429  George Brown College2024
+2024-01-24 22:21:48,699 - INFO - Remaining files: 10
+2024-01-24 22:21:48,699 - INFO - *******************************************************
+2024-01-24 22:21:48,699 - INFO - Processing file: Theatre Arts  Performance Program P104  George Brown College2024
+2024-01-24 22:21:51,965 - INFO - Remaining files: 9
+2024-01-24 22:21:51,965 - INFO - *******************************************************
+2024-01-24 22:21:51,966 - INFO - Processing file: Theatre Arts-Preparation Program P108  George Brown College2024
+2024-01-24 22:21:53,911 - INFO - Remaining files: 8
+2024-01-24 22:21:53,911 - INFO - *******************************************************
+2024-01-24 22:21:53,911 - INFO - Processing file: Tourism and Hospitality Management Program H130  George Brown College2024
+2024-01-24 22:21:57,511 - INFO - Remaining files: 7
+2024-01-24 22:21:57,511 - INFO - *******************************************************
+2024-01-24 22:21:57,512 - INFO - Processing file: Transitions to Post-Secondary Education Program A107  George Brown College2024
+2024-01-24 22:21:58,898 - INFO - Remaining files: 6
+2024-01-24 22:21:58,898 - INFO - *******************************************************
+2024-01-24 22:21:58,899 - INFO - Processing file: Video Design  Production Program P112  George Brown College2024
+2024-01-24 22:22:01,016 - INFO - Remaining files: 5
+2024-01-24 22:22:01,016 - INFO - *******************************************************
+2024-01-24 22:22:01,016 - INFO - Processing file: Visual Effects Program Online Postgraduate P418  George Brown College2024
+2024-01-24 22:22:02,960 - INFO - Remaining files: 4
+2024-01-24 22:22:02,960 - INFO - *******************************************************
+2024-01-24 22:22:02,960 - INFO - Processing file: Visual Effects Program Postgraduate P408  George Brown College2024
+2024-01-24 22:22:04,862 - INFO - Remaining files: 3
+2024-01-24 22:22:04,862 - INFO - *******************************************************
+2024-01-24 22:22:04,862 - INFO - Processing file: Web Development  Front-End Design Program Postgraduate G418  George Brown College2024
+2024-01-24 22:22:06,883 - INFO - Remaining files: 2
+2024-01-24 22:22:06,883 - INFO - *******************************************************
+2024-01-24 22:22:06,884 - INFO - Processing file: Welding Techniques Program T166  George Brown College2024
+2024-01-24 22:22:09,580 - INFO - Remaining files: 1
+2024-01-24 22:22:09,581 - INFO - *******************************************************
+2024-01-24 22:22:09,582 - INFO - Processing file: Wireless Networking Program Postgraduate T411  George Brown College2024
+2024-01-24 22:22:14,237 - INFO - Remaining files: 0
+2024-01-24 22:22:14,237 - INFO - *******************************************************
+2024-01-24 22:22:14,237 - INFO - Total files processed: 217

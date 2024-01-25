@@ -1,0 +1,62 @@
+{
+  "Program Information": {
+    "Program Name": "Honours Bachelor of Behaviour Analysis",
+    "Code": "S302",
+    "Credential": "Honours Bachelor's Degree",
+    "Method of Study": "Full-time",
+    "Duration": "4 years (8 semesters) + 14-Week Field Experience Term (unpaid)",
+    "Starting Months": "September",
+    "Domestic Tuition": "$7,238.00 *",
+    "International Tuition": "$20,365.00 **",
+    "Centre": "Health Sciences",
+    "School": "Health & Wellness",
+    "Location": "Waterfront Campus",
+    "Experiential Learning": "Field work begins in semester 3 and includes a 14-week placement in the summer before semester 7.",
+    "Fall 2023 Delivery": "Not Available",
+    "Winter 2024 Delivery": "Semester 2, 6, 8: Hybrid; Semester 4: On Campus"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "George Brown School of Health and Wellness",
+    "Contact email": "hwprograms@georgebrown.ca",
+    "Phone": "416-415-5000, ext. 2367",
+    "Office Hours": "9 a.m. – 4 p.m."
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "Program Information": {
+    "Program Name": "Business Administration",
+    "Code": "B145",
+    "Credential": "Ontario College Advanced Diploma",
+    "Method of Study": "Full-time",
+    "Duration": "3 years (6 semesters)",
+    "Starting Months": "January, September",
+    "Domestic Tuition": "$4,663.00 *",
+    "International Tuition": "$17,455.00 **",
+    "Centre": "Business",
+    "School": "Management",
+    "Location": "St. James Campus",
+    "Experiential Learning": "Field Education Course (Optional)",
+    "Fall 2023 Delivery": "Semester 1, 2, 3, 4, 5, 6: On Campus",
+    "Winter 2024 Delivery": "Semester 1, 2, 3, 4, 5, 6: On Campus",
+    "Spring 2024 Delivery": "Semester 1, 2, 3, 4, 5, 6: On Campus"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "George Brown College",
+    "Services": [
+      "Information Sessions",
+      "Domestic Student Admissions",
+      "International Student Admissions",
+      "Fees and Financial Information",
+      "Entry Advising",
+      "Centre for Business"
+    ],
+    "Information Sessions": {
+      "Type": "On-campus",
+      "Schedule": "held on a regular basis",
+      "Sign up": "sign up for an upcoming session"
+    },
+    "Domestic Student Admissions": {
+      "Contact": "Admissions Office",
+      "Email": "admissions@georgebrown.ca",
+      "Website": "Admissions section"
+    },
+    "International Student Admissions": {
+      "Recruitment Representatives": true,
+      "Virtual Meeting": true,
+      "Submitting Inquiry": true,
+      "Contact Us Page": "International Contact Us page"
+    },
+    "Fees and Financial Information": {
+      "Contact": "Financial Aid Office",
+      "Email": "FinAid@georgebrown.ca",
+      "Website": "Financial Aid section"
+    },
+    "Entry Advising": {
+      "Appointment": true,
+      "FAQ": true
+    },
+    "Centre for Business": {
+      "General Inquiries": {
+        "Email": "business@georgebrown.ca",
+        "Phone": "(416) 415-5000 ext. 2160"
+      },
+      "Business Administration (B145/155)": {
+        "Program Coordinator": "Mario Pascucci",
+        "Email": "mpascucc@georgebrown.ca"
+      }
+    },
+    "International Student Admissions-Recruitment": {
+      "Country Specialization": true,
+      "Virtual Meeting": true,
+      "Submitting Inquiry": true,
+      "Contact Us Page": "International Contact Us page"
+    }
+  }
+}

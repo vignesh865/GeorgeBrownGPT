@@ -1,0 +1,125 @@
+{
+  "Program Information": {
+    "Program Name": "Marketing Management – Digital Media",
+    "Code": "B433",
+    "Credential": "Ontario College Graduate Certificate",
+    "Method of Study": "Full-time",
+    "Duration": "12 months (2 semesters in-class, 1 semester work experience)",
+    "Starting Months": "January, May, September",
+    "Domestic Tuition": "$4,662.00 * †",
+    "International Tuition": "$18,075.00 ** †",
+    "Centre": "Business",
+    "School": "Marketing",
+    "Location": "St. James Campus",
+    "Experiential Learning": "Work Experience (Co-op or Internship) Required",
+    "Fall 2023 Delivery": "Semester 1, 2: On Campus; Semester 3: Co-op",
+    "Winter 2024 Delivery": "Semester 1, 2: Hybrid; Semester 3: Co-op"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "open"
+    }
+  ],
+  "Contact Related Information": {
+    "Contacts": [
+      {
+        "Department": "Information Sessions",
+        "Contact email": "not provided",
+        "Phone": "not provided",
+        "Office Hours": "not provided"
+      },
+      {
+        "Department": "Domestic Student Admissions",
+        "Contact email": "admissions@georgebrown.ca",
+        "Website": "Admissions section"
+      },
+      {
+        "Department": "International Student Admissions",
+        "Contacts": [
+          {
+            "Name": "Recruitment Representatives",
+            "Methods": [
+              "Booking a virtual meeting",
+              "Submitting an inquiry"
+            ],
+            "Website": "International Contact Us page"
+          },
+          {
+            "Name": "Blair Smith",
+            "Title": "Program Co-ordinator – Marketing Management – Digital Media (B433)",
+            "Email": "blair.smith@georgebrown.ca"
+          }
+        ],
+        "Chair – School of Marketing": {
+          "Name": "John Peco",
+          "Email": "john.peco@georgebrown.ca"
+        }
+      },
+      {
+        "Department": "Fees and Financial Information",
+        "Contact email": "FinAid@georgebrown.ca",
+        "Website": "Financial Aid section"
+      },
+      {
+        "Department": "Entry Advising",
+        "Methods": [
+          "Make an appointment"
+        ],
+        "FAQs link": "frequently asked questions",
+        "Contact email": "not provided"
+      },
+      {
+        "Department": "Centre for Business",
+        "Contacts": [
+          {
+            "Title": "General Inquiries",
+            "Methods": [
+              "Email",
+              "Phone"
+            ],
+            "Email": "business@georgebrown.ca",
+            "Phone": "(416) 415-5000 ext. 2160"
+          },
+          {
+            "Name": "Blair Smith",
+            "Title": "Program Co-ordinator – Marketing Management – Digital Media (B433)",
+            "Email": "blair.smith@georgebrown.ca"
+          }
+        ]
+      }
+    ]
+  }
+}

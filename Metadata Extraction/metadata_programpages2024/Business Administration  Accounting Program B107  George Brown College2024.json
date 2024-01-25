@@ -1,0 +1,118 @@
+{
+  "Program Information": {
+    "Program Name": "Business Administration – Accounting",
+    "Code": "B107",
+    "Credential": "Ontario College Advanced Diploma",
+    "Method of Study": "Full-time",
+    "Duration": "3 years (6 semesters)",
+    "Starting Months": "January, September",
+    "Domestic Tuition": "$3,798.00 *",
+    "International Tuition": "$17,925.00 **",
+    "Centre": "Business",
+    "School": "Accounting & Finance",
+    "Location": "St. James Campus",
+    "Experiential Learning": "Field Education Course (Optional)"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "opens apr 8, 2024"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact Us": "",
+    "Information Sessions": {
+      "On-campus sessions": {
+        "Description": "held on a regular basis",
+        "Sign up": "Sign up for an upcoming session"
+      },
+      "Domestic Students": {
+        "Admissions": {
+          "Contact": "Admissions Office",
+          "Email": "admissions@georgebrown.ca",
+          "Section": "Admissions section"
+        }
+      },
+      "International Students": {
+        "Admissions": {
+          "Contact Us page": ""
+        },
+        "Representatives": [
+          {
+            "Country of origin": "",
+            "Book a virtual meeting": "",
+            "Submit inquiry": "",
+            "Email": "",
+            "Section": ""
+          }
+        ]
+      }
+    },
+    "Fees and Financial Information": {
+      "Financial Aid Office": {
+        "Contact": "FinAid@georgebrown.ca",
+        "Section": "Financial Aid section"
+      }
+    },
+    "Entry Advising": {
+      "Make an appointment": "",
+      "Frequently asked questions": ""
+    },
+    "Centre for Business": {
+      "General inquiries": {
+        "Email": "business@georgebrown.ca",
+        "Phone": "(416) 415-5000 ext. 2160"
+      },
+      "Business Administration: Accounting": {
+        "Program Co-ordinators": [
+          {
+            "Name": "Francis Taylor",
+            "Email": "Francis.Taylor@georgebrown.ca"
+          },
+          {
+            "Name": "Kelly Jung",
+            "Email": "Kelly.Jung@georgebrown.ca"
+          }
+        ]
+      },
+      "International Students Recruitment": {
+        "Contact Us page": "",
+        "Country of origin": "",
+        "Book a virtual meeting": "",
+        "Submit inquiry": ""
+      }
+    }
+  }
+}

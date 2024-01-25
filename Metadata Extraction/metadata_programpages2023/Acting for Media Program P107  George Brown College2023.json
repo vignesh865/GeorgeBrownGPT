@@ -1,0 +1,60 @@
+{
+  "Program Information": {
+    "Program Name": "Acting for Media",
+    "Code": "P107",
+    "Credential": "Ontario College Diploma",
+    "Method of Study": "Full-time",
+    "Duration": "2 years (4 semesters)",
+    "Starting Months": "January, September",
+    "Domestic Tuition": "$6,212.00 * ‡",
+    "International Tuition": "$19,248.00 ** ‡",
+    "Centre": "Arts, Design & Information Technology",
+    "School": "Media & Performing Arts",
+    "Location": "St. James Campus",
+    "Fall 2023 Delivery": "Semester 1, 3: On Campus",
+    "Winter 2024 Delivery": "Semester 1, 2, 4: On Campus"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "School of Media & Performing Arts",
+    "Contact email": "media@georgebrown.ca",
+    "Phone": "416-415-5000, ext. 2015"
+  }
+}

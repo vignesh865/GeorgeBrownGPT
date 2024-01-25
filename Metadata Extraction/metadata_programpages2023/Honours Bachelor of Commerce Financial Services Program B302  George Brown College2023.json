@@ -1,0 +1,114 @@
+{
+  "Program Information": {
+    "Program Name": "Honours Bachelor of Commerce (Financial Services)",
+    "Code": "B302",
+    "Credential": "Honours Bachelor's Degree",
+    "Method of Study": "Full-time",
+    "Duration": "4 years (8 semesters in-class plus 1 Co-op Work Term)",
+    "Starting Months": "January, September",
+    "Domestic Tuition": "$8,701.00 * †",
+    "International Tuition": "$20,357.00 ** †",
+    "Centre": "Business",
+    "School": "Accounting & Finance",
+    "Location": "St. James Campus",
+    "Experiential Learning": "Work Experience Required",
+    "Fall 2023 Delivery": "Semester 1, 3, 5, 7: On Campus",
+    "Winter 2024 Delivery": "Semester 1, 2, 4, 6, 8: On Campus"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contacts": {
+      "Domestic Admissions": {
+        "Contact": "Admissions Office",
+        "Email": "admissions@georgebrown.ca",
+        "Website": "Admissions section"
+      },
+      "International Admissions": {
+        "Contacts": [
+          {
+            "Name": "international recruitment representatives",
+            "ContactMethod": "Booking a virtual meeting",
+            "Email": "N/A",
+            "Website": "International Contact Us page"
+          },
+          {
+            "Name": "international recruitment representatives",
+            "ContactMethod": "Submitting an inquiry",
+            "Email": "N/A",
+            "Website": "International Contact Us page"
+          }
+        ],
+        "Website": "International Contact Us page"
+      },
+      "Fees and Financial Information": {
+        "Contact": "Financial Aid Office",
+        "Email": "FinAid@georgebrown.ca",
+        "Website": "Financial Aid section"
+      },
+      "Entry Advising": {
+        "Contact": "Entry Advisors",
+        "Appointment": true,
+        "FAQs": "frequently asked questions",
+        "Email": "N/A",
+        "Phone": "N/A"
+      },
+      "Centre for Business": {
+        "General Inquiries": {
+          "Contact": "business@georgebrown.ca",
+          "Phone": "(416) 415-5000 ext. 2160"
+        },
+        "Honours Bachelor of Commerce (Financial Services)": {
+          "Program Co-ordinators": [
+            {
+              "Name": "Niraj Sinha",
+              "Title": "program co-ordinator, Financial Planning specialization",
+              "Email": "Niraj.Sinha@georgebrown.ca"
+            },
+            {
+              "Name": "Mohammad Khan",
+              "Title": "program co-ordinator, Accounting specialization",
+              "Email": "Mohammad.Khan@georgebrown.ca"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

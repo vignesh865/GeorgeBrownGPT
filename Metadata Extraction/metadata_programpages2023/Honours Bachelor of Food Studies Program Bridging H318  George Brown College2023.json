@@ -1,0 +1,74 @@
+{
+  "Program Information": {
+    "Program Name": "Honours Bachelor of Food Studies",
+    "Code": "H318",
+    "Credential": "Honours Bachelor's Degree",
+    "Method of Study": "Full-time",
+    "Duration": "5 semesters",
+    "Starting Months": "May",
+    "Domestic Tuition": "$9,957.00 * †",
+    "International Tuition": "$20,662.00 ** †",
+    "Centre": "Hospitality & Culinary Arts",
+    "School": "Chef School",
+    "Location": "St. James Campus",
+    "Experiential Learning": "The Honours Bachelor of Food Studies embraces experiential learning as a key component of the program delivery. Students will have a variety of opportunities to examine activities in the community, take field trips in the surrounding area and complete two 16-hour community-engaged learning placements as part of their coursework.",
+    "Fall 2023 Delivery": "Not Available",
+    "Winter 2024 Delivery": "Semester 6: On Campus"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "open"
+    }
+  ],
+  "Contact Related Information": {
+    "Contacts": [
+      {
+        "Department": "DOMESTIC STUDENT ADMISSIONS",
+        "Contact email": "admissions@georgebrown.ca",
+        "Webpage": "Admissions web page"
+      },
+      {
+        "Department": "Financial/Fees",
+        "Contact email": "FinAid@georgebrown.ca",
+        "Webpage": "Financial Aid web page"
+      },
+      {
+        "Department": "HONOURS BACHELOR of FOOD STUDIES – BRIDGING (H318)",
+        "Contact email": "CHCAStudentSupport@georgebrown.ca"
+      }
+    ]
+  }
+}

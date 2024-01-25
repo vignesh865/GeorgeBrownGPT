@@ -1,0 +1,124 @@
+{
+  "Program Information": {
+    "Program Name": "Business – Human Resources",
+    "Code": "B134",
+    "Credential": "Ontario College Diploma",
+    "Method of Study": "Full-time",
+    "Duration": "2 years (4 semesters)",
+    "Starting Months": "January, September",
+    "Domestic Tuition": "$4,498.00 *",
+    "International Tuition": "$17,496.00 **",
+    "Centre": "Business",
+    "School": "Human Resources",
+    "Location": "St. James Campus",
+    "Experiential Learning": "Optional Field Education Course (BUS 1067)",
+    "Fall 2023 Delivery": "Semester 1, 2, 3, 4: On Campus",
+    "Winter 2024 Delivery": "Semester 1, 2, 3, 4: On Campus"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "George Brown College",
+    "Services": [
+      "Information Sessions",
+      "Domestic Student Admissions",
+      "International Student Admissions",
+      "Fees and Financial Information",
+      "Entry Advising",
+      "Centre for Business"
+    ],
+    "InfoSessions": {
+      "Type": "On-campus information sessions",
+      "Frequency": "held on a regular basis",
+      "Sign up": "Sign up for an upcoming session"
+    },
+    "DomesticAdmissions": {
+      "Contact": "Admissions Office",
+      "Email": "admissions@georgebrown.ca",
+      "Website": "Admissions section"
+    },
+    "InternationalAdmissions": {
+      "Contacts": [
+        {
+          "Name": "international recruitment representatives",
+          "Methods": [
+            "booking a virtual meeting",
+            "submitting an inquiry"
+          ],
+          "Website": "International Contact Us page"
+        }
+      ],
+      "CountrySpecific": true
+    },
+    "FinancialAid": {
+      "Contact": "Financial Aid Office",
+      "Email": "FinAid@georgebrown.ca",
+      "Website": "Financial Aid section"
+    },
+    "EntryAdvising": {
+      "Service": "Make an appointment to see an Entry Advisor",
+      "FAQs": "frequently asked questions"
+    },
+    "CentreForBusiness": {
+      "GeneralInquiries": {
+        "Contact": "business@georgebrown.ca",
+        "Phone": "(416) 415-5000 ext. 2160",
+        "Location": "Business – Human Resources (B134)"
+      },
+      "ProgramSpecificInquiries": {
+        "Name": "Viji Vibhu Prakash",
+        "Title": "Program Co-ordinator and Professor",
+        "Email": "Viji.VibhuPrakash@georgebrown.ca"
+      },
+      "InternationalStudents": {
+        "Contacts": [
+          {
+            "Name": "international recruitment representatives",
+            "Methods": [
+              "booking a virtual meeting",
+              "submitting an inquiry"
+            ],
+            "Website": "International Contact Us page"
+          }
+        ],
+        "CountrySpecific": true
+      }
+    }
+  }
+}

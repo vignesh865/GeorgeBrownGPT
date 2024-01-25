@@ -1,0 +1,58 @@
+{
+  "Program Information": {
+    "Program Name": "Transitions to Post-Secondary Education",
+    "Code": "A107",
+    "Credential": "Ontario College Certificate",
+    "Method of Study": "Full-time",
+    "Duration": "12 months (3 semesters)",
+    "Starting Months": "January, April, September",
+    "Domestic Tuition": "No fee*",
+    "Centre": "Preparatory & Liberal Studies",
+    "School": "Work & College Preparation",
+    "Location": "St. James Campus",
+    "Fall 2023 Delivery": "Semester 1, 2, 3: Hybrid",
+    "Winter 2024 Delivery": "Semester 1, 2, 3: Hybrid"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "Contact the program office",
+    "Contact email": "tpeinfo@georgebrown.ca"
+  }
+}

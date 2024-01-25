@@ -1,0 +1,59 @@
+{
+  "Program Information": {
+    "Program Name": "General Arts and Science – English for Academic Purposes",
+    "Code": "R105",
+    "Credential": "Ontario College Certificate",
+    "Method of Study": "Full-time",
+    "Duration": "3 semesters Levels 1–9 depending on initial placement test",
+    "Starting Months": "January, May, September",
+    "Domestic Tuition": "$1,841.00*",
+    "Centre": "Preparatory & Liberal Studies",
+    "School": "English as a Second Language ESL",
+    "Location": "St. James Campus",
+    "Fall 2023 Delivery": "Semester 1, 2, 3: Choice",
+    "Winter 2024 Delivery": "Semester 1, 2, 3: Hybrid"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "School of ESL",
+    "Contact email": "esl@georgebrown.ca",
+    "Phone": "416-415-5000, ext. 4826"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "Program Information": {
+    "Program Name": "Digital Design – Game Design",
+    "Code": "G405",
+    "Credential": "Ontario College Graduate Certificate",
+    "Method of Study": "Full-time",
+    "Duration": "1 year (3 semesters)",
+    "Starting Months": "September",
+    "Domestic Tuition": "$15,070.00 *",
+    "International Tuition": "$32,078.00 **",
+    "Centre": "Arts, Design & Information Technology",
+    "School": "Design",
+    "Location": "Waterfront Campus",
+    "Experiential Learning": "Field placement available with portfolio approval.",
+    "Fall 2023 Delivery": "Semester 1: Hybrid",
+    "Winter 2024 Delivery": "Semester 2: On Campus"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "School of Design",
+    "Contact email": "game@georgebrown.ca",
+    "Phone": "416-415-5000, ext. 3129",
+    "Program Co-ordinator": "Jean-Paul Amore",
+    "Co-ordinator email": "jamore@georgebrown.ca",
+    "Co-ordinator phone": "ext. 3427"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "Program Information": {
+    "Program Name": "Hospitality Services",
+    "Code": "H101",
+    "Credential": "Ontario College Certificate",
+    "Method of Study": "Full-time",
+    "Duration": "1 year (2 semesters)",
+    "Starting Months": "January, May, September",
+    "Domestic Tuition": "$4,910.00 * †",
+    "International Tuition": "$19,036.00 ** †",
+    "Centre": "Hospitality & Culinary Arts",
+    "School": "Hospitality & Tourism Management",
+    "Location": "St. James Campus"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "opens apr 8, 2024"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "opens aug 6, 2024"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "DOMESTIC STUDENT ADMISSIONS",
+    "Admissions email": "admissions@georgebrown.ca",
+    "Financial Aid email": "FinAid@georgebrown.ca",
+    "Hospitality Services email": "chcastudentsupport@georgebrown.ca"
+  }
+}

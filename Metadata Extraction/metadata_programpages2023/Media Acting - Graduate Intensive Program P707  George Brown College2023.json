@@ -1,0 +1,59 @@
+{
+  "Program Information": {
+    "Program Name": "Media Acting - Graduate Intensive",
+    "Code": "P707",
+    "Credential": "George Brown College Certificate",
+    "Method of Study": "Full-time",
+    "Duration": "7 weeks",
+    "Starting Months": "July",
+    "Domestic Tuition": "$2,300.00*",
+    "Centre": "Arts, Design & Information Technology",
+    "School": "Media & Performing Arts",
+    "Location": "St. James Campus",
+    "Fall 2023 Delivery": "Not Available",
+    "Winter 2024 Delivery": "Semester 1: Not Available"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "School of Media & Performing Arts",
+    "Contact email": "media@georgebrown.ca",
+    "Phone": "416-415-5000, ext. 2015"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "Program Information": {
+    "Program Name": "Business – Accounting",
+    "Code": "B103",
+    "Credential": "Ontario College Diploma",
+    "Method of Study": "Full-time",
+    "Duration": "2 years (4 semesters)",
+    "Starting Months": "January, September",
+    "Domestic Tuition": "$3,798.00 *",
+    "International Tuition": "$17,925.00 **",
+    "Centre": "Business",
+    "School": "Accounting & Finance",
+    "Location": "St. James Campus"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "opens apr 8, 2024"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contacts": [
+      {
+        "Type": "Domestic Student Admissions",
+        "Contact": "admissions@georgebrown.ca",
+        "Channel": [
+          "Email"
+        ]
+      },
+      {
+        "Type": "Financial Aid Office",
+        "Contact": "FinAid@georgebrown.ca",
+        "Channel": [
+          "Email"
+        ]
+      },
+      {
+        "Type": "Entry Advising",
+        "Contact": "Make an appointment",
+        "URL": "frequently asked questions"
+      },
+      {
+        "Type": "Centre for Business - General Inquiries",
+        "Contact": "business@georgebrown.ca",
+        "Channel": [
+          "Email"
+        ],
+        "Phone": "(416) 415-5000 ext. 2160"
+      },
+      {
+        "Type": "Centre for Business - Accounting (B103)",
+        "Coordinators": [
+          {
+            "Name": "Francis Taylor",
+            "Contact": "Francis.Taylor@georgebrown.ca"
+          },
+          {
+            "Name": "Kelly Jung",
+            "Contact": "Kelly.Jung@georgebrown.ca"
+          }
+        ],
+        "Channel": [
+          "Email"
+        ]
+      },
+      {
+        "Type": "International Student Admissions",
+        "URL": "International Contact Us page"
+      }
+    ]
+  }
+}

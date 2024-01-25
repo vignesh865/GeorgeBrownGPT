@@ -1,0 +1,64 @@
+{
+  "Program Information": {
+    "Program Name": "Computer Programming and Analysis",
+    "Code": "T197",
+    "Credential": "Ontario College Advanced Diploma",
+    "Method of Study": "Full-time",
+    "Duration": "3 years (6 semesters)",
+    "Starting Months": "January, September",
+    "Domestic Tuition": "$4,304.00 *",
+    "Centre": "Arts, Design & Information Technology",
+    "School": "Computer Technology",
+    "Location": "Online"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "School of Computer Technology",
+    "Contact email": "computertechnology@georgebrown.ca",
+    "Phone": "416-415-5000, ext. 4287",
+    "Office Hours": {
+      "Monday - Thursday": "8 a.m. – 7 p.m.",
+      "Friday": "8 a.m. – 4 p.m."
+    },
+    "Program Co-ordinator": "Maziar Masoudi",
+    "Co-ordinator email": "mmasoudi@georgebrown.ca",
+    "Co-ordinator Phone": "416-415-5000, ext. 3345"
+  }
+}

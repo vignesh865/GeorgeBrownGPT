@@ -1,0 +1,100 @@
+{
+  "Program Information": {
+    "Program Name": "Analytics for Business Decision-Making",
+    "Code": "B422",
+    "Credential": "Ontario College Graduate Certificate",
+    "Method of Study": "Full-time",
+    "Duration": "8 months (2 semesters)",
+    "Starting Months": "January, September",
+    "Domestic Tuition": "$4,317.00 *",
+    "Centre": "Business",
+    "School": "Management",
+    "Location": "Online",
+    "Experiential Learning": "Simulated Learning Environment."
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "Centre for Business",
+    "Email": "business@georgebrown.ca",
+    "Phone": "(416) 415-5000 ext. 2160",
+    "Programs": [
+      {
+        "Name": "Analytics for Business Decision-Making (Online) (B422)",
+        "Inquiries Contact": {
+          "Name": "Robin Yap",
+          "Email": "ryap@georgebrown.ca"
+        }
+      }
+    ],
+    "Admissions": [
+      {
+        "Domestic Students": {
+          "Contact": "Admissions Office",
+          "Email": "admissions@georgebrown.ca",
+          "Website": "Admissions section"
+        },
+        "International Students": {
+          "Contact Methods": [
+            "Booking a virtual meeting",
+            "Submitting an inquiry"
+          ],
+          "Contacts": [
+            {
+              "Country of Origin": "",
+              "Name": "",
+              "Email": "",
+              "Phone": ""
+            }
+          ],
+          "Website": "International Contact Us page"
+        }
+      }
+    ],
+    "Financial Aid": {
+      "Contact": "Financial Aid Office",
+      "Email": "FinAid@georgebrown.ca",
+      "Website": "Financial Aid section"
+    },
+    "Entry Advising": {
+      "Contact Method": "Make an appointment",
+      "FAQs": []
+    }
+  }
+}

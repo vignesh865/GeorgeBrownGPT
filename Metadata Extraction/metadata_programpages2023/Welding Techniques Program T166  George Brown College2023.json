@@ -1,0 +1,61 @@
+{
+  "Program Information": {
+    "Program Name": "Welding Techniques",
+    "Code": "T166",
+    "Credential": "Ontario College Certificate",
+    "Method of Study": "Full-time",
+    "Duration": "1 year (2 semesters)",
+    "Starting Months": "May, September",
+    "Domestic Tuition": "$8,156.00 *",
+    "International Tuition": "$18,614.00 **",
+    "Centre": "Construction & Engineering Technologies",
+    "School": "Apprenticeship & Skilled Trades",
+    "Location": "Casa Loma Campus",
+    "Fall 2023 Delivery": "Semester 1, 2: On Campus",
+    "Winter 2024 Delivery": "Semester 2: On Campus"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "closed"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "School of Apprenticeship and Skilled Trades",
+    "Program Co-ordinator": "Tom Tomassi",
+    "Co-ordinator email": "ttomassi@georgebrown.ca",
+    "Co-ordinator Phone": "416-415-5000, ext. 4303"
+  }
+}

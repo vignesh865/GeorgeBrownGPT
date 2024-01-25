@@ -1,0 +1,60 @@
+{
+  "Program Information": {
+    "Program Name": "Art and Design Foundation",
+    "Code": "G108",
+    "Credential": "Ontario College Certificate",
+    "Method of Study": "Full-time",
+    "Duration": "1 year (2 semester)",
+    "Starting Months": "January, September",
+    "Domestic Tuition": "$4,256.00 * †",
+    "International Tuition": "$18,293.00 ** †",
+    "Centre": "Arts, Design & Information Technology",
+    "School": "Design",
+    "Location": "Waterfront Campus"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "opens apr 8, 2024"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "School of Design",
+    "Contact email": "design@georgebrown.ca",
+    "Phone": "416-415-5000, ext. 2137",
+    "Program Co-ordinator": "Bahar Mousavi Hejazi",
+    "Co-ordinator email": "bmousavi@georgebrown.ca"
+  }
+}

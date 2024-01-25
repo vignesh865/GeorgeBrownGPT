@@ -1,0 +1,60 @@
+{
+  "Program Information": {
+    "Program Name": "Human Services Foundations",
+    "Code": "A113",
+    "Credential": "Ontario College Certificate",
+    "Method of Study": "Full-time",
+    "Duration": "1 year (2 semesters)",
+    "Starting Months": "January, September",
+    "Domestic Tuition": "$3,726.00 *",
+    "International Tuition": "$17,945.00 **",
+    "Centre": "Preparatory & Liberal Studies",
+    "School": "Work & College Preparation",
+    "Location": "St. James Campus"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "opens apr 8, 2024"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "Pathway Advisor",
+    "Contact email": "preparation@georgebrown.ca",
+    "Phone": "416-415-5000, ext. 2562",
+    "Program Co-ordinator": "Ashley Booth",
+    "Co-ordinator email": "abooth@georgebrown.ca"
+  }
+}

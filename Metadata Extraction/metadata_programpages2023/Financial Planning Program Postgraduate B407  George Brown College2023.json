@@ -1,0 +1,92 @@
+{
+  "Program Information": {
+    "Program Name": "Financial Planning",
+    "Code": "B407",
+    "Credential": "Ontario College Graduate Certificate",
+    "Method of Study": "Full-time",
+    "Duration": "8 months (2 semesters)",
+    "Starting Months": "January, May, September",
+    "Domestic Tuition": "$4,428.00 *",
+    "International Tuition": "$17,774.00 **",
+    "Centre": "Business",
+    "School": "Accounting & Finance",
+    "Location": "St. James Campus",
+    "Fall 2023 Delivery": "Semester 1, 2: Hybrid",
+    "Winter 2024 Delivery": "Semester 1, 2: Hybrid"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "open"
+    }
+  ],
+  "Contact Related Information": {
+    "Services": [
+      "Information Sessions",
+      "Domestic Student Admissions",
+      "International Student Admissions",
+      "Fees and Financial Information",
+      "Entry Advising",
+      "Centre for Business"
+    ],
+    "Contact Points": {
+      "Admissions": {
+        "Email": "admissions@georgebrown.ca",
+        "Section": ""
+      },
+      "Financial Aid": {
+        "Email": "FinAid@georgebrown.ca",
+        "Section": ""
+      },
+      "Centre for Business - General Inquiries": {
+        "Email": "business@georgebrown.ca",
+        "Phone": "(416) 415-5000 ext. 2160"
+      },
+      "Centre for Business - Financial Planning": {
+        "Coordinator 1": {
+          "Name": "Tracey Britt",
+          "Email": "tbritt1@georgebrown.ca"
+        },
+        "Coordinator 2": {
+          "Name": "Carolyn Fallis",
+          "Email": "cfallis@georgebrown.ca"
+        }
+      },
+      "International Students": {
+        "Section": "International Contact Us page"
+      }
+    }
+  }
+}

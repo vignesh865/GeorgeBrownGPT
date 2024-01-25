@@ -1,0 +1,65 @@
+{
+  "Program Information": {
+    "Program Name": "Baking and Pastry Foundations",
+    "Code": "H128",
+    "Credential": "Ontario College Certificate",
+    "Method of Study": "Full-time",
+    "Duration": "1 year (2 semesters)",
+    "Starting Months": "January",
+    "Domestic Tuition": "$6,657.00 * †",
+    "International Tuition": "$20,540.00 ** †",
+    "Centre": "Hospitality & Culinary Arts",
+    "School": "Chef School",
+    "Location": "St. James Campus"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "opens apr 8, 2024"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "DOMESTIC STUDENT ADMISSIONS",
+    "Admissions email": "admissions@georgebrown.ca",
+    "Admissions web page": "",
+    "Financial Aid": {
+      "Financial Inquiries email": "FinAid@georgebrown.ca",
+      "Financial Aid web page": ""
+    },
+    "Baking and Pastry Foundations": {
+      "Chef School inquiries email": "CHCAStudentSupport@georgebrown.ca"
+    }
+  }
+}

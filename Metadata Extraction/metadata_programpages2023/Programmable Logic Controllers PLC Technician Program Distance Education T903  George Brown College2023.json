@@ -1,0 +1,78 @@
+{
+  "Program Information": {
+    "Program Name": "Programmable Logic Controllers (PLC) Technician",
+    "Code": "T903",
+    "Credential": "George Brown College Certificate",
+    "Method of Study": "Part-time",
+    "Duration": "32 weeks (approximately)",
+    "Starting Months": "Open enrolment",
+    "Domestic Tuition": "$1,700.00 *",
+    "Centre": "Construction & Engineering Technologies",
+    "School": "Mechanical Engineering Technologies",
+    "Location": "Online",
+    "Fall 2023 Delivery": "Online"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "continuous open enrollment"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "open: not study permit eligible"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "continuous open enrollment"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "open: not study permit eligible"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "continuous open enrollment"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "open: not study permit eligible"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "INTERNATIONAL STUDENTS",
+    "Contact methods": {
+      "Phone": [
+        "416-415-4726",
+        "1-888-553-5333"
+      ],
+      "Email": "info@gbctechtraining.com"
+    },
+    "Programs": [
+      {
+        "Name": "Programmable Logic Controllers (PLC) Technician II (Distance Education)",
+        "Code": "T949"
+      },
+      {
+        "Name": "Electromechanical Engineering Technician",
+        "Code": "T146"
+      },
+      {
+        "Name": "Robotics Technician (Distance Education)",
+        "Code": "T948"
+      }
+    ],
+    "Program details availability": "plctechnician.com"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "Program Information": {
+    "Program Name": "Culinary Arts – Italian",
+    "Code": "H411",
+    "Credential": "Ontario College Graduate Certificate",
+    "Method of Study": "Full-time",
+    "Duration": "3 semesters",
+    "Starting Months": "May",
+    "Domestic Tuition": "$12,537.00 * ‡ ^",
+    "International Tuition": "$32,448.00 ** ‡ ^",
+    "Centre": "Hospitality & Culinary Arts",
+    "School": "Chef School",
+    "Location": "St. James Campus",
+    "Experiential Learning": "We believe in learning by doing, and that is why we have incorporated work-integrated learning opportunities into all CHCA programs.",
+    "Fall 2023 Delivery": "Not Available",
+    "Winter 2024 Delivery": "Semester 3: On Campus"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "open"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "DOMESTIC STUDENT ADMISSIONS",
+    "Admissions email": "admissions@georgebrown.ca",
+    "Admissions web page": "",
+    "Financial Aid": {
+      "Financial Aid email": "FinAid@georgebrown.ca",
+      "Financial Aid web page": ""
+    },
+    "Culinary Arts – Italian (H411)": {
+      "Chef School inquiries email": "CHCAStudentSupport@georgebrown.ca"
+    }
+  }
+}

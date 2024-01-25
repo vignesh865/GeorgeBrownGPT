@@ -1,0 +1,63 @@
+{
+  "Program Information": {
+    "Program Name": "Social Service Worker",
+    "Code": "C135",
+    "Credential": "Ontario College Diploma",
+    "Method of Study": "Full-time",
+    "Duration": "6 weeks, 8 months (3 semesters)",
+    "Starting Months": "May",
+    "Domestic Tuition": "$3,656.00 * ‡",
+    "International Tuition": "$17,313.00 ** ‡",
+    "Centre": "Community Services & Early Childhood",
+    "School": "Social & Community Services",
+    "Location": "St. James Campus",
+    "Experiential Learning": "Field Education",
+    "Fall 2023 Delivery": "Semester 3: Hybrid",
+    "Winter 2024 Delivery": "Semester 4: Online"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "open"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "School of Social & Community Services",
+    "Contact email": "communityservices@georgebrown.ca",
+    "Phone": "416-415-5000, ext. 2185",
+    "Office Hours": "Monday to Friday, 8 a.m. – 4 p.m.",
+    "Coordinators email": "sswcoordinators@georgebrown.ca"
+  }
+}

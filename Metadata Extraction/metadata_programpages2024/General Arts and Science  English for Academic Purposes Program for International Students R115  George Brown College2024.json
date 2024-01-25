@@ -1,0 +1,54 @@
+{
+  "Program Information": {
+    "Program Name": "General Arts and Science – English for Academic Purposes",
+    "Code": "R115",
+    "Credential": "Ontario College Certificate",
+    "Method of Study": "Full-time",
+    "Duration": "3 semesters Levels 1-9 depending on initial placement test",
+    "Starting Months": "January, March, May, July, September, October",
+    "Domestic Tuition": "Not Applicable",
+    "International Tuition": "$3,350.00 * †",
+    "Centre": "Preparatory & Liberal Studies",
+    "School": "English as a Second Language ESL",
+    "Location": "St. James Campus"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "opens apr 8, 2024"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "opens aug 6, 2024"
+    }
+  ],
+  "Contact Related Information": {}
+}

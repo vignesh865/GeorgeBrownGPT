@@ -1,0 +1,64 @@
+{
+  "Program Information": {
+    "Program Name": "Honours Bachelor of Food Studies",
+    "Code": "H317",
+    "Credential": "Honours Bachelor's Degree",
+    "Method of Study": "Full-time",
+    "Duration": "4 years (8 semesters)",
+    "Starting Months": "September",
+    "Domestic Tuition": "$10,905.00 * † ‡",
+    "International Tuition": "$24,339.00 ** † ‡",
+    "Centre": "Hospitality & Culinary Arts",
+    "School": "Chef School",
+    "Location": "St. James Campus",
+    "Experiential Learning": "The Honours Bachelor of Food Studies embraces experiential learning as a key component of the program delivery. There is a 14-week 420-hour work-integrated learning opportunity between the second and third years. Students will also take field trips in the surrounding area and complete two 16-hour community-engaged learning placements as part of their coursework."
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "DOMESTIC STUDENT ADMISSIONS",
+    "Admissions email": "admissions@georgebrown.ca",
+    "Admissions web page": "",
+    "Financial Aid": {
+      "Financial Aid email": "FinAid@georgebrown.ca",
+      "Financial Aid web page": ""
+    },
+    "Chef School Inquiries": "CHCAStudentSupport@georgebrown.ca"
+  }
+}

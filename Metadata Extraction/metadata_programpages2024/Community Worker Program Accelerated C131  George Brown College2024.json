@@ -1,0 +1,66 @@
+{
+  "Program Information": {
+    "Program Name": "Community Worker",
+    "Code": "C131",
+    "Credential": "Ontario College Diploma",
+    "Method of Study": "Full-time",
+    "Duration": "5 weeks, 8 months (3 semesters) full-time",
+    "Starting Months": "May",
+    "Domestic Tuition": "$3,702.00 * ‡",
+    "International Tuition": "$17,833.00 ** ‡",
+    "Centre": "Community Services & Early Childhood",
+    "School": "Social & Community Services",
+    "Location": "St. James Campus",
+    "Experiential Learning": "Field Education"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "opens aug 6, 2024"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "School of Social & Community Services",
+    "Contact email": "communityservices@georgebrown.ca",
+    "Program Coordinator": "Farhia Abdi",
+    "Coordinator email": "fabdi7@georgebrown.ca",
+    "International Students Contact": {
+      "Link": "https://www.georgebrown.ca/international/contact-international-centre"
+    },
+    "Accessible Learning Services Contact": {
+      "Link": "https://www.georgebrown.ca/current-students/services/accessible-learning-services"
+    }
+  }
+}

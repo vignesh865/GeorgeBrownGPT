@@ -1,0 +1,58 @@
+{
+  "Program Information": {
+    "Program Name": "Game – Art",
+    "Code": "G119",
+    "Credential": "Ontario College Advanced Diploma",
+    "Method of Study": "Full-time",
+    "Duration": "3 years (6 semesters)",
+    "Starting Months": "January, September",
+    "Domestic Tuition": "$8,972.00 *",
+    "International Tuition": "$22,495.00 **",
+    "Centre": "Arts, Design & Information Technology",
+    "School": "Design",
+    "Location": "Waterfront Campus"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "opens apr 8, 2024"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "School of Design",
+    "Contact email": "game@georgebrown.ca",
+    "Phone": "416-415-5000, ext. 3129"
+  }
+}

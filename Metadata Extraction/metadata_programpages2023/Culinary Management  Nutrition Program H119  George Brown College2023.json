@@ -1,0 +1,71 @@
+{
+  "Program Information": {
+    "Program Name": "Culinary Management – Nutrition",
+    "Code": "H119",
+    "Credential": "Ontario College Diploma",
+    "Method of Study": "Full-time",
+    "Duration": "2 years (4 semesters)",
+    "Starting Months": "September",
+    "Domestic Tuition": "$6,628.00 * †",
+    "International Tuition": "$20,723.00 ** †",
+    "Centre": "Hospitality & Culinary Arts",
+    "School": "Chef School",
+    "Location": "St. James Campus",
+    "Experiential Learning": "We believe in learning by doing and that is why we have incorporated work integrated learning opportunities into all CHCA programs.",
+    "Fall 2023 Delivery": "Semester 1, 3: Hybrid",
+    "Winter 2024 Delivery": "Semester 2, 4: Online"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contacts": {
+      "Domestic Student Admissions": {
+        "Email": "admissions@georgebrown.ca",
+        "Webpage": "Admissions web page"
+      },
+      "Financial Aid": {
+        "Email": "FinAid@georgebrown.ca",
+        "Webpage": "Financial Aid web page"
+      },
+      "Culinary Management-Nutrition (H119)": {
+        "Contact email": "CHCAStudentSupport@georgebrown.ca"
+      }
+    }
+  }
+}

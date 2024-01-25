@@ -1,0 +1,79 @@
+{
+  "Program Information": {
+    "Program Name": "Office Administration – Health Services",
+    "Code": "S135",
+    "Credential": "Ontario College Diploma",
+    "Method of Study": "Full-time",
+    "Duration": "2 years (4 semesters)",
+    "Starting Months": "January, September",
+    "Domestic Tuition": "$3,897.00 *",
+    "International Tuition": "$17,641.00 **",
+    "Centre": "Health Sciences",
+    "School": "Health Services Management",
+    "Location": "Waterfront Campus",
+    "Experiential Learning": "Field Placement in semester 4.",
+    "Fall 2023 Delivery": "Semester 1, 3: Hybrid",
+    "Winter 2024 Delivery": "Semester 1, 2, 4: Hybrid"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "School of Health Services Management",
+    "Contact email": "hsmprograms@georgebrown.ca",
+    "Phone": "416-415-5000, ext. 2367",
+    "International Representatives": {
+      "Booking": {},
+      "Inquiry": {}
+    },
+    "Related Programs": [
+      {
+        "Name": "Health Information Management (C139)",
+        "Code": "C139"
+      },
+      {
+        "Name": "Practical Nursing (PN) (S121)",
+        "Code": "S121"
+      },
+      {
+        "Name": "Dental Office Administration (S115)",
+        "Code": "S115"
+      }
+    ]
+  }
+}

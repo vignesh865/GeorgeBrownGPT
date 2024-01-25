@@ -1,0 +1,64 @@
+{
+  "Program Information": {
+    "Program Name": "Project Management",
+    "Code": "B425",
+    "Credential": "Ontario College Graduate Certificate",
+    "Method of Study": "Full-time",
+    "Duration": "8 months (2 semesters)",
+    "Starting Months": "January, September",
+    "Domestic Tuition": "$4,439.00 *",
+    "Centre": "Business",
+    "School": "Management",
+    "Location": "Online",
+    "Experiential Learning": "Simulated Learning Environment."
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "Centre for Business",
+    "General Inquiries Email": "business@georgebrown.ca",
+    "General Inquiries Phone": "(416) 415-5000 ext. 2160",
+    "Programs": [
+      {
+        "Name": "Project Management (B425)",
+        "Inquiries Email": "mdsaifur.rahman@georgebrown.ca"
+      }
+    ]
+  }
+}

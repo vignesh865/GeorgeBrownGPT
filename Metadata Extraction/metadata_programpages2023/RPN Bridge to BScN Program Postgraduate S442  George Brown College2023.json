@@ -1,0 +1,60 @@
+{
+  "Program Information": {
+    "Program Name": "RPN Bridge to BScN",
+    "Code": "S442",
+    "Credential": "Ontario College Graduate Certificate",
+    "Method of Study": "Full-time",
+    "Duration": "2 semesters",
+    "Starting Months": "September",
+    "Domestic Tuition": "$6,773.00 *",
+    "Centre": "Health Sciences",
+    "School": "Sally Horsfall Eaton School of Nursing",
+    "Location": "Waterfront Campus",
+    "Experiential Learning": "Clinical Placement",
+    "Fall 2023 Delivery": "Semester 1: Hybrid",
+    "Winter 2024 Delivery": "Semester 2: Other"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "Sally Horsfall Eaton School of Nursing",
+    "Phone": "416-415-5000, ext. 2367",
+    "Contact email": "nursing@georgebrown.ca"
+  }
+}

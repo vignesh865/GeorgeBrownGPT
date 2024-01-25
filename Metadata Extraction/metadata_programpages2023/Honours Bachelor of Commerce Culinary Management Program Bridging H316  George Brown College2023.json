@@ -1,0 +1,67 @@
+{
+  "Program Information": {
+    "Program Name": "Honours Bachelor of Commerce (Culinary Management)",
+    "Code": "H316",
+    "Credential": "Honours Bachelor's Degree",
+    "Method of Study": "Full-time",
+    "Duration": "5 semesters",
+    "Starting Months": "May",
+    "Domestic Tuition": "$8,293.00 * † ‡",
+    "International Tuition": "$20,834.00 ** † ‡",
+    "Centre": "Hospitality & Culinary Arts",
+    "School": "Chef School",
+    "Location": "St. James Campus",
+    "Experiential Learning": "We believe in learning by doing, and that is why we have incorporated work-integrated learning opportunities into all CHCA programs.",
+    "Fall 2023 Delivery": "Semester 5, 7: Hybrid",
+    "Winter 2024 Delivery": "Semester 6, 8: Online"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "open"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "DOMESTIC STUDENT ADMISSIONS",
+    "Admissions email": "admissions@georgebrown.ca",
+    "Admissions web page": "",
+    "Financial Aid": {
+      "Contact": "",
+      "Financial Aid email": "FinAid@georgebrown.ca",
+      "Financial Aid web page": ""
+    },
+    "Chef School Inquiries Contact": "CHCAStudentSupport@georgebrown.ca"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "Program Information": {
+    "Program Name": "Fashion Techniques and Design",
+    "Code": "F113",
+    "Credential": "Ontario College Diploma",
+    "Method of Study": "Full-time",
+    "Duration": "2 years (4 semesters)",
+    "Starting Months": "January, September",
+    "Domestic Tuition": "$4,596.00 * +",
+    "International Tuition": "$18,322.00 ** +",
+    "Centre": "Arts, Design & Information Technology",
+    "School": "Fashion & Jewellery",
+    "Location": "Casa Loma Campus",
+    "Experiential Learning": "Students with a minimum 2.7 GPA may apply for a Field Education elective in second year (subject to availability).",
+    "Fall 2023 Delivery": "Semester 1, 3: On Campus",
+    "Winter 2024 Delivery": "Semester 1, 2, 4: On Campus"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "School of Fashion and Jewellery",
+    "Contact email": "fashionandjewellery@georgebrown.ca",
+    "Phone": "416-415-5000, ext. 4840"
+  }
+}

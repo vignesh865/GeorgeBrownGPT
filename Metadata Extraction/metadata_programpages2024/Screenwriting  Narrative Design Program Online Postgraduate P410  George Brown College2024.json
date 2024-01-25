@@ -1,0 +1,72 @@
+{
+  "Program Information": {
+    "Program Name": "Screenwriting & Narrative Design",
+    "Code": "P410",
+    "Credential": "Ontario College Graduate Certificate",
+    "Method of Study": "Full-time",
+    "Duration": "1 year (3 semesters)",
+    "Starting Months": "September",
+    "Domestic Tuition": "$8,668.00 *",
+    "International Tuition": "$27,209.00 **",
+    "Centre": "Arts, Design & Information Technology",
+    "School": "Media & Performing Arts",
+    "Location": "Online"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "School of Media & Performing Arts",
+    "Contact email": "media@georgebrown.ca",
+    "Phone": "416-415-5000, ext. 2015",
+    "Additional Contact": {
+      "Contact Centre": {
+        "Phone": "416-415-2000 (TTY 1-877-515-5559)",
+        "Long distance": "1-800-265-2002"
+      },
+      "International Recruitment": {
+        "Option": [
+          "booking a virtual meeting",
+          "submitting an inquiry"
+        ],
+        "Country Specialization": true,
+        "Page": "International Contact Us page"
+      }
+    }
+  }
+}

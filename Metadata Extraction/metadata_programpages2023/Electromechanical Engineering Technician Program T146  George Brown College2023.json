@@ -1,0 +1,63 @@
+{
+  "Program Information": {
+    "Program Name": "Electromechanical Engineering Technician",
+    "Code": "T146",
+    "Credential": "Ontario College Diploma",
+    "Method of Study": "Full-time",
+    "Duration": "2 years (4 semesters)",
+    "Starting Months": "January, September",
+    "Domestic Tuition": "$4,366.00 *",
+    "International Tuition": "$17,915.00 **",
+    "Centre": "Construction & Engineering Technologies",
+    "School": "Mechanical Engineering Technologies",
+    "Location": "Casa Loma Campus",
+    "Experiential Learning": "Available",
+    "Fall 2023 Delivery": "Semester 1, 3: On Campus",
+    "Winter 2024 Delivery": "Semester 1, 2, 4: On Campus"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "School of Mechanical Engineering Technologies",
+    "Contact email": "engineeringtech@georgebrown.ca",
+    "Phone": "416-415-5000, ext. 4365",
+    "Office Hours": "8 a.m. – 4 p.m.",
+    "Location": "room D305"
+  }
+}

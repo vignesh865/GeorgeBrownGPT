@@ -1,0 +1,91 @@
+{
+  "Program Information": {
+    "Program Name": "International Business Management",
+    "Code": "B411",
+    "Credential": "Ontario College Graduate Certificate",
+    "Method of Study": "Full-time",
+    "Duration": "8 months (2 semesters)",
+    "Starting Months": "January, May, September",
+    "Domestic Tuition": "$4,317.00 *",
+    "International Tuition": "$18,305.00 **",
+    "Centre": "Business",
+    "School": "Management",
+    "Location": "St. James Campus"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "opens apr 8, 2024"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "opens aug 6, 2024"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "George Brown College",
+    "Domestic Admissions": {
+      "Email": "admissions@georgebrown.ca",
+      "Section": "Admissions"
+    },
+    "International Admissions": {
+      "Representatives": [
+        {
+          "Country": "",
+          "Contact": ""
+        }
+      ],
+      "Email": "international@georgebrown.ca",
+      "Section": "International Contact Us"
+    },
+    "Fees and Financial Information": {
+      "Email": "FinAid@georgebrown.ca",
+      "Section": "Financial Aid"
+    },
+    "Entry Advising": {
+      "Appointment": {},
+      "FAQs": "",
+      "Email": ""
+    },
+    "Centre for Business": {
+      "General Inquiries": {
+        "Email": "business@georgebrown.ca",
+        "Phone": "(416) 415-5000 ext. 2160"
+      },
+      "International Business Management (B411)": {
+        "Program Coordinator": {
+          "Name": "Philip Eng",
+          "Email": "peng@georgebrown.ca"
+        }
+      }
+    }
+  }
+}

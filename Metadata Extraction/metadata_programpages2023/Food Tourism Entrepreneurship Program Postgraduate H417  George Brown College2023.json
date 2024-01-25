@@ -1,0 +1,71 @@
+{
+  "Program Information": {
+    "Program Name": "Food Tourism Entrepreneurship",
+    "Code": "H417",
+    "Credential": "Ontario College Graduate Certificate",
+    "Method of Study": "Full-time",
+    "Duration": "1 year (3 semesters)",
+    "Starting Months": "September",
+    "Domestic Tuition": "$8,825.00 *",
+    "International Tuition": "$27,442.00 **",
+    "Centre": "Hospitality & Culinary Arts",
+    "School": "Hospitality & Tourism Management",
+    "Location": "St. James Campus",
+    "Experiential Learning": "Experiential Learning in the format of field trips, guest speakers and industry events are explored in semesters 1 and 2. The third semester is devoted to research and work placement. Collaborations with industry members will be explored to identify opportunities for applied research and work-integrated learning.",
+    "Fall 2023 Delivery": "Semester 1: Hybrid",
+    "Winter 2024 Delivery": "Semester 2: Hybrid"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contacts": {
+      "Domestic Admissions": {
+        "Email": "admissions@georgebrown.ca",
+        "Web page": ""
+      },
+      "Financial Aid": {
+        "Email": "FinAid@georgebrown.ca",
+        "Web page": ""
+      },
+      "School of Hospitality and Tourism Management - Student Support": {
+        "Email": "chcastudentsupport@georgebrown.ca"
+      }
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "Program Information": {
+    "Program Name": "Entrepreneurship Management",
+    "Code": "B416",
+    "Credential": "Ontario College Graduate Certificate",
+    "Method of Study": "Full-time",
+    "Duration": "8 months (2 semesters)",
+    "Starting Months": "January, September",
+    "Domestic Tuition": "$4,292.00 *",
+    "International Tuition": "$17,774.00 **",
+    "Centre": "Business",
+    "School": "Management",
+    "Location": "St. James Campus",
+    "Fall 2023 Delivery": "Semester 1: On Campus",
+    "Winter 2024 Delivery": "Semester 1, 2: On Campus"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "Centre for Business",
+    "Contact email": "business@georgebrown.ca",
+    "Phone": "(416) 415-5000 ext. 2160",
+    "Services": [
+      {
+        "Name": "Domestic Student Admissions",
+        "Contact": "Admissions Office",
+        "Email": "admissions@georgebrown.ca"
+      },
+      {
+        "Name": "International Student Admissions",
+        "Contact": "International Contact Us page"
+      },
+      {
+        "Name": "Fees and Financial Information",
+        "Contact": "FinAid@georgebrown.ca"
+      },
+      {
+        "Name": "Entry Advising",
+        "Service": [
+          "Make an appointment",
+          "Frequently asked questions"
+        ]
+      },
+      {
+        "Name": "Entrepreneurship Management (B416)",
+        "Program Co-ordinator": {
+          "Name": "Tom Supra",
+          "Email": "tsupra@georgebrown.ca"
+        }
+      }
+    ],
+    "Social Channels": [
+      "Instagram",
+      "LinkedIn"
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "Program Information": {
+    "Program Name": "Business",
+    "Code": "B125",
+    "Credential": "Ontario College Diploma",
+    "Method of Study": "Full-time",
+    "Duration": "2 years (4 semesters)",
+    "Starting Months": "January, September",
+    "Domestic Tuition": "$4,547.00 *",
+    "International Tuition": "$17,455.00 **",
+    "Centre": "Business",
+    "School": "Management",
+    "Location": "St. James Campus",
+    "Experiential Learning": "Optional Field Education Course",
+    "Fall 2023 Delivery": "Semester 1, 2, 3, 4: On Campus",
+    "Winter 2024 Delivery": "Semester 1, 2, 3, 4: On Campus"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "George Brown College",
+    "Services": [
+      "Information Sessions",
+      "Domestic Student Admissions",
+      "International Student Admissions",
+      "Fees and Financial Information",
+      "Entry Advising",
+      "Centre for Business"
+    ],
+    "Information Sessions": {
+      "Type": "On-campus",
+      "Sign up": true,
+      "Contact email": "not provided",
+      "Office Hours": "not provided"
+    },
+    "Domestic Student Admissions": {
+      "Contact email": "admissions@georgebrown.ca",
+      "Website": "Admissions section"
+    },
+    "International Student Admissions": {
+      "Contacts": [
+        {
+          "Country": "not provided",
+          "Method": "Virtual meeting",
+          "Email": "not provided"
+        },
+        {
+          "Country": "not provided",
+          "Method": "Submitting an inquiry",
+          "Website": "International Contact Us page"
+        }
+      ],
+      "Contact us page": "International Contact Us page"
+    },
+    "Fees and Financial Information": {
+      "Contact email": "FinAid@georgebrown.ca",
+      "Website": "Financial Aid section"
+    },
+    "Entry Advising": {
+      "Appointment": true,
+      "FAQ": "frequently asked questions"
+    },
+    "Centre for Business": {
+      "General inquiries": {
+        "Contact email": "business@georgebrown.ca",
+        "Phone": "(416) 415-5000 ext. 2160",
+        "Location": "Business (B125)"
+      },
+      "Program related inquiries": {
+        "Contact person": "Charlotte Goldfried",
+        "Email": "charlotte.goldfried@georgebrown.ca",
+        "Country": "not provided"
+      }
+    }
+  }
+}

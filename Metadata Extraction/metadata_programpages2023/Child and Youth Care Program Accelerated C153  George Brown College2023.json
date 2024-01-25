@@ -1,0 +1,73 @@
+{
+  "Program Information": {
+    "Program Name": "Child and Youth Care",
+    "Code": "C153",
+    "Credential": "Ontario College Advanced Diploma",
+    "Method of Study": "Full-time",
+    "Duration": "12 consecutive months",
+    "Starting Months": "May",
+    "Domestic Tuition": "$3,661.00 *",
+    "International Tuition": "$17,318.00 **",
+    "Centre": "Community Services & Early Childhood",
+    "School": "Social & Community Services",
+    "Location": "St. James Campus",
+    "Experiential Learning": "Field Placement (unpaid)",
+    "Fall 2023 Delivery": "Semester 5: Hybrid",
+    "Winter 2024 Delivery": "Semester 6: Other"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "open"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "School of Social & Community Services",
+    "Contact email": "communityservices@georgebrown.ca",
+    "Phone": "416-415-5000, ext. 2185",
+    "Office Hours": "Monday to Friday, 8 a.m. – 4 p.m.",
+    "Program Coordinators": [
+      {
+        "Name": "Judy Masters",
+        "Phone": "416-415-5000, ext. 3708",
+        "Email": "jmasters@georgebrown.ca"
+      },
+      {
+        "Name": "Zalina Mohamad",
+        "Email": "Zalina.Mohamad@georgebrown.ca"
+      }
+    ]
+  }
+}

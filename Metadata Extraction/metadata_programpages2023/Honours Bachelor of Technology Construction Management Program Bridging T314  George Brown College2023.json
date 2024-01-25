@@ -1,0 +1,75 @@
+{
+  "Program Information": {
+    "Program Name": "Honours Bachelor of Technology (Construction Management)",
+    "Code": "T314",
+    "Credential": "Honours Bachelor's Degree",
+    "Method of Study": "Full-time",
+    "Duration": "5 semesters (plus 1 Field Experience semester)",
+    "Starting Months": "May",
+    "Domestic Tuition": "$9,524.00 * †",
+    "International Tuition": "$20,465.00 ** †",
+    "Centre": "Construction & Engineering Technologies",
+    "School": "Angelo DelZotto School of Construction Management",
+    "Location": "Casa Loma Campus",
+    "Experiential Learning": "Mandatory Field Experience",
+    "Fall 2023 Delivery": "Semester 5, 7: Hybrid",
+    "Winter 2024 Delivery": "Semester 6, 8: Hybrid"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "open"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "Angelo DelZotto School of Construction Management",
+    "Contact email": "construction_degree@georgebrown.ca",
+    "Phone": "416-415-5000, ext. 6297",
+    "Office Hours": "8 a.m. – 4 p.m.",
+    "Location": "room E228",
+    "Open House": {
+      "Type": "Construction and Engineering Open House",
+      "Typical Occurrences": [
+        "autumn",
+        "spring"
+      ]
+    },
+    "Additional Contact": {
+      "ContactMethod": "Phone",
+      "Number": "416-415-2000 (TTY 1-877-515-5559)",
+      "LongDistance": "1-800-265-2002"
+    }
+  }
+}

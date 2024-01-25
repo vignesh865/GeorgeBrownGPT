@@ -1,0 +1,61 @@
+{
+  "Program Information": {
+    "Program Name": "Restorative Dental Hygiene",
+    "Code": "S400",
+    "Credential": "Ontario College Graduate Certificate",
+    "Method of Study": "Full-time",
+    "Duration": "2 semesters, September to April",
+    "Starting Months": "September",
+    "Domestic Tuition": "$18,363.00 * †",
+    "Centre": "Health Sciences",
+    "School": "Dental Health",
+    "Location": "Waterfront Campus",
+    "Experiential Learning": "Field Experience",
+    "Fall 2023 Delivery": "Semester 1: Hybrid",
+    "Winter 2024 Delivery": "Semester 2: Hybrid"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "Contact the program co-ordinator",
+    "Contact person": "Melissa Crawford",
+    "Contact email": "mcrawford@georgebrown.ca",
+    "Phone": "416-415-5000, ext. 4555"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "Program Information": {
+    "Program Name": "Honours Bachelor of Digital Experience Design",
+    "Code": "G301",
+    "Credential": "Honours Bachelor's Degree",
+    "Method of Study": "Full-time",
+    "Duration": "4 years (8 semesters) plus 1 Co-op Work Term",
+    "Starting Months": "September",
+    "Domestic Tuition": "$8,177.00 * †",
+    "International Tuition": "$20,829.00 ** †",
+    "Centre": "Arts, Design & Information Technology",
+    "School": "Design",
+    "Location": "Waterfront Campus",
+    "Experiential Learning": "Co-op (paid)",
+    "Fall 2023 Delivery": "Semester 1, 3, 5, 7: Hybrid",
+    "Winter 2024 Delivery": "Semester 2, 4, 6, 8: On Campus"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "School of Design",
+    "Contact email": "digitalexperience@georgebrown.ca",
+    "Phone": "416-415-5000, ext. 3129",
+    "Program Co-ordinator": "Nastaran Dadashi",
+    "Co-ordinator email": "nastaran.dadashi@georgebrown.ca"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "Program Information": {
+    "Program Name": "Interprofessional Complex and Long-Term Care",
+    "Code": "S417",
+    "Credential": "Ontario College Graduate Certificate",
+    "Method of Study": "Full-time",
+    "Duration": "2 semesters",
+    "Starting Months": "September",
+    "Domestic Tuition": "$4,899.00 *",
+    "Centre": "Health Sciences",
+    "School": "Sally Horsfall Eaton School of Nursing",
+    "Location": "Waterfront Campus",
+    "Experiential Learning": "Complex and Long-Term Care Placement"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "Sally Horsfall Eaton School of Nursing",
+    "Contact email": "nursing@georgebrown.ca",
+    "Phone": "416-415-5000, ext. 2367"
+  }
+}

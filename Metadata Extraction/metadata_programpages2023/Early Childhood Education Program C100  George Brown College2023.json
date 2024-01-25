@@ -1,0 +1,62 @@
+{
+  "Program Information": {
+    "Program Name": "Early Childhood Education",
+    "Code": "C100",
+    "Credential": "Ontario College Diploma",
+    "Method of Study": "Full-time",
+    "Duration": "Duration (2 years (4 semesters, September start) or 16 months continuous with summer classes (January, May start)",
+    "Starting Months": "January, May, September",
+    "Domestic Tuition": "$3,988.00 *",
+    "International Tuition": "$17,660.00 **",
+    "Centre": "Community Services & Early Childhood",
+    "School": "Early Childhood",
+    "Location": "George Brown College at Toronto Metropolitan University Campus",
+    "Experiential Learning": "Field Placement",
+    "Fall 2023 Delivery": "Semester 1, 2, 3: On Campus",
+    "Winter 2024 Delivery": "Semester 1, 2, 3, 4: On Campus"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "closed"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "School of Early Childhood",
+    "Contact email": "ece@georgebrown.ca",
+    "Phone": "416-415-5000, ext. 2310",
+    "Office Hours": "9 a.m. – 5 p.m."
+  }
+}

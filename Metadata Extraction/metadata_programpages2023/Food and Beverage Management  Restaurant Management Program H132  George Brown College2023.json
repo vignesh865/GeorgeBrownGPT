@@ -1,0 +1,76 @@
+{
+  "Program Information": {
+    "Program Name": "Food and Beverage Management – Restaurant Management",
+    "Code": "H132",
+    "Credential": "Ontario College Diploma",
+    "Method of Study": "Full-time",
+    "Duration": "2 years (4 semesters)",
+    "Starting Months": "January, May, September",
+    "Domestic Tuition": "$4,459.00 * †",
+    "International Tuition": "$18,364.00 ** †",
+    "Centre": "Hospitality & Culinary Arts",
+    "School": "Hospitality & Tourism Management",
+    "Location": "St. James Campus",
+    "Experiential Learning": "We believe in learning by doing, and that is why we have incorporated work-integrated learning opportunities into all CHCA programs.",
+    "Fall 2023 Delivery": "Semester 1, 2, 3: Hybrid",
+    "Winter 2024 Delivery": "Semester 1, 2, 3, 4: Hybrid"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "open"
+    }
+  ],
+  "Contact Related Information": {
+    "Contacts": [
+      {
+        "Department": "DOMESTIC STUDENT ADMISSIONS",
+        "Contact": "Admissions Office",
+        "Email": "admissions@georgebrown.ca",
+        "Webpage": "Admissions web page"
+      },
+      {
+        "Department": "FINANCIAL/FEES",
+        "Contact": "Financial Aid Office",
+        "Email": "FinAid@georgebrown.ca",
+        "Webpage": "Financial Aid web page"
+      },
+      {
+        "Department": "School of Hospitality and Tourism Management",
+        "Contact": "chcastudentsupport@georgebrown.ca"
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "Program Information": {
+    "Program Name": "International Fashion Management",
+    "Code": "F412",
+    "Credential": "Ontario College Graduate Certificate",
+    "Method of Study": "Full-time",
+    "Duration": "1 year (2 semesters)",
+    "Starting Months": "September",
+    "Domestic Tuition": "$4,198.00 * +",
+    "International Tuition": "$18,336.00 ** +",
+    "Centre": "Arts, Design & Information Technology",
+    "School": "Fashion & Jewellery",
+    "Location": "Casa Loma Campus",
+    "Experiential Learning": "Mandatory field placement with in-class component and 160 field placement hours in the spring."
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "School of Fashion and Jewellery",
+    "Contact phone": "416-415-5000, ext. 4840",
+    "Contact email": "fashionandjewellery@georgebrown.ca"
+  }
+}

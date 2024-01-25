@@ -1,0 +1,73 @@
+{
+  "Program Information": {
+    "Program Name": "Honours Bachelor of Science (Dental Hygiene)",
+    "Code": "S305",
+    "Credential": "Honours Bachelor's Degree",
+    "Method of Study": "Full-time",
+    "Duration": "3 Semesters",
+    "Starting Months": "May",
+    "Domestic Tuition": "$11,081.00 *",
+    "Centre": "Health Sciences",
+    "School": "Dental Health",
+    "Location": "Online"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "sdhprograms@georgebrown.ca",
+    "Contact methods": [
+      "Phone: 416-415-5000, ext. 2367",
+      "Email: sdhprograms@georgebrown.ca"
+    ],
+    "Related Programs": [
+      {
+        "Name": "Restorative Dental Hygiene (Postgraduate)",
+        "Code": "S400"
+      },
+      {
+        "Name": "Dental Hygiene",
+        "Code": "S134"
+      },
+      {
+        "Name": "Dental Technology",
+        "Code": "S100"
+      }
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "Program Information": {
+    "Program Name": "Strategic Relationship Marketing",
+    "Code": "B409",
+    "Credential": "Ontario College Graduate Certificate",
+    "Method of Study": "Full-time",
+    "Duration": "12 months (2 semesters in-class, 1 semester work experience)",
+    "Starting Months": "January, September",
+    "Domestic Tuition": "$4,270.00 * †",
+    "International Tuition": "$18,408.00 ** †",
+    "Centre": "Business",
+    "School": "Marketing",
+    "Location": "St. James Campus",
+    "Experiential Learning": "Work Experience (Co-op or Internship) Required"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "opens apr 8, 2024"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contacts": [
+      {
+        "Type": "Domestic Student Admissions",
+        "Contact email": "admissions@georgebrown.ca",
+        "Website": "Admissions section"
+      },
+      {
+        "Type": "International Student Admissions",
+        "CountrySpecificContacts": [
+          {
+            "Name": "Anonymous",
+            "Email": "anonymous@georgebrown.ca",
+            "ContactType": "Booking a virtual meeting"
+          },
+          {
+            "Name": "Anonymous",
+            "Email": "anonymous@georgebrown.ca",
+            "ContactType": "Submitting an inquiry"
+          },
+          {
+            "Name": "Anne Iarocci",
+            "Email": "Anne.Iarocci@georgebrown.ca"
+          },
+          {
+            "Name": "John Peco",
+            "Email": "john.peco@georgebrown.ca"
+          }
+        ]
+      },
+      {
+        "Type": "Fees and Financial Information",
+        "Contact email": "FinAid@georgebrown.ca",
+        "Website": "Financial Aid section"
+      },
+      {
+        "Type": "Entry Advising",
+        "Appointment": {
+          "MakeAnAppointment": true,
+          "FAQLink": "frequently asked questions"
+        }
+      },
+      {
+        "Type": "Centre for Business",
+        "ContactEmail": "business@georgebrown.ca",
+        "Phone": "(416) 415-5000 ext. 2160"
+      }
+    ]
+  }
+}

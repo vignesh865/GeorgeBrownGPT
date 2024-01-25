@@ -1,0 +1,54 @@
+{
+  "Program Information": {
+    "Program Name": "Residential Construction Management",
+    "Code": "T408",
+    "Credential": "Ontario College Graduate Certificate",
+    "Method of Study": "Full-time",
+    "Duration": "2 semesters",
+    "Starting Months": "May, September",
+    "Domestic Tuition": "$3,910.00 *",
+    "Centre": "Construction & Engineering Technologies",
+    "School": "Angelo DelZotto School of Construction Management",
+    "Location": "Casa Loma Campus",
+    "Experiential Learning": "Placement with a member firm of RESCON"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": " The Angelo DelZotto School of Construction Management can be reached at 416-415-5000, ext. 6297 or by email at construction_mgmt@georgebrown.ca."
+}

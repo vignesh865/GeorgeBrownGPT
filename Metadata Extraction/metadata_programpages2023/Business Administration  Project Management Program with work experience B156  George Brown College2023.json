@@ -1,0 +1,88 @@
+{
+  "Program Information": {
+    "Program Name": "Business Administration – Project Management",
+    "Code": "B156",
+    "Credential": "Ontario College Advanced Diploma",
+    "Method of Study": "Full-time",
+    "Duration": "3 years (6 semesters in-class, 2 semesters work experience)",
+    "Starting Months": "January, September",
+    "Domestic Tuition": "$4,640.00 * †",
+    "International Tuition": "$17,455.00 ** †",
+    "Centre": "Business",
+    "School": "Management",
+    "Location": "St. James Campus",
+    "Experiential Learning": "Work Experience (Co-op or Internship) Required",
+    "Fall 2023 Delivery": "Semester 1, 2, 3, 4, 5, 6: On Campus",
+    "Winter 2024 Delivery": "Semester 1, 2, 3, 4, 5, 6: On Campus"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "George Brown College",
+    "Domestic Admissions": {
+      "Email": "admissions@georgebrown.ca",
+      "Section": "Admissions"
+    },
+    "Financial Aid": {
+      "Email": "FinAid@georgebrown.ca",
+      "Section": ""
+    },
+    "Entry Advising": {
+      "Appointment": "make an appointment",
+      "Frequently Asked Questions": "https://www.georgebrown.ca/programs/future-students/admissions/entry-advising/faqs/"
+    },
+    "Centre for Business": {
+      "General Inquiries": {
+        "Email": "business@georgebrown.ca",
+        "Phone": "(416) 415-5000 ext. 2160"
+      },
+      "Business Administration – Project Management (B126/156)": {
+        "Program Co-ordinator": "Saifur Rahman",
+        "Email": "MdSaifur.Rahman@georgebrown.ca",
+        "Social Channels": {
+          "Instagram": "",
+          "LinkedIn": ""
+        }
+      },
+      "International Students": {
+        "Contact Us Page": "https://www.georgebrown.college/international/contact-us"
+      }
+    }
+  }
+}

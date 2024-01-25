@@ -1,0 +1,58 @@
+{
+  "Program Information": {
+    "Program Name": "Denturism",
+    "Code": "S101",
+    "Credential": "Ontario College Advanced Diploma",
+    "Method of Study": "Full-time",
+    "Duration": "3 years (6 semesters)",
+    "Starting Months": "September",
+    "Domestic Tuition": "$19,634.00 * †",
+    "International Tuition": "$36,898.00 ** †",
+    "Centre": "Health Sciences",
+    "School": "Dental Health",
+    "Location": "Waterfront Campus",
+    "Experiential Learning": "Students have the opportunity to organize their own external field experience in an oral health-care setting."
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "sdhprograms@georgebrown.ca",
+    "Program": "Denturism"
+  }
+}

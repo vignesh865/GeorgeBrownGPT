@@ -1,0 +1,105 @@
+{
+  "Program Information": {
+    "Program Name": "Honours Bachelor of Business Administration (Business Analytics)",
+    "Code": "B303",
+    "Credential": "Honours Bachelor's Degree",
+    "Method of Study": "Full-time",
+    "Duration": "4 years (8 semesters) plus 1 Co-op Work Term",
+    "Starting Months": "January, September",
+    "Domestic Tuition": "$7,483.00 * †",
+    "International Tuition": "$20,916.00 ** †",
+    "Centre": "Business",
+    "School": "Management",
+    "Location": "St. James Campus",
+    "Experiential Learning": "Capstone projects, Industry or community partners, Interactive simulations, On-campus work labs, Performance-based learning"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "opens apr 8, 2024"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contacts": [
+      {
+        "Type": "Domestic Admissions",
+        "Contact": "Admissions Office",
+        "Email": "admissions@georgebrown.ca",
+        "Website": "Admissions section"
+      },
+      {
+        "Type": "International Admissions",
+        "Contact": "International Contact Us page",
+        "Methods": [
+          "Booking a virtual meeting",
+          "Submitting an inquiry"
+        ]
+      },
+      {
+        "Type": "Fees and Financial Information",
+        "Contact": "Financial Aid Office",
+        "Email": "FinAid@georgebrown.ca",
+        "Website": "Financial Aid section"
+      },
+      {
+        "Type": "Entry Advising",
+        "Method": "Make an appointment",
+        "Website": "frequently asked questions"
+      },
+      {
+        "Type": "Centre for Business - General Inquiries",
+        "Contact": {
+          "Email": "business@georgebrown.ca",
+          "Phone": "(416) 415-5000 ext. 2160"
+        },
+        "Programs": [
+          {
+            "Name": "Honours Bachelor of Business Administration (Business Analytics)",
+            "Program Co-ordinator": "Robin Yap",
+            "Email": "ryap@georgebrown.ca"
+          }
+        ]
+      },
+      {
+        "Type": "Centre for Business - International Admissions",
+        "Methods": [
+          "Booking a virtual meeting",
+          "Submitting an inquiry"
+        ],
+        "Website": "International Contact Us page"
+      }
+    ]
+  }
+}

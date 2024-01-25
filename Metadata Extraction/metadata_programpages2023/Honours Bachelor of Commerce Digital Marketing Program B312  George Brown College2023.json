@@ -1,0 +1,127 @@
+{
+  "Program Information": {
+    "Program Name": "Honours Bachelor of Commerce (Digital Marketing)",
+    "Code": "B312",
+    "Credential": "Honours Bachelor's Degree",
+    "Method of Study": "Full-time",
+    "Duration": "4 years (8 semesters) plus 1 co-op work term",
+    "Starting Months": "January, September",
+    "Domestic Tuition": "$7,455.00 * †",
+    "International Tuition": "$20,357.00 ** †",
+    "Centre": "Business",
+    "School": "Marketing",
+    "Location": "St. James Campus",
+    "Experiential Learning": "Students will participate in experiential learning opportunities which may include client-based classroom activities, consulting projects, and/or field placement assignments (internship or co-op).",
+    "Fall 2023 Delivery": "Semester 1: On Campus",
+    "Winter 2024 Delivery": "Semester 1, 2: On Campus"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "suspended"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "suspended"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contacts": [
+      {
+        "Type": "Domestic Student Admissions",
+        "Contact email": "admissions@georgebrown.ca",
+        "Office Hours": "",
+        "Phone": ""
+      },
+      {
+        "Type": "International Student Admissions",
+        "Contact email": "international@georgebrown.ca",
+        "Office Hours": "",
+        "Program Coordinators": [
+          {
+            "Name": "Recruitment Representatives",
+            "Emails": [
+              "booking@georgebrown.ca",
+              "submittinginquiry@georgebrown.ca"
+            ],
+            "Phone": ""
+          }
+        ]
+      },
+      {
+        "Type": "Fees and Financial Information",
+        "Contact email": "FinAid@georgebrown.ca",
+        "Office Hours": "",
+        "Program Coordinator": {
+          "Name": "Financial Aid Office",
+          "Email": "FinAid@georgebrown.ca",
+          "Phone": ""
+        }
+      },
+      {
+        "Type": "Entry Advising",
+        "Contact email": "",
+        "Office Hours": "",
+        "Program Coordinator": {
+          "Name": "Entry Advisor",
+          "Email": "",
+          "Appointment": true
+        }
+      },
+      {
+        "Type": "Centre for Business",
+        "Contact email": "business@georgebrown.ca",
+        "Office Hours": "(416) 415-5000 ext. 2160",
+        "Program Coordinators": [
+          {
+            "Name": "Richard Almonte",
+            "Email": "ralmonte@georgebrown.ca",
+            "Phone": ""
+          }
+        ],
+        "International Recruitment": {
+          "Contact email": "",
+          "Office Hours": "",
+          "Program Coordinators": [
+            {
+              "Name": "Recruitment Representatives",
+              "Emails": [
+                "booking@georgebrown.ca",
+                "submittinginquiry@georgebrown.ca"
+              ],
+              "Phone": ""
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

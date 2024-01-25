@@ -1,0 +1,102 @@
+{
+  "Program Information": {
+    "Program Name": "Business – Marketing",
+    "Code": "B120",
+    "Credential": "Ontario College Diploma",
+    "Method of Study": "Full-time",
+    "Duration": "2 years (4 semesters)",
+    "Starting Months": "January, September",
+    "Domestic Tuition": "$3,776.00 *",
+    "International Tuition": "$17,925.00 **",
+    "Centre": "Business",
+    "School": "Marketing",
+    "Location": "St. James Campus"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "opens apr 8, 2024"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contacts": {
+      "Admissions": {
+        "Domestic": {
+          "Contact": "Admissions Office",
+          "Email": "admissions@georgebrown.ca",
+          "Website": "Admissions section"
+        },
+        "International": {
+          "Contacts": [
+            {
+              "Name": "international recruitment representatives",
+              "ContactMethod": "Booking a virtual meeting",
+              "Email": "N/A",
+              "Website": "International Contact Us page"
+            }
+          ]
+        }
+      },
+      "Financial Aid": {
+        "Contact": "Financial Aid Office",
+        "Email": "FinAid@georgebrown.ca",
+        "Website": "Financial Aid section"
+      },
+      "Entry Advising": {
+        "Contact": "Make an appointment to see an Entry Advisor",
+        "Website": "frequently asked questions"
+      },
+      "Centre for Business": {
+        "General Inquiries": {
+          "Contact": "business@georgebrown.ca",
+          "Phone": "(416) 415-5000 ext. 2160"
+        },
+        "Programs": [
+          {
+            "Program": "Business – Marketing (B120)",
+            "Coordinator": {
+              "Name": "Adrian Bond",
+              "Email": "abond@georgebrown.ca"
+            },
+            "Chair": {
+              "Name": "John Peco",
+              "Email": "john.peco@georgebrown.ca"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

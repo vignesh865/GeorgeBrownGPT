@@ -1,0 +1,60 @@
+{
+  "Program Information": {
+    "Program Name": "American Sign Language and Deaf Studies",
+    "Code": "C114",
+    "Credential": "Ontario College Certificate",
+    "Method of Study": "Full-time",
+    "Duration": "1 year (2 semesters)",
+    "Starting Months": "September",
+    "Domestic Tuition": "$4,152.00 *",
+    "International Tuition": "$18,284.00 **",
+    "Centre": "Community Services & Early Childhood",
+    "School": "Deaf & Deafblind Studies",
+    "Location": "St. James Campus"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "School of Deaf and Deafblind Studies",
+    "Contact email": "communityservices@georgebrown.ca",
+    "Office Hours": "8 a.m. – 4 p.m.",
+    "Program Coordinator": "Erika Stebbings",
+    "Program Coordinator email": "erika.stebbings@georgebrown.ca"
+  }
+}

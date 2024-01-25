@@ -1,0 +1,69 @@
+{
+  "Program Information": {
+    "Program Name": "Game – Programming",
+    "Code": "T163",
+    "Credential": "Ontario College Advanced Diploma",
+    "Method of Study": "Full-time",
+    "Duration": "3 years (6 semesters)",
+    "Starting Months": "January, September",
+    "Domestic Tuition": "$3,986.00 *",
+    "International Tuition": "$18,035.00 **",
+    "Centre": "Arts, Design & Information Technology",
+    "School": "Computer Technology",
+    "Location": "Waterfront Campus"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "opens apr 8, 2024"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "School of Computer Technology",
+    "Location": "3 Lower Jarvis St., Room 260",
+    "Phone": [
+      "416-415-5000, ext. 4287",
+      "416-415-5000, ext. 3129"
+    ],
+    "Email": [
+      "computertechnology@georgebrown.ca",
+      "game@georgebrown.ca"
+    ],
+    "Office Hours": "Monday – Friday: 9 a.m. – 4 p.m.",
+    "Program Co-ordinator": "Alexander Richard",
+    "Co-ordinator Phone": "416-415-5000, ext. 4232",
+    "Co-ordinator Email": "arichard6@georgebrown.ca"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "Program Information": {
+    "Program Name": "Dental Office Administration",
+    "Code": "S115",
+    "Credential": "Ontario College Certificate",
+    "Method of Study": "Full-time",
+    "Duration": "1 year (2 semesters)",
+    "Starting Months": "September",
+    "Domestic Tuition": "$3,869.00 *",
+    "International Tuition": "$17,480.00 **",
+    "Centre": "Health Sciences",
+    "School": "Health Services Management",
+    "Location": "Waterfront Campus",
+    "Experiential Learning": "Field Education",
+    "Fall 2023 Delivery": "Semester 1: Hybrid",
+    "Winter 2024 Delivery": "Semester 2: On Campus"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "School of Health Services Management",
+    "Contact email": "hsmprograms@georgebrown.ca",
+    "Phone": "416-415-5000, ext. 2367",
+    "Contact Center Phone": "416-415-2000 (TTY 1-877-515-5559)",
+    "Long distance phone": "1-800-265-2002",
+    "International Contact Us Page": ""
+  }
+}

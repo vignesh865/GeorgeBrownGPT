@@ -1,0 +1,56 @@
+{
+  "Program Information": {
+    "Program Name": "Human Resources Management",
+    "Code": "B428",
+    "Credential": "Ontario College Graduate Certificate",
+    "Method of Study": "Full-time",
+    "Duration": "12 months (2 semesters in-class, 1 semester work experience)",
+    "Starting Months": "January, May, September",
+    "Domestic Tuition": "$5,153.00 * †",
+    "Centre": "Business",
+    "School": "Human Resources",
+    "Location": "Online",
+    "Experiential Learning": "Work Experience (Co-op or Internship) Required.",
+    "Fall 2023 Delivery": "Semester 1, 2: Online; Semester 3: Co-op",
+    "Winter 2024 Delivery": "Semester 1, 2: Online; Semester 3: Co-op"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": " Contact George Brown College for information sessions, domestic and international admissions, fees and financial assistance, or program advice. Domestic inquiries: contact Admissions at admissions@georgebrown.ca or visit the Admissions section. International students: contact recruitment representatives through virtual meetings or submitting an inquiry on the International Contact Us page. Financial aid inquiries: contact FinAid@georgebrown.ca or visit the Financial Aid section. For program advice, make an appointment with an Entry Advisor and review FAQs. For Centre for Business inquiries, email business@georgebrown.ca or call (416) 415-5000 ext. 2160. For specific questions about the Human Resources Management (Postgraduate) program, contact Viji Vibhu Prakash at Viji.VibhuPrakash@georgebrown.ca."
+}

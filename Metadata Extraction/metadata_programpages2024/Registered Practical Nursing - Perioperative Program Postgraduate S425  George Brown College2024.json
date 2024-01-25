@@ -1,0 +1,66 @@
+{
+  "Program Information": {
+    "Program Name": "Registered Practical Nursing - Perioperative",
+    "Code": "S425",
+    "Credential": "Ontario College Graduate Certificate",
+    "Method of Study": "Full-time",
+    "Duration": "1 semester (14 weeks)",
+    "Starting Months": "September",
+    "Domestic Tuition": "$3,568.00 *",
+    "Centre": "Health Sciences",
+    "School": "Sally Horsfall Eaton School of Nursing",
+    "Location": "Waterfront Campus",
+    "Experiential Learning": "Clinical Placement"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact Person": "Chelsea Ovsonka",
+    "Role": [
+      "program co-ordinator and professor"
+    ],
+    "Contact": "George Brown College Sally Horsfall Eaton School of Nursing",
+    "Contact email": "Chelsea.Ovsonka@georgebrown.ca",
+    "Phone": "416-415-5000, ext. 2349",
+    "General Information Contact": {
+      "Contact Center": "416-415-2000 (TTY 1-877-515-5559)",
+      "Long Distance": "1-800-265-2002"
+    }
+  }
+}

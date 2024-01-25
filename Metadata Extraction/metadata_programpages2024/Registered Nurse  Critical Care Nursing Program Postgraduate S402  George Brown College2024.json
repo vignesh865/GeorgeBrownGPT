@@ -1,0 +1,72 @@
+{
+  "Program Information": {
+    "Program Name": "Registered Nurse – Critical Care Nursing",
+    "Code": "S402",
+    "Credential": "Ontario College Graduate Certificate",
+    "Method of Study": "Full-time",
+    "Duration": "1 semester",
+    "Starting Months": "January, September",
+    "Domestic Tuition": "$2,329.00 *",
+    "Centre": "Health Sciences",
+    "School": "Sally Horsfall Eaton School of Nursing",
+    "Location": "Waterfront Campus"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact Persons": [
+      "Professor Anisa Khan",
+      "Colleen Alleyne"
+    ],
+    "Contact Methods": [
+      {
+        "Number": "416-415-5000, ext. 2860",
+        "Email": "akhan@georgebrown.ca"
+      },
+      {
+        "Number": "416-415-5000, ext. 5824",
+        "Email": "calleyne3@georgebrown.ca"
+      }
+    ],
+    "Contact Centre": {
+      "Phone": "416-415-2000 (TTY 1-877-515-5559)",
+      "Long Distance": "1-800-265-2002"
+    }
+  }
+}

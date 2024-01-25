@@ -1,0 +1,54 @@
+{
+  "Program Information": {
+    "Program Name": "Continuing Education ESL Pathway to George Brown College Certificates and Diplomas",
+    "Code": "R903",
+    "Credential": "George Brown College Certificate",
+    "Method of Study": "Part-time",
+    "Duration": "Must complete the program within three consecutive academic years.",
+    "Starting Months": "January, May, September",
+    "Domestic Tuition": "Please see the Courses tab for fee details",
+    "International Tuition": "Please see the Courses tab for fee details",
+    "Centre": "Preparatory & Liberal Studies",
+    "School": "English as a Second Language ESL",
+    "Location": "St. James Campus"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "opening soon"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "open: not study permit eligible"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "opening soon"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "open: not study permit eligible"
+    }
+  ],
+  "Contact Related Information": " For inquiries, please reach out to our Customer Support Team at customercare@examplecorp.com or call us at +1 (800) 555-1234 between 9 AM and 5 PM EST, Monday through Friday."
+}

@@ -1,0 +1,95 @@
+{
+  "Program Information": {
+    "Program Name": "Business Administration – International Business",
+    "Code": "B131",
+    "Credential": "Ontario College Advanced Diploma",
+    "Method of Study": "Full-time",
+    "Duration": "3 years (6 semesters)",
+    "Starting Months": "January, September",
+    "Domestic Tuition": "$3,776.00 *",
+    "International Tuition": "$17,925.00 **",
+    "Centre": "Business",
+    "School": "Management",
+    "Location": "St. James Campus",
+    "Experiential Learning": "Field Education Course (Optional)"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "opens apr 8, 2024"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contacts": {
+      "Admissions": {
+        "Domestic": {
+          "Contact": "admissions@georgebrown.ca",
+          "Type": "Email"
+        },
+        "International": {
+          "Contact": "International Contact Us page",
+          "Types": [
+            "Booking a virtual meeting",
+            "Submitting an inquiry"
+          ]
+        }
+      },
+      "Financial Aid": {
+        "Contact": "FinAid@georgebrown.ca",
+        "Type": "Email"
+      },
+      "Entry Advising": {
+        "Contact": "Make an appointment",
+        "Types": [
+          "Appointment"
+        ]
+      },
+      "Centre for Business": {
+        "General Inquiries": {
+          "Contact": "business@georgebrown.ca",
+          "Phone": "(416) 415-5000 ext. 2160"
+        },
+        "Business Administration – International Business (B131/161)": {
+          "Contact": "peng@georgebrown.ca",
+          "Type": "Email"
+        }
+      }
+    },
+    "Information Sessions": {
+      "Description": "On-campus information sessions are held on a regular basis.",
+      "Sign Up": "Sign up for an upcoming session."
+    }
+  }
+}

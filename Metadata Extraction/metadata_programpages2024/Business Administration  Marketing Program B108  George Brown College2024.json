@@ -1,0 +1,125 @@
+{
+  "Program Information": {
+    "Program Name": "Business Administration – Marketing",
+    "Code": "B108",
+    "Credential": "Ontario College Advanced Diploma",
+    "Method of Study": "Full-time",
+    "Duration": "3 years (6 semesters)",
+    "Starting Months": "January, September",
+    "Domestic Tuition": "$3,798.00 *",
+    "International Tuition": "$17,925.00 **",
+    "Centre": "Business",
+    "School": "Marketing",
+    "Location": "St. James Campus",
+    "Experiential Learning": "Field Education Course (Optional)"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "opens apr 8, 2024"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contacts": [
+      {
+        "Department": "Information Sessions",
+        "Contact email": "not_applicable",
+        "Phone": "not_applicable",
+        "Office Hours": "Regularly held on campus"
+      },
+      {
+        "Department": "Domestic Student Admissions",
+        "Contact email": "admissions@georgebrown.ca",
+        "Website": "Admissions section"
+      },
+      {
+        "Department": "International Student Admissions",
+        "Contact methods": [
+          {
+            "Method": "Virtual meeting",
+            "Email": "not_applicable"
+          },
+          {
+            "Method": "Inquiry",
+            "Website": "International Contact Us page"
+          }
+        ],
+        "Additional contacts": [
+          {
+            "Name": "Lori Futterer",
+            "Position": "Program Co-ordinator",
+            "Email": "lfuttere@georgebrown.ca"
+          },
+          {
+            "Name": "John Peco",
+            "Position": "Chair, School of Marketing",
+            "Email": "john.peco@georgebrown.ca"
+          }
+        ]
+      },
+      {
+        "Department": "Fees and Financial Information",
+        "Contact email": "FinAid@georgebrown.ca",
+        "Website": "Financial Aid section"
+      },
+      {
+        "Department": "Entry Advising",
+        "Contact method": {
+          "Method": "Appointment",
+          "Website": "frequently asked questions"
+        }
+      },
+      {
+        "Department": "Centre for Business",
+        "General inquiries": {
+          "Email": "business@georgebrown.ca",
+          "Phone": "(416) 415-5000 ext. 2160"
+        },
+        "Business Administration Marketing (B108/158)": [
+          {
+            "Name": "Lori Futterer",
+            "Position": "Program Co-ordinator",
+            "Email": "lfuttere@georgebrown.ca"
+          },
+          {
+            "Name": "John Peco",
+            "Position": "Chair, School of Marketing",
+            "Email": "john.peco@georgebrown.ca"
+          }
+        ]
+      }
+    ]
+  }
+}

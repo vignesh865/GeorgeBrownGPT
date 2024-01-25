@@ -1,0 +1,62 @@
+{
+  "Program Information": {
+    "Program Name": "Culinary Skills",
+    "Code": "A110",
+    "Credential": "Ontario College Certificate",
+    "Method of Study": "Full-time",
+    "Duration": "2 semesters",
+    "Starting Months": "September",
+    "Domestic Tuition": "This program is free for participants.",
+    "Centre": "Preparatory & Liberal Studies",
+    "School": "Work & College Preparation",
+    "Location": "St. James Campus",
+    "Experiential Learning": "Program includes classroom and kitchen lab instruction, 150 hours of work placement and workshops.",
+    "Fall 2023 Delivery": "Semester 1: Hybrid",
+    "Winter 2024 Delivery": "Semester 2: Hybrid"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "Augmented Education program office",
+    "Contact email": "auged@georgebrown.ca",
+    "Phone": "416-415-5000, ext. 6790",
+    "French Contact email": "frenchserviceinfo@georgebrown.ca",
+    "Phone French Support": "416-415-5000, ext. 3111"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "Program Information": {
+    "Program Name": "Honours Bachelor of Interpretation (American Sign Language – English)",
+    "Code": "C302",
+    "Credential": "Honours Bachelor's Degree",
+    "Method of Study": "Full-time",
+    "Duration": "4 years (8 semesters) + 420-hour internship experience (equivalent to a 14-week term) (unpaid)",
+    "Starting Months": "September",
+    "Domestic Tuition": "$8,414.00 *+",
+    "International Tuition": "$20,445.00 **+",
+    "Centre": "Community Services & Early Childhood",
+    "School": "Deaf & Deafblind Studies",
+    "Location": "St. James Campus",
+    "Experiential Learning": "Internship Experience (unpaid)",
+    "Fall 2023 Delivery": "Semester 1, 3, 6, 7: On Campus",
+    "Winter 2024 Delivery": "Semester 2, 4, 6, 8: On Campus"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "School of Deaf and Deafblind Studies",
+    "Contact email": "communityservices@georgebrown.ca",
+    "Office Hours": "8 a.m. – 4 p.m.",
+    "Program Coordinators": [
+      {
+        "Name": "Corene Kennedy",
+        "Email": "ckennedy@georgebrown.ca"
+      },
+      {
+        "Name": "Rhondda Reynolds",
+        "Email": "rreynolds@georgebrown.ca"
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "Program Information": {
+    "Program Name": "Construction Techniques",
+    "Code": "T176",
+    "Credential": "Ontario College Certificate",
+    "Method of Study": "Full-time",
+    "Duration": "1 year (3 semesters)",
+    "Starting Months": "January, May, September",
+    "Domestic Tuition": "$5,908.00 *",
+    "International Tuition": "$26,719.00 **",
+    "Centre": "Construction & Engineering Technologies",
+    "School": "Apprenticeship & Skilled Trades",
+    "Location": "Casa Loma Campus"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "opens apr 8, 2024"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "opens aug 6, 2024"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "School of Apprenticeship and Skilled Trades",
+    "Contact email": "skilledtrades@georgebrown.ca",
+    "Phone": "416-415-5000, ext. 6711",
+    "Location": {
+      "Campus": "Casa Loma Campus",
+      "Room": "E308"
+    }
+  }
+}

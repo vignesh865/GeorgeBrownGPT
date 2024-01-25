@@ -1,0 +1,59 @@
+{
+  "Program Information": {
+    "Program Name": "Office Administration – Health Services",
+    "Code": "S135",
+    "Credential": "Ontario College Diploma",
+    "Method of Study": "Full-time",
+    "Duration": "2 years (4 semesters)",
+    "Starting Months": "January, September",
+    "Domestic Tuition": "$3,978.00 *",
+    "International Tuition": "$18,111.00 **",
+    "Centre": "Health Sciences",
+    "School": "Health Services Management",
+    "Location": "Waterfront Campus",
+    "Experiential Learning": "Field Placement in semester 4."
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "opens apr 8, 2024"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "School of Health Services Management",
+    "Contact email": "hsmprograms@georgebrown.ca",
+    "Phone": "416-415-5000, ext. 2367"
+  }
+}

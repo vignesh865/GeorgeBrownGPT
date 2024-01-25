@@ -1,0 +1,55 @@
+{
+  "Program Information": {
+    "Program Name": "English as a Second Language (ESL)",
+    "Code": "R901",
+    "Credential": "George Brown College Certificate",
+    "Method of Study": "Part-time",
+    "Duration": "Must complete the program within three consecutive academic years.",
+    "Starting Months": "January, March, May, July, September, November",
+    "Domestic Tuition": "Please see the Courses tab for fee details",
+    "Centre": "Preparatory & Liberal Studies",
+    "School": "English as a Second Language ESL",
+    "Location": "St. James Campus"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "continuous open enrollment"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "open: not study permit eligible"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "continuous open enrollment"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "open: not study permit eligible"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "continuous open enrollment"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "open: not study permit eligible"
+    }
+  ],
+  "Contact Related Information": {
+    "Info": "Contact Us"
+  }
+}

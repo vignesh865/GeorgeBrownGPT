@@ -1,0 +1,63 @@
+{
+  "Program Information": {
+    "Program Name": "Career Development Practitioner",
+    "Code": "C406",
+    "Credential": "Ontario College Graduate Certificate",
+    "Method of Study": "Full-time",
+    "Duration": "1 year (3 semesters)",
+    "Starting Months": "September",
+    "Domestic Tuition": "$5,121.00 *",
+    "International Tuition": "$26,232.00 **",
+    "Centre": "Community Services & Early Childhood",
+    "School": "Social & Community Services",
+    "Location": "St. James Campus",
+    "Experiential Learning": "Practicum in semester 3",
+    "Fall 2023 Delivery": "Semester 1: Hybrid",
+    "Winter 2024 Delivery": "Semester 2: On Campus"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "School of Social & Community Services",
+    "Contact email": "communityservices@georgebrown.ca",
+    "Office Hours": "Monday to Friday, 8 a.m. – 4 p.m.",
+    "Program Co-ordinator": "Thanh Dinh",
+    "Co-ordinator email": "thanhthi.dinh@georgebrown.ca"
+  }
+}

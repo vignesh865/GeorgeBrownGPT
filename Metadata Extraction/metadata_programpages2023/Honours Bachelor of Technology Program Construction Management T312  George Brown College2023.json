@@ -1,0 +1,57 @@
+{
+  "Program Information": {
+    "Program Name": "Honours Bachelor of Technology",
+    "Code": "T312",
+    "Credential": "Honours Bachelor's Degree",
+    "Method of Study": "Full-time",
+    "Duration": "4 years (1 field placement semester)",
+    "Starting Months": "September",
+    "Domestic Tuition": "$9,689.00 * †",
+    "International Tuition": "$20,485.00 ** †",
+    "Centre": "Construction & Engineering Technologies",
+    "School": "Angelo DelZotto School of Construction Management",
+    "Location": "Casa Loma Campus",
+    "Experiential Learning": "Mandatory Field Experience",
+    "Fall 2023 Delivery": "Semester 1: On Campus; Semester 3, 5, 7: Hybrid",
+    "Winter 2024 Delivery": "Semester 2, 4, 6, 8: Hybrid"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": " Contact Angelo DelZotto's Construction Management team at 416-415-5000, ext. 6297 or construction_degree@georgebrown.ca. Office hours are 8 a.m.-4 p.m., room E228. For college information, contact the Contact Centre at 416-415-2000 or visit international Contact Us page for international recruitment. Open houses held in autumn and spring."
+}

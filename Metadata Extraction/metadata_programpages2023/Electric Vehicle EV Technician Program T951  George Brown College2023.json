@@ -1,0 +1,69 @@
+{
+  "Program Information": {
+    "Program Name": "Electric Vehicle (EV) Technician",
+    "Code": "T951",
+    "Credential": "George Brown College Certificate",
+    "Method of Study": "Online",
+    "Duration": "32 weeks",
+    "Starting Months": "Open enrolment",
+    "Domestic Tuition": "$1,750.00*",
+    "Centre": "Construction & Engineering Technologies",
+    "School": "Mechanical Engineering Technologies",
+    "Location": "Online",
+    "Fall 2023 Delivery": "Online"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "continuous open enrollment"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "open: not study permit eligible"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "continuous open enrollment"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "open: not study permit eligible"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "continuous open enrollment"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "open: not study permit eligible"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "gbctechtraining.com",
+    "Contact email": "info@gbctechtraining.com",
+    "Phone": [
+      "416-415-4726",
+      "1-888-553-5333"
+    ],
+    "International Representatives": {
+      "Contacts": [
+        {
+          "Country of origin": "",
+          "Contact": ""
+        }
+      ]
+    }
+  }
+}

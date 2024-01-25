@@ -1,0 +1,60 @@
+{
+  "Program Information": {
+    "Program Name": "Industrial Power Sewing",
+    "Code": "F115",
+    "Credential": "George Brown College Certificate",
+    "Method of Study": "Part-time",
+    "Duration": "1 semester (16 weeks)",
+    "Starting Months": "January, May, July, September",
+    "Domestic Tuition": "Tuition Funded for Eligible Participants",
+    "Centre": "Arts, Design & Information Technology",
+    "School": "Fashion & Jewellery",
+    "Location": "Fashion Exchange, 63 Regent Park Blvd.",
+    "Experiential Learning": "100 Hours Work-Integrated Field Placement"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "opening soon"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "Fashion Exchange",
+    "Contact address": "63 Regent Park Blvd., Toronto",
+    "Program Co-ordinator": "Jeanine Larmour",
+    "Co-ordinator email": "jlarmour@georgebrown.ca",
+    "Phone": "416-415-5000, ext. 4591"
+  }
+}

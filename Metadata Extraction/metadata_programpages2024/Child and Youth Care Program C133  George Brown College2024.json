@@ -1,0 +1,81 @@
+{
+  "Program Information": {
+    "Program Name": "Child and Youth Care",
+    "Code": "C133",
+    "Credential": "Ontario College Advanced Diploma",
+    "Method of Study": "Full-time",
+    "Duration": "3 years (6 semesters)",
+    "Starting Months": "September",
+    "Domestic Tuition": "$3,803.00 *",
+    "International Tuition": "$17,935.00 **",
+    "Centre": "Community Services & Early Childhood",
+    "School": "Social & Community Services",
+    "Location": "St. James Campus"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "School of Social & Community Services",
+    "Email": "communityservices@georgebrown.ca",
+    "Program Coordinators": [
+      {
+        "Name": "Judy Masters",
+        "Email": "jmasters@georgebrown.ca"
+      },
+      {
+        "Name": "Zalina Mohamad",
+        "Email": "zalina.mohamad@georgebrown.ca"
+      }
+    ],
+    "International Students": {
+      "Contact": "International Centre",
+      "Inquiry": "Submit an inquiry"
+    },
+    "Accessible Learning Services": {
+      "Contact": "Contact this service"
+    },
+    "Programs": [
+      {
+        "Name": "Marketing Management – Financial Services (Postgraduate)",
+        "Level": "Postgraduate",
+        "Code": "B406"
+      }
+    ]
+  }
+}

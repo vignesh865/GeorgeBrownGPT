@@ -1,0 +1,57 @@
+{
+  "Program Information": {
+    "Program Name": "Continuing Education ESL Pathway to George Brown College Certificates and Diplomas",
+    "Code": "R903",
+    "Credential": "George Brown College Certificate",
+    "Method of Study": "Part-time",
+    "Duration": "Must complete the program within three consecutive academic years.",
+    "Starting Months": "January, May",
+    "Domestic Tuition": "Please see the Courses tab for fee details",
+    "International Tuition": "The same tuition fees apply to both domestic and international students.",
+    "Centre": "Preparatory & Liberal Studies",
+    "School": "English as a Second Language ESL",
+    "Location": "St. James Campus",
+    "Fall 2023 Delivery": "Not Available"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "open: not study permit eligible"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "open: not study permit eligible"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "Contact Us"
+  }
+}

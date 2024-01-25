@@ -1,0 +1,62 @@
+{
+  "Program Information": {
+    "Program Name": "Bachelor of Early Childhood Education – Honours",
+    "Code": "C305",
+    "Credential": "Honours Bachelor's Degree",
+    "Method of Study": "Full-time",
+    "Duration": "2 years (4 semesters)",
+    "Starting Months": "September",
+    "Domestic Tuition": "$8,346.00* † ‡ ^",
+    "International Tuition": "$19,900.00* † ‡ ^",
+    "Centre": "Community Services & Early Childhood",
+    "School": "Early Childhood",
+    "Location": "George Brown College at Toronto Metropolitan University Campus",
+    "Experiential Learning": "Field Placement",
+    "Fall 2023 Delivery": "Semester 5: Hybrid",
+    "Winter 2024 Delivery": "Semester 6: Online"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "School of Early Childhood",
+    "Contact email": "ece@georgebrown.ca",
+    "Phone": "416-415-5000, ext. 2310",
+    "Office Hours": "8 a.m. – 5 p.m."
+  }
+}

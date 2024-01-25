@@ -1,0 +1,104 @@
+{
+  "Program Information": {
+    "Program Name": "Business Administration – Human Resources",
+    "Code": "B144",
+    "Credential": "Ontario College Advanced Diploma",
+    "Method of Study": "Full-time",
+    "Duration": "3 years (6 semesters)",
+    "Starting Months": "January, September",
+    "Domestic Tuition": "$4,464.00 *",
+    "International Tuition": "$17,496.00 **",
+    "Centre": "Business",
+    "School": "Human Resources",
+    "Location": "St. James Campus",
+    "Experiential Learning": "Field Education Course (Optional)",
+    "Fall 2023 Delivery": "Semester 1, 2, 3, 4, 5, 6: On Campus",
+    "Winter 2024 Delivery": "Semester 1, 2, 3, 4, 5, 6: On Campus"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contacts": [
+      {
+        "Type": "Information Sessions",
+        "Contact email": "not_available",
+        "Office Hours": "not_available",
+        "Program": "not_available"
+      },
+      {
+        "Type": "Domestic Student Admissions",
+        "Contact email": "admissions@georgebrown.ca",
+        "Website": "Admissions section"
+      },
+      {
+        "Type": "International Student Admissions",
+        "Contact emails": [
+          "booking_virtual_meeting",
+          "submitting_inquiry"
+        ],
+        "Website": "International Contact Us page"
+      },
+      {
+        "Type": "Fees and Financial Information",
+        "Contact email": "FinAid@georgebrown.ca",
+        "Website": "Financial Aid section"
+      },
+      {
+        "Type": "Entry Advising",
+        "Appointment": {
+          "Make an appointment": "true"
+        },
+        "FAQs URL": "frequently_asked_questions",
+        "Contact email": "not_available"
+      },
+      {
+        "Type": "Centre for Business - General Inquiries",
+        "Contact email": "business@georgebrown.ca",
+        "Phone": "(416) 415-5000 ext. 2160"
+      },
+      {
+        "Type": "Centre for Business - Business Administration: Human Resources",
+        "Program Co-ordinator and Professor": {
+          "Name": "Viji Vibhu Prakash",
+          "Email": "Viji.VibhuPrakash@georgebrown.ca"
+        }
+      }
+    ]
+  }
+}

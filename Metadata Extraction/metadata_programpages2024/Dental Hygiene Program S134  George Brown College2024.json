@@ -1,0 +1,58 @@
+{
+  "Program Information": {
+    "Program Name": "Dental Hygiene",
+    "Code": "S134",
+    "Credential": "Ontario College Advanced Diploma",
+    "Method of Study": "Full-time",
+    "Duration": "3 years (6 semesters)",
+    "Starting Months": "September",
+    "Domestic Tuition": "$17,080.00 * †",
+    "International Tuition": "$36,137.00 ** †",
+    "Centre": "Health Sciences",
+    "School": "Dental Health",
+    "Location": "Waterfront Campus",
+    "Experiential Learning": "All students will have the opportunity to be involved in various external practical field education experiences."
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "sdhprograms@georgebrown.ca",
+    "Program": "Dental Hygiene"
+  }
+}

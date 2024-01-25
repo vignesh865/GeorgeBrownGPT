@@ -1,0 +1,101 @@
+{
+  "Program Information": {
+    "Program Name": "Business Administration – International Business",
+    "Code": "B161",
+    "Credential": "Ontario College Advanced Diploma",
+    "Method of Study": "Full-time",
+    "Duration": "3 years (6 semesters in-class, 2 semesters work experience)",
+    "Starting Months": "January, September",
+    "Domestic Tuition": "$3,776.00 * †",
+    "International Tuition": "$17,925.00 ** †",
+    "Centre": "Business",
+    "School": "Management",
+    "Location": "St. James Campus",
+    "Experiential Learning": "Work Experience (Co-op or Internship) Required"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "opens apr 8, 2024"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": {
+      "General": "George Brown College",
+      "Email": "business@georgebrown.ca",
+      "Phone": "(416) 415-5000 ext. 2160"
+    },
+    "Domestic Admissions": {
+      "Contact": "Admissions Office",
+      "Email": "admissions@georgebrown.ca",
+      "Section": "Admissions"
+    },
+    "International Admissions": {
+      "Contact Methods": [
+        {
+          "Method": "Virtual Meeting"
+        },
+        {
+          "Method": "Submitting an inquiry"
+        }
+      ],
+      "Country Representatives": [],
+      "Section": "International Contact Us",
+      "Program Coordinator": {
+        "Name": "Philip Eng",
+        "Email": "peng@georgebrown.ca"
+      }
+    },
+    "Fees and Financial Information": {
+      "Contact": "Financial Aid Office",
+      "Email": "FinAid@georgebrown.ca",
+      "Section": "Financial Aid"
+    },
+    "Entry Advising": {
+      "Appointment": true,
+      "FAQs": "https://www.georgebrown.ca/study-here/future-students/applying-to-george-brown/admissions-aid/entry-advising/frequently-asked-questions",
+      "Section": ""
+    },
+    "Centre for Business - General": {
+      "Email": "business@georgebrown.ca",
+      "Phone": "(415) 415-5000 ext. 2160"
+    },
+    "Centre for Business - Program Specific": {
+      "Program": "Business Administration – International Business (B131/161)",
+      "Contact": "Philip Eng",
+      "Email": "peng@georgebrown.ca"
+    }
+  }
+}

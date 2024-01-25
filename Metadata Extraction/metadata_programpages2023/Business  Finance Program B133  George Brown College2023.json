@@ -1,0 +1,105 @@
+{
+  "Program Information": {
+    "Program Name": "Business – Finance",
+    "Code": "B133",
+    "Credential": "Ontario College Diploma",
+    "Method of Study": "Full-time",
+    "Duration": "2 years (4 semesters)",
+    "Starting Months": "January, September",
+    "Domestic Tuition": "$4,973.00 *",
+    "International Tuition": "$17,455.00 **",
+    "Centre": "Business",
+    "School": "Accounting & Finance",
+    "Location": "St. James Campus",
+    "Fall 2023 Delivery": "Semester 1, 2, 3, 4: On Campus",
+    "Winter 2024 Delivery": "Semester 1, 2, 3, 4: On Campus"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "George Brown College",
+    "Sections": {
+      "Information Sessions": {
+        "Description": "On-campus information sessions are held on a regular basis.",
+        "Sign Up": "",
+        "Domestic Students": {
+          "Admissions": {
+            "Email": "admissions@georgebrown.ca",
+            "Section": ""
+          },
+          "Fees and Financial Information": {
+            "Email": "FinAid@georgebrown.ca",
+            "Section": ""
+          }
+        },
+        "International Students": {
+          "Admissions": {
+            "Contact Us Page": "",
+            "Representatives": [
+              {
+                "Name": "Tracey Britt",
+                "Email": "tbritt1@georgebrown.ca"
+              },
+              {
+                "Name": "Carolyn Fallis",
+                "Email": "cfallis@georgebrown.ca"
+              }
+            ]
+          }
+        },
+        "Centre for Business": {
+          "General Inquiries": {
+            "Email": "business@georgebrown.ca",
+            "Phone": "(416) 415-5000 ext. 2160"
+          },
+          "Program Coordinators": [
+            {
+              "Name": "Tracey Britt",
+              "Email": "tbritt1@georgebrown.ca"
+            },
+            {
+              "Name": "Carolyn Fallis",
+              "Email": "cfallis@georgebrown.ca"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

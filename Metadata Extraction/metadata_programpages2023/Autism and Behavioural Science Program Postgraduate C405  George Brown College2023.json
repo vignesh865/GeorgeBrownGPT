@@ -1,0 +1,62 @@
+{
+  "Program Information": {
+    "Program Name": "Autism and Behavioural Science",
+    "Code": "C405",
+    "Credential": "Ontario College Graduate Certificate",
+    "Method of Study": "Full-time",
+    "Duration": "1 year (2 semesters)",
+    "Starting Months": "January, September",
+    "Domestic Tuition": "$3,832.00 *",
+    "International Tuition": "$17,845.00 **",
+    "Centre": "Health Sciences",
+    "School": "Health & Wellness",
+    "Location": "Waterfront Campus",
+    "Experiential Learning": "Field education in semesters 1 and 2",
+    "Fall 2023 Delivery": "Semester 1: Hybrid",
+    "Winter 2024 Delivery": "Semester 1, 2: Hybrid"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "George Brown School of Health and Wellness",
+    "Contact email": "hwprograms@georgebrown.ca",
+    "Phone": "416-415-5000, ext. 2367",
+    "Office Hours": "9 a.m. and 4 p.m."
+  }
+}

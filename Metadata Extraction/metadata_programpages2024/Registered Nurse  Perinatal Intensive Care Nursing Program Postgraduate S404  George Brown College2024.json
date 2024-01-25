@@ -1,0 +1,124 @@
+{
+  "Program Information": {
+    "Program Name": "Registered Nurse – Perinatal Intensive Care Nursing",
+    "Code": "S404",
+    "Credential": "Ontario College Graduate Certificate",
+    "Method of Study": "Full-time",
+    "Duration": "15 weeks (1 semester)",
+    "Starting Months": "January, September",
+    "Domestic Tuition": "$2,363.00 *",
+    "Centre": "Health Sciences",
+    "School": "Sally Horsfall Eaton School of Nursing",
+    "Location": "Waterfront Campus",
+    "Experiential Learning": "Clinical Placement"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "George Brown College Sally Horsfall Eaton School of Nursing",
+    "Contact email": "Jennifer.Young2@georgebrown.ca",
+    "Programs": [
+      {
+        "Name": "Practical Nursing (PN) (S121)",
+        "Code": "S121"
+      },
+      {
+        "Name": "Bachelor of Science in Nursing (B.Sc.N.) (S118)",
+        "Code": "S118"
+      },
+      {
+        "Name": "Registered Nurse – Critical Care Nursing (Postgraduate) (S402)",
+        "Code": "S402"
+      }
+    ],
+    "Professor": {
+      "Name": "Heather",
+      "Role": "Program professor and coordinator"
+    },
+    "Instructors": [
+      {
+        "Name": "Jennifer Young"
+      },
+      {
+        "Name": "Sasha",
+        "Role": "Clinical instructor"
+      }
+    ],
+    "Student Testimonial": {
+      "Author": "Fiona Cabral",
+      "Graduation Degree": "Ontario College Graduate Certificate",
+      "Experience": [
+        {
+          "Description": "15-week program divided into in-class lectures, hands-on clinical days, high fidelity simulation labs, and lectures from specialty staff from SickKids.",
+          "Duration": "15 weeks"
+        },
+        {
+          "Description": "Learning opportunities: online lectures, workbooks, textbook readings, case studies, clinical skills learning package, simulation labs, journals references, group discussions.",
+          "Delivery Forms": [
+            "online lectures",
+            "workbooks",
+            "textbook readings",
+            "case studies",
+            "clinical skills learning package",
+            "simulation labs",
+            "journals references",
+            "group discussions"
+          ]
+        },
+        {
+          "Description": "Knowledgeable professors: Heather and Jennifer. Excellent clinical instructor, Sasha.",
+          "Professors": [
+            "Heather",
+            "Jennifer",
+            "Sasha"
+          ]
+        },
+        {
+          "Description": "Well-organized and structured program with a clear flow in the way the material is taught.",
+          "Program Structure": true
+        },
+        {
+          "Description": "Increased confidence and nursing skills, ability to use critical thinking skills and judgement gained from this course.",
+          "Skills Improvement": true
+        }
+      ],
+      "Review": "The program was the best decision I ever made. I highly recommend it for anyone new to the NICU world or even to those who have a few years under their belt."
+    }
+  }
+}

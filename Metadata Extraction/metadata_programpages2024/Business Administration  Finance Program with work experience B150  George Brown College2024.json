@@ -1,0 +1,101 @@
+{
+  "Program Information": {
+    "Program Name": "Business Administration – Finance",
+    "Code": "B150",
+    "Credential": "Ontario College Advanced Diploma",
+    "Method of Study": "Full-time",
+    "Duration": "3 years (6 semesters in class, 2 semesters work experience)",
+    "Starting Months": "January, September",
+    "Domestic Tuition": "$3,888.00 * †",
+    "International Tuition": "$17,925.00 ** †",
+    "Centre": "Business",
+    "School": "Accounting & Finance",
+    "Location": "St. James Campus",
+    "Experiential Learning": "Work Experience (Co-op or Internship) Required"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "opens apr 8, 2024"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact Us": {},
+    "Information Sessions": {
+      "On-campus sessions": {},
+      "Sign up for a session": {}
+    },
+    "Domestic Student Admissions": {
+      "Contact": "Admissions Office",
+      "Email": "admissions@georgebrown.ca",
+      "Visit the Admissions section": ""
+    },
+    "International Student Admissions": {
+      "Book a virtual meeting or submit an inquiry": "",
+      "Contact Us page": {}
+    },
+    "Fees and Financial Information": {
+      "Contact": "Financial Aid Office",
+      "Email": "FinAid@georgebrown.ca",
+      "Visit the Financial Aid section": ""
+    },
+    "Entry Advising": {
+      "Make an appointment to see an Entry Advisor": "",
+      "Frequently asked questions": {}
+    },
+    "Centre for Business": {
+      "General inquiries": {
+        "Email": "business@georgebrown.ca",
+        "Phone": "(416) 415-5000 ext. 2160"
+      },
+      "Business Administration – Finance (B130/B150)": {
+        "Program Co-ordinators": [
+          {
+            "Name": "Tracey Britt",
+            "Email": "tbritt1@georgebrown.ca"
+          },
+          {
+            "Name": "Carolyn Fallis",
+            "Email": "cfallis@georgebrown.ca"
+          }
+        ]
+      },
+      "International contact": {
+        "Book a virtual meeting or submit an inquiry": "",
+        "Contact Us page": {}
+      }
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "Program Information": {
+    "Program Name": "Supply Chain Management",
+    "Code": "B429",
+    "Credential": "Ontario College Graduate Certificate",
+    "Method of Study": "Full-time",
+    "Duration": "2 semesters",
+    "Starting Months": "January, September",
+    "Domestic Tuition": "$6,591.00 * +",
+    "International Tuition": "$17,774.00 ** +",
+    "Centre": "Business",
+    "School": "Management",
+    "Location": "St. James Campus",
+    "Fall 2023 Delivery": "Semester 1: On Campus",
+    "Winter 2024 Delivery": "Semester 1, 2: On Campus"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contacts": {
+      "Domestic Admissions": {
+        "Contact": "Admissions Office",
+        "Email": "admissions@georgebrown.ca",
+        "Website": "Admissions section"
+      },
+      "International Admissions": {
+        "Contacts": [
+          {
+            "Name": "International Recruitment Representatives",
+            "Contact Methods": [
+              {
+                "Type": "Booking a virtual meeting"
+              },
+              {
+                "Type": "Submitting an inquiry"
+              }
+            ],
+            "Website": "International Contact Us page"
+          }
+        ],
+        "Email": "N/A",
+        "Phone": "N/A"
+      },
+      "Fees and Financial Information": {
+        "Contact": "Financial Aid Office",
+        "Email": "FinAid@georgebrown.ca",
+        "Website": "Financial Aid section"
+      },
+      "Entry Advising": {
+        "Contact": "N/A",
+        "Website": "frequently asked questions"
+      },
+      "Centre for Business": {
+        "General Inquiries": {
+          "Email": "business@georgebrown.ca",
+          "Phone": "(416) 415-5000 ext. 2160"
+        },
+        "Program Specific Inquiries (B429)": {
+          "Name": "Sam Lampropoulos",
+          "Title": "Program Coordinator",
+          "Email": "slamprop@georgebrown.ca"
+        }
+      },
+      "Social Channels": {
+        "Instagram": "N/A",
+        "LinkedIn": "N/A"
+      }
+    }
+  }
+}

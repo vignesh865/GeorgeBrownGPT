@@ -1,0 +1,118 @@
+{
+  "Program Information": {
+    "Program Name": "Project Management",
+    "Code": "B415",
+    "Credential": "Ontario College Graduate Certificate",
+    "Method of Study": "Full-time",
+    "Duration": "8 months (2 semesters)",
+    "Starting Months": "January, May, September",
+    "Domestic Tuition": "$4,244.00 *",
+    "International Tuition": "$17,854.00 **",
+    "Centre": "Business",
+    "School": "Management",
+    "Location": "St. James Campus",
+    "Experiential Learning": "Simulated Learning Environment",
+    "Fall 2023 Delivery": "Semester 1, 2: On Campus",
+    "Winter 2024 Delivery": "Semester 1, 2: On Campus"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "open"
+    }
+  ],
+  "Contact Related Information": {
+    "Contacts": [
+      {
+        "Department": "Information Sessions",
+        "Contact email": "not provided",
+        "Sign up": "Sign up for an upcoming session"
+      },
+      {
+        "Department": "Domestic Student Admissions",
+        "Contact email": "admissions@georgebrown.ca",
+        "Website": "Admissions section"
+      },
+      {
+        "Department": "International Student Admissions",
+        "Contact methods": [
+          {
+            "Method": "Virtual meeting",
+            "Email": "not provided"
+          },
+          {
+            "Method": "Inquiry submission",
+            "Website": "International Contact Us page"
+          }
+        ],
+        "Contact email": "not provided"
+      },
+      {
+        "Department": "Fees and Financial Information",
+        "Contact email": "FinAid@georgebrown.ca",
+        "Website": "Financial Aid section"
+      },
+      {
+        "Department": "Entry Advising",
+        "Appointment": "make an appointment",
+        "FAQ": "frequently asked questions"
+      },
+      {
+        "Department": "Centre for Business",
+        "General inquiries": {
+          "Email": "business@georgebrown.ca",
+          "Phone": "(416) 415-5000 ext. 2160"
+        },
+        "Program Coordinator": {
+          "Name": "Saifur Rahman",
+          "Email": "mdsaifur.rahman@georgebrown.ca"
+        }
+      },
+      {
+        "International Recruitment": [
+          {
+            "Method": "Virtual meeting",
+            "Contact email": "not provided"
+          },
+          {
+            "Method": "Inquiry submission",
+            "Website": "International Contact Us page"
+          }
+        ],
+        "Department": "International Student Admissions"
+      }
+    ]
+  }
+}

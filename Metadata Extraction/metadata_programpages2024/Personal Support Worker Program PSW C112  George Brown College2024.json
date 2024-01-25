@@ -1,0 +1,73 @@
+{
+  "Program Information": {
+    "Program Name": "Personal Support Worker",
+    "Code": "C112",
+    "Credential": "Ontario College Certificate",
+    "Method of Study": "Full-time",
+    "Duration": "2 semesters",
+    "Starting Months": "January, September",
+    "Domestic Tuition": "$3,912.00 *",
+    "Centre": "Health Sciences",
+    "School": "Sally Horsfall Eaton School of Nursing",
+    "Location": "Waterfront Campus",
+    "Experiential Learning": "Clinical Placement"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "Sally Horsfall Eaton School of Nursing",
+    "Contact email": "nursing@georgebrown.ca",
+    "Phone": "416-415-5000, ext. 2367",
+    "Office Hours": "Monday to Thursday: 8 a.m. – 4:30 p.m., Friday: 8 a.m. – 4 p.m.",
+    "Related Programs": [
+      {
+        "Name": "Practical Nursing (PN)",
+        "Code": "S121"
+      },
+      {
+        "Name": "Personal Support Worker Pathway to Practical Nursing (S119)",
+        "Code": "S119"
+      },
+      {
+        "Name": "Bachelor of Science in Nursing (B.Sc.N.)",
+        "Code": "S118"
+      }
+    ]
+  }
+}

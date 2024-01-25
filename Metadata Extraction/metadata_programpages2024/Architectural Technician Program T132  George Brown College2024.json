@@ -1,0 +1,60 @@
+{
+  "Program Information": {
+    "Program Name": "Architectural Technician",
+    "Code": "T132",
+    "Credential": "Ontario College Diploma",
+    "Method of Study": "Full-time",
+    "Duration": "2 years (4 semesters)",
+    "Starting Months": "January, September",
+    "Domestic Tuition": "$4,261.00 *",
+    "International Tuition": "$18,298.00 **",
+    "Centre": "Construction & Engineering Technologies",
+    "School": "Architectural Studies",
+    "Location": "Casa Loma Campus"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "opens apr 8, 2024"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "School of Architectural Studies",
+    "Contact email": "architecturalstudies@georgebrown.ca",
+    "Phone": "416-415-5000, ext. 4365",
+    "Office Hours": "8 a.m. – 4 p.m.",
+    "Location": "room D303"
+  }
+}

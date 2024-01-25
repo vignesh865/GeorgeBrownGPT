@@ -1,0 +1,74 @@
+{
+  "Program Information": {
+    "Program Name": "Culinary Skills",
+    "Code": "H134",
+    "Credential": "Ontario College Certificate",
+    "Method of Study": "Full-time",
+    "Duration": "1 year (2 semesters)",
+    "Starting Months": "January, May, September",
+    "Domestic Tuition": "$7,732.00 * †",
+    "International Tuition": "$21,770.00 ** †",
+    "Centre": "Hospitality & Culinary Arts",
+    "School": "Chef School",
+    "Location": "St. James Campus"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "opens apr 8, 2024"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "opens aug 6, 2024"
+    }
+  ],
+  "Contact Related Information": {
+    "Contacts": [
+      {
+        "Type": "Admissions",
+        "Contact": "DOMESTIC STUDENT ADMISSIONS",
+        "Contact email": "admissions@georgebrown.ca",
+        "Webpage": "Admissions web page"
+      },
+      {
+        "Type": "Financial Aid",
+        "Contact": "FINANCIAL/FEES",
+        "Contact email": "FinAid@georgebrown.ca",
+        "Webpage": "Financial Aid web page"
+      },
+      {
+        "Type": "Culinary Skills (H134)",
+        "Contact": "CHCAStudentSupport",
+        "Contact email": "CHCAStudentSupport@georgebrown.ca"
+      }
+    ]
+  }
+}

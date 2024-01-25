@@ -1,0 +1,102 @@
+{
+  "Program Information": {
+    "Program Name": "Business – Human Resources",
+    "Code": "B134",
+    "Credential": "Ontario College Diploma",
+    "Method of Study": "Full-time",
+    "Duration": "2 years (4 semesters)",
+    "Starting Months": "January, September",
+    "Domestic Tuition": "$3,817.00 *",
+    "International Tuition": "$17,966.00 **",
+    "Centre": "Business",
+    "School": "Human Resources",
+    "Location": "St. James Campus",
+    "Experiential Learning": "Optional Field Education Course (BUS 1067)"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "opens apr 8, 2024"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact Us": {
+      "Domestic Students": {
+        "Admissions": {
+          "Email": "admissions@georgebrown.ca",
+          "Section": "Admissions"
+        }
+      },
+      "International Students": {
+        "Admissions": {
+          "Country Representatives": [
+            {
+              "Contact Methods": [
+                "Booking a virtual meeting",
+                "Submitting an inquiry"
+              ],
+              "Country of Origin": "",
+              "Email": "",
+              "Section": "International Contact Us"
+            }
+          ]
+        },
+        "Financial Aid": {
+          "Email": "FinAid@georgebrown.ca",
+          "Section": "Financial Aid"
+        },
+        "Entry Advising": {
+          "Appointment": "Make an appointment",
+          "FAQs": "frequently asked questions"
+        },
+        "Centre for Business": {
+          "General Inquiries": {
+            "Email": "business@georgebrown.ca",
+            "Phone": "(416) 415-5000 ext. 2160",
+            "Section": ""
+          },
+          "Program Coordinator": {
+            "Name": "Viji Vibhu Prakash",
+            "Email": "Viji.VibhuPrakash@georgebrown.ca"
+          }
+        }
+      },
+      "Information Sessions": {
+        "Description": "On-campus information sessions are held on a regular basis. Come and have your questions answered. Learn about the program content and career options, meet your friendly professors and staff, and experience what it is like to be in a George Brown College classroom.",
+        "Sign Up": "Sign up for an upcoming session."
+      }
+    }
+  }
+}

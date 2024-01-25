@@ -1,0 +1,62 @@
+{
+  "Program Information": {
+    "Program Name": "Heating, Refrigeration, and Air Conditioning Technician",
+    "Code": "T160",
+    "Credential": "Ontario College Diploma",
+    "Method of Study": "Full-time",
+    "Duration": "2 years (4 semesters)",
+    "Starting Months": "January, September",
+    "Domestic Tuition": "$3,964.00 *",
+    "International Tuition": "$18,001.00 **",
+    "Centre": "Construction & Engineering Technologies",
+    "School": "Apprenticeship & Skilled Trades",
+    "Location": "Casa Loma Campus"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "opens apr 8, 2024"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "School of Apprenticeship and Skilled Trades",
+    "Contact phone": "416-415-5000, ext. 6711",
+    "Contact email": "skilledtrades@georgebrown.ca",
+    "Location": {
+      "Campus": "Casa Loma Campus",
+      "Room number": "E308"
+    }
+  }
+}

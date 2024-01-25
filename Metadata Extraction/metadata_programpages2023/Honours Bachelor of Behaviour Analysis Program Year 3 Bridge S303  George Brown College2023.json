@@ -1,0 +1,78 @@
+{
+  "Program Information": {
+    "Program Name": "Honours Bachelor of Behaviour Analysis",
+    "Code": "S303",
+    "Credential": "Honours Bachelor's Degree",
+    "Method of Study": "Full-time",
+    "Duration": "5 semesters + 14 week Field Experience term (Unpaid)",
+    "Starting Months": "May",
+    "Domestic Tuition": "$10,420.00 *",
+    "International Tuition": "$29,152.00 *",
+    "Centre": "Health Sciences",
+    "School": "Health & Wellness",
+    "Location": "Waterfront Campus",
+    "Experiential Learning": "14-week placement in the summer before semester 7",
+    "Fall 2023 Delivery": "Semester 5: On Campus",
+    "Winter 2024 Delivery": "Semester 6, 8: Hybrid"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "open"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "George Brown College, hwprograms@georgebrown.ca, 416-415-5000, ext. 2367",
+    "Program Information Email": "hwprograms@georgebrown.ca",
+    "Contact Centre": {
+      "Phone": "416-415-2000 (TTY 1-877-515-5559)",
+      "Long Distance": "1-800-265-2002"
+    },
+    "Related Programs": [
+      {
+        "Name": "Honours Bachelor of Behaviour Analysis (S302)",
+        "Type": ""
+      },
+      {
+        "Name": "Autism and Behavioural Science (Postgraduate) (C405)",
+        "Type": ""
+      },
+      {
+        "Name": "Behavioural Science Technician (C146)",
+        "Type": ""
+      }
+    ]
+  }
+}

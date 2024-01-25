@@ -1,0 +1,95 @@
+{
+  "Program Information": {
+    "Program Name": "Supply Chain Management",
+    "Code": "B429",
+    "Credential": "Ontario College Graduate Certificate",
+    "Method of Study": "Full-time",
+    "Duration": "2 semesters",
+    "Starting Months": "January, September",
+    "Domestic Tuition": "$6,642.00 *",
+    "International Tuition": "$18,253.00 **",
+    "Centre": "Business",
+    "School": "Management",
+    "Location": "St. James Campus"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "opens apr 8, 2024"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "Centre for Business",
+    "General Inquiries Email": "business@georgebrown.ca",
+    "General Inquiries Phone": "(416) 415-5000 ext. 2160",
+    "Domestic Admissions Email": "admissions@georgebrown.ca",
+    "Admissions Section": "",
+    "International Admissions": {
+      "Contact Page": "International Contact Us page",
+      "Representatives": [
+        {
+          "Name": "",
+          "Country": "",
+          "Booking": "",
+          "Inquiry": ""
+        }
+      ]
+    },
+    "Fees and Financial Information Email": "FinAid@georgebrown.ca",
+    "Fees and Financial Information Section": "",
+    "Entry Advising": {
+      "Appointment": "make an appointment",
+      "FAQs": "frequently asked questions"
+    },
+    "Programs": [
+      {
+        "Name": "Centre for Business",
+        "Contact": "business@georgebrown.ca",
+        "Phone": "(416) 415-5000 ext. 2160"
+      },
+      {
+        "Name": "Supply Chain Management (B429)",
+        "Program Co-ordinator": {
+          "Name": "Sam Lampropoulos",
+          "Email": "slamprop@georgebrown.ca"
+        }
+      }
+    ],
+    "Social Channels": [
+      "Instagram",
+      "LinkedIn"
+    ]
+  }
+}

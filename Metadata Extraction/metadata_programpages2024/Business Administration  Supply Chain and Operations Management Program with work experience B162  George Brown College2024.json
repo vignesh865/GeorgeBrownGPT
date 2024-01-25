@@ -1,0 +1,105 @@
+{
+  "Program Information": {
+    "Program Name": "Business Administration – Supply Chain and Operations Management",
+    "Code": "B162",
+    "Credential": "Ontario College Advanced Diploma",
+    "Method of Study": "Full-time",
+    "Duration": "3 years (6 semesters in-class, 2 semesters work experience)",
+    "Starting Months": "January, September",
+    "Domestic Tuition": "$3,776.00 * †",
+    "International Tuition": "$17,925.00 ** †",
+    "Centre": "Business",
+    "School": "Management",
+    "Location": "St. James Campus",
+    "Experiential Learning": "Work experience (co-op or internship) required"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "opens apr 8, 2024"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "George Brown College",
+    "Domestic Admissions": {
+      "Email": "admissions@georgebrown.ca",
+      "Section": "Admissions"
+    },
+    "International Admissions": {
+      "Representatives": [
+        {
+          "Contact Method": "Virtual meeting",
+          "Country": ""
+        },
+        {
+          "Contact Method": "Submitting an inquiry",
+          "Country": ""
+        }
+      ],
+      "Contact Us Page": ""
+    },
+    "Fees and Financial Information": {
+      "Email": "FinAid@georgebrown.ca",
+      "Section": ""
+    },
+    "Entry Advising": {
+      "Appointment": "",
+      "FAQs": ""
+    },
+    "Centre for Business": {
+      "General Inquiries": {
+        "Email": "business@georgebrown.ca",
+        "Phone": "(416) 415-5000 ext. 2160"
+      },
+      "Business Administration – Supply Chain and Operations Management (B122/162)": {
+        "Program Co-ordinator": "Robert Ruggieri",
+        "Email": "rruggieri@georgebrown.ca"
+      },
+      "International Admissions": {
+        "Country Representatives": [
+          {
+            "Contact Method": "Virtual meeting",
+            "Country": ""
+          },
+          {
+            "Contact Method": "Submitting an inquiry",
+            "Country": ""
+          }
+        ],
+        "International Contact Us Page": ""
+      }
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "Program Information": {
+    "Program Name": "Human Resources Management",
+    "Code": "B408",
+    "Credential": "Ontario College Graduate Certificate",
+    "Method of Study": "Full-time",
+    "Duration": "12 months (2 semesters in-class, 1 semester work experience)",
+    "Starting Months": "January, May, September",
+    "Domestic Tuition": "$4,377.00 * †",
+    "International Tuition": "$18,295.00 ** †",
+    "Centre": "Business",
+    "School": "Human Resources",
+    "Location": "St. James Campus",
+    "Experiential Learning": "Work Experience (Co-op or Internship) Required"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "opens apr 8, 2024"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "opens aug 6, 2024"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": {
+      "General": "Contact Us",
+      "Sections": [
+        {
+          "Name": "Information Sessions",
+          "On campus": true,
+          "Sign up": true,
+          "Email": "Not provided",
+          "Office hours": "Not provided"
+        },
+        {
+          "Name": "Domestic Student Admissions",
+          "Contact method": [
+            "email",
+            "website"
+          ],
+          "Email": "admissions@georgebrown.ca",
+          "Website": "Admissions section"
+        },
+        {
+          "Name": "International Student Admissions",
+          "Contact methods": [
+            "virtual meeting",
+            "submitting an inquiry"
+          ],
+          "Email": "Not provided",
+          "Website": "International Contact Us page"
+        },
+        {
+          "Name": "Fees and Financial Information",
+          "Contact method": [
+            "email",
+            "website"
+          ],
+          "Email": "FinAid@georgebrown.ca",
+          "Website": "Financial Aid section"
+        },
+        {
+          "Name": "Entry Advising",
+          "Appointment": true,
+          "FAQs": "frequently asked questions"
+        },
+        {
+          "Name": "Centre for Business",
+          "Contact methods": [
+            "email",
+            "phone"
+          ],
+          "Email": "business@georgebrown.ca",
+          "Phone": "(416) 415-5000 ext. 2160",
+          "Human Resources Management": {
+            "Program Co-ordinator and Professor": {
+              "Name": "Viji Vibhu Prakash",
+              "Email": "Viji.VibhuPrakash@georgebrown.ca"
+            },
+            "International recruitment representatives": true,
+            "Website": "Not provided"
+          }
+        }
+      ]
+    }
+  }
+}

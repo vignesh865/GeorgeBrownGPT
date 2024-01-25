@@ -1,0 +1,65 @@
+{
+  "Program Information": {
+    "Program Name": "Cook Apprentice",
+    "Code": "H601",
+    "Credential": "George Brown College Certificate",
+    "Method of Study": "Part-time",
+    "Duration": "2–5 years",
+    "Starting Months": "Open enrolment",
+    "Domestic Tuition": "$678.00 (Classroom fee)*",
+    "Centre": "Hospitality & Culinary Arts",
+    "School": "Chef School",
+    "Location": "St. James Campus",
+    "Experiential Learning": "Apprenticeship",
+    "Fall 2023 Delivery": "Not Available",
+    "Winter 2024 Delivery": "Semester 1: On Campus"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "continuous open enrollment"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "continuous open enrollment"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "continuous open enrollment"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Department": "ADMISSIONS",
+    "Location": "14th Floor, 400 University Avenue, Toronto, Ontario M7A 1T7",
+    "Contact": "General inquiry",
+    "Phone": "416-326-7600",
+    "Programs": [
+      "Cook Apprentice Program (H601)"
+    ],
+    "Program Inquiry Contact": "CHCAStudentSupport@georgebrown.ca"
+  }
+}

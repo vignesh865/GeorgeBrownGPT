@@ -1,0 +1,81 @@
+{
+  "Program Information": {
+    "Program Name": "Registered Nurse – Operating Room Perioperative Nursing",
+    "Code": "S414",
+    "Credential": "Ontario College Graduate Certificate",
+    "Method of Study": "Full-time",
+    "Duration": "1 semester",
+    "Starting Months": "January, May, September",
+    "Domestic Tuition": "$2,301.00 *",
+    "Centre": "Health Sciences",
+    "School": "Sally Horsfall Eaton School of Nursing",
+    "Location": "Waterfront Campus",
+    "Experiential Learning": "Clinical Placement",
+    "Fall 2023 Delivery": "Semester 1: Hybrid",
+    "Winter 2024 Delivery": "Semester 1: Externship"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "George Brown College Sally Horsfall Eaton School of Nursing",
+    "Program Co-ordinator": "Chelsea Ovsonka",
+    "Co-ordinator email": "chelsea.ovsonka@georgebrown.ca",
+    "Contact email": "contact centre@georgebrown.ca",
+    "Phone": "416-415-5000, ext. 2349",
+    "Related Programs": [
+      {
+        "Name": "Practical Nursing (PN) (S121)",
+        "Type": "Ontario College Certificate"
+      },
+      {
+        "Name": "Bachelor of Science in Nursing (B.Sc.N.) (S118)",
+        "Type": "Bachelor Degree"
+      },
+      {
+        "Name": "Registered Nurse – Critical Care Nursing (Postgraduate) (S402)",
+        "Type": "Postgraduate Certificate"
+      }
+    ],
+    "Testimonial": {
+      "Student Name": "Mathumesa Muhunthan",
+      "Program": "Ontario College Graduate Certificate",
+      "Testimonial Text": "The Registered Nurse – Operating Room Perioperative Nursing program provided me with the theory and skills in order to provide safe and effective patient care in a surgical setting. By practicing each new skill in the Simulation Centre, I was able to add on to my skill set and feel confident entering my 8-week clinical placement. We were given the knowledge and hands-on skills required in order to work alongside surgeons, anesthesiologists, RNFAs and other healthcare professionals in a fast-paced environment."
+    }
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "Program Information": {
+    "Program Name": "Business – Marketing",
+    "Code": "B120",
+    "Credential": "Ontario College Diploma",
+    "Method of Study": "Full-time",
+    "Duration": "2 years (4 semesters)",
+    "Starting Months": "January, September",
+    "Domestic Tuition": "$4,509.00 *",
+    "International Tuition": "$17,455.00 **",
+    "Centre": "Business",
+    "School": "Marketing",
+    "Location": "St. James Campus",
+    "Fall 2023 Delivery": "Semester 1, 2, 3, 4: On Campus",
+    "Winter 2024 Delivery": "Semester 1, 2, 3, 4: On Campus"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "George Brown College",
+    "Services": [
+      "Information Sessions",
+      "Domestic Student Admissions",
+      "International Student Admissions",
+      "Fees and Financial Information",
+      "Entry Advising",
+      "Centre for Business"
+    ],
+    "Information Sessions": {
+      "Description": "held on a regular basis. Come and have your questions answered. Learn about the program content and career options, meet your friendly professors and staff, and experience what it is like to be in a George Brown College classroom.",
+      "Sign up": "",
+      "Domestic Contact": "admissions@georgebrown.ca",
+      "International Contacts": [
+        {
+          "Country": "",
+          "Contact": ""
+        },
+        {
+          "Country": "",
+          "Contact": ""
+        }
+      ]
+    },
+    "Domestic Student Admissions": {
+      "Email": "admissions@georgebrown.ca",
+      "Website": "Admissions section"
+    },
+    "International Student Admissions": {
+      "Virtual Meetings": [],
+      "Inquiries": "",
+      "Contact Us Page": "International Contact Us page"
+    },
+    "Fees and Financial Information": {
+      "Email": "FinAid@georgebrown.ca",
+      "Website": "Financial Aid section"
+    },
+    "Entry Advising": {
+      "Appointment": "make an appointment",
+      "FAQs": ""
+    },
+    "Centre for Business": {
+      "General Inquiries": {
+        "Email": "business@georgebrown.ca",
+        "Phone": "(416) 415-5000 ext. 2160"
+      },
+      "Programs": [
+        {
+          "Name": "Business – Marketing (B120)",
+          "Coordinator": {
+            "Name": "Adrian Bond",
+            "Email": "abond@georgebrown.ca"
+          },
+          "Chair": {
+            "Name": "John Peco",
+            "Email": "john.peco@georgebrown.ca"
+          }
+        }
+      ]
+    }
+  }
+}

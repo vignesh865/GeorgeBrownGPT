@@ -1,0 +1,66 @@
+{
+  "Program Information": {
+    "Program Name": "Dental Assisting (Levels I and II)",
+    "Code": "S113",
+    "Credential": "Ontario College Certificate",
+    "Method of Study": "Full-time",
+    "Duration": "1 year (2 semesters), September to June",
+    "Starting Months": "September",
+    "Domestic Tuition": "$7,152.00 * †",
+    "International Tuition": "$20,910.00 ** †",
+    "Centre": "Health Sciences",
+    "School": "Dental Health",
+    "Location": "Waterfront Campus",
+    "Experiential Learning": "On-site and off-site field education opportunities",
+    "Fall 2023 Delivery": "Semester 1: Hybrid",
+    "Winter 2024 Delivery": "Semester 2: Hybrid"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "sdhprograms@georgebrown.ca",
+    "Contact Type": [
+      "Phone",
+      "Email"
+    ],
+    "Contact Details": [
+      "416-415-5000, ext. 2367"
+    ]
+  }
+}

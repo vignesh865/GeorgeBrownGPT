@@ -1,0 +1,109 @@
+{
+  "Program Information": {
+    "Program Name": "Project Management",
+    "Code": "B425",
+    "Credential": "Ontario College Graduate Certificate",
+    "Method of Study": "Full-time",
+    "Duration": "8 months (2 semesters)",
+    "Starting Months": "January, September",
+    "Domestic Tuition": "$4,244.00 *",
+    "Centre": "Business",
+    "School": "Management",
+    "Location": "Online",
+    "Experiential Learning": "Simulated Learning Environment.",
+    "Fall 2023 Delivery": "Semester 1: Online",
+    "Winter 2024 Delivery": "Semester 1, 2: Online"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "Centre for Business",
+    "Contact email": "business@georgebrown.ca",
+    "Phone": "(416) 415-5000 ext. 2160",
+    "Services": [
+      "Domestic Student Admissions",
+      "International Student Admissions",
+      "Fees and Financial Information",
+      "Entry Advising"
+    ],
+    "Admissions": {
+      "Contact": "Admissions Office",
+      "Email": "admissions@georgebrown.ca",
+      "Domestic Students": {
+        "Inquiries": [
+          "requirements",
+          "deadlines",
+          "process"
+        ]
+      },
+      "International Students": {
+        "Representatives": [
+          {
+            "Country of Origin": "",
+            "Contact": "",
+            "Methods": [
+              "Booking a virtual meeting",
+              "Submitting an inquiry"
+            ]
+          }
+        ],
+        "Contact Us Page": ""
+      },
+      "Financial Aid": {
+        "Contact": "Financial Aid Office",
+        "Email": "FinAid@georgebrown.ca"
+      },
+      "Entry Advising": {
+        "Appointment": "",
+        "FAQ": ""
+      },
+      "Programs": [
+        {
+          "Name": "Project Management (B425)",
+          "Contact": "Saifur Rahman",
+          "Email": "mdsaifur.rahman@georgebrown.ca"
+        }
+      ],
+      "Social Media": [
+        "Instagram",
+        "LinkedIn"
+      ]
+    }
+  }
+}

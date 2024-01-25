@@ -1,0 +1,97 @@
+{
+  "Program Information": {
+    "Program Name": "Academic Upgrading",
+    "Code": "A751",
+    "Credential": "George Brown College Certificate",
+    "Method of Study": "Part-time",
+    "Duration": "1 to 3 semesters depending on student’s goals",
+    "Starting Months": "February, April, June, August, October, December",
+    "Domestic Tuition": "There are no fees. This program is funded by Employment Ontario through the Ministry of Labour, Training and Skills Development (MLTSD).",
+    "Centre": "Preparatory & Liberal Studies",
+    "School": "Work & College Preparation",
+    "Location": "St. James Campus",
+    "Fall 2023 Delivery": "Semester 1: Choice",
+    "Winter 2024 Delivery": "Semester 1: Hybrid"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "continuous open enrollment"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "continuous open enrollment"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "continuous open enrollment"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact Us": "",
+    "Phone": "416-415-5000, ext. 3560",
+    "Email": "upgradinginfo@georgebrown.ca",
+    "Academic Upgrading Program": {
+      "Application": {
+        "Instructions": "Complete your application form.",
+        "Form Location": ""
+      },
+      "CHOICES": {
+        "Description": "Join our free week-long CHOICES class, offered at St. James Campus.",
+        "Learn More": "Visit our CHOICES page",
+        "Email": "choices@georgebrown.ca"
+      },
+      "MSAP": {
+        "Description": "Take our free three-week Mature Student Assessment Preparation class.",
+        "Registration": "Register online or email msap@georgebrown.ca"
+      },
+      "U-LEVEL": {
+        "Description": "Register for our Degree Bridging (U-level) courses.",
+        "Registration": "Register here",
+        "Acceptance": [
+          {
+            "Degree Programs": "George Brown College",
+            "Courses": [
+              "English, math, sciences and biology"
+            ]
+          },
+          {
+            "Universities or Other Institutions": "Not transferrable"
+          }
+        ],
+        "Additional Information": "These courses are accepted by George Brown College and Curriculum Services Canada as U-level equivalent courses for entrance to George Brown degree programs (courses currently not accepted for entrance to Ryerson BScN program)."
+      },
+      "ACE Distance": {
+        "Description": "Want to upgrade for post-secondary or apprenticeships online? ACE level classes in math, sciences, computers and communications are available online through our ACE Distance Program."
+      },
+      "DAUP": {
+        "Description": "Are you Deaf or hard of hearing? George Brown also offers Academic Upgrading for Deaf and hard-of-hearing adults.",
+        "Online Study": "Join Deaf Learn Now"
+      }
+    }
+  }
+}

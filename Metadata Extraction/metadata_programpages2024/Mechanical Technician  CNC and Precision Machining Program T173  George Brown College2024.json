@@ -1,0 +1,61 @@
+{
+  "Program Information": {
+    "Program Name": "Mechanical Technician – CNC and Precision Machining",
+    "Code": "T173",
+    "Credential": "Ontario College Diploma",
+    "Method of Study": "Full-time",
+    "Duration": "2 years (4 semesters and 1 co-op term)",
+    "Starting Months": "January, September",
+    "Domestic Tuition": "$5,921.00 * †",
+    "International Tuition": "$26,927.00 ** †",
+    "Centre": "Construction & Engineering Technologies",
+    "School": "Mechanical Engineering Technologies",
+    "Location": "Casa Loma Campus",
+    "Experiential Learning": "15-week mandatory co-op in Year 2"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "opens apr 8, 2024"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "School of Mechanical Engineering Technologies",
+    "Contact email": "engineeringtech@georgebrown.ca",
+    "Phone": "416-415-5000, ext. 4365",
+    "Office Hours": "8 a.m. – 4 p.m.",
+    "Location": "room D305"
+  }
+}

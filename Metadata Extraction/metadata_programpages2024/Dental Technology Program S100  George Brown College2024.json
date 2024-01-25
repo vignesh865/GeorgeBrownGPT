@@ -1,0 +1,62 @@
+{
+  "Program Information": {
+    "Program Name": "Dental Technology",
+    "Code": "S100",
+    "Credential": "Ontario College Advanced Diploma",
+    "Method of Study": "Full-time",
+    "Duration": "3 years (6 semesters)",
+    "Starting Months": "September",
+    "Domestic Tuition": "$9,795.00 * †",
+    "International Tuition": "$36,959.00 ** †",
+    "Centre": "Health Sciences",
+    "School": "Dental Health",
+    "Location": "Waterfront Campus",
+    "Experiential Learning": "Field Education"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "sdhprograms@georgebrown.ca, 416-415-5000, ext. 2367",
+    "Program Information": {
+      "Dental Hygiene (S134)": {},
+      "Dental Assisting (Levels I and II) (S113)": {},
+      "Denturism (S101)": {}
+    }
+  }
+}

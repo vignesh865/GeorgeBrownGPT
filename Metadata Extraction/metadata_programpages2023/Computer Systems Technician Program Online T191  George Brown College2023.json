@@ -1,0 +1,63 @@
+{
+  "Program Information": {
+    "Program Name": "Computer Systems Technician",
+    "Code": "T191",
+    "Credential": "Ontario College Diploma",
+    "Method of Study": "Full-time",
+    "Duration": "2 years (4 semesters)",
+    "Starting Months": "January, September",
+    "Domestic Tuition": "$4,236.00 *",
+    "Centre": "Arts, Design & Information Technology",
+    "School": "Computer Technology",
+    "Location": "Online",
+    "Fall 2023 Delivery": "Semester 1, 3: Online",
+    "Winter 2024 Delivery": "Semester 1, 2, 4: Online"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "School of Computer Technology",
+    "Contact email": "computertechnology@georgebrown.ca",
+    "Phone": "416-415-5000, ext. 4287",
+    "Office Hours": "Monday – Friday: 9 a.m. – 4 p.m.",
+    "Program Co-ordinator": "Maziar Masoudi",
+    "Co-ordinator email": "mmasoudi@georgebrown.ca",
+    "Co-ordinator Phone": "416-415-5000, ext. 3345"
+  }
+}

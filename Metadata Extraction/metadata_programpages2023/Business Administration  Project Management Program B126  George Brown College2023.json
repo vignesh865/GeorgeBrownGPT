@@ -1,0 +1,79 @@
+{
+  "Program Information": {
+    "Program Name": "Business Administration – Project Management",
+    "Code": "B126",
+    "Credential": "Ontario College Advanced Diploma",
+    "Method of Study": "Full-time",
+    "Duration": "3 years (6 semesters)",
+    "Starting Months": "January, September",
+    "Domestic Tuition": "$4,640.00 *",
+    "International Tuition": "$17,455.00 **",
+    "Centre": "Business",
+    "School": "Management",
+    "Location": "St. James Campus",
+    "Experiential Learning": "Field Education Course (Optional)",
+    "Fall 2023 Delivery": "Semester 1, 2, 3, 4, 5, 6: On Campus",
+    "Winter 2024 Delivery": "Semester 1, 2, 3, 4, 5, 6: On Campus"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "Centre for Business",
+    "General Inquiries Email": "business@georgebrown.ca",
+    "General Inquiries Phone": "(416) 415-5000 ext. 2160",
+    "Program": "Business Administration – Project Management (B126/156)",
+    "Program Coordinator": "Saifur Rahman",
+    "Program Coordinator Email": "MdSaifur.Rahman@georgebrown.ca",
+    "Admissions Domestic": {
+      "Email": "admissions@georgebrown.ca",
+      "Section": "Admissions"
+    },
+    "Admissions International": {
+      "ContactUsPage": "International Contact Us page"
+    },
+    "FeesFinancialInformation": {
+      "Email": "FinAid@georgebrown.ca",
+      "Section": "Financial Aid"
+    },
+    "EntryAdvising": {
+      "Appointment": "make an appointment",
+      "FAQ": "frequently asked questions"
+    }
+  }
+}

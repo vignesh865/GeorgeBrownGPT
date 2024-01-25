@@ -1,0 +1,92 @@
+{
+  "Program Information": {
+    "Program Name": "International Business Management",
+    "Code": "B411",
+    "Credential": "Ontario College Graduate Certificate",
+    "Method of Study": "Full-time",
+    "Duration": "8 months (2 semesters)",
+    "Starting Months": "January, May, September",
+    "Domestic Tuition": "$5,168.00 *",
+    "International Tuition": "$17,826.00* *",
+    "Centre": "Business",
+    "School": "Management",
+    "Location": "St. James Campus",
+    "Fall 2023 Delivery": "Semester 1, 2: On Campus",
+    "Winter 2024 Delivery": "Semester 1, 2: On Campus"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "open"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "George Brown College",
+    "Information Sessions": {
+      "On-campus": {
+        "Description": "held on a regular basis for domestic and international students.",
+        "Sign up": "sign up for an upcoming session.",
+        "Domestic Students": {
+          "Email": "admissions@georgebrown.ca",
+          "Website": "Admissions section"
+        },
+        "International Students": {
+          "Contact Us Page": "International Contact Us page"
+        }
+      },
+      "Fees and Financial Information": {
+        "Inquiries": {
+          "Email": "FinAid@georgebrown.ca",
+          "Website": "Financial Aid section"
+        }
+      },
+      "Entry Advising": {
+        "Make an Appointment": "to see an Entry Advisor.",
+        "FAQs": "frequently asked questions"
+      },
+      "Centre for Business": {
+        "General Inquiries": {
+          "Email": "business@georgebrown.ca",
+          "Phone": "(416) 415-5000 ext. 2160"
+        },
+        "International Business Management (B411)": {
+          "Program Coordinator": "Philip Eng",
+          "Email": "peng@georgebrown.ca",
+          "Contact Us Page": "International Contact Us page"
+        }
+      }
+    }
+  }
+}

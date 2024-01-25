@@ -1,0 +1,100 @@
+{
+  "Program Information": {
+    "Program Name": "Entrepreneurship Management",
+    "Code": "B416",
+    "Credential": "Ontario College Graduate Certificate",
+    "Method of Study": "Full-time",
+    "Duration": "8 months (2 semesters)",
+    "Starting Months": "January, September",
+    "Domestic Tuition": "$4,135.00 *",
+    "International Tuition": "$18,253.00 **",
+    "Centre": "Business",
+    "School": "Management",
+    "Location": "St. James Campus"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "opens apr 8, 2024"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contacts": [
+      {
+        "Name": "Admissions Office",
+        "Contact email": "admissions@georgebrown.ca",
+        "Department": "Domestic Student Admissions"
+      },
+      {
+        "Name": "Financial Aid Office",
+        "Contact email": "FinAid@georgebrown.ca",
+        "Department": "Fees and Financial Information"
+      },
+      {
+        "Name": "Centre for Business (General Inquiries)",
+        "Contact email": "business@georgebrown.ca",
+        "Phone": "(416) 415-5000 ext. 2160",
+        "Department": "Centre for Business"
+      },
+      {
+        "Name": "Tom Supra (Entrepreneurship Management Program Co-ordinator)",
+        "Contact email": "tsupra@georgebrown.ca",
+        "Department": "Entrepreneurship Management (B416)"
+      }
+    ],
+    "Information Sessions": {
+      "Name": "Information Sessions",
+      "Description": "On-campus information sessions are held on a regular basis.",
+      "Sign up": "Sign up for an upcoming session."
+    },
+    "International Student Admissions": {
+      "Contact Methods": [
+        {
+          "Type": "Virtual Meeting",
+          "Instructions": "Book a virtual meeting"
+        },
+        {
+          "Type": "Inquiry Submission",
+          "Instructions": "Submit an inquiry"
+        }
+      ],
+      "Information Source": "International Contact Us page"
+    },
+    "Program Advising": {
+      "Appointment": "Make an appointment to see an Entry Advisor",
+      "FAQ": "review these frequently asked questions"
+    }
+  }
+}

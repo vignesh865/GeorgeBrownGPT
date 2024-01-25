@@ -1,0 +1,69 @@
+{
+  "Program Information": {
+    "Program Name": "Event Planning",
+    "Code": "H141",
+    "Credential": "Ontario College Diploma",
+    "Method of Study": "Full-time",
+    "Duration": "2 years (4 semesters)",
+    "Starting Months": "January, May, September",
+    "Domestic Tuition": "$4,980.00 * †",
+    "International Tuition": "$19,017.00 ** †",
+    "Centre": "Hospitality & Culinary Arts",
+    "School": "Hospitality & Tourism Management",
+    "Location": "St. James Campus",
+    "Experiential Learning": "We believe in learning by doing, and that is why we have incorporated work-integrated learning opportunities into all CHCA programs."
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "opens apr 8, 2024"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "opens aug 6, 2024"
+    }
+  ],
+  "Contact Related Information": {
+    "Contacts": {
+      "Domestic Student Admissions": {
+        "Email": "admissions@georgebrown.ca",
+        "Web page": ""
+      },
+      "Financial Aid": {
+        "Email": "FinAid@georgebrown.ca",
+        "Web page": ""
+      },
+      "School of Hospitality and Tourism Management - Event Planning": {
+        "Email": "chcastudentsupport@georgebrown.ca"
+      }
+    }
+  }
+}

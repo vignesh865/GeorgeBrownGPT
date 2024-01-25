@@ -1,0 +1,92 @@
+{
+  "Program Information": {
+    "Program Name": "Community Worker",
+    "Code": "C101",
+    "Credential": "Ontario College Diploma",
+    "Method of Study": "Full-time",
+    "Duration": "2 years (4 semesters)",
+    "Starting Months": "September",
+    "Domestic Tuition": "$3,773.00 *",
+    "International Tuition": "$17,905.00 **",
+    "Centre": "Community Services & Early Childhood",
+    "School": "Social & Community Services",
+    "Location": "St. James Campus",
+    "Experiential Learning": "Field Placement"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "School of Social & Community Services",
+    "Email": "communityservices@georgebrown.ca",
+    "Coordinator Name": "Farhia Abdi",
+    "Coordinator Email": "fabdi7@georgebrown.ca",
+    "International Students Contact": {
+      "International Centre": "",
+      "Recruitment Representatives": [
+        {
+          "Country of Origin": "",
+          "Contact Methods": [
+            "Book a virtual meeting",
+            "Submit an inquiry"
+          ]
+        }
+      ]
+    },
+    "Accessible Learning Services Contact": "",
+    "Related Programs": [
+      {
+        "ProgramName": "Social Service Worker (C119)",
+        "DiplomaType": "Ontario College Diploma"
+      },
+      {
+        "ProgramName": "Social Service Worker (Accelerated) (C135)",
+        "DiplomaType": "Ontario College Diploma"
+      },
+      {
+        "ProgramName": "Child and Youth Care (C133)",
+        "DiplomaType": "Ontario College Diploma"
+      }
+    ],
+    "Student Testimonial": {
+      "StudentName": "Gigi Chiamoh",
+      "Program": "Community Worker (C101)",
+      "Testimonial": ""
+    }
+  }
+}

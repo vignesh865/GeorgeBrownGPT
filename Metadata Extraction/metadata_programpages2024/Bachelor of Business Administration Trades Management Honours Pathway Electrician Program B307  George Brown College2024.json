@@ -1,0 +1,77 @@
+{
+  "Program Information": {
+    "Program Name": "Bachelor of Business Administration (Trades Management) (Honours) (Pathway Electrician)",
+    "Code": "B307",
+    "Credential": "Honours Bachelor's Degree",
+    "Method of Study": "Online",
+    "Duration": "5 semesters (with up to 8 years for completion part-time)",
+    "Starting Months": "January, May, September",
+    "Domestic Tuition": "This is a flexible degree program and tuition will vary based on the course or courses you enrol in at any given time. Please contact the department for more information using this email: business@georgebrown.ca",
+    "Centre": "Business",
+    "School": "Management",
+    "Location": "St. James Campus"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "Centre for Business",
+    "General Inquiries Email": "business@georgebrown.ca",
+    "General Inquiries Phone": "(416) 415-5000 ext. 2160",
+    "Programs": [
+      {
+        "Program": "Honours Bachelor of Business Administration (Trades Management)",
+        "Program Co-ordinator": "Joyce Manu",
+        "Program Co-ordinator Email": "jmanu@georgebrown.ca"
+      }
+    ],
+    "Admissions": {
+      "Domestic Students": {
+        "Contact": "Admissions Office",
+        "Contact Email": "admissions@georgebrown.ca"
+      },
+      "International Students": {
+        "Contact Page": "International Contact Us page"
+      }
+    },
+    "Financial Aid": {
+      "Contact": "Financial Aid Office",
+      "Contact Email": "FinAid@georgebrown.ca"
+    }
+  }
+}

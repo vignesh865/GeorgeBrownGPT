@@ -1,0 +1,63 @@
+{
+  "Program Information": {
+    "Program Name": "Advanced Manufacturing",
+    "Code": "T414",
+    "Credential": "Ontario College Graduate Certificate",
+    "Method of Study": "Full-time",
+    "Duration": "1 year - 2 semesters",
+    "Starting Months": "January, September",
+    "Domestic Tuition": "$6,752.00 *",
+    "International Tuition": "$18178.00 **",
+    "Centre": "Construction & Engineering Technologies",
+    "School": "Mechanical Engineering Technologies",
+    "Location": "Casa Loma Campus",
+    "Experiential Learning": "Several courses are experientially based and occur in a machine shop where students practice and master applied skills crucial to this work.",
+    "Fall 2023 Delivery": "Semester 1: Hybrid",
+    "Winter 2024 Delivery": "Semester 2: On Campus"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "School of Mechanical Engineering Technologies",
+    "Contact email": "engineeringtech@georgebrown.ca",
+    "Phone": "416-415-5000, ext. 4365",
+    "Office Hours": "8 a.m. – 4 p.m.",
+    "Location": "room D305"
+  }
+}

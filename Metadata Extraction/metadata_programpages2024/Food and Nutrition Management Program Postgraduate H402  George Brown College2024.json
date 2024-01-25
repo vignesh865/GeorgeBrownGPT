@@ -1,0 +1,72 @@
+{
+  "Program Information": {
+    "Program Name": "Food and Nutrition Management",
+    "Code": "H402",
+    "Credential": "Ontario College Graduate Certificate",
+    "Method of Study": "Full-time",
+    "Duration": "1 year (2 semesters) September to May",
+    "Starting Months": "September",
+    "Domestic Tuition": "$4,685.00 * †",
+    "International Tuition": "$18,605.00 ** †",
+    "Centre": "Hospitality & Culinary Arts",
+    "School": "Chef School",
+    "Location": "St. James Campus",
+    "Experiential Learning": "We believe in learning by doing, and that is why we have incorporated work-integrated learning opportunities into all CHCA programs."
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contacts": [
+      {
+        "Contact Type": "Admissions",
+        "Contact Email": "admissions@georgebrown.ca",
+        "Contact Webpage": ""
+      },
+      {
+        "Contact Type": "Financial Aid",
+        "Contact Email": "FinAid@georgebrown.ca",
+        "Contact Webpage": ""
+      },
+      {
+        "Contact Type": "Chef School Inquiries",
+        "Contact Email": "CHCAStudentSupport@georgebrown.ca"
+      }
+    ]
+  }
+}

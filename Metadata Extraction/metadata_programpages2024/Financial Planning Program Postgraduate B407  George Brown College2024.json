@@ -1,0 +1,116 @@
+{
+  "Program Information": {
+    "Program Name": "Financial Planning",
+    "Code": "B407",
+    "Credential": "Ontario College Graduate Certificate",
+    "Method of Study": "Full-time",
+    "Duration": "8 months (2 semesters)",
+    "Starting Months": "January, May, September",
+    "Domestic Tuition": "$4,115.00 *",
+    "International Tuition": "$18,253.00 **",
+    "Centre": "Business",
+    "School": "Accounting & Finance",
+    "Location": "St. James Campus"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "opens apr 8, 2024"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "opens aug 6, 2024"
+    }
+  ],
+  "Contact Related Information": {
+    "Services": {
+      "Information Sessions": {
+        "Description": "On-campus information sessions are held on a regular basis.",
+        "Sign Up": "",
+        "Contact": ""
+      },
+      "Domestic Student Admissions": {
+        "Email": "admissions@georgebrown.ca",
+        "Website": "Admissions section"
+      },
+      "International Student Admissions": {
+        "Contacts": [
+          {
+            "Name": "international recruitment representatives",
+            "Contact Methods": [
+              "Booking a virtual meeting",
+              "Submitting an inquiry"
+            ],
+            "Website": "International Contact Us page"
+          }
+        ]
+      },
+      "Fees and Financial Information": {
+        "Email": "FinAid@georgebrown.ca",
+        "Website": "Financial Aid section"
+      },
+      "Entry Advising": {
+        "Appointment": "make an appointment",
+        "FAQ": "",
+        "Contact": ""
+      },
+      "Centre for Business": {
+        "General Inquiries": {
+          "Email": "business@georgebrown.ca",
+          "Phone": "(416) 415-5000 ext. 2160"
+        },
+        "Financial Planning (B407)": {
+          "Program Co-ordinators": [
+            {
+              "Name": "Tracey Britt",
+              "Email": "tbritt1@georgebrown.ca"
+            },
+            {
+              "Name": "Carolyn Fallis",
+              "Email": "cfallis@georgebrown.ca"
+            }
+          ]
+        },
+        "International Students Admissions (Country specific)": {
+          "Contacts": [
+            {
+              "Contact Methods": [
+                "Booking a virtual meeting",
+                "Submitting an inquiry"
+              ],
+              "Website": "International Contact Us page"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

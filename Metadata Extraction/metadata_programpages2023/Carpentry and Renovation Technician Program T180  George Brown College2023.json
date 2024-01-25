@@ -1,0 +1,65 @@
+{
+  "Program Information": {
+    "Program Name": "Carpentry and Renovation Technician",
+    "Code": "T180",
+    "Credential": "Ontario College Diploma",
+    "Method of Study": "Full-time",
+    "Duration": "2 years (4 semesters)",
+    "Starting Months": "January, September",
+    "Domestic Tuition": "$3,978.00 *",
+    "International Tuition": "$17,673.00 **",
+    "Centre": "Construction & Engineering Technologies",
+    "School": "Apprenticeship & Skilled Trades",
+    "Location": "Casa Loma Campus",
+    "Experiential Learning": "Field Placement",
+    "Fall 2023 Delivery": "Semester 1, 3: On Campus",
+    "Winter 2024 Delivery": "Semester 1, 2, 4: On Campus"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "School of Apprenticeship and Skilled Trades",
+    "Contact email": "skilledtrades@georgebrown.ca",
+    "Phone": "416-415-5000, ext. 6711",
+    "Location": {
+      "Campus": "Casa Loma Campus",
+      "Room number": "E308"
+    }
+  }
+}

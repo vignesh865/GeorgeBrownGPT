@@ -1,0 +1,62 @@
+{
+  "Program Information": {
+    "Program Name": "Plumbing Techniques",
+    "Code": "T165",
+    "Credential": "Ontario College Certificate",
+    "Method of Study": "Full-time",
+    "Duration": "1 year (2 semesters)",
+    "Starting Months": "May",
+    "Domestic Tuition": "$5,241.00 *",
+    "International Tuition": "$18,070.00 **",
+    "Centre": "Construction & Engineering Technologies",
+    "School": "Apprenticeship & Skilled Trades",
+    "Location": "Casa Loma Campus"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "opens aug 6, 2024"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "School of Apprenticeship and Skilled Trades",
+    "Contact phone": "416-415-5000, ext. 6711",
+    "Contact email": "skilledtrades@georgebrown.ca",
+    "Location": {
+      "Campus": "Casa Loma Campus",
+      "Room number": "E308"
+    }
+  }
+}

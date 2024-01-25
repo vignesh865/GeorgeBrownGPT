@@ -1,0 +1,73 @@
+{
+  "Program Information": {
+    "Program Name": "Honours Bachelor of Business Administration (Hospitality)",
+    "Code": "H311",
+    "Credential": "Honours Bachelor's Degree",
+    "Method of Study": "Full-time",
+    "Duration": "4 years (8 semesters plus 2 co-op terms)",
+    "Starting Months": "September",
+    "Domestic Tuition": "$9,012.00 * † ‡",
+    "International Tuition": "$20,579.00 ** † ‡",
+    "Centre": "Hospitality & Culinary Arts",
+    "School": "Hospitality & Tourism Management",
+    "Location": "St. James Campus",
+    "Experiential Learning": "Co-op (Paid)",
+    "Fall 2023 Delivery": "Semester 1, 3, 5: Hybrid; Semester 7: Online",
+    "Winter 2024 Delivery": "Semester 2, 4, 6, 8: Hybrid"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contacts": {
+      "Admissions": {
+        "Contact": "DOMESTIC STUDENT ADMISSIONS",
+        "Email": "admissions@georgebrown.ca",
+        "Webpage": "Admissions web page"
+      },
+      "Financial Aid": {
+        "Contact": "FINANCIAL/FEES",
+        "Email": "FinAid@georgebrown.ca",
+        "Webpage": "Financial Aid web page"
+      },
+      "School of Hospitality and Tourism Management": {
+        "Support Email": "chcastudentsupport@georgebrown.ca"
+      }
+    }
+  }
+}

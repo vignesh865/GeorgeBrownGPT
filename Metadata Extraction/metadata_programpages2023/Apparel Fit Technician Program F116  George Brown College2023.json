@@ -1,0 +1,62 @@
+{
+  "Program Information": {
+    "Program Name": "Apparel Fit Technician",
+    "Code": "F116",
+    "Credential": "George Brown College Certificate",
+    "Method of Study": "Part-time",
+    "Duration": "1 semester (16 weeks)",
+    "Starting Months": "January, May, July, September",
+    "Domestic Tuition": "Tuition funded for eligible participants",
+    "Centre": "Arts, Design & Information Technology",
+    "School": "Fashion & Jewellery",
+    "Location": "Fashion Exchange, 63 Regent Park Blvd.",
+    "Experiential Learning": "100 Hours Work-Integrated Field Placement",
+    "Fall 2023 Delivery": "Semester 1: On Campus",
+    "Winter 2024 Delivery": "Semester 1: On Campus"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "Fashion Exchange",
+    "Contact address": "63 Regent Park Blvd., Toronto",
+    "Person in charge": "Jeanine Larmour",
+    "Email": "jlarmour@georgebrown.ca",
+    "Phone": "416-415-5000, ext. 4591"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "Program Information": {
+    "Program Name": "Business Administration – Supply Chain and Operations Management",
+    "Code": "B122",
+    "Credential": "Ontario College Advanced Diploma",
+    "Method of Study": "Full-time",
+    "Duration": "3 years (6 semesters)",
+    "Starting Months": "January, September",
+    "Domestic Tuition": "$3,776.00 *",
+    "International Tuition": "$17,925.00 **",
+    "Centre": "Business",
+    "School": "Management",
+    "Location": "St. James Campus",
+    "Experiential Learning": "Field Education Course (Optional)"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "opens apr 8, 2024"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": {
+      "General": {
+        "Email": "business@georgebrown.ca",
+        "Phone": "(416) 415-5000 ext. 2160"
+      },
+      "Domestic Students": {
+        "Contact": "Admissions Office",
+        "Email": "admissions@georgebrown.ca"
+      },
+      "International Students": {
+        "Contact Methods": [
+          {
+            "Method": "Virtual Meeting",
+            "Details": []
+          },
+          {
+            "Method": "Inquiry Submission",
+            "Details": [
+              {
+                "Page": "International Contact Us page"
+              }
+            ]
+          }
+        ],
+        "Country Specialists": [
+          {
+            "Name": "Robert Ruggieri",
+            "Title": "Program Co-ordinator",
+            "Email": "rruggieri@georgebrown.ca"
+          },
+          {
+            "Name": "Linda Jin-Troendle",
+            "Title": "Chair, School of Management",
+            "Email": "linda.jin-troendle@georgebrown.ca"
+          }
+        ]
+      },
+      "Financial Aid": {
+        "Contact": "Financial Aid Office",
+        "Email": "FinAid@georgebrown.ca"
+      },
+      "Entry Advising": {
+        "Service": {
+          "Appointment Making": {}
+        },
+        "FAQ Link": "frequently asked questions"
+      },
+      "Centre for Business Programs": [
+        {
+          "Program": "Business Administration – Supply Chain and Operations Management (B122)",
+          "Contact": {
+            "Co-ordinator": {
+              "Name": "Robert Ruggieri",
+              "Title": "Program Co-ordinator",
+              "Email": "rruggieri@georgebrown.ca"
+            },
+            "Chair": {
+              "Name": "Linda Jin-Troendle",
+              "Title": "Chair, School of Management",
+              "Email": "linda.jin-troendle@georgebrown.ca"
+            }
+          }
+        }
+      ],
+      "Information Sessions": {
+        "Description": "held on a regular basis",
+        "Location": "campus",
+        "Session Sign Up": {}
+      },
+      "Admissions Information": {
+        "Domestic Students": {
+          "Contact": "Admissions Office",
+          "Email": "admissions@georgebrown.ca"
+        },
+        "International Students": {
+          "Country Specialists": [
+            {
+              "Method": "Virtual Meeting",
+              "Details": []
+            },
+            {
+              "Method": "Inquiry Submission",
+              "Details": [
+                {
+                  "Page": "International Contact Us page"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "Program Information": {
+    "Program Name": "Pre-Health Sciences Pathway to Advanced Diplomas and Degrees",
+    "Code": "A108",
+    "Credential": "Ontario College Certificate",
+    "Method of Study": "Full-time",
+    "Duration": "1 year (2 semesters)",
+    "Starting Months": "January, May, September",
+    "Domestic Tuition": "$3,876.00 *",
+    "International Tuition": "$17,504.00 **",
+    "Centre": "Preparatory & Liberal Studies",
+    "School": "Work & College Preparation",
+    "Location": "St. James Campus",
+    "Fall 2023 Delivery": "Semester 1: Hybrid",
+    "Winter 2024 Delivery": "Semester 1, 2: Hybrid"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "open"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "Pathway Advisor",
+    "Contact email": "preparation@georgebrown.ca",
+    "Phone": "416-415-5000, ext. 2874",
+    "International Students Contact": {
+      "Method": [
+        "email",
+        "telephone"
+      ],
+      "Representatives": [],
+      "Country Specific Representatives": [],
+      "Virtual Meetings": true,
+      "Inquiries": true,
+      "International Contact Us Page": "https://georgebrown.ca/international-contact-us"
+    }
+  }
+}

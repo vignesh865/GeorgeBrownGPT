@@ -1,0 +1,58 @@
+{
+  "Program Information": {
+    "Program Name": "Bachelor of Science in Nursing",
+    "Code": "S118",
+    "Credential": "Toronto Metropolitan University Bachelor's Degree",
+    "Method of Study": "Full-time",
+    "Duration": "4 years (8 semesters)",
+    "Starting Months": "September",
+    "Domestic Tuition": "$7,307.00 *",
+    "Centre": "Health Sciences",
+    "School": "Sally Horsfall Eaton School of Nursing",
+    "Location": "George Brown College at Toronto Metropolitan University Campus",
+    "Experiential Learning": "Clinical Placement"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "Sally Horsfall Eaton School of Nursing",
+    "Contact email": "nursing@georgebrown.ca",
+    "Phone": "416-415-5000, ext. 2367"
+  }
+}

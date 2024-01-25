@@ -1,0 +1,129 @@
+{
+  "Program Information": {
+    "Program Name": "Sport and Event Marketing",
+    "Code": "B400",
+    "Credential": "Ontario College Graduate Certificate",
+    "Method of Study": "Full-time",
+    "Duration": "12 months (2 semesters in-class, 1 semester work experience)",
+    "Starting Months": "January, May, September",
+    "Domestic Tuition": "$4,310.00 *†",
+    "International Tuition": "$17,774.00 **†",
+    "Centre": "Business",
+    "School": "Marketing",
+    "Location": "St. James Campus",
+    "Experiential Learning": "Work Experience (Co-op or Internship) Required",
+    "Fall 2023 Delivery": "Semester 1, 2: On Campus; Semester 3: Co-op",
+    "Winter 2024 Delivery": "Semester 1, 2: On Campus; Semester 3: Co-op"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "open"
+    }
+  ],
+  "Contact Related Information": {
+    "Contacts": [
+      {
+        "Department": "Information Sessions",
+        "Contact email": "not provided",
+        "Office hours": "On-campus information sessions are held on a regular basis",
+        "Sign up": {
+          "URL": "not provided"
+        }
+      },
+      {
+        "Department": "Domestic Student Admissions",
+        "Contact email": "admissions@georgebrown.ca",
+        "Website": "Admissions section"
+      },
+      {
+        "Department": "International Student Admissions",
+        "Contacts": [
+          {
+            "Name": "International recruitment representatives",
+            "Methods": [
+              "Booking a virtual meeting",
+              "Submitting an inquiry"
+            ],
+            "Contact URL": "International Contact Us page"
+          },
+          {
+            "Name": "Peter Widdis",
+            "Title": "Program Co-ordinator",
+            "Email": "pwiddis@georgebrown.ca"
+          }
+        ],
+        "Chair": {
+          "Name": "John Peco",
+          "Email": "john.peco@georgebrown.ca"
+        },
+        "Contact email (International)": "not provided"
+      },
+      {
+        "Department": "Fees and Financial Information",
+        "Contact email": "FinAid@georgebrown.ca",
+        "Website": "Financial Aid section"
+      },
+      {
+        "Department": "Entry Advising",
+        "Appointment": {
+          "URL": "not provided"
+        },
+        "FAQs": {
+          "URL": "frequently asked questions"
+        }
+      },
+      {
+        "Department": "Centre for Business",
+        "Contact methods": [
+          {
+            "Method": "Email",
+            "Email": "business@georgebrown.ca"
+          },
+          {
+            "Method": "Phone",
+            "Number": "(416) 415-5000 ext. 2160"
+          }
+        ],
+        "Program Co-ordinator (Sport & Event Marketing)": "Peter Widdis",
+        "Email (Program Co-ordinator)": "pwiddis@georgebrown.ca",
+        "Chair – School of Marketing": {
+          "Name": "John Peco",
+          "Email": "john.peco@georgebrown.ca"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "Program Information": {
+    "Program Name": "Dance Performance Preparation",
+    "Code": "P101",
+    "Credential": "Ontario College Certificate",
+    "Method of Study": "Full-time",
+    "Duration": "1 year (2 semesters)",
+    "Starting Months": "September",
+    "Domestic Tuition": "$5,644.00 * ‡",
+    "International Tuition": "$19,179.00 ** ‡",
+    "Centre": "Arts, Design & Information Technology",
+    "School": "Media & Performing Arts",
+    "Location": "Casa Loma Campus",
+    "Fall 2023 Delivery": "Semester 1: On Campus",
+    "Winter 2024 Delivery": "Semester 2: On Campus"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "School of Media and Performing Arts",
+    "Program Co-ordinator": "Kia Kotsanis",
+    "Phone": "416-415-5000, ext. 2196",
+    "Email": [
+      "dance@georgebrown.ca",
+      "education@balletjorgen.ca"
+    ]
+  }
+}

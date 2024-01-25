@@ -1,0 +1,59 @@
+{
+  "Program Information": {
+    "Program Name": "Mechanical Techniques",
+    "Code": "T149",
+    "Credential": "Ontario College Certificate",
+    "Method of Study": "Full-time",
+    "Duration": "14 weeks (2 semesters)",
+    "Starting Months": "May",
+    "Domestic Tuition": "$3,909.00 * †",
+    "Centre": "Construction & Engineering Technologies",
+    "School": "Mechanical Engineering Technologies",
+    "Location": "Casa Loma Campus"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "School of Mechanical Engineering Technologies",
+    "Contact email": "engineeringtech@georgebrown.ca",
+    "Phone": "416-415-5000, ext. 4365",
+    "Office Hours": "8 a.m. – 4 p.m.",
+    "Location": "room D305"
+  }
+}

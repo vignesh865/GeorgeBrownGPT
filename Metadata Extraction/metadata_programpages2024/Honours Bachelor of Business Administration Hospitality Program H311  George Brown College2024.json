@@ -1,0 +1,71 @@
+{
+  "Program Information": {
+    "Program Name": "Honours Bachelor of Business Administration (Hospitality)",
+    "Code": "H311",
+    "Credential": "Honours Bachelor's Degree",
+    "Method of Study": "Full-time",
+    "Duration": "4 years (8 semesters plus 2 co-op terms)",
+    "Starting Months": "September",
+    "Domestic Tuition": "$9,118.00 * † ‡",
+    "International Tuition": "$21,138.00 ** † ‡",
+    "Centre": "Hospitality & Culinary Arts",
+    "School": "Hospitality & Tourism Management",
+    "Location": "St. James Campus",
+    "Experiential Learning": "Co-op (Paid)"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contacts": {
+      "Domestic Admissions": {
+        "Contact": "Admissions Office",
+        "Contact email": "admissions@georgebrown.ca",
+        "Web page": "Admissions web page"
+      },
+      "Financial Aid": {
+        "Contact": "Financial Aid Office",
+        "Contact email": "FinAid@georgebrown.ca",
+        "Web page": "Financial Aid web page"
+      },
+      "School of Hospitality and Tourism Management": {
+        "Support email": "chcastudentsupport@georgebrown.ca"
+      }
+    }
+  }
+}

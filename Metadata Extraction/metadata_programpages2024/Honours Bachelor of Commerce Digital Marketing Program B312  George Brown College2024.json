@@ -1,0 +1,116 @@
+{
+  "Program Information": {
+    "Program Name": "Honours Bachelor of Commerce (Digital Marketing)",
+    "Code": "B312",
+    "Credential": "Honours Bachelor's Degree",
+    "Method of Study": "Full-time",
+    "Duration": "4 years (8 semesters) plus 1 co-op work term",
+    "Starting Months": "January, September",
+    "Domestic Tuition": "$7,484.00 * †",
+    "International Tuition": "$20,916.00 ** †",
+    "Centre": "Business",
+    "School": "Marketing",
+    "Location": "St. James Campus",
+    "Experiential Learning": "Students will participate in experiential learning opportunities which may include client-based classroom activities, consulting projects, and/or field placement assignments (internship or co-op)."
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "opens apr 8, 2024"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "George Brown College",
+    "Domestic Students Admissions": {
+      "Email": "admissions@georgebrown.ca",
+      "Section": "Admissions"
+    },
+    "International Students Admissions": {
+      "Country Representatives": [
+        {
+          "Name": "International Contact Us page"
+        },
+        {
+          "Name": "Booking a virtual meeting",
+          "Contact": ""
+        },
+        {
+          "Name": "Submitting an inquiry",
+          "Contact": "International Contact Us page"
+        }
+      ]
+    },
+    "Fees and Financial Information": {
+      "Email": "FinAid@georgebrown.ca",
+      "Section": "Financial Aid"
+    },
+    "Entry Advising": {
+      "Appointment": "Make an appointment to see an Entry Advisor",
+      "FAQs": "frequently asked questions",
+      "Contact": ""
+    },
+    "Centre for Business": {
+      "General Inquiries": {
+        "Email": "business@georgebrown.ca",
+        "Phone": "(416) 415-5000 ext. 2160"
+      },
+      "Program Inquiries": [
+        {
+          "Name": "Richard Almonte",
+          "Position": "Program Co-ordinator",
+          "Email": "ralmonte@georgebrown.ca"
+        },
+        {
+          "Name": "John Peco",
+          "Position": "Chair, School of Marketing",
+          "Email": "john.peco@georgebrown.ca"
+        }
+      ],
+      "Country Representatives": [
+        {
+          "Name": "International Contact Us page"
+        },
+        {
+          "Method": "Booking a virtual meeting",
+          "Contact": ""
+        },
+        {
+          "Method": "Submitting an inquiry",
+          "Contact": "International Contact Us page"
+        }
+      ]
+    }
+  }
+}

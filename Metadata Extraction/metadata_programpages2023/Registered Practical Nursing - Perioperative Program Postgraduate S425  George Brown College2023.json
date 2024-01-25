@@ -1,0 +1,81 @@
+{
+  "Program Information": {
+    "Program Name": "Registered Practical Nursing - Perioperative",
+    "Code": "S425",
+    "Credential": "Ontario College Graduate Certificate",
+    "Method of Study": "Full-time",
+    "Duration": "1 semester (14 weeks)",
+    "Starting Months": "September",
+    "Domestic Tuition": "$3,526.00 *",
+    "Centre": "Health Sciences",
+    "School": "Sally Horsfall Eaton School of Nursing",
+    "Location": "Waterfront Campus",
+    "Experiential Learning": "Clinical Placement",
+    "Fall 2023 Delivery": "Semester 1: Hybrid"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "George Brown College",
+    "Contact person": "Chelsea Ovsonka",
+    "Position": "program co-ordinator and professor",
+    "Contact info": {
+      "Phone": "416-415-5000, ext. 2349",
+      "Email": "Chelsea.Ovsonka@georgebrown.ca"
+    },
+    "Programs": [
+      {
+        "Name": "Interprofessional Complex and Long-Term Care (Postgraduate)",
+        "Code": "S417"
+      },
+      {
+        "Name": "RPN Bridge to BScN (Postgraduate)",
+        "Code": "S442"
+      },
+      {
+        "Name": "Recreation Management in Gerontology",
+        "Code": "C152"
+      }
+    ],
+    "Other Contact Info": {
+      "Contact Centre Phone": "416-415-2000, TTY 1-877-515-5559",
+      "Long Distance": "1-800-265-2002"
+    }
+  }
+}

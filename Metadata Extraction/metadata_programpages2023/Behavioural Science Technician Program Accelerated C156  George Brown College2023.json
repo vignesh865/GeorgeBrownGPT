@@ -1,0 +1,62 @@
+{
+  "Program Information": {
+    "Program Name": "Behavioural Science Technician",
+    "Code": "C156",
+    "Credential": "Ontario College Diploma",
+    "Method of Study": "Full-time",
+    "Duration": "1 year (3 semesters)",
+    "Starting Months": "September",
+    "Domestic Tuition": "$5,323.00 *",
+    "International Tuition": "$24,628.00 *",
+    "Centre": "Health Sciences",
+    "School": "Health & Wellness",
+    "Location": "Waterfront Campus",
+    "Experiential Learning": "Field education in semesters 3 and 4.",
+    "Fall 2023 Delivery": "Semester 2: Hybrid",
+    "Winter 2024 Delivery": "Semester 3: Hybrid"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "George Brown School of Health and Wellness",
+    "Contact email": "hwprograms@georgebrown.ca",
+    "Phone": "416-415-5000, ext. 2367",
+    "Office Hours": "9 a.m. – 4 p.m."
+  }
+}

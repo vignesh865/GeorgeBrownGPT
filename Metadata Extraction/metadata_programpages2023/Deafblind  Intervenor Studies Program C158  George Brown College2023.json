@@ -1,0 +1,62 @@
+{
+  "Program Information": {
+    "Program Name": "Deafblind & Intervenor Studies",
+    "Code": "C158",
+    "Credential": "Ontario College Certificate",
+    "Method of Study": "Full-time",
+    "Duration": "1 year (2 semesters)",
+    "Starting Months": "May",
+    "Domestic Tuition": "$4,573.00 *",
+    "Centre": "Community Services & Early Childhood",
+    "School": "Deaf & Deafblind Studies",
+    "Location": "St. James Campus",
+    "Experiential Learning": "Yes",
+    "Fall 2023 Delivery": "Semester 2: Hybrid",
+    "Winter 2024 Delivery": "Semester 1, 2, 3, 4, 5, 6: On Campus"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "suspended"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "School of Deaf and Deafblind Studies",
+    "Contact email": "communityservices@georgebrown.ca",
+    "Office Hours": "8 a.m. – 4 p.m.",
+    "Program Co-ordinator": "Cheryl Ramey",
+    "Co-ordinator email": "cramey@georgebrown.ca"
+  }
+}

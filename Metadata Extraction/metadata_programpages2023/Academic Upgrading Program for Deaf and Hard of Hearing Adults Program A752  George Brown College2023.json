@@ -1,0 +1,66 @@
+{
+  "Program Information": {
+    "Program Name": "Academic Upgrading Program for Deaf and Hard of Hearing Adults",
+    "Code": "A752",
+    "Credential": "George Brown College Certificate",
+    "Method of Study": "Full-time",
+    "Duration": "1 to 5 semesters depending on student’s goal",
+    "Starting Months": "Open enrolment",
+    "Domestic Tuition": "There are no fees. This program is funded by Employment Ontario through the Ministry of Labour, Training and Skills Development (MLTSD)",
+    "Centre": "Preparatory & Liberal Studies",
+    "School": "Work & College Preparation",
+    "Location": "St. James Campus",
+    "Fall 2023 Delivery": "Semester 1: Hybrid",
+    "Winter 2024 Delivery": "Semester 1: Hybrid"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "continuous open enrollment"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "continuous open enrollment"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "continuous open enrollment"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "The Academic Upgrading Program for Deaf and hard-of-hearing adults (School of Work and College Preparation)",
+    "Contact email": "deafupgrading@georgebrown.ca",
+    "Location": {
+      "Street": "341 King Street East",
+      "Floor": "6th floor",
+      "Campus": "St. James Campus",
+      "Building": "\"H\" building",
+      "City": "Toronto",
+      "Province": "Ontario"
+    }
+  }
+}

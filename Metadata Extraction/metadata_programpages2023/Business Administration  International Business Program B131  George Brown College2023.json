@@ -1,0 +1,135 @@
+{
+  "Program Information": {
+    "Program Name": "Business Administration – International Business",
+    "Code": "B131",
+    "Credential": "Ontario College Advanced Diploma",
+    "Method of Study": "Full-time",
+    "Duration": "3 years (6 semesters)",
+    "Starting Months": "January, September",
+    "Domestic Tuition": "$4,640.00 *",
+    "International Tuition": "$17,455.00 **",
+    "Centre": "Business",
+    "School": "Management",
+    "Location": "St. James Campus",
+    "Experiential Learning": "Field Education Course (Optional)",
+    "Fall 2023 Delivery": "Semester 1, 2, 3, 4, 5, 6: On Campus",
+    "Winter 2024 Delivery": "Semester 1, 2, 3, 4, 6: On Campus"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contacts": [
+      {
+        "Department": "Information Sessions",
+        "Contact email": "Not provided",
+        "Description": "For inquiries about on-campus information sessions, please sign up for an upcoming session."
+      },
+      {
+        "Department": "Domestic Student Admissions",
+        "Contact email": "admissions@georgebrown.ca",
+        "Additional Contacts": [
+          {
+            "Section": "",
+            "Contact email": "",
+            "Description": ""
+          }
+        ],
+        "Office Hours": ""
+      },
+      {
+        "Department": "International Student Admissions",
+        "Contact Methods": [
+          {
+            "Method": "Virtual meeting",
+            "Contact emails": [
+              "[international recruitment representatives](mailto:internationalcontactus@georgebrown.ca)"
+            ]
+          },
+          {
+            "Method": "Inquiry submission",
+            "Contact emails": [
+              "[international recruitment representatives](mailto:internationalcontactus@georgebrown.ca)"
+            ],
+            "Additional Links": [
+              "https://www.georgebrown.ca/international/contact-us"
+            ]
+          }
+        ],
+        "Description": "For inquiries about international student admission requirements, deadlines, or the admissions process, please contact one of our international recruitment representatives."
+      },
+      {
+        "Department": "Fees and Financial Information",
+        "Contact email": "FinAid@georgebrown.ca",
+        "Additional Contacts": [],
+        "Office Hours": ""
+      },
+      {
+        "Department": "Entry Advising",
+        "Contact Methods": [
+          {
+            "Method": "Appointment booking",
+            "Contact email": "",
+            "Description": "For advice on the various program options and which program might be best suited for you, make an appointment to see an Entry Advisor. Please review these frequently asked questions."
+          }
+        ],
+        "Additional Links": [
+          "https://www.georgebrown.ca/future-students/programs/entry-advising"
+        ]
+      },
+      {
+        "Department": "Centre for Business",
+        "Contact email": "business@georgebrown.ca",
+        "Phone": "(416) 415-5000 ext. 2160",
+        "Programs": [
+          {
+            "Name": "Business Administration – International Business (B131/161)",
+            "Contact person": {
+              "Name": "Philip Eng",
+              "Title": "Program Co-ordinator",
+              "Email": "peng@georgebrown.ca"
+            },
+            "Additional Links": [
+              "https://www.georgebrown.ca/programs/business/international-business"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

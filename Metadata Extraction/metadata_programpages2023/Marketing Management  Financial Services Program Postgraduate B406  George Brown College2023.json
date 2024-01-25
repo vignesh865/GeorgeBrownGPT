@@ -1,0 +1,105 @@
+{
+  "Program Information": {
+    "Program Name": "Marketing Management – Financial Services",
+    "Code": "B406",
+    "Credential": "Ontario College Graduate Certificate",
+    "Method of Study": "Full-time",
+    "Duration": "12 months (2 semesters in-class, 1 semester Work Experience)",
+    "Starting Months": "January, September",
+    "Domestic Tuition": "$4,313.00* †",
+    "International Tuition": "$17,774.00** †",
+    "Centre": "Business",
+    "School": "Marketing",
+    "Location": "St. James Campus",
+    "Experiential Learning": "Work Experience (Co-op or Internship) Required",
+    "Fall 2023 Delivery": "Semester 1: On Campus; Semester 3: Co-op",
+    "Winter 2024 Delivery": "Semester 1, 2: On Campus"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "George Brown College",
+    "Information Sessions": {
+      "On-campus": {
+        "Description": "held on a regular basis",
+        "Sign up": "Sign up for an upcoming session"
+      },
+      "Domestic Students": {
+        "Admissions": {
+          "Email": "admissions@georgebrown.ca",
+          "Section": "Admissions section"
+        }
+      },
+      "International Students": {
+        "Admissions": {
+          "Country Specific Representatives": true,
+          "Virtual Meeting": true,
+          "Inquiry Submission": true,
+          "Contact Us Page": "International Contact Us page"
+        }
+      },
+      "Fees and Financial Information": {
+        "Email": "FinAid@georgebrown.ca",
+        "Section": "Financial Aid section"
+      },
+      "Entry Advising": {
+        "Appointment": true,
+        "FAQ": "frequently asked questions"
+      },
+      "Centre for Business": {
+        "General Inquiries": {
+          "Email": "business@georgebrown.ca",
+          "Phone": "(416) 415-5000 ext. 2160"
+        },
+        "Marketing Management – Financial Services (B406)": {
+          "Program Co-ordinator": [
+            {
+              "Name": "Michael Hlinka",
+              "Email": "mhlinka@georgebrown.ca"
+            },
+            {
+              "Name": "John Peco",
+              "Email": "john.peco@georgebrown.ca"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "Program Information": {
+    "Program Name": "Business Administration – Finance",
+    "Code": "B130",
+    "Credential": "Ontario College Advanced Diploma",
+    "Method of Study": "Full-time",
+    "Duration": "3 years (6 semesters)",
+    "Starting Months": "January, September",
+    "Domestic Tuition": "$4,771.00 *",
+    "International Tuition": "$17,455.00 **",
+    "Centre": "Business",
+    "School": "Accounting & Finance",
+    "Location": "St. James Campus",
+    "Fall 2023 Delivery": "Semester 1, 2, 3, 4, 5, 6: On Campus",
+    "Winter 2024 Delivery": "Semester 1, 2, 3, 4, 5, 6: On Campus"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contacts": [
+      {
+        "Name": "Admissions Office",
+        "Email": "admissions@georgebrown.ca",
+        "Type": "Domestic Student Admissions"
+      },
+      {
+        "Name": "Financial Aid Office",
+        "Email": "FinAid@georgebrown.ca",
+        "Type": "Fees and Financial Information"
+      },
+      {
+        "Name": "Centre for Business (General Inquiries)",
+        "Email": "business@georgebrown.ca",
+        "Phone": "(416) 415-5000 ext. 2160",
+        "Type": "Centre for Business"
+      },
+      {
+        "Name": "Business Administration – Finance Program Co-ordinators",
+        "Email1": "tbritt1@georgebrown.ca",
+        "Email2": "cfallis@georgebrown.ca",
+        "Type": "Centre for Business",
+        "Program": "Business Administration – Finance"
+      },
+      {
+        "Name": "Sam Levy",
+        "Email": "Sam.Levy@georgebrown.ca",
+        "Title": "Chair, School of Accounting and Finance",
+        "Type": "Centre for Business"
+      },
+      {
+        "Name": "International Recruitment Representatives",
+        "Instructions": [
+          "Book a virtual meeting",
+          "Submit an inquiry"
+        ],
+        "Location": "International Contact Us page",
+        "Type": "International Student Admissions"
+      }
+    ]
+  }
+}

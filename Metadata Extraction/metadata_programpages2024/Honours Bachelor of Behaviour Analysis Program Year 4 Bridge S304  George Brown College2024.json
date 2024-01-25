@@ -1,0 +1,59 @@
+{
+  "Program Information": {
+    "Program Name": "Honours Bachelor of Behaviour Analysis",
+    "Code": "S304",
+    "Credential": "Honours Bachelor's Degree",
+    "Method of Study": "Full-time",
+    "Duration": "3 Semesters + 14 week Field Experience Term (Unpaid)",
+    "Starting Months": "January",
+    "Domestic Tuition": "$7,150.00 * †",
+    "Centre": "Health Sciences",
+    "School": "Health & Wellness",
+    "Location": "Waterfront Campus",
+    "Experiential Learning": "14-week placement in the Fall after Semester 7."
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "suspended"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "School of Health and Wellness",
+    "Contact email": "to_email:yansang.feng@georgebrown.ca",
+    "Phone": "416-415-5000, ext. 4542",
+    "Office Hours": "8 a.m. to 3 p.m."
+  }
+}

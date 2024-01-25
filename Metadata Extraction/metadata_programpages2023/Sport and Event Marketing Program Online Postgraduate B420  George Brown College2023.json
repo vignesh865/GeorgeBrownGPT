@@ -1,0 +1,117 @@
+{
+  "Program Information": {
+    "Program Name": "Sport and Event Marketing",
+    "Code": "B420",
+    "Credential": "Ontario College Graduate Certificate",
+    "Method of Study": "Full-time",
+    "Duration": "12 months (2 semesters in-class, 1 semester work experience)",
+    "Starting Months": "January, September",
+    "Domestic Tuition": "$4,310.00 *†",
+    "Centre": "Business",
+    "School": "Marketing",
+    "Location": "Online",
+    "Experiential Learning": "Work Experience (Co-op or Internship) Required",
+    "Fall 2023 Delivery": "Semester 1: Suspended",
+    "Winter 2024 Delivery": "Semester 1, 2: Suspended"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "suspended"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "suspended"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contacts": [
+      {
+        "Department": "Information Sessions",
+        "Contact email": "N/A",
+        "Office Hours": "Regular Basis",
+        "Sign up": "sign up for an upcoming session"
+      },
+      {
+        "Department": "Domestic Student Admissions",
+        "Contact email": "admissions@georgebrown.ca",
+        "Website": "Admissions section"
+      },
+      {
+        "Department": "International Student Admissions",
+        "Contacts": [
+          {
+            "Name": "international recruitment representatives",
+            "Contact method": "Booking a virtual meeting or submitting an inquiry",
+            "Website": "International Contact Us page"
+          },
+          {
+            "Name": "N/A",
+            "Contact method": "N/A",
+            "Website": "N/A"
+          }
+        ]
+      },
+      {
+        "Department": "Fees and Financial Information",
+        "Contact email": "FinAid@georgebrown.ca",
+        "Website": "Financial Aid section"
+      },
+      {
+        "Department": "Entry Advising",
+        "Contact method": "Make an appointment",
+        "FAQs": "frequently asked questions",
+        "Email": "N/A"
+      },
+      {
+        "Department": "Centre for Business",
+        "Contacts": [
+          {
+            "Function": "General inquiries",
+            "Contact email": "business@georgebrown.ca",
+            "Phone": "(416) 415-5000 ext. 2160"
+          },
+          {
+            "Program": "Sport & Event Marketing (B420)",
+            "Program Coordinator": {
+              "Name": "Peter Widdis",
+              "Email": "pwiddis@georgebrown.ca"
+            },
+            "Chairman": {
+              "Name": "John Peco",
+              "Email": "john.peco@georgebrown.ca"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

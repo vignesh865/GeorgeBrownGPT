@@ -1,0 +1,63 @@
+{
+  "Program Information": {
+    "Program Name": "Construction Engineering Technician",
+    "Code": "T161",
+    "Credential": "Ontario College Diploma",
+    "Method of Study": "Full-time",
+    "Duration": "2 years (4 semesters)",
+    "Starting Months": "January, September",
+    "Domestic Tuition": "$3,928.00 *",
+    "International Tuition": "$17,545.00 **",
+    "Centre": "Construction & Engineering Technologies",
+    "School": "Angelo DelZotto School of Construction Management",
+    "Location": "Casa Loma Campus",
+    "Experiential Learning": "Experiential Learning",
+    "Fall 2023 Delivery": "Semester 1: On Campus; Semester 3: Hybrid",
+    "Winter 2024 Delivery": "Semester 1, 4: On Campus; Semester 2: Hybrid"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "Angelo DelZotto School of Construction Management",
+    "Contact email": "construction_eng@georgebrown.ca",
+    "Phone": "416-415-5000, ext. 4398",
+    "Office Hours": "8 a.m. – 4 p.m.",
+    "Location": "room E228"
+  }
+}

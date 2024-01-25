@@ -1,0 +1,90 @@
+{
+  "Program Information": {
+    "Program Name": "Registered Nurse – Perinatal Intensive Care Nursing",
+    "Code": "S404",
+    "Credential": "Ontario College Graduate Certificate",
+    "Method of Study": "Full-time",
+    "Duration": "15 weeks (1 semester)",
+    "Starting Months": "January, September",
+    "Domestic Tuition": "$2,287.00 *",
+    "Centre": "Health Sciences",
+    "School": "Sally Horsfall Eaton School of Nursing",
+    "Location": "Waterfront Campus",
+    "Experiential Learning": "Clinical Placement",
+    "Fall 2023 Delivery": "Semester 1: Hybrid",
+    "Winter 2024 Delivery": "Semester 1: Other"
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2023",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "closed"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "not available"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "not available"
+    }
+  ],
+  "Contact Related Information": {
+    "Contact": "George Brown College Sally Horsfall Eaton School of Nursing",
+    "Contact email": "Jennifer.Young2@georgebrown.ca",
+    "Phone": "",
+    "Office Hours": "",
+    "Programs": [
+      {
+        "Name": "Practical Nursing (PN) (S121)",
+        "Type": "Certificate"
+      },
+      {
+        "Name": "Bachelor of Science in Nursing (B.Sc.N.) (S118)",
+        "Type": "Degree"
+      },
+      {
+        "Name": "Registered Nurse – Critical Care Nursing (Postgraduate) (S402)",
+        "Type": "Postgraduate"
+      }
+    ],
+    "Faculty": [
+      {
+        "Name": "Heather",
+        "Role": "Program Professor and Co-ordinator"
+      },
+      {
+        "Name": "Jennifer",
+        "Role": "Teacher"
+      }
+    ],
+    "Student Experience": {
+      "Description": "A student's experience of the Perinatal Intensive Course at George Brown College.",
+      "Confidence and Skills Increase": true,
+      "Recommendation": "Highly recommended"
+    }
+  }
+}

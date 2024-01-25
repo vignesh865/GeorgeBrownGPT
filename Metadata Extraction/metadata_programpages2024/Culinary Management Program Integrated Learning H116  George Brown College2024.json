@@ -1,0 +1,71 @@
+{
+  "Program Information": {
+    "Program Name": "Culinary Management",
+    "Code": "H116",
+    "Credential": "Ontario College Diploma",
+    "Method of Study": "Full-time",
+    "Duration": "2 years (4 consecutive semesters)",
+    "Starting Months": "January, May, September",
+    "Domestic Tuition": "$9,545.00 * †",
+    "International Tuition": "$30,360.00 ** †",
+    "Centre": "Hospitality & Culinary Arts",
+    "School": "Chef School",
+    "Location": "St. James Campus",
+    "Experiential Learning": "We believe in learning by doing and that is why we have incorporated work-integrated learning opportunities into all CHCA programs."
+  },
+  "Availability": [
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Fall",
+      "Year": "2024",
+      "Intake": "International",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Winter",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "opens apr 8, 2024"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "Domestic",
+      "Availability": "open"
+    },
+    {
+      "Semester": "Spring",
+      "Year": "2025",
+      "Intake": "International",
+      "Availability": "opens aug 6, 2024"
+    }
+  ],
+  "Contact Related Information": {
+    "Contacts": {
+      "Domestic Admissions": {
+        "Contact": "Admissions Office",
+        "Email": "admissions@georgebrown.ca",
+        "Webpage": "Admissions web page"
+      },
+      "Financial Aid": {
+        "Contact": "Financial Aid Office",
+        "Email": "FinAid@georgebrown.ca",
+        "Webpage": "Financial Aid web page"
+      },
+      "Culinary Management – Integrated Learning (H116)": {
+        "Contact": "CHCAStudentSupport@georgebrown.ca"
+      }
+    }
+  }
+}
