@@ -49,8 +49,5 @@ This project involves the management and processing of JSON and TXT files relate
 
 ## Author
 
-[Your Name]
+Jai Vigneshwar Aiyyappan
 
-## License
-
-This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE.md) file for details.
