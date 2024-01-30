@@ -66,7 +66,7 @@ if prompt := st.chat_input("What is up?"):
             # Add like/unlike buttons
             col1, col2 ,col3 = st.columns(3,gap='small')
             if col1.button("Copy "):
-                pyperclip.copy(str(full_response))
+                pyperclip.copy(full_response)
                 st.write("Assistant reply copied to clipboard!")
             if col2.button("👍"):
                 st.write("User liked the response!")
